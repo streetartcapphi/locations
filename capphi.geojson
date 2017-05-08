@@ -1,0 +1,78 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18094732_1291332437623744_8591123503372042240_n.jpg",
+        "author": "cap_phi",
+        "post_date": "2017-04-30",
+        "publish_date": "2017-05-30",
+        "iconURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18094732_1291332437623744_8591123503372042240_n.jpg",
+        "duration_days": 60,
+        "location_precision_m": 5,
+        "originURL": "https://www.instagram.com/p/BTIuRx3BukU",
+        "calculated_end_date": "2017-06-30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8638105392456055,
+          45.76135569917077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "",
+        "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/17265828_2261131797446304_190577156441505792_n.jpg",
+        "originURL": "https://www.instagram.com/p/BRxJdU7hX5R/",
+        "location_precision_m": "",
+        "author": "cap_phi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862893223762512,
+          45.762044310887916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/16464965_356463384740232_3836472227117662208_n.jpg",
+        "author": "cap_phi",
+        "originURL": "https://www.instagram.com/p/BQlL1TsBjue/?taken-by=cap_phi",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.831323623657227,
+          45.770336923575734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "originURL": "https://www.instagram.com/p/BRs0XPIhmeN/?taken-by=cap_phi",
+        "calculated_end_date": "",
+        "author": "cap_phi",
+        "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/17265406_231279894011890_3347907413591195648_n.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.833040237426758,
+          45.76126587962455
+        ]
+      }
+    }
+  ]
+}
