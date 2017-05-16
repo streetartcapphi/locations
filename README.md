@@ -7,7 +7,7 @@ pour modifier les données, vous devez être commiteur sur le projet, ou propose
 
 ## Editer les données en tant que contributeur
 
-Aller sur le site [http://geojson.io](http://geojson.io)
+Aller sur le site [http://geojson.io](http://geojson.io/#id=github:streetartcapphi/locations/blob/master/capphi.geojson&map=14/45.7535/4.8463)
 
 puis loggez vous avec votre compte github, vous pouvez alors modifier le fichier geojson en utilisant la commande "open"/"github", 
 
