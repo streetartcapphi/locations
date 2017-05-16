@@ -142,8 +142,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.84671,
-          45.74846
+          4.863338470458984,
+          45.74830040854032
         ]
       },
       "type": "Feature",
@@ -168,6 +168,24 @@
         "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15803350_1825238601081669_47074387752386560_n.jpg",
         "validated": false,
         "id": "1426238391619839344_29177514"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847373962402344,
+          45.75303180708059
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "originURL": "https://www.instagram.com/p/BUCibvNhlQj/",
+        "author": "cap_phi",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444076_1389991931057686_5152124815594749952_n.jpg",
+        "post_date": "2017-05-13 16:43:30",
+        "validated": false,
+        "id": "1513923864449930275_29177514"
       }
     }
   ]
