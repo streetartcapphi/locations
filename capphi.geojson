@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
         "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18094732_1291332437623744_8591123503372042240_n.jpg",
         "author": "cap_phi",
         "post_date": "2017-04-30",
@@ -28,7 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-symbol": "",
         "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/17265828_2261131797446304_190577156441505792_n.jpg",
         "originURL": "https://www.instagram.com/p/BRxJdU7hX5R/",
         "location_precision_m": "",
@@ -47,8 +43,7 @@
       "properties": {
         "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/16464965_356463384740232_3836472227117662208_n.jpg",
         "author": "cap_phi",
-        "originURL": "https://www.instagram.com/p/BQlL1TsBjue/?taken-by=cap_phi",
-        "marker-symbol": ""
+        "originURL": "https://www.instagram.com/p/BQlL1TsBjue/?taken-by=cap_phi"
       },
       "geometry": {
         "type": "Point",
@@ -84,9 +79,6 @@
       },
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "post_date": "2017-01-08 17:36:25",
         "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15876455_1585815091435966_2796231229630840832_n.jpg",
         "id": "1423353537811081297_29177514"
