@@ -43,5 +43,13 @@ deux attributs sont strictement nécessaires :
 - imageURL : url de l'image affichée
 - originURL : url du post pour être redirigé dessus
 
+##Vues existantes
+
+  - views/bydate/[XX]months/content.geojson  : posts du mois M - XX
+  - views/bydate/[XX]weeks/content.geojson  : posts de la semaine S - XX
+  - views/unvalidated/content.geojson : posts non validés encore (validated = false)  
+
+
+
 
 
