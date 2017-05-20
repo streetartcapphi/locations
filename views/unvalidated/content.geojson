@@ -74,48 +74,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-05-13 16:43:30", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-13/1513923864449930275_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444076_1389991931057686_5152124815594749952_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUCibvNhlQj/", 
-                "caption": "Ma prochaine #expo ... Bient\u00f4t plus d'infos ;)", 
-                "validated": false, 
-                "id": "1513923864449930275_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-01-14 07:57:46", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-01-14/1427410942278623580_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15876199_228842387570159_3574827561089236992_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BPPLrBzBeFc/", 
-                "caption": "Ma #philosophie #desing ton #environment #capphi #streetart #urbanart #croixrousse #lyon #dragon #illustration #clouds", 
-                "validated": false, 
-                "id": "1427410942278623580_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2017-03-25 07:48:28", 
                 "author": "cap_phi", 
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-03-25/1478140568575382190_29177514.geojson", 
@@ -263,15 +221,15 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-01-12 17:08:07", 
+                "post_date": "2017-05-13 16:43:30", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-01-12/1426238391619839344_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15803350_1825238601081669_47074387752386560_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-13/1513923864449930275_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444076_1389991931057686_5152124815594749952_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BPLBEK5hmVw/", 
-                "caption": "#dragon #dompteur de #nuages #cloud #trainer #streetart #artist #capphi #urbanart #croixrousse #collage #pasteup", 
+                "originURL": "https://www.instagram.com/p/BUCibvNhlQj/", 
+                "caption": "Ma prochaine #expo ... Bient\u00f4t plus d'infos ;)", 
                 "validated": false, 
-                "id": "1426238391619839344_29177514"
+                "id": "1513923864449930275_29177514"
             }
         }, 
         {
@@ -326,27 +284,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-15 12:39:20", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-15/1450745489028790593_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230752_253055845142592_6464819232461815808_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQiFVX9D7lB/", 
-                "caption": "#prout de #licorne #arcenciel et #confetti #unicorn #streetart #urbanart #artist #capphi #croixrousse #instacollage #rainbows #pasteup #instaphotography #instacolor", 
-                "validated": false, 
-                "id": "1450745489028790593_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2017-04-07 16:12:02", 
                 "author": "cap_phi", 
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-07/1487816102305419353_29177514.geojson", 
@@ -368,15 +305,15 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-16 17:33:51", 
+                "post_date": "2017-01-14 07:57:46", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-16/1451618496680442782_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16464965_356463384740232_3836472227117662208_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-01-14/1427410942278623580_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15876199_228842387570159_3574827561089236992_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQlL1TsBjue/", 
-                "caption": "#unicorn #fart #raimbow #streetart #urbanart #croixrousse #capphi #instagood #colors #rue", 
+                "originURL": "https://www.instagram.com/p/BPPLrBzBeFc/", 
+                "caption": "Ma #philosophie #desing ton #environment #capphi #streetart #urbanart #croixrousse #lyon #dragon #illustration #clouds", 
                 "validated": false, 
-                "id": "1451618496680442782_29177514"
+                "id": "1427410942278623580_29177514"
             }
         }
     ]
