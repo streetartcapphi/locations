@@ -53,27 +53,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-18 08:24:32", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-18/1452791567391081495_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/16584802_1580355698647940_5196120270141652992_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQpWju7B0QX/", 
-                "caption": "Mes 6 #licornes qui p\u00e8tent #unicorns #fart #colors #confetti #croixrousse #lyon #streetart #capphi #rue #streetart #urbanart", 
-                "validated": false, 
-                "id": "1452791567391081495_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2017-03-25 07:48:28", 
                 "author": "cap_phi", 
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-03-25/1478140568575382190_29177514.geojson", 
@@ -110,21 +89,21 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8352718353271, 
-                    45.77464739768
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-05-22 19:47:49", 
+                "post_date": "2017-02-18 08:24:32", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-22/1520539619656281778_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579799_222410721587458_4499875143400554496_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-18/1452791567391081495_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/16584802_1580355698647940_5196120270141652992_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUaCrpYhS6y/", 
-                "caption": "J'ai les crocs #urbanart #streetart #kawaiiart #panneau #signalisation #capphi #t0 #map_phi", 
+                "originURL": "https://www.instagram.com/p/BQpWju7B0QX/", 
+                "caption": "Mes 6 #licornes qui p\u00e8tent #unicorns #fart #colors #confetti #croixrousse #lyon #streetart #capphi #rue #streetart #urbanart", 
                 "validated": false, 
-                "id": "1520539619656281778_29177514"
+                "id": "1452791567391081495_29177514"
             }
         }, 
         {
@@ -158,15 +137,15 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-10 07:06:41", 
+                "post_date": "2017-04-16 08:20:10", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-10/1446954179259314989_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230434_1836661663288723_1648160997959008256_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-16/1494101585775861390_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/17932257_282163795569960_4970132577223442432_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQUnSjlBLMt/", 
-                "caption": "#workinprogress #amazone #womanpower #sketch #graphite #skull #jewel #eyes", 
+                "originURL": "https://www.instagram.com/p/BS8HXnmhJ6O/", 
+                "caption": "#girlflower #amazone #skull #heart #jewel #tribal #acrylicpainting #artwork #capphi #kawaiigirl #kawaiiart #urbanartist", 
                 "validated": false, 
-                "id": "1446954179259314989_29177514"
+                "id": "1494101585775861390_29177514"
             }
         }, 
         {
@@ -284,15 +263,15 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-04-16 08:20:10", 
+                "post_date": "2017-02-10 07:06:41", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-16/1494101585775861390_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/17932257_282163795569960_4970132577223442432_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-10/1446954179259314989_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230434_1836661663288723_1648160997959008256_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BS8HXnmhJ6O/", 
-                "caption": "#girlflower #amazone #skull #heart #jewel #tribal #acrylicpainting #artwork #capphi #kawaiigirl #kawaiiart #urbanartist", 
+                "originURL": "https://www.instagram.com/p/BQUnSjlBLMt/", 
+                "caption": "#workinprogress #amazone #womanpower #sketch #graphite #skull #jewel #eyes", 
                 "validated": false, 
-                "id": "1494101585775861390_29177514"
+                "id": "1446954179259314989_29177514"
             }
         }, 
         {
