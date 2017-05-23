@@ -53,6 +53,27 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "post_date": "2017-02-18 08:24:32", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-18/1452791567391081495_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/16584802_1580355698647940_5196120270141652992_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BQpWju7B0QX/", 
+                "caption": "Mes 6 #licornes qui p\u00e8tent #unicorns #fart #colors #confetti #croixrousse #lyon #streetart #capphi #rue #streetart #urbanart", 
+                "validated": false, 
+                "id": "1452791567391081495_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2017-03-25 07:48:28", 
                 "author": "cap_phi", 
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-03-25/1478140568575382190_29177514.geojson", 
@@ -74,15 +95,162 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-18 08:24:32", 
+                "post_date": "2017-02-05 08:27:19", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-18/1452791567391081495_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/16584802_1580355698647940_5196120270141652992_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-05/1443370888631429760_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/16230093_1667250003575403_8780537909087305728_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQpWju7B0QX/", 
-                "caption": "Mes 6 #licornes qui p\u00e8tent #unicorns #fart #colors #confetti #croixrousse #lyon #streetart #capphi #rue #streetart #urbanart", 
+                "originURL": "https://www.instagram.com/p/BQH4i0IBCqA/", 
+                "caption": "#quetzacoatl #illustration #peinture #acrylicpainting #wood #urbanartist #capphi #skull #jewel #arrow", 
                 "validated": false, 
-                "id": "1452791567391081495_29177514"
+                "id": "1443370888631429760_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8352718353271, 
+                    45.77464739768
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-22 19:47:49", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-22/1520539619656281778_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579799_222410721587458_4499875143400554496_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUaCrpYhS6y/", 
+                "caption": "J'ai les crocs #urbanart #streetart #kawaiiart #panneau #signalisation #capphi #t0 #map_phi", 
+                "validated": false, 
+                "id": "1520539619656281778_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-06 17:00:36", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-06/1508859044138791616_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18299401_1885175378416981_2670636769464025088_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BTwi05uBzLA/", 
+                "caption": "#workinprogress #little #death #queen #capphi #artwork #urbanartist", 
+                "validated": false, 
+                "id": "1508859044138791616_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-02-10 07:06:41", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-10/1446954179259314989_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230434_1836661663288723_1648160997959008256_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BQUnSjlBLMt/", 
+                "caption": "#workinprogress #amazone #womanpower #sketch #graphite #skull #jewel #eyes", 
+                "validated": false, 
+                "id": "1446954179259314989_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-02-20 18:24:27", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-20/1454543067419158431_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16789549_393070254386643_1745326326564257792_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BQvkzacBqef/", 
+                "caption": "Ne l\u00e2chez pas #fuck #monstre #capphi #gipson #carboard #carton #urbanart #streetart #lyon #croixrousse #noeud #corde", 
+                "validated": false, 
+                "id": "1454543067419158431_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834078, 
+                    45.775755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-22 17:18:23", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-22/1520464408529397097_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18513981_102590440313871_4364548437664858112_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUZxlLkBOVp/", 
+                "caption": "Mon Ptit Poilu #noiraude #kawaiiart #streetart #urbanart #t0 #map_phi", 
+                "validated": false, 
+                "id": "1520464408529397097_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-04-05 17:08:49", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-05/1486395129379408159_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/17818032_132193103983897_6055297107265323008_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BSgvH6yh8kf/", 
+                "caption": "#Work #toujours #inprogress #jenchie #acrylic #onwood #amazone #monstre #flowergirl #arrow #streetart #capphi #urbanartist", 
+                "validated": false, 
+                "id": "1486395129379408159_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-13 16:43:30", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-13/1513923864449930275_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444076_1389991931057686_5152124815594749952_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUCibvNhlQj/", 
+                "caption": "Ma prochaine #expo ... Bient\u00f4t plus d'infos ;)", 
+                "validated": false, 
+                "id": "1513923864449930275_29177514"
             }
         }, 
         {
@@ -131,21 +299,21 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.834078, 
+                    45.775755
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-20 18:24:27", 
+                "post_date": "2017-05-22 17:02:20", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-20/1454543067419158431_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16789549_393070254386643_1745326326564257792_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-22/1520456328722786443_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579482_702629113243956_6598006980059594752_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQvkzacBqef/", 
-                "caption": "Ne l\u00e2chez pas #fuck #monstre #capphi #gipson #carboard #carton #urbanart #streetart #lyon #croixrousse #noeud #corde", 
+                "originURL": "https://www.instagram.com/p/BUZvvmqBCiL/", 
+                "caption": "C'est quand la plage #plage #bernardlhermite #capphi #urbanart #streetart #kawaiiart #t0 #map_phi", 
                 "validated": false, 
-                "id": "1454543067419158431_29177514"
+                "id": "1520456328722786443_29177514"
             }
         }, 
         {
@@ -158,36 +326,15 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-05-13 16:43:30", 
+                "post_date": "2017-04-07 16:12:02", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-13/1513923864449930275_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444076_1389991931057686_5152124815594749952_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-07/1487816102305419353_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17662438_743585105815877_4847040489557327872_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUCibvNhlQj/", 
-                "caption": "Ma prochaine #expo ... Bient\u00f4t plus d'infos ;)", 
+                "originURL": "https://www.instagram.com/p/BSlyNy9BVBZ/", 
+                "caption": "#newsticker #capphi #ptit #poilu #streethumor #urbanart #kawaii #monster #kawaiiart", 
                 "validated": false, 
-                "id": "1513923864449930275_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-02-10 07:06:41", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-10/1446954179259314989_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230434_1836661663288723_1648160997959008256_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQUnSjlBLMt/", 
-                "caption": "#workinprogress #amazone #womanpower #sketch #graphite #skull #jewel #eyes", 
-                "validated": false, 
-                "id": "1446954179259314989_29177514"
+                "id": "1487816102305419353_29177514"
             }
         }, 
         {
