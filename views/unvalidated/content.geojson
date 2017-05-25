@@ -110,42 +110,21 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8316, 
-                    45.7716
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-05-25 16:57:43", 
+                "post_date": "2017-05-06 17:00:36", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-25/1522628333731627529_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18646695_726022260903268_5975142477672218624_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-06/1508859044138791616_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18299401_1885175378416981_2670636769464025088_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUhdmb9BMIJ/", 
-                "caption": "Juste un #doigt #fuck #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
+                "originURL": "https://www.instagram.com/p/BTwi05uBzLA/", 
+                "caption": "#workinprogress #little #death #queen #capphi #artwork #urbanartist", 
                 "validated": false, 
-                "id": "1522628333731627529_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83156, 
-                    45.7706
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-25 17:00:23", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-25/1522629675648915271_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18722250_434738140237678_442650865807917056_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUhd59thZdH/", 
-                "caption": "Toujours 5.0 #bombe #fire #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": false, 
-                "id": "1522629675648915271_29177514"
+                "id": "1508859044138791616_29177514"
             }
         }, 
         {
@@ -251,27 +230,6 @@
                 "caption": "Mon #premier #carton quitte la #maison #carboard #monstre #capphi #streetart #urbanart  #haribo #gourmand", 
                 "validated": false, 
                 "id": "1442821087637020642_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-06 17:00:36", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-06/1508859044138791616_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18299401_1885175378416981_2670636769464025088_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BTwi05uBzLA/", 
-                "caption": "#workinprogress #little #death #queen #capphi #artwork #urbanartist", 
-                "validated": false, 
-                "id": "1508859044138791616_29177514"
             }
         }, 
         {
