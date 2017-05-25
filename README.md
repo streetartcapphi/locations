@@ -26,6 +26,12 @@ c'est ici : , on click sur l'entité, on est redirigé sur geojson.io,
 
 [https://streetartcapphi.github.io/map/?view=views/unvalidated/content.geojson&linkattribute=editURL](https://streetartcapphi.github.io/map/?view=views/unvalidated/content.geojson&linkattribute=editURL)
 
+pour tout ceux qui n'ont pas été validés ce dernier mois glissant :
+
+
+
+[https://streetartcapphi.github.io/map/?view=views/unvalidatebydate/0months/content.geojson&linkattribute=editURL](https://streetartcapphi.github.io/map/?view=views/unvalidatebydate/0months/content.geojson&linkattribute=editURL)
+
 il faut les droits d'écriture
 
 
