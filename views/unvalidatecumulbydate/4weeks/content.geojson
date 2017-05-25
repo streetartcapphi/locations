@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-15 16:47:51", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-15/1515375610883799960_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18443478_1851521218440718_4997312882619187200_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUHshbcBPuY/", 
+                "caption": "#sketch #death #queen #workinprogress #wood #amazone #illustration #capphi #urbanartist #streetart", 
+                "validated": false, 
+                "id": "1515375610883799960_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-13 16:43:30", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-13/1513923864449930275_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18444076_1389991931057686_5152124815594749952_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUCibvNhlQj/", 
+                "caption": "Ma prochaine #expo ... Bient\u00f4t plus d'infos ;)", 
+                "validated": false, 
+                "id": "1513923864449930275_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-06 17:00:36", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-06/1508859044138791616_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18299401_1885175378416981_2670636769464025088_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BTwi05uBzLA/", 
+                "caption": "#workinprogress #little #death #queen #capphi #artwork #urbanartist", 
+                "validated": false, 
+                "id": "1508859044138791616_29177514"
+            }
+        }
+    ]
+}
