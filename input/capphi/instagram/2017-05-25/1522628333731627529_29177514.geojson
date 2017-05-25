@@ -1,25 +1,25 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8316,
-                    45.7716
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "author": "cap_phi",
-                "caption": "Juste un #doigt #fuck #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi",
-                "id": "1522628333731627529_29177514",
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18646695_726022260903268_5975142477672218624_n.jpg",
-                "mustbepublished": true,
-                "originURL": "https://www.instagram.com/p/BUhdmb9BMIJ/",
-                "post_date": "2017-05-25 16:57:43",
-                "validated": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8315489292144775,
+          45.77045105066453
+        ]
+      },
+      "properties": {
+        "author": "cap_phi",
+        "caption": "Juste un #doigt #fuck #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi",
+        "id": "1522628333731627529_29177514",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18646695_726022260903268_5975142477672218624_n.jpg",
+        "mustbepublished": true,
+        "originURL": "https://www.instagram.com/p/BUhdmb9BMIJ/",
+        "post_date": "2017-05-25 16:57:43",
+        "validated": true
+      },
+      "type": "Feature"
+    }
+  ]
 }
