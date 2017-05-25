@@ -32,6 +32,12 @@ pour tout ceux qui n'ont pas été validés ce dernier mois glissant :
 
 [https://streetartcapphi.github.io/map/?view=views/unvalidatebydate/0months/content.geojson&linkattribute=editURL](https://streetartcapphi.github.io/map/?view=views/unvalidatebydate/0months/content.geojson&linkattribute=editURL)
 
+
+
+pour tout ceux qui n'ont pas été validés la semaine courante :
+[https://streetartcapphi.github.io/map/?view=views/unvalidatebydate/0weeks/content.geojson&linkattribute=editURL](
+https://streetartcapphi.github.io/map/?view=views/unvalidatebydate/0weeks/content.geojson&linkattribute=editURL)
+
 il faut les droits d'écriture
 
 
