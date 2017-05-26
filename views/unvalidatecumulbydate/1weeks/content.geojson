@@ -27,6 +27,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8362238461538, 
+                    45.766277307692
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-26 17:32:49", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-26/1523370772826404115_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645551_268505576890660_3902336323695935488_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUkGaWPh7UT/", 
+                "caption": "The #beast #alwaysloveyou #kawaii #monster #streetart #urbanartist #capphi #t0 #map_phi", 
+                "validated": false, 
+                "id": "1523370772826404115_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
