@@ -294,6 +294,27 @@
                 "validated": false, 
                 "id": "1423353537811081297_29177514"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2015-08-08 18:45:25", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2015-08-08/1047229662761839220_41307809.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/e15/11848823_896003660437631_1194863034_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/6IgdRvK-p0/", 
+                "caption": "#capphi #work in #progress", 
+                "validated": false, 
+                "id": "1047229662761839220_41307809"
+            }
         }
     ]
 }
