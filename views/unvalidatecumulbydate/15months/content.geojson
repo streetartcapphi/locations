@@ -221,27 +221,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-02-04 14:14:58", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-04/1442821087637020642_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230865_1740465985979159_6007603608567152640_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BQF7iKDDB_i/", 
-                "caption": "Mon #premier #carton quitte la #maison #carboard #monstre #capphi #streetart #urbanart  #haribo #gourmand", 
-                "validated": false, 
-                "id": "1442821087637020642_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2017-02-18 08:24:32", 
                 "author": "cap_phi", 
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-18/1452791567391081495_29177514.geojson", 
@@ -293,6 +272,27 @@
                 "caption": "#echo #illustration  #souvenir #monstre #7janvier2015 #m\u00e9moire #attentat #charliehebdo #streetart #capphi #urbanart", 
                 "validated": false, 
                 "id": "1423353537811081297_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-02-04 14:14:58", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-04/1442821087637020642_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/16230865_1740465985979159_6007603608567152640_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BQF7iKDDB_i/", 
+                "caption": "Mon #premier #carton quitte la #maison #carboard #monstre #capphi #streetart #urbanart  #haribo #gourmand", 
+                "validated": false, 
+                "id": "1442821087637020642_29177514"
             }
         }
     ]
