@@ -21,27 +21,6 @@
                 "validated": false, 
                 "id": "1427410942278623580_29177514"
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-01-08 17:36:25", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-01-08/1423353537811081297_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15876455_1585815091435966_2796231229630840832_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BPAxIBbBmhR/", 
-                "caption": "#echo #illustration  #souvenir #monstre #7janvier2015 #m\u00e9moire #attentat #charliehebdo #streetart #capphi #urbanart", 
-                "validated": false, 
-                "id": "1423353537811081297_29177514"
-            }
         }
     ]
 }
