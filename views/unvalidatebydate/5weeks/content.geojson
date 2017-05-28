@@ -1,26 +1,4 @@
 {
     "type": "FeatureCollection", 
-    "features": [
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-04-16 08:20:10", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-16/1494101585775861390_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/17932257_282163795569960_4970132577223442432_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BS8HXnmhJ6O/", 
-                "caption": "#girlflower #amazone #skull #heart #jewel #tribal #acrylicpainting #artwork #capphi #kawaiigirl #kawaiiart #urbanartist", 
-                "validated": false, 
-                "id": "1494101585775861390_29177514"
-            }
-        }
-    ]
+    "features": []
 }
