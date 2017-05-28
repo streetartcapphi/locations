@@ -54,15 +54,15 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-03-25 07:48:28", 
+                "post_date": "2017-04-07 16:12:02", 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-03-25/1478140568575382190_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/17439290_291767521257481_935202482726895616_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-07/1487816102305419353_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17662438_743585105815877_4847040489557327872_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BSDaQP-B5Ku/", 
-                "caption": "#ethnicgirls #workinprogress #capphi #monster #wood #skull #plume #percing #flowers #streetart #urbanartist #corde #instageek", 
+                "originURL": "https://www.instagram.com/p/BSlyNy9BVBZ/", 
+                "caption": "#newsticker #capphi #ptit #poilu #streethumor #urbanart #kawaii #monster #kawaiiart", 
                 "validated": false, 
-                "id": "1478140568575382190_29177514"
+                "id": "1487816102305419353_29177514"
             }
         }, 
         {
@@ -168,48 +168,6 @@
                 "caption": "Ma prochaine #expo ... Bient\u00f4t plus d'infos ;)", 
                 "validated": false, 
                 "id": "1513923864449930275_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-04-07 16:12:02", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-04-07/1487816102305419353_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17662438_743585105815877_4847040489557327872_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BSlyNy9BVBZ/", 
-                "caption": "#newsticker #capphi #ptit #poilu #streethumor #urbanart #kawaii #monster #kawaiiart", 
-                "validated": false, 
-                "id": "1487816102305419353_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-01-14 07:57:46", 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-01-14/1427410942278623580_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/15876199_228842387570159_3574827561089236992_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BPPLrBzBeFc/", 
-                "caption": "Ma #philosophie #desing ton #environment #capphi #streetart #urbanart #croixrousse #lyon #dragon #illustration #clouds", 
-                "validated": false, 
-                "id": "1427410942278623580_29177514"
             }
         }
     ]
