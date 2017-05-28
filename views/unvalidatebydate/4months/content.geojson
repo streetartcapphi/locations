@@ -32,6 +32,27 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "post_date": "2017-02-05 08:27:19", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-02-05/1443370888631429760_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/16230093_1667250003575403_8780537909087305728_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BQH4i0IBCqA/", 
+                "caption": "#quetzacoatl #illustration #peinture #acrylicpainting #wood #urbanartist #capphi #skull #jewel #arrow", 
+                "validated": false, 
+                "id": "1443370888631429760_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2017-01-08 17:36:25", 
                 "author": "cap_phi", 
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-01-08/1423353537811081297_29177514.geojson", 
