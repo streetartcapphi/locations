@@ -11,38 +11,16 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-05-29 16:01:28", 
+                "post_date": "2017-05-30 04:23:53", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-29/1525499126538895046_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809493_320030648425842_1391825130551771136_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-30/1525872793072541383_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809572_1302971716465245_3759747562702110720_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUrqV-GhP7G/", 
-                "caption": "Petite #amazone #nativeamerican #kawaii #monster #streetart #urbanartist #capphi", 
+                "originURL": "https://www.instagram.com/p/BUs_TiLhZ7H/", 
+                "caption": "#petite #amazone #love #heart #coeur #streetart #urbanartist #capphi #kawaii #monster #croixrousse", 
                 "validated": false, 
-                "id": "1525499126538895046_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83540293, 
-                    45.7651567525
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-29 15:59:26", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-29/1525498097030381701_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18722396_1314946015290087_1225047813826543616_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUrqG_TB8CF/", 
-                "caption": "Encore un #Wahou \u00e0 #lyon #streetart #urbanartist #capphi #kawaii #monster", 
-                "validated": false, 
-                "id": "1525498097030381701_29177514"
+                "id": "1525872793072541383_29177514"
             }
         }
     ]
