@@ -1,26 +1,26 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    4.830444,
-                    45.769117
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "author": "cap_phi",
-                "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi",
-                "id": "1526935853522739590_29177514",
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg",
-                "mustbepublished": true,
-                "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/",
-                "originally_localized": true,
-                "post_date": "2017-05-31 15:36:00",
-                "validated": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.830773770809174,
+          45.76869047401515
+        ]
+      },
+      "properties": {
+        "author": "cap_phi",
+        "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi",
+        "id": "1526935853522739590_29177514",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg",
+        "mustbepublished": true,
+        "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/",
+        "originally_localized": true,
+        "post_date": "2017-05-31 15:36:00",
+        "validated": true
+      },
+      "type": "Feature"
+    }
+  ]
 }
