@@ -1,26 +1,26 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8345109321089,
-                    45.772435925955
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "author": "cap_phi",
-                "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi",
-                "id": "1526815519645468679_29177514",
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812118_1322261707880905_951783350001991680_n.jpg",
-                "mustbepublished": true,
-                "originURL": "https://www.instagram.com/p/BUwVqAuBYgH/",
-                "originally_localized": true,
-                "post_date": "2017-05-31 11:36:55",
-                "validated": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.83449399471283,
+          45.77211615703999
+        ]
+      },
+      "properties": {
+        "author": "cap_phi",
+        "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi",
+        "id": "1526815519645468679_29177514",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812118_1322261707880905_951783350001991680_n.jpg",
+        "mustbepublished": true,
+        "originURL": "https://www.instagram.com/p/BUwVqAuBYgH/",
+        "originally_localized": true,
+        "post_date": "2017-05-31 11:36:55",
+        "validated": true
+      },
+      "type": "Feature"
+    }
+  ]
 }
