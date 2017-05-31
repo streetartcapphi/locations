@@ -1,26 +1,26 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8345109321089,
-                    45.772435925955
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "author": "cap_phi",
-                "caption": "Envi de l'eau #streetart #urbanartist #capphi #kawaii #monster #bernardlhermite #t0 #map_phi",
-                "id": "1526812892803167690_29177514",
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18812753_2283263111897934_1594504401026809856_n.jpg",
-                "mustbepublished": true,
-                "originURL": "https://www.instagram.com/p/BUwVDySBPXK/",
-                "originally_localized": true,
-                "post_date": "2017-05-31 11:31:41",
-                "validated": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.834612011909485,
+          45.77215170371277
+        ]
+      },
+      "properties": {
+        "author": "cap_phi",
+        "caption": "Envi de l'eau #streetart #urbanartist #capphi #kawaii #monster #bernardlhermite #t0 #map_phi",
+        "id": "1526812892803167690_29177514",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18812753_2283263111897934_1594504401026809856_n.jpg",
+        "mustbepublished": true,
+        "originURL": "https://www.instagram.com/p/BUwVDySBPXK/",
+        "originally_localized": true,
+        "post_date": "2017-05-31 11:31:41",
+        "validated": true
+      },
+      "type": "Feature"
+    }
+  ]
 }
