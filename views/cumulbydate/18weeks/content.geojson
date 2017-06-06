@@ -235,26 +235,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835266470909119, 
-                    45.77435368237649
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-23 16:35:49", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18580031_1916307571915968_5988248974102888448_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUcRgUzhjUe/", 
-                "caption": "Mon faiseur de nuages se d\u00e9colle #clouds #dragon #drawing #heart #urbanart #streetart #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521167762297599262_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8332977294921875, 
                     45.77129296459557
                 ]
@@ -596,6 +576,26 @@
                 "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521909070565798895_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835266470909119, 
+                    45.77435368237649
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-23 16:35:49", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18580031_1916307571915968_5988248974102888448_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUcRgUzhjUe/", 
+                "caption": "Mon faiseur de nuages se d\u00e9colle #clouds #dragon #drawing #heart #urbanart #streetart #capphi #t0 #map_phi", 
+                "validated": true, 
+                "id": "1521167762297599262_29177514"
             }
         }, 
         {
