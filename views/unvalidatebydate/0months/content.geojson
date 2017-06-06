@@ -22,6 +22,28 @@
                 "validated": false, 
                 "id": "1527683625221838175_29177514"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8316, 
+                    45.7716
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-06 18:23:40", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-06/1531368904998639805_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950076_1693808864257719_1366811275379605504_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVAg-fShdi9/", 
+                "caption": "Plus que la moiti\u00e9 de la #dualit\u00e9 #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
+                "validated": false, 
+                "id": "1531368904998639805_29177514"
+            }
         }
     ]
 }
