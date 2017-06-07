@@ -1,26 +1,26 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8422,
-                    45.7597
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "author": "cap_phi",
-                "caption": "#6 #petite #amazone #death #queen #t0 #map_phi #streetart #urbanartist #capphi #kawaii #monster",
-                "id": "1531718058216008007_29177514",
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18889183_1886887944904030_5576686619181711360_n.jpg",
-                "mustbepublished": true,
-                "originURL": "https://www.instagram.com/p/BVBwXVkBClH/",
-                "originally_localized": true,
-                "post_date": "2017-06-07 05:57:23",
-                "validated": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843350648880005,
+          45.75160194886312
+        ]
+      },
+      "properties": {
+        "author": "cap_phi",
+        "caption": "#6 #petite #amazone #death #queen #t0 #map_phi #streetart #urbanartist #capphi #kawaii #monster",
+        "id": "1531718058216008007_29177514",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18889183_1886887944904030_5576686619181711360_n.jpg",
+        "mustbepublished": true,
+        "originURL": "https://www.instagram.com/p/BVBwXVkBClH/",
+        "originally_localized": true,
+        "post_date": "2017-06-07 05:57:23",
+        "validated": true
+      },
+      "type": "Feature"
+    }
+  ]
 }
