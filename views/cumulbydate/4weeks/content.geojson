@@ -5,27 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830773770809174, 
-                    45.76869047401515
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-31 15:36:00", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/", 
-                "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1526935853522739590_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.843350648880005, 
                     45.75160194886312
                 ]
@@ -209,6 +188,27 @@
                 "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
                 "validated": true, 
                 "id": "1526815519645468679_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.830773770809174, 
+                    45.76869047401515
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-31 15:36:00", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/", 
+                "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
+                "validated": true, 
+                "id": "1526935853522739590_29177514"
             }
         }, 
         {
@@ -484,46 +484,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833254814147949, 
-                    45.77150437654195
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 16:11:37", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645248_637786619759817_6505826214404423680_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUezh8GB18k/", 
-                "caption": "#quetzacoatl #arrow #plumes #urbanart #streetstyle #capphi #kawaii #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521880356738260772_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.834587872028351, 
-                    45.76939583392515
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 17:08:40", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18646055_1962394077326272_3497281196415516672_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUe6Dx7hPPv/", 
-                "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521909070565798895_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83399510383606, 
                     45.769356543554686
                 ]
@@ -684,6 +644,26 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.833254814147949, 
+                    45.77150437654195
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-24 16:11:37", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645248_637786619759817_6505826214404423680_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUezh8GB18k/", 
+                "caption": "#quetzacoatl #arrow #plumes #urbanart #streetstyle #capphi #kawaii #t0 #map_phi", 
+                "validated": true, 
+                "id": "1521880356738260772_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.83585923910141, 
                     45.770166667976476
                 ]
@@ -718,6 +698,26 @@
                 "caption": "#angel #skull plus tout neuf mais bien conserv\u00e9 #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521741652933493816_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834587872028351, 
+                    45.76939583392515
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-24 17:08:40", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18646055_1962394077326272_3497281196415516672_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUe6Dx7hPPv/", 
+                "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
+                "validated": true, 
+                "id": "1521909070565798895_29177514"
             }
         }
     ]
