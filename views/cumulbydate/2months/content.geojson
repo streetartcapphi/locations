@@ -236,27 +236,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833096563816071, 
-                    45.77216667072613
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-26 17:32:49", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645551_268505576890660_3902336323695935488_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUkGaWPh7UT/", 
-                "caption": "The #beast #alwaysloveyou #kawaii #monster #streetart #urbanartist #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1523370772826404115_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832726418972015, 
                     45.777560146622704
                 ]
@@ -597,6 +576,27 @@
                 "caption": "#kawaii #serpent \u00e0 #plumes #ketzacoatl #streetart #urbanartist  #capphi #t0 #map_phi", 
                 "validated": true, 
                 "id": "1523102206868813521_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833096563816071, 
+                    45.77216667072613
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-26 17:32:49", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645551_268505576890660_3902336323695935488_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUkGaWPh7UT/", 
+                "caption": "The #beast #alwaysloveyou #kawaii #monster #streetart #urbanartist #capphi #t0 #map_phi", 
+                "validated": true, 
+                "id": "1523370772826404115_29177514"
             }
         }, 
         {
