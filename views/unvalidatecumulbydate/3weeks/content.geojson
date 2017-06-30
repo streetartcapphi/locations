@@ -5,28 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.6611111111111, 
-                    45.764722222222
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-23 11:05:18", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-23/1543469448097341048_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367183_290900298037742_8930228110742257664_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVrgUkPgp54/", 
-                "caption": "Plus que 2 #dimanche \ud83d\ude08", 
-                "validated": false, 
-                "id": "1543469448097341048_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -228,6 +206,28 @@
                 "instagramcode": "BVt6TXXhR7g", 
                 "post_date": "2017-06-24 11:30:48", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.6611111111111, 
+                    45.764722222222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-23 11:05:18", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-23/1543469448097341048_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367183_290900298037742_8930228110742257664_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVrgUkPgp54/", 
+                "caption": "Plus que 2 #dimanche \ud83d\ude08", 
+                "validated": false, 
+                "id": "1543469448097341048_29177514"
             }
         }, 
         {
