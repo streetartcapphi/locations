@@ -338,44 +338,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BV2da4ugbMQ", 
-                "originally_localized": true, 
-                "author": "lylou_1407", 
-                "instagramid": "1546552913013355280", 
-                "timestamp": 1498583495, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19534168_737497159756055_1700484802114748416_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lylou_1407", 
-                    "timestamp": 1498583495, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19534168_737497159756055_1700484802114748416_n.jpg", 
-                    "authorid": "4099384410", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1546552913013355280"
-                }, 
-                "caption": "#Streetart #croixrousse #igerslyon #lyoncity #artderue #dessin #lyon #regard #capphi #streetartlyon #streetartlyonnais", 
-                "authorid": "4099384410", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-27/1546552913013355280_4099384410.json", 
-                "instagramcode": "BV2da4ugbMQ", 
-                "post_date": "2017-06-27 19:11:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
