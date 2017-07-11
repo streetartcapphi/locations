@@ -66,6 +66,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://www.instagram.com/p/BWaLGOfDDs3", 
+                "originally_localized": true, 
+                "author": "elise_elisa1", 
+                "instagramid": "1556605427591691063", 
+                "timestamp": 1499781848, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/19955792_152067825363416_3151407754946543616_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "elise_elisa1", 
+                    "timestamp": 1499781848, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19955792_152067825363416_3151407754946543616_n.jpg", 
+                    "authorid": "3509040037", 
+                    "location": null, 
+                    "id": "1556605427591691063"
+                }, 
+                "caption": "Ah que d'amour ou quand \"Monstre moi\" et \"Play with me\" de @georges_de_loup rencontrent les belles \"Damoiselles\" de @cap_phi #capphi #georgesdeloup", 
+                "authorid": "3509040037", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-11/1556605427591691063_3509040037.json", 
+                "instagramcode": "BWaLGOfDDs3", 
+                "post_date": "2017-07-11 16:04:08", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://www.instagram.com/p/BU3y1KXD2rQ", 
                 "originally_localized": true, 
                 "author": "cocottecoralie", 
@@ -355,37 +388,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320957, 
-                    45.7681361
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BU8pJpPjfKF", 
+                "originURL": "https://www.instagram.com/p/BU-IzleFA_P", 
                 "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1530278956065747589", 
-                "timestamp": 1496643488, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18888767_278326239240501_8580760185373458432_n.jpg", 
+                "author": "tictakt0k", 
+                "instagramid": "1530699652651028431", 
+                "timestamp": 1496693639, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18949666_258548294625335_1047754059223662592_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1496643488, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18888767_278326239240501_8580760185373458432_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": {
-                        "slug": "rue-sainte-catherine-lyon", 
-                        "has_public_page": true, 
-                        "name": "Rue Sainte-Catherine (Lyon)", 
-                        "id": "252840943"
-                    }, 
-                    "id": "1530278956065747589"
+                    "author": "tictakt0k", 
+                    "timestamp": 1496693639, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18949666_258548294625335_1047754059223662592_n.jpg", 
+                    "authorid": "4281369148", 
+                    "location": null, 
+                    "id": "1530699652651028431"
                 }, 
-                "caption": "Allez en route pour une nouvelle semaine de boulot #capphi #map_phi #streetart #monster #littlemonster #streearteverywhere #up #levelup #lyonstreetart #streetartlyon #Lyon #terreaux #terreauxlyon #igerlyon #onlylyon #collage #urban #urbanart #artderue", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-05/1530278956065747589_2000118195.json", 
-                "instagramcode": "BU8pJpPjfKF", 
-                "post_date": "2017-06-05 08:18:08", 
+                "caption": "#lyon #onlylyon #streetart #urbanart #capphi", 
+                "authorid": "4281369148", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-05/1530699652651028431_4281369148.json", 
+                "instagramcode": "BU-IzleFA_P", 
+                "post_date": "2017-06-05 22:13:59", 
                 "validated": false
             }
         }, 
@@ -982,32 +1010,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.8320957, 
+                    45.7681361
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BU-IzleFA_P", 
+                "originURL": "https://www.instagram.com/p/BU8pJpPjfKF", 
                 "originally_localized": true, 
-                "author": "tictakt0k", 
-                "instagramid": "1530699652651028431", 
-                "timestamp": 1496693639, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18949666_258548294625335_1047754059223662592_n.jpg", 
+                "author": "cocottecoralie", 
+                "instagramid": "1530278956065747589", 
+                "timestamp": 1496643488, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18888767_278326239240501_8580760185373458432_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "tictakt0k", 
-                    "timestamp": 1496693639, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18949666_258548294625335_1047754059223662592_n.jpg", 
-                    "authorid": "4281369148", 
-                    "location": null, 
-                    "id": "1530699652651028431"
+                    "author": "cocottecoralie", 
+                    "timestamp": 1496643488, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18888767_278326239240501_8580760185373458432_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": {
+                        "slug": "rue-sainte-catherine-lyon", 
+                        "has_public_page": true, 
+                        "name": "Rue Sainte-Catherine (Lyon)", 
+                        "id": "252840943"
+                    }, 
+                    "id": "1530278956065747589"
                 }, 
-                "caption": "#lyon #onlylyon #streetart #urbanart #capphi", 
-                "authorid": "4281369148", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-05/1530699652651028431_4281369148.json", 
-                "instagramcode": "BU-IzleFA_P", 
-                "post_date": "2017-06-05 22:13:59", 
+                "caption": "Allez en route pour une nouvelle semaine de boulot #capphi #map_phi #streetart #monster #littlemonster #streearteverywhere #up #levelup #lyonstreetart #streetartlyon #Lyon #terreaux #terreauxlyon #igerlyon #onlylyon #collage #urban #urbanart #artderue", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-05/1530278956065747589_2000118195.json", 
+                "instagramcode": "BU8pJpPjfKF", 
+                "post_date": "2017-06-05 08:18:08", 
                 "validated": false
             }
         }, 
