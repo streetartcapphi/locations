@@ -1536,28 +1536,6 @@
                 "post_date": "2017-06-12 07:51:32", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-11 17:57:57", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-07-11/1556723111305498186_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19932142_243494979490480_6345493672200503296_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BWal2v_AU5K/", 
-                "caption": "#1 #deathqueen #amazone #monster #streetart #urbanartist #capphi #croixrousse #kawaiiart #spider #flowers #collage", 
-                "validated": false, 
-                "id": "1556723111305498186_29177514"
-            }
         }
     ]
 }
