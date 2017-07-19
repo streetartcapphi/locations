@@ -1,26 +1,29 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8186741,
-                    45.7266101
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "author": "cap_phi",
-                "caption": "#4 #deathqueen #amazone #streetart #evilgirl #streetartist #capphi #kawaiiart #flower #hair #kawaii",
-                "id": "1559238783784781063_29177514",
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19985047_1062069113927875_5105856356980621312_n.jpg",
-                "mustbepublished": true,
-                "originURL": "https://www.instagram.com/p/BWjh2mjgQUH/",
-                "originally_localized": false,
-                "post_date": "2017-07-15 05:16:09",
-                "validated": false
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.830830097198486,
+          45.76864369916994
+        ]
+      },
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "author": "cap_phi",
+        "caption": "#4 #deathqueen #amazone #streetart #evilgirl #streetartist #capphi #kawaiiart #flower #hair #kawaii",
+        "id": "1559238783784781063_29177514",
+        "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19985047_1062069113927875_5105856356980621312_n.jpg",
+        "mustbepublished": "true",
+        "originURL": "https://www.instagram.com/p/BWjh2mjgQUH/",
+        "originally_localized": "false",
+        "post_date": "2017-07-15 05:16:09",
+        "validated": "true"
+      },
+      "type": "Feature"
+    }
+  ]
 }
