@@ -95,6 +95,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.661644399166107, 
+                    45.76482299736626
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-23 11:05:18", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367183_290900298037742_8930228110742257664_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVrgUkPgp54/", 
+                "caption": "Plus que 2 #dimanche \ud83d\ude08", 
+                "validated": true, 
+                "id": "1543469448097341048_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.831709861755371, 
                     45.7696334465282
                 ]
@@ -421,27 +442,6 @@
                 "caption": "Le #cracheursdefeu est #toujoursl\u00e0 #collaboration avec #O'MALLEY #streetart #urbanartist #capphi  #kawaii #fire", 
                 "validated": true, 
                 "id": "1526246420532101215_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.82724666595459, 
-                    45.773395822987624
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-26 17:28:02", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18645235_1879904802266682_3859025585720262656_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUkF3SAhJvn/", 
-                "caption": "The #beast #alwayslove #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1523368363097889767_29177514"
             }
         }, 
         {
