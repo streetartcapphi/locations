@@ -29,6 +29,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.834499359130859, 
+                    45.775270368338134
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-07-14 09:27:52", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20066021_115328762435631_6661430607500804096_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BWhZ3UDABP4/", 
+                "caption": "#3 #deathqueen #little #amazone #streetart #urbanartist #capphi #kawaii #kawaiiart #spider #flowers", 
+                "validated": true, 
+                "id": "1558640698306073592_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.834585189819336, 
                     45.77752834479042
                 ]
@@ -173,27 +194,6 @@
                 "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
                 "validated": true, 
                 "id": "1526815519645468679_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.830773770809174, 
-                    45.76869047401515
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-31 15:36:00", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/", 
-                "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1526935853522739590_29177514"
             }
         }, 
         {
