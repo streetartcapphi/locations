@@ -5,8 +5,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8345449566841125,
-          45.77530404222938
+          4.834499359130859,
+          45.775270368338134
         ]
       },
       "properties": {
@@ -18,7 +18,7 @@
         "originURL": "https://www.instagram.com/p/BWhZ3UDABP4/",
         "originally_localized": false,
         "post_date": "2017-07-14 09:27:52",
-        "validated": false
+        "validated": true
       },
       "type": "Feature"
     }
