@@ -410,37 +410,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.8287408, 
+                    45.7766432
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BVt6UithQPa", 
+                "originURL": "https://www.instagram.com/p/BW5jYFEAJ4V", 
                 "originally_localized": true, 
-                "author": "h.lna", 
-                "instagramid": "1544146745616040922", 
-                "timestamp": 1498296658, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19424659_1374341619286714_1795558606200897536_n.jpg", 
+                "author": "gallmarine", 
+                "instagramid": "1565437931819146773", 
+                "timestamp": 1500834765, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225550_254414491723559_6659334929748328448_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "h.lna", 
-                    "timestamp": 1498296658, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19424659_1374341619286714_1795558606200897536_n.jpg", 
-                    "authorid": "1413198960", 
+                    "author": "gallmarine", 
+                    "timestamp": 1500834765, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20225550_254414491723559_6659334929748328448_n.jpg", 
+                    "authorid": "3160895409", 
                     "location": {
-                        "slug": "lyon-france", 
+                        "slug": "croix-rousse", 
                         "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
                     }, 
-                    "id": "1544146745616040922"
+                    "id": "1565437931819146773"
                 }, 
-                "caption": "#streetart by #capphi #streetartiseverywhere #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
-                "authorid": "1413198960", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-24/1544146745616040922_1413198960.json", 
-                "instagramcode": "BVt6UithQPa", 
-                "post_date": "2017-06-24 11:30:58", 
+                "caption": "Cap phi habill\u00e9 la Ville de couleurs et de petits monstres attachants \ud83d\ude0d\n\n#capphi #monster #streetart #streetstyle #streetphotography #street #streetview #wallporn #wallart #wall #wallartist #urbanculture #instadaily #streetphotography #streetporn #art #artderue #artlovers #igerslyon #lyon #igersfrance #france #ilovelyon #bestiaire #creativity #creatures", 
+                "authorid": "3160895409", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565437931819146773_3160895409.json", 
+                "instagramcode": "BW5jYFEAJ4V", 
+                "post_date": "2017-07-23 20:32:45", 
                 "validated": false
             }
         }, 
@@ -665,6 +665,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-24/1544146664716312288_1413198960.json", 
                 "instagramcode": "BVt6TXXhR7g", 
                 "post_date": "2017-06-24 11:30:48", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BVt6UithQPa", 
+                "originally_localized": true, 
+                "author": "h.lna", 
+                "instagramid": "1544146745616040922", 
+                "timestamp": 1498296658, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19424659_1374341619286714_1795558606200897536_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "h.lna", 
+                    "timestamp": 1498296658, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19424659_1374341619286714_1795558606200897536_n.jpg", 
+                    "authorid": "1413198960", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1544146745616040922"
+                }, 
+                "caption": "#streetart by #capphi #streetartiseverywhere #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
+                "authorid": "1413198960", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-24/1544146745616040922_1413198960.json", 
+                "instagramcode": "BVt6UithQPa", 
+                "post_date": "2017-06-24 11:30:58", 
                 "validated": false
             }
         }, 
