@@ -186,6 +186,44 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://www.instagram.com/p/BW5xaGyjfAQ", 
+                "originally_localized": true, 
+                "author": "e.sb.e", 
+                "instagramid": "1565499643764011024", 
+                "timestamp": 1500842122, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225998_256841564812291_5027148573020520448_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "e.sb.e", 
+                    "timestamp": 1500842122, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20225998_256841564812291_5027148573020520448_n.jpg", 
+                    "authorid": "2306718295", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1565499643764011024"
+                }, 
+                "caption": "Petite balade dominicale.\nJe veux bien monter \u00e0 la Croix-Rousse si on s'arr\u00eate boire un smoothie mangue en redescendant. \u00c7a tombe bien le Caf\u00e9 J'adore est entre la rue du Chariot d'Or et la rue Diderot.\n#capphi #lyongraff #lyongraffiti #lyonstreetart #streetartlyon #bloginlyon #monlyon #igerslyon #montrerlyon #onlylyon #explorelyon #igerslyon #instalyon #lyoncity #lyoncolor_official #urbanart #wheatpast #artderue #stencilart #streetartofficial #streetartandgraffiti #tv_streetart #dsb_graff #topstreetart #rsa_graffiti #igersfrance #cettesemainesurinstagram", 
+                "authorid": "2306718295", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565499643764011024_2306718295.json", 
+                "instagramcode": "BW5xaGyjfAQ", 
+                "post_date": "2017-07-23 22:35:22", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://www.instagram.com/p/BW4yUhglTCq", 
                 "originally_localized": true, 
                 "author": "vmilsant", 
