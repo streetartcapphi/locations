@@ -397,39 +397,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWkFZgFBuFe", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1559395113640583518", 
-                "timestamp": 1500114405, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19984374_240830526435808_5455350322736136192_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1500114405, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984374_240830526435808_5455350322736136192_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1559395113640583518"
-                }, 
-                "caption": "La belle amazone de @cap_phi \n#capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #collage", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-15/1559395113640583518_1222751817.json", 
-                "instagramcode": "BWkFZgFBuFe", 
-                "post_date": "2017-07-15 12:26:45", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -641,6 +608,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-15/1559316015854056347_2876693898.json", 
                 "instagramcode": "BWjzaehjvOb", 
                 "post_date": "2017-07-15 09:49:36", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWkFZgFBuFe", 
+                "originally_localized": true, 
+                "author": "streetart_lyon", 
+                "instagramid": "1559395113640583518", 
+                "timestamp": 1500114405, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19984374_240830526435808_5455350322736136192_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "streetart_lyon", 
+                    "timestamp": 1500114405, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984374_240830526435808_5455350322736136192_n.jpg", 
+                    "authorid": "1222751817", 
+                    "location": null, 
+                    "id": "1559395113640583518"
+                }, 
+                "caption": "La belle amazone de @cap_phi \n#capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #collage", 
+                "authorid": "1222751817", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-15/1559395113640583518_1222751817.json", 
+                "instagramcode": "BWkFZgFBuFe", 
+                "post_date": "2017-07-15 12:26:45", 
                 "validated": false
             }
         }, 
