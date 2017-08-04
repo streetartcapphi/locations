@@ -1575,28 +1575,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.827150106430054, 
-                    45.77213673669542
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-02 17:42:21", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-02/1528449002419632752_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812121_1725584347735056_5320491442018189312_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BU2JEUGhbpw/", 
-                "caption": "5.0 #toujours dans un #petitcoin de la #croixrousse #streetart #urbanartist #capphi #t0 #map_phi", 
-                "validated": false, 
-                "id": "1528449002419632752_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1810,6 +1788,28 @@
                 "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
                 "validated": false, 
                 "id": "1526935853522739590_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.827150106430054, 
+                    45.77213673669542
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-02 17:42:21", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-02/1528449002419632752_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812121_1725584347735056_5320491442018189312_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BU2JEUGhbpw/", 
+                "caption": "5.0 #toujours dans un #petitcoin de la #croixrousse #streetart #urbanartist #capphi #t0 #map_phi", 
+                "validated": false, 
+                "id": "1528449002419632752_29177514"
             }
         }, 
         {
