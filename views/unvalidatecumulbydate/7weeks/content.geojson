@@ -697,44 +697,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWO8P2Hg1nw", 
-                "originally_localized": true, 
-                "author": "cyril.pop", 
-                "instagramid": "1553443893180324336", 
-                "timestamp": 1499404964, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19764748_1739879392972106_8594814782949818368_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cyril.pop", 
-                    "timestamp": 1499404964, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764748_1739879392972106_8594814782949818368_n.jpg", 
-                    "authorid": "3429099141", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1553443893180324336"
-                }, 
-                "caption": "Youpi c'est les vacances ^^. Merci @cap_phi\nPour cette chasse aux tr\u00e9sors dans les #pentesdelacroixrousse \n#streetart #cap_phi #capphi #lyon #xrousse #croixrousse #xroussemonamour #bloginlyon #monlyon #mylyon #lyon #lebonbonlyon #grandlyon #ilovelyon #ilovetcl", 
-                "authorid": "3429099141", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-07/1553443893180324336_3429099141.json", 
-                "instagramcode": "BWO8P2Hg1nw", 
-                "post_date": "2017-07-07 07:22:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8287408, 
                     45.7766432
                 ]
@@ -979,6 +941,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-03/1550756867536619890_296047777.json", 
                 "instagramcode": "BWFZSeehIly", 
                 "post_date": "2017-07-03 14:24:06", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWO8P2Hg1nw", 
+                "originally_localized": true, 
+                "author": "cyril.pop", 
+                "instagramid": "1553443893180324336", 
+                "timestamp": 1499404964, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19764748_1739879392972106_8594814782949818368_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cyril.pop", 
+                    "timestamp": 1499404964, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764748_1739879392972106_8594814782949818368_n.jpg", 
+                    "authorid": "3429099141", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1553443893180324336"
+                }, 
+                "caption": "Youpi c'est les vacances ^^. Merci @cap_phi\nPour cette chasse aux tr\u00e9sors dans les #pentesdelacroixrousse \n#streetart #cap_phi #capphi #lyon #xrousse #croixrousse #xroussemonamour #bloginlyon #monlyon #mylyon #lyon #lebonbonlyon #grandlyon #ilovelyon #ilovetcl", 
+                "authorid": "3429099141", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-07/1553443893180324336_3429099141.json", 
+                "instagramcode": "BWO8P2Hg1nw", 
+                "post_date": "2017-07-07 07:22:44", 
                 "validated": false
             }
         }, 
@@ -1232,28 +1232,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-06-16 07:23:44", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-16/1538284507088782735_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19120325_357491874665463_3950474042271596544_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVZFZvog4WP/", 
-                "caption": "#renaissance sous la #licorne #r\u00e9apparition d'une de mes #skell", 
-                "validated": false, 
-                "id": "1538284507088782735_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://www.instagram.com/p/BVeWCfOh0iV", 
                 "originally_localized": true, 
                 "author": "lepelicanquisemarrait", 
@@ -1351,6 +1329,28 @@
                 "instagramcode": "BVc0C_VDY4-", 
                 "post_date": "2017-06-17 20:09:03", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-16 07:23:44", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-16/1538284507088782735_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19120325_357491874665463_3950474042271596544_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVZFZvog4WP/", 
+                "caption": "#renaissance sous la #licorne #r\u00e9apparition d'une de mes #skell", 
+                "validated": false, 
+                "id": "1538284507088782735_29177514"
             }
         }, 
         {
