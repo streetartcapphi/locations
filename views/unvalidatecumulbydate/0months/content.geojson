@@ -33,28 +33,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-08-14 14:20:13", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-14/1581255893272628861_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20759938_1576731462377574_4530051755420942336_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BXxv9tpgg59/", 
-                "caption": "#belletrouvaille #dujour #hownosm #lisboa #lisbonne #vacances", 
-                "validated": false, 
-                "id": "1581255893272628861_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2017-08-08 21:17:59", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
@@ -109,28 +87,6 @@
                 "caption": "#d\u00e9part pour #lisboa #lisbonne #modevacances #capphi #streetart", 
                 "validated": false, 
                 "id": "1575539115070512703_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-08-10 09:54:57", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-10/1578223281843088255_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20686688_1917405315250449_8928469420418793472_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BXm-baKgit_/", 
-                "caption": "#devoirs de #vacances #family #lisboa #capphi #capmel #p\u00e8re et #fils #streetart #sketch #monster", 
-                "validated": false, 
-                "id": "1578223281843088255_29177514"
             }
         }, 
         {
