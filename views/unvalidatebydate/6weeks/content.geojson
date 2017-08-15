@@ -11,26 +11,48 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BVeWCfOh0iV", 
+                "post_date": "2017-06-28 07:09:36", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-28/1546974699362404776_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19533632_1865197790468707_3978958965458337792_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BV39Ur4A0mo/", 
+                "caption": "#workonprogress #nouvelle #petite #amazone #capphi #urbanartist #streetart", 
+                "validated": false, 
+                "id": "1546974699362404776_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWFZSeehIly", 
                 "originally_localized": true, 
-                "author": "lepelicanquisemarrait", 
-                "instagramid": "1539765050599229589", 
-                "timestamp": 1497774319, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19122238_1891275441129779_4813818737134141440_n.jpg", 
+                "author": "ansophe", 
+                "instagramid": "1550756867536619890", 
+                "timestamp": 1499084646, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19622952_324938634610171_1007294530992472064_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "lepelicanquisemarrait", 
-                    "timestamp": 1497774319, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19122238_1891275441129779_4813818737134141440_n.jpg", 
-                    "authorid": "5533275959", 
+                    "author": "ansophe", 
+                    "timestamp": 1499084646, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19622952_324938634610171_1007294530992472064_n.jpg", 
+                    "authorid": "296047777", 
                     "location": null, 
-                    "id": "1539765050599229589"
+                    "id": "1550756867536619890"
                 }, 
-                "caption": "Princesse de @cap_phi #collage #lespentes #croixrousse #lyon #streetart #pasteup #map_phi  #muraldaily #streetartlyon #collageart #streetarteverywhere", 
-                "authorid": "5533275959", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-18/1539765050599229589_5533275959.json", 
-                "instagramcode": "BVeWCfOh0iV", 
-                "post_date": "2017-06-18 10:25:19", 
+                "caption": "#streetart #streetartlyon #licorne #lyon #croixrousse #capphi #artiste", 
+                "authorid": "296047777", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-03/1550756867536619890_296047777.json", 
+                "instagramcode": "BWFZSeehIly", 
+                "post_date": "2017-07-03 14:24:06", 
                 "validated": false
             }
         }, 
@@ -44,31 +66,31 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BVpm2fmj8Ty", 
+                "originURL": "https://www.instagram.com/p/BV2da4ugbMQ", 
                 "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1542935217903224050", 
-                "timestamp": 1498152232, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
+                "author": "lylou_1407", 
+                "instagramid": "1546552913013355280", 
+                "timestamp": 1498583495, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19534168_737497159756055_1700484802114748416_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1498152232, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                    "authorid": "2876693898", 
+                    "author": "lylou_1407", 
+                    "timestamp": 1498583495, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19534168_737497159756055_1700484802114748416_n.jpg", 
+                    "authorid": "4099384410", 
                     "location": {
                         "slug": "la-croix-rousse-rhone-alpes-france", 
                         "has_public_page": true, 
                         "name": "La Croix Rousse, Rhone-Alpes, France", 
                         "id": "216569581"
                     }, 
-                    "id": "1542935217903224050"
+                    "id": "1546552913013355280"
                 }, 
-                "caption": "Pas de cuisine aujourd'hui sur le blog (f\u00e9trocho) mais une petite histoire que ma inspir\u00e9e la derni\u00e8re cr\u00e9ature (cr\u00e9ation) de @cap_phi\ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-22/1542935217903224050_2876693898.json", 
-                "instagramcode": "BVpm2fmj8Ty", 
-                "post_date": "2017-06-22 19:23:52", 
+                "caption": "#Streetart #croixrousse #igerslyon #lyoncity #artderue #dessin #lyon #regard #capphi #streetartlyon #streetartlyonnais", 
+                "authorid": "4099384410", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-27/1546552913013355280_4099384410.json", 
+                "instagramcode": "BV2da4ugbMQ", 
+                "post_date": "2017-06-27 19:11:35", 
                 "validated": false
             }
         }, 
@@ -76,37 +98,65 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BVc0C_VDY4-", 
+                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
                 "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1539334076510342718", 
-                "timestamp": 1497722943, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19228531_1299921656787143_397780079746220032_n.jpg", 
+                "author": "nm_sophie_", 
+                "instagramid": "1549558984659148945", 
+                "timestamp": 1498941847, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1497722943, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19228531_1299921656787143_397780079746220032_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1539334076510342718"
+                    "author": "nm_sophie_", 
+                    "timestamp": 1498941847, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
+                    "authorid": "1801636017", 
+                    "location": null, 
+                    "id": "1549558984659148945"
                 }, 
-                "caption": "@cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-17/1539334076510342718_37664964.json", 
-                "instagramcode": "BVc0C_VDY4-", 
-                "post_date": "2017-06-17 20:09:03", 
+                "caption": "Arc en ciel. Prout de licorne..#capphi", 
+                "authorid": "1801636017", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-01/1549558984659148945_1801636017.json", 
+                "instagramcode": "BWBI6_HH6CR", 
+                "post_date": "2017-07-01 22:44:07", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BV3AfoYBbSy", 
+                "originally_localized": true, 
+                "author": "rymchamam", 
+                "instagramid": "1546707170681533618", 
+                "timestamp": 1498601884, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e15/c235.0.610.610/19436433_143776522858421_4340441791254757376_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "rymchamam", 
+                    "timestamp": 1498601884, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s1080x1080/e15/fr/19436433_143776522858421_4340441791254757376_n.jpg", 
+                    "authorid": "2060505865", 
+                    "location": null, 
+                    "id": "1546707170681533618"
+                }, 
+                "caption": "#streetartlyonnais #streetart #lyon #art #capphi", 
+                "authorid": "2060505865", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-28/1546707170681533618_2060505865.json", 
+                "instagramcode": "BV3AfoYBbSy", 
+                "post_date": "2017-06-28 00:18:04", 
                 "validated": false
             }
         }
