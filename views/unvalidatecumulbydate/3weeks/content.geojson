@@ -71,28 +71,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    -9.1308333333333, 
-                    38.717222222222
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-08-15 11:33:15", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-15/1581896632969046665_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20838206_1854909471492489_3235002082113093632_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BX0Bps_gaqJ/", 
-                "caption": "#petiteamazone #capphi #streetart \u00e0 #lisboa #lisboastreetart #gra\u00e7a #lisbonne #pasteup", 
-                "validated": false, 
-                "id": "1581896632969046665_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
