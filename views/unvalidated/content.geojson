@@ -671,6 +671,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    -9.1308333333333, 
+                    38.717222222222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-08-16 09:08:47", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-16/1582548692219541734_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20837536_1512452372150200_4836941135953788928_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BX2V6afgTjm/", 
+                "caption": "#5.0 #clindoeil #star #obeygiant #lisboa #gra\u00e7a #lisbonne #streetart #capphi", 
+                "validated": false, 
+                "id": "1582548692219541734_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
