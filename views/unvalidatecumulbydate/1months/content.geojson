@@ -33,6 +33,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "post_date": "2017-08-16 08:34:41", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-16/1582531530226406733_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20838150_162783560946157_8078551879950270464_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BX2SArJABVN/", 
+                "caption": "#belletrouvaille #dujour #obey #lisboa #lisbonne #vacances", 
+                "validated": false, 
+                "id": "1582531530226406733_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2017-08-08 21:17:59", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
