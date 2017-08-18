@@ -5,39 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819371700286866, 
-                    45.72709402631982
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWhz932F9Kq", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1558755498270380714", 
-                "timestamp": 1500038157, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.86.1080.1080/20067314_730124423837713_5145892899652632576_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1500038157, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20067314_730124423837713_5145892899652632576_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1558755498270380714"
-                }, 
-                "caption": "Durant la balade digestive...toujours en alerte .\n.\n.\n.\n#capphi #deathqueen #collage #pentedelacroixrousse #croixrousse #streetart #collage #lyon #streetarteverywhere #streetartlyon #lyonstreetart #igerlyon #igerlyonstreetart", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-14/1558755498270380714_2000118195.json", 
-                "instagramcode": "BWhz932F9Kq", 
-                "post_date": "2017-07-14 15:15:57", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8287408, 
                     45.7766432
                 ]
