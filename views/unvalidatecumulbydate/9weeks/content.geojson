@@ -11,6 +11,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "post_date": "2017-08-18 22:32:16", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-18/1584402652895201588_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20968805_1812866015691735_8844080970979082240_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BX87dF7AUk0/", 
+                "caption": "#belletrouvaille #dujour #aryz #lisboa #lisbonne #vacances", 
+                "validated": false, 
+                "id": "1584402652895201588_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2017-08-14 10:35:40", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
@@ -285,8 +307,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818883538246156, 
+                    45.72686184974921
                 ]
             }, 
             "type": "Feature", 
@@ -394,8 +416,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818681031465531, 
+                    45.72651826410184
                 ]
             }, 
             "type": "Feature", 
@@ -921,8 +943,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818689078092576, 
+                    45.726647460042784
                 ]
             }, 
             "type": "Feature", 
@@ -954,8 +976,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.81858715415001, 
+                    45.72664839624417
                 ]
             }, 
             "type": "Feature", 
@@ -987,8 +1009,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818921089172364, 
+                    45.7260904174396
                 ]
             }, 
             "type": "Feature", 
@@ -1134,41 +1156,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWaLGOfDDs3", 
-                "originally_localized": true, 
-                "author": "elise_elisa1", 
-                "instagramid": "1556605427591691063", 
-                "timestamp": 1499781848, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/19955792_152067825363416_3151407754946543616_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elise_elisa1", 
-                    "timestamp": 1499781848, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19955792_152067825363416_3151407754946543616_n.jpg", 
-                    "authorid": "3509040037", 
-                    "location": null, 
-                    "id": "1556605427591691063"
-                }, 
-                "caption": "Ah que d'amour ou quand \"Monstre moi\" et \"Play with me\" de @georges_de_loup rencontrent les belles \"Damoiselles\" de @cap_phi #capphi #georgesdeloup", 
-                "authorid": "3509040037", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-11/1556605427591691063_3509040037.json", 
-                "instagramcode": "BWaLGOfDDs3", 
-                "post_date": "2017-07-11 16:04:08", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818921089172364, 
+                    45.726652141049534
                 ]
             }, 
             "type": "Feature", 
@@ -1385,8 +1374,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818432927131654, 
+                    45.72658660691944
                 ]
             }, 
             "type": "Feature", 
@@ -1478,8 +1467,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818961322307587, 
+                    45.72648924178418
                 ]
             }, 
             "type": "Feature", 
@@ -1827,8 +1816,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818255901336671, 
+                    45.72707155766162
                 ]
             }, 
             "type": "Feature", 
