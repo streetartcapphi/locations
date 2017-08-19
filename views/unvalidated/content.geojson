@@ -65,28 +65,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-08-13 19:36:25", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-13/1580690269853095888_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20766983_468886613471271_3827865147016216576_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BXvvWzygpfQ/", 
-                "caption": "#belletrouvaille #dujour #bordaloii #lisboa #lisbonne #vacances", 
-                "validated": false, 
-                "id": "1580690269853095888_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818883538246156, 
                     45.72686184974921
                 ]
@@ -120,22 +98,33 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818432927131654, 
+                    45.72658660691944
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-08-08 21:17:59", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-08/1577117507347711499_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20634137_342043179542342_2380978110527963136_n.jpg", 
+                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
+                "originally_localized": true, 
+                "author": "nm_sophie_", 
+                "instagramid": "1549558984659148945", 
+                "timestamp": 1498941847, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BXjDARagoYL/", 
-                "caption": "#3 #jeu #adultes #mojito #streetart #oeil #lisboa #lisbonne #balle #pingpong #greenart #vegetales #monster #kawaii #capphi #urbanartist #m", 
-                "validated": false, 
-                "id": "1577117507347711499_29177514"
+                "insta_infos": {
+                    "author": "nm_sophie_", 
+                    "timestamp": 1498941847, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
+                    "authorid": "1801636017", 
+                    "location": null, 
+                    "id": "1549558984659148945"
+                }, 
+                "caption": "Arc en ciel. Prout de licorne..#capphi", 
+                "authorid": "1801636017", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-01/1549558984659148945_1801636017.json", 
+                "instagramcode": "BWBI6_HH6CR", 
+                "post_date": "2017-07-01 22:44:07", 
+                "validated": false
             }
         }, 
         {
@@ -458,22 +447,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.8320114, 
+                    45.7578137
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-08-18 22:32:16", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-18/1584402652895201588_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20968805_1812866015691735_8844080970979082240_n.jpg", 
+                "originURL": "https://www.instagram.com/p/BW5xaGyjfAQ", 
+                "originally_localized": true, 
+                "author": "e.sb.e", 
+                "instagramid": "1565499643764011024", 
+                "timestamp": 1500842122, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225998_256841564812291_5027148573020520448_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BX87dF7AUk0/", 
-                "caption": "#belletrouvaille #dujour #aryz #lisboa #lisbonne #vacances", 
-                "validated": false, 
-                "id": "1584402652895201588_29177514"
+                "insta_infos": {
+                    "author": "e.sb.e", 
+                    "timestamp": 1500842122, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20225998_256841564812291_5027148573020520448_n.jpg", 
+                    "authorid": "2306718295", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1565499643764011024"
+                }, 
+                "caption": "Petite balade dominicale.\nJe veux bien monter \u00e0 la Croix-Rousse si on s'arr\u00eate boire un smoothie mangue en redescendant. \u00c7a tombe bien le Caf\u00e9 J'adore est entre la rue du Chariot d'Or et la rue Diderot.\n#capphi #lyongraff #lyongraffiti #lyonstreetart #streetartlyon #bloginlyon #monlyon #igerslyon #montrerlyon #onlylyon #explorelyon #igerslyon #instalyon #lyoncity #lyoncolor_official #urbanart #wheatpast #artderue #stencilart #streetartofficial #streetartandgraffiti #tv_streetart #dsb_graff #topstreetart #rsa_graffiti #igersfrance #cettesemainesurinstagram", 
+                "authorid": "2306718295", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565499643764011024_2306718295.json", 
+                "instagramcode": "BW5xaGyjfAQ", 
+                "post_date": "2017-07-23 22:35:22", 
+                "validated": false
             }
         }, 
         {
@@ -617,16 +622,32 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-08-07 21:18:27", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-07/1576392969962099746_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20686838_377939665956360_73057118827053056_n.jpg", 
+                "originURL": "https://www.instagram.com/p/BXbJVX0gtiB", 
+                "originally_localized": true, 
+                "author": "missacacia4", 
+                "instagramid": "1574893545800784001", 
+                "timestamp": 1501961962, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.34.1080.1080/20583221_1457504377666029_7035353393753227264_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BXgeQ3ZA5Qi/", 
-                "caption": "#2 #jeu #enfants #streetart #oeil #lisboa #lisbonne #pingpong #greenart #vegetales #monster #kawaii #capphi #urbanartist", 
-                "validated": false, 
-                "id": "1576392969962099746_29177514"
+                "insta_infos": {
+                    "author": "missacacia4", 
+                    "timestamp": 1501961962, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20583221_1457504377666029_7035353393753227264_n.jpg", 
+                    "authorid": "27141883", 
+                    "location": {
+                        "slug": "rue-burdeau", 
+                        "has_public_page": true, 
+                        "name": "Rue Burdeau", 
+                        "id": "317128549"
+                    }, 
+                    "id": "1574893545800784001"
+                }, 
+                "caption": "Croiser de jolis monstres... \u2764\ufe0f#arturbain #streetartlyon #streetart #graffiti #coupdecoeur #capphi", 
+                "authorid": "27141883", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-05/1574893545800784001_27141883.json", 
+                "instagramcode": "BXbJVX0gtiB", 
+                "post_date": "2017-08-05 21:39:22", 
+                "validated": false
             }
         }, 
         {
@@ -697,44 +718,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-28/1524599381508461550_4531964839.json", 
                 "instagramcode": "BUodw9Pl5Pu", 
                 "post_date": "2017-05-28 12:13:50", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW5xaGyjfAQ", 
-                "originally_localized": true, 
-                "author": "e.sb.e", 
-                "instagramid": "1565499643764011024", 
-                "timestamp": 1500842122, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225998_256841564812291_5027148573020520448_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "e.sb.e", 
-                    "timestamp": 1500842122, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20225998_256841564812291_5027148573020520448_n.jpg", 
-                    "authorid": "2306718295", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1565499643764011024"
-                }, 
-                "caption": "Petite balade dominicale.\nJe veux bien monter \u00e0 la Croix-Rousse si on s'arr\u00eate boire un smoothie mangue en redescendant. \u00c7a tombe bien le Caf\u00e9 J'adore est entre la rue du Chariot d'Or et la rue Diderot.\n#capphi #lyongraff #lyongraffiti #lyonstreetart #streetartlyon #bloginlyon #monlyon #igerslyon #montrerlyon #onlylyon #explorelyon #igerslyon #instalyon #lyoncity #lyoncolor_official #urbanart #wheatpast #artderue #stencilart #streetartofficial #streetartandgraffiti #tv_streetart #dsb_graff #topstreetart #rsa_graffiti #igersfrance #cettesemainesurinstagram", 
-                "authorid": "2306718295", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565499643764011024_2306718295.json", 
-                "instagramcode": "BW5xaGyjfAQ", 
-                "post_date": "2017-07-23 22:35:22", 
                 "validated": false
             }
         }, 
@@ -1341,32 +1324,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818432927131654, 
-                    45.72658660691944
+                    4.818585813045503, 
+                    45.726449921200675
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
+                "originURL": "https://www.instagram.com/p/BU6xcf8DxN9", 
                 "originally_localized": true, 
-                "author": "nm_sophie_", 
-                "instagramid": "1549558984659148945", 
-                "timestamp": 1498941847, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
+                "author": "cocottecoralie", 
+                "instagramid": "1529752486163714941", 
+                "timestamp": 1496580728, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18722665_231933143962852_6175150209769668608_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "nm_sophie_", 
-                    "timestamp": 1498941847, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
-                    "authorid": "1801636017", 
+                    "author": "cocottecoralie", 
+                    "timestamp": 1496580728, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18722665_231933143962852_6175150209769668608_n.jpg", 
+                    "authorid": "2000118195", 
                     "location": null, 
-                    "id": "1549558984659148945"
+                    "id": "1529752486163714941"
                 }, 
-                "caption": "Arc en ciel. Prout de licorne..#capphi", 
-                "authorid": "1801636017", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-01/1549558984659148945_1801636017.json", 
-                "instagramcode": "BWBI6_HH6CR", 
-                "post_date": "2017-07-01 22:44:07", 
+                "caption": "En descendant de la colline #croixrousse #pentesdelacroixrousse #capphi #map_phi #collage #streetart #streearteverywhere #baladeurbaine #explorationurbaine #explorelyon #Lyon #lyonstreetart #streeartlyon #petiteguerriere #amazone #skull #urban #urbanart #artderue #poesieurbaine", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-04/1529752486163714941_2000118195.json", 
+                "instagramcode": "BU6xcf8DxN9", 
+                "post_date": "2017-06-04 14:52:08", 
                 "validated": false
             }
         }, 
@@ -1503,39 +1486,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-31/1526633572911052146_2876693898.json", 
                 "instagramcode": "BUvsSVnjHVy", 
                 "post_date": "2017-05-31 07:35:25", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818585813045503, 
-                    45.726449921200675
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BU6xcf8DxN9", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1529752486163714941", 
-                "timestamp": 1496580728, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18722665_231933143962852_6175150209769668608_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1496580728, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18722665_231933143962852_6175150209769668608_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1529752486163714941"
-                }, 
-                "caption": "En descendant de la colline #croixrousse #pentesdelacroixrousse #capphi #map_phi #collage #streetart #streearteverywhere #baladeurbaine #explorationurbaine #explorelyon #Lyon #lyonstreetart #streeartlyon #petiteguerriere #amazone #skull #urban #urbanart #artderue #poesieurbaine", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-04/1529752486163714941_2000118195.json", 
-                "instagramcode": "BU6xcf8DxN9", 
-                "post_date": "2017-06-04 14:52:08", 
                 "validated": false
             }
         }, 
@@ -2050,44 +2000,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565433404965668064_3160895409.json", 
                 "instagramcode": "BW5iWNGgkTg", 
                 "post_date": "2017-07-23 20:23:45", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXbJVX0gtiB", 
-                "originally_localized": true, 
-                "author": "missacacia4", 
-                "instagramid": "1574893545800784001", 
-                "timestamp": 1501961962, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.34.1080.1080/20583221_1457504377666029_7035353393753227264_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "missacacia4", 
-                    "timestamp": 1501961962, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20583221_1457504377666029_7035353393753227264_n.jpg", 
-                    "authorid": "27141883", 
-                    "location": {
-                        "slug": "rue-burdeau", 
-                        "has_public_page": true, 
-                        "name": "Rue Burdeau", 
-                        "id": "317128549"
-                    }, 
-                    "id": "1574893545800784001"
-                }, 
-                "caption": "Croiser de jolis monstres... \u2764\ufe0f#arturbain #streetartlyon #streetart #graffiti #coupdecoeur #capphi", 
-                "authorid": "27141883", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-05/1574893545800784001_27141883.json", 
-                "instagramcode": "BXbJVX0gtiB", 
-                "post_date": "2017-08-05 21:39:22", 
                 "validated": false
             }
         }, 
