@@ -916,22 +916,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.8320114, 
+                    45.7578137
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-08-07 14:13:55", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-07/1576179290599388957_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20634721_118998165416135_6288400152243732480_n.jpg", 
+                "originURL": "https://www.instagram.com/p/BWO8P2Hg1nw", 
+                "originally_localized": true, 
+                "author": "cyril.pop", 
+                "instagramid": "1553443893180324336", 
+                "timestamp": 1499404964, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19764748_1739879392972106_8594814782949818368_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BXftra-gPcd/", 
-                "caption": "Des #munitions pour un #nouveau #jeu #arturbain \u00e0 #lisboa #lisbonne pour #mise en #situation de nos #yeux (#balles  #pingpong ) avec les #enfants", 
-                "validated": false, 
-                "id": "1576179290599388957_29177514"
+                "insta_infos": {
+                    "author": "cyril.pop", 
+                    "timestamp": 1499404964, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764748_1739879392972106_8594814782949818368_n.jpg", 
+                    "authorid": "3429099141", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1553443893180324336"
+                }, 
+                "caption": "Youpi c'est les vacances ^^. Merci @cap_phi\nPour cette chasse aux tr\u00e9sors dans les #pentesdelacroixrousse \n#streetart #cap_phi #capphi #lyon #xrousse #croixrousse #xroussemonamour #bloginlyon #monlyon #mylyon #lyon #lebonbonlyon #grandlyon #ilovelyon #ilovetcl", 
+                "authorid": "3429099141", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-07/1553443893180324336_3429099141.json", 
+                "instagramcode": "BWO8P2Hg1nw", 
+                "post_date": "2017-07-07 07:22:44", 
+                "validated": false
             }
         }, 
         {
@@ -1052,37 +1068,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.818255901336671, 
+                    45.72707155766162
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BWO8P2Hg1nw", 
+                "originURL": "https://www.instagram.com/p/BVOoM38hyyu", 
                 "originally_localized": true, 
-                "author": "cyril.pop", 
-                "instagramid": "1553443893180324336", 
-                "timestamp": 1499404964, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19764748_1739879392972106_8594814782949818368_n.jpg", 
+                "author": "lepelicanquisemarrait", 
+                "instagramid": "1535341329545374894", 
+                "timestamp": 1497246970, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950015_400679646993795_7116998712005492736_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "cyril.pop", 
-                    "timestamp": 1499404964, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764748_1739879392972106_8594814782949818368_n.jpg", 
-                    "authorid": "3429099141", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1553443893180324336"
+                    "author": "lepelicanquisemarrait", 
+                    "timestamp": 1497246970, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18950015_400679646993795_7116998712005492736_n.jpg", 
+                    "authorid": "5533275959", 
+                    "location": null, 
+                    "id": "1535341329545374894"
                 }, 
-                "caption": "Youpi c'est les vacances ^^. Merci @cap_phi\nPour cette chasse aux tr\u00e9sors dans les #pentesdelacroixrousse \n#streetart #cap_phi #capphi #lyon #xrousse #croixrousse #xroussemonamour #bloginlyon #monlyon #mylyon #lyon #lebonbonlyon #grandlyon #ilovelyon #ilovetcl", 
-                "authorid": "3429099141", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-07/1553443893180324336_3429099141.json", 
-                "instagramcode": "BWO8P2Hg1nw", 
-                "post_date": "2017-07-07 07:22:44", 
+                "caption": "#collage de @cap_phi #streetartlyon #muraldaily #graffiti #streetart #capphi #pasteup #map_phi #lyon", 
+                "authorid": "5533275959", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-12/1535341329545374894_5533275959.json", 
+                "instagramcode": "BVOoM38hyyu", 
+                "post_date": "2017-06-12 07:56:10", 
                 "validated": false
             }
         }, 
@@ -1590,39 +1601,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-22/1564403201342474130_54122886.json", 
                 "instagramcode": "BW14GxNgIeS", 
                 "post_date": "2017-07-22 10:16:55", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818255901336671, 
-                    45.72707155766162
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVOoM38hyyu", 
-                "originally_localized": true, 
-                "author": "lepelicanquisemarrait", 
-                "instagramid": "1535341329545374894", 
-                "timestamp": 1497246970, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950015_400679646993795_7116998712005492736_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lepelicanquisemarrait", 
-                    "timestamp": 1497246970, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18950015_400679646993795_7116998712005492736_n.jpg", 
-                    "authorid": "5533275959", 
-                    "location": null, 
-                    "id": "1535341329545374894"
-                }, 
-                "caption": "#collage de @cap_phi #streetartlyon #muraldaily #graffiti #streetart #capphi #pasteup #map_phi #lyon", 
-                "authorid": "5533275959", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-12/1535341329545374894_5533275959.json", 
-                "instagramcode": "BVOoM38hyyu", 
-                "post_date": "2017-06-12 07:56:10", 
                 "validated": false
             }
         }, 
