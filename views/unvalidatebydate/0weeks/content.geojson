@@ -55,6 +55,44 @@
                 "post_date": "2017-08-19 18:48:28", 
                 "validated": false
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BYGj3NJgYtP", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1587113644011916111", 
+                "timestamp": 1503418711, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c176.0.728.728/20905731_129390521013995_5370185085511270400_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1503418711, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20905731_129390521013995_5370185085511270400_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1587113644011916111"
+                }, 
+                "caption": "Monster de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawaii #monster", 
+                "authorid": "54122886", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-22/1587113644011916111_54122886.json", 
+                "instagramcode": "BYGj3NJgYtP", 
+                "post_date": "2017-08-22 18:18:31", 
+                "validated": false
+            }
         }
     ]
 }
