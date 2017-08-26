@@ -196,8 +196,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818883538246156, 
-                    45.72686184974921
+                    4.822397232055665, 
+                    45.73910597470679
                 ]
             }, 
             "type": "Feature", 
@@ -336,44 +336,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-04/1573992649818548273_547668977.json", 
                 "instagramcode": "BXX8fnDgqgx", 
                 "post_date": "2017-08-04 15:49:27", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.830100536346436, 
-                    45.77630115434912
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXX-g69gMQo", 
-                "originally_localized": true, 
-                "author": "tazwallace", 
-                "instagramid": "1574001536005096488", 
-                "timestamp": 1501855626, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20589479_332528710485944_800476672980680704_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "tazwallace", 
-                    "timestamp": 1501855626, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20589479_332528710485944_800476672980680704_n.jpg", 
-                    "authorid": "547668977", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1574001536005096488"
-                }, 
-                "caption": "So cute #bernardlhermite #kawaii #bigeyes #collage #streetart #urbanart #capphi", 
-                "authorid": "547668977", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-04/1574001536005096488_547668977.json", 
-                "instagramcode": "BXX-g69gMQo", 
-                "post_date": "2017-08-04 16:07:06", 
                 "validated": false
             }
         }, 
@@ -528,8 +490,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831624, 
-                    45.769708
+                    4.833372831344605, 
+                    45.769573575731506
                 ]
             }, 
             "type": "Feature", 
@@ -604,8 +566,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832063913345338, 
-                    45.75788631412846
+                    4.832460880279541, 
+                    45.75910268187804
                 ]
             }, 
             "type": "Feature", 
@@ -812,8 +774,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83275055885315, 
-                    45.7684622123992
+                    4.832707643508912, 
+                    45.76827885403116
                 ]
             }, 
             "type": "Feature", 
@@ -921,8 +883,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833984375000001, 
-                    45.76830130610862
+                    4.833705425262451, 
+                    45.76949125328108
                 ]
             }, 
             "type": "Feature", 
@@ -1161,44 +1123,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832106828689576, 
-                    45.75799859533925
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVc0C_VDY4-", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1539334076510342718", 
-                "timestamp": 1497722943, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19228531_1299921656787143_397780079746220032_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1497722943, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19228531_1299921656787143_397780079746220032_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1539334076510342718"
-                }, 
-                "caption": "@cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-17/1539334076510342718_37664964.json", 
-                "instagramcode": "BVc0C_VDY4-", 
-                "post_date": "2017-06-17 20:09:03", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1221,8 +1145,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.833340644836427, 
+                    45.771743851053024
                 ]
             }, 
             "type": "Feature", 
@@ -1353,8 +1277,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8348426818847665, 
-                    45.76536749142837
+                    4.835379123687745, 
+                    45.765352522590476
                 ]
             }, 
             "type": "Feature", 
