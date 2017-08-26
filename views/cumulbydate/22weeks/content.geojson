@@ -89,30 +89,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830830097198486, 
-                    45.76864369916994
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-15 05:16:09", 
-                "originally_localized": "false", 
-                "marker-color": "#7E7E7E", 
-                "marker-symbol": "", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19985047_1062069113927875_5105856356980621312_n.jpg", 
-                "mustbepublished": "true", 
-                "originURL": "https://www.instagram.com/p/BWjh2mjgQUH/", 
-                "caption": "#4 #deathqueen #amazone #streetart #evilgirl #streetartist #capphi #kawaiiart #flower #hair #kawaii", 
-                "validated": "true", 
-                "id": "1559238783784781063_29177514", 
-                "marker-size": "medium"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834585189819336, 
                     45.77752834479042
                 ]
@@ -181,6 +157,30 @@
                 "instagramcode": "BWkFZgFBuFe", 
                 "post_date": "2017-07-15 12:26:45", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.830830097198486, 
+                    45.76864369916994
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-07-15 05:16:09", 
+                "originally_localized": "false", 
+                "marker-color": "#7E7E7E", 
+                "marker-symbol": "", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19985047_1062069113927875_5105856356980621312_n.jpg", 
+                "mustbepublished": "true", 
+                "originURL": "https://www.instagram.com/p/BWjh2mjgQUH/", 
+                "caption": "#4 #deathqueen #amazone #streetart #evilgirl #streetartist #capphi #kawaiiart #flower #hair #kawaii", 
+                "validated": "true", 
+                "id": "1559238783784781063_29177514", 
+                "marker-size": "medium"
             }
         }, 
         {
@@ -924,26 +924,6 @@
                 "caption": "#quetzalcoatl #dragon #serpent #plume #streetart #urbanartist #capphi #kawaiiart #kawaiigirl #streetstyle #lyon #croixrousse", 
                 "validated": true, 
                 "id": "1497650408007854356_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832653999328613, 
-                    45.76854640736626
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-03-18 05:35:23", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/17265828_2261131797446304_190577156441505792_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BRxJdU7hX5R/", 
-                "caption": "Jusqu'au bout du #doigt ... #hey #littlespider #fuck #urbanartist #urbanart #urbanpoetry #coloryourcity #kawaii #kawaiiart #streetart #streethumor #geekart", 
-                "validated": true, 
-                "id": "1473000150883728977_29177514"
             }
         }
     ]
