@@ -381,8 +381,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.830100536346436, 
+                    45.77630115434912
                 ]
             }, 
             "type": "Feature", 
@@ -559,44 +559,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565222183206465706_517763490.json", 
                 "instagramcode": "BW4yUhglTCq", 
                 "post_date": "2017-07-23 13:24:06", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832149744033814, 
-                    45.77819617945997
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW487E8AWJo", 
-                "originally_localized": true, 
-                "author": "my_urbanitudes", 
-                "instagramid": "1565268813052732008", 
-                "timestamp": 1500814604, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20213942_333088697117822_7166399395779313664_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "my_urbanitudes", 
-                    "timestamp": 1500814604, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20213942_333088697117822_7166399395779313664_n.jpg", 
-                    "authorid": "1218180784", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1565268813052732008"
-                }, 
-                "caption": "Belle \u00e0 cornes \u2763\ufe0f by #capphi \u2716\ufe0f #mesurbanitudes  #lyon #france #onlylyon #monlyon #villedelyon #streetartlyon #streetart #streetphoto #urbanart #urbanwalls #streetartistry #dsb_graff #igerslyon #graphic #urbanexploration #streetarteverywhere #urbanexploration  #aura_focus_on #art #jj_urbanart #be_one_urbanart", 
-                "authorid": "1218180784", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565268813052732008_1218180784.json", 
-                "instagramcode": "BW487E8AWJo", 
-                "post_date": "2017-07-23 14:56:44", 
                 "validated": false
             }
         }, 
@@ -1339,44 +1301,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-18/1539765050599229589_5533275959.json", 
                 "instagramcode": "BVeWCfOh0iV", 
                 "post_date": "2017-06-18 10:25:19", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831178784370423, 
-                    45.77779398306798
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVpm2fmj8Ty", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1542935217903224050", 
-                "timestamp": 1498152232, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1498152232, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1542935217903224050"
-                }, 
-                "caption": "Pas de cuisine aujourd'hui sur le blog (f\u00e9trocho) mais une petite histoire que ma inspir\u00e9e la derni\u00e8re cr\u00e9ature (cr\u00e9ation) de @cap_phi\ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-22/1542935217903224050_2876693898.json", 
-                "instagramcode": "BVpm2fmj8Ty", 
-                "post_date": "2017-06-22 19:23:52", 
                 "validated": false
             }
         }, 
