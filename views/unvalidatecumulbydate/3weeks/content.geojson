@@ -98,44 +98,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832385778427125, 
-                    45.75784140158087
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BYGj3NJgYtP", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1587113644011916111", 
-                "timestamp": 1503418711, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c176.0.728.728/20905731_129390521013995_5370185085511270400_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1503418711, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20905731_129390521013995_5370185085511270400_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1587113644011916111"
-                }, 
-                "caption": "Monster de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawaii #monster", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-22/1587113644011916111_54122886.json", 
-                "instagramcode": "BYGj3NJgYtP", 
-                "post_date": "2017-08-22 18:18:31", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -196,39 +158,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.822397232055665, 
-                    45.73910597470679
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXlXRBtFN6W", 
-                "originally_localized": true, 
-                "author": "verophotographie", 
-                "instagramid": "1577769569594171030", 
-                "timestamp": 1502304811, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c121.0.837.837/20759519_163090500930915_1388375571733413888_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "verophotographie", 
-                    "timestamp": 1502304811, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20759519_163090500930915_1388375571733413888_n.jpg", 
-                    "authorid": "5801321109", 
-                    "location": null, 
-                    "id": "1577769569594171030"
-                }, 
-                "caption": "#streetart #street #art #wall #collage  #drawing #monster #fuck #capphi #lyon #olympus #freaky #littlemonster", 
-                "authorid": "5801321109", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-09/1577769569594171030_5801321109.json", 
-                "instagramcode": "BXlXRBtFN6W", 
-                "post_date": "2017-08-09 20:53:31", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832278490066529, 
                     45.75769543555157
                 ]
@@ -260,44 +189,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-07/1576274123485800451_54122886.json", 
                 "instagramcode": "BXgDPa_AugD", 
                 "post_date": "2017-08-07 19:22:20", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831790328025819, 
-                    45.757676721930444
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXQ5jZgA5-k", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1572009391165775780", 
-                "timestamp": 1501618144, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20482708_1270827129709462_2384622205595025408_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1501618144, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20482708_1270827129709462_2384622205595025408_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1572009391165775780"
-                }, 
-                "caption": "Monster de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawai #monster", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-01/1572009391165775780_54122886.json", 
-                "instagramcode": "BXQ5jZgA5-k", 
-                "post_date": "2017-08-01 22:09:04", 
                 "validated": false
             }
         }, 

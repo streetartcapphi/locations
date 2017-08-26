@@ -38,44 +38,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832031726837159, 
-                    45.75748958537412
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWO8P2Hg1nw", 
-                "originally_localized": true, 
-                "author": "cyril.pop", 
-                "instagramid": "1553443893180324336", 
-                "timestamp": 1499404964, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19764748_1739879392972106_8594814782949818368_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cyril.pop", 
-                    "timestamp": 1499404964, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764748_1739879392972106_8594814782949818368_n.jpg", 
-                    "authorid": "3429099141", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1553443893180324336"
-                }, 
-                "caption": "Youpi c'est les vacances ^^. Merci @cap_phi\nPour cette chasse aux tr\u00e9sors dans les #pentesdelacroixrousse \n#streetart #cap_phi #capphi #lyon #xrousse #croixrousse #xroussemonamour #bloginlyon #monlyon #mylyon #lyon #lebonbonlyon #grandlyon #ilovelyon #ilovetcl", 
-                "authorid": "3429099141", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-07/1553443893180324336_3429099141.json", 
-                "instagramcode": "BWO8P2Hg1nw", 
-                "post_date": "2017-07-07 07:22:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833705425262451, 
                     45.76949125328108
                 ]
