@@ -174,43 +174,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832804203033448, 
-                    45.76854079437242
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BU8pJpPjfKF", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1530278956065747589", 
-                "timestamp": 1496643488, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18888767_278326239240501_8580760185373458432_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1496643488, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18888767_278326239240501_8580760185373458432_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": {
-                        "slug": "rue-sainte-catherine-lyon", 
-                        "has_public_page": true, 
-                        "name": "Rue Sainte-Catherine (Lyon)", 
-                        "id": "252840943"
-                    }, 
-                    "id": "1530278956065747589"
-                }, 
-                "caption": "Allez en route pour une nouvelle semaine de boulot #capphi #map_phi #streetart #monster #littlemonster #streearteverywhere #up #levelup #lyonstreetart #streetartlyon #Lyon #terreaux #terreauxlyon #igerlyon #onlylyon #collage #urban #urbanart #artderue", 
-                "authorid": "2000118195", 
-                "instagramcode": "BU8pJpPjfKF", 
-                "post_date": "2017-06-05 08:18:08", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83449935913086, 
                     45.77626373958218
                 ]
