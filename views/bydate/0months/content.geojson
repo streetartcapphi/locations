@@ -63,38 +63,6 @@
                 "validated": true, 
                 "id": "1583288291183276451_29177514"
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832868576049806, 
-                    45.7673134061515
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXlXRBtFN6W", 
-                "originally_localized": true, 
-                "author": "verophotographie", 
-                "instagramid": "1577769569594171030", 
-                "timestamp": 1502304811, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c121.0.837.837/20759519_163090500930915_1388375571733413888_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "verophotographie", 
-                    "timestamp": 1502304811, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20759519_163090500930915_1388375571733413888_n.jpg", 
-                    "authorid": "5801321109", 
-                    "location": null, 
-                    "id": "1577769569594171030"
-                }, 
-                "caption": "#streetart #street #art #wall #collage  #drawing #monster #fuck #capphi #lyon #olympus #freaky #littlemonster", 
-                "authorid": "5801321109", 
-                "instagramcode": "BXlXRBtFN6W", 
-                "post_date": "2017-08-09 20:53:31", 
-                "validated": true
-            }
         }
     ]
 }
