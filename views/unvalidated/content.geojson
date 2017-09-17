@@ -208,37 +208,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818681031465531, 
-                    45.72651826410184
+                    4.8287408, 
+                    45.7766432
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BXX8fnDgqgx", 
+                "originURL": "https://www.instagram.com/p/BZHGY6gF87D", 
                 "originally_localized": true, 
-                "author": "tazwallace", 
-                "instagramid": "1573992649818548273", 
-                "timestamp": 1501854567, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20589436_1431725610274889_7014553532858630144_n.jpg", 
+                "author": "bbaabs", 
+                "instagramid": "1605279892542836419", 
+                "timestamp": 1505584297, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.17.1080.1080/21827868_273133363194695_2605768452463394816_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "tazwallace", 
-                    "timestamp": 1501854567, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20589436_1431725610274889_7014553532858630144_n.jpg", 
-                    "authorid": "547668977", 
+                    "author": "bbaabs", 
+                    "timestamp": 1505584297, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21827868_273133363194695_2605768452463394816_n.jpg", 
+                    "authorid": "34904985", 
                     "location": {
-                        "slug": "rue-rene-leynaud", 
+                        "slug": "croix-rousse", 
                         "has_public_page": true, 
-                        "name": "Rue Ren\u00e9-Leynaud", 
-                        "id": "238091071"
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
                     }, 
-                    "id": "1573992649818548273"
+                    "id": "1605279892542836419"
                 }, 
-                "caption": "Petit monstre #monstre #sirene #hame\u00e7on #streetart #urbanart #collage #capphi", 
-                "authorid": "547668977", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-04/1573992649818548273_547668977.json", 
-                "instagramcode": "BXX8fnDgqgx", 
-                "post_date": "2017-08-04 15:49:27", 
+                "caption": "#lyon #croixrousse #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605279892542836419_34904985.json", 
+                "instagramcode": "BZHGY6gF87D", 
+                "post_date": "2017-09-16 19:51:37", 
                 "validated": false
             }
         }, 
@@ -279,32 +279,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81852948665619, 
-                    45.72682065703105
+                    4.8287408, 
+                    45.7766432
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
+                "originURL": "https://www.instagram.com/p/BZHGgWyFHhm", 
                 "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1523420170302630299", 
-                "timestamp": 1495825857, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
+                "author": "bbaabs", 
+                "instagramid": "1605280403945715814", 
+                "timestamp": 1505584358, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1495825857, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1523420170302630299"
+                    "author": "bbaabs", 
+                    "timestamp": 1505584358, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605280403945715814"
                 }, 
-                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
-                "instagramcode": "BUkRpLOjamb", 
-                "post_date": "2017-05-26 21:10:57", 
+                "caption": "#lyon #croixrousse #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605280403945715814_34904985.json", 
+                "instagramcode": "BZHGgWyFHhm", 
+                "post_date": "2017-09-16 19:52:38", 
                 "validated": false
             }
         }, 
@@ -419,6 +424,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-04/1529765385409572583_5533275959.json", 
                 "instagramcode": "BU60YNTBq7n", 
                 "post_date": "2017-06-04 15:17:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81852948665619, 
+                    45.72682065703105
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1523420170302630299", 
+                "timestamp": 1495825857, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1495825857, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1523420170302630299"
+                }, 
+                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
+                "instagramcode": "BUkRpLOjamb", 
+                "post_date": "2017-05-26 21:10:57", 
                 "validated": false
             }
         }, 
@@ -693,6 +731,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-12/1602339860575116690_5023232688.json", 
                 "instagramcode": "BY8p50XB12S", 
                 "post_date": "2017-09-12 18:30:18", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHHp5ClyXi", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1605285457251739106", 
+                "timestamp": 1505584960, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.107.1080.1080/21819646_128780034525961_421672067985833984_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1505584960, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21819646_128780034525961_421672067985833984_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605285457251739106"
+                }, 
+                "caption": "#croixrousse #lyon #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605285457251739106_34904985.json", 
+                "instagramcode": "BZHHp5ClyXi", 
+                "post_date": "2017-09-16 20:02:40", 
                 "validated": false
             }
         }, 
@@ -1101,6 +1177,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-08/1554207898782087975_54122886.json", 
                 "instagramcode": "BWRp9lyAzsn", 
                 "post_date": "2017-07-08 08:40:41", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818681031465531, 
+                    45.72651826410184
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BXX8fnDgqgx", 
+                "originally_localized": true, 
+                "author": "tazwallace", 
+                "instagramid": "1573992649818548273", 
+                "timestamp": 1501854567, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20589436_1431725610274889_7014553532858630144_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "tazwallace", 
+                    "timestamp": 1501854567, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20589436_1431725610274889_7014553532858630144_n.jpg", 
+                    "authorid": "547668977", 
+                    "location": {
+                        "slug": "rue-rene-leynaud", 
+                        "has_public_page": true, 
+                        "name": "Rue Ren\u00e9-Leynaud", 
+                        "id": "238091071"
+                    }, 
+                    "id": "1573992649818548273"
+                }, 
+                "caption": "Petit monstre #monstre #sirene #hame\u00e7on #streetart #urbanart #collage #capphi", 
+                "authorid": "547668977", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-04/1573992649818548273_547668977.json", 
+                "instagramcode": "BXX8fnDgqgx", 
+                "post_date": "2017-08-04 15:49:27", 
                 "validated": false
             }
         }, 
