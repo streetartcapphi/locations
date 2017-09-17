@@ -5,6 +5,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.83156, 
+                    45.7706
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-17 08:24:52", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-09-17/1605719416836845926_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688598_479398165749707_4099595079155449856_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZIqU1ZgfFm/", 
+                "caption": "#eden quand la #vie l'emporte sur le #mort #suicide ...#streetart #urbanart #capphi #croixrousse #petite #amazone", 
+                "validated": false, 
+                "id": "1605719416836845926_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
