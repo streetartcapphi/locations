@@ -749,32 +749,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81852948665619, 
-                    45.72682065703105
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
+                "originURL": "https://www.instagram.com/p/BZGvw5dgoSd", 
                 "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1523420170302630299", 
-                "timestamp": 1495825857, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
+                "author": "delboulbes_m", 
+                "instagramid": "1605180385623442589", 
+                "timestamp": 1505572435, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c35.0.1009.1009/21577091_114962269197911_3800619141505744896_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1495825857, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
-                    "authorid": "2000118195", 
+                    "author": "delboulbes_m", 
+                    "timestamp": 1505572435, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21577091_114962269197911_3800619141505744896_n.jpg", 
+                    "authorid": "2374356033", 
                     "location": null, 
-                    "id": "1523420170302630299"
+                    "id": "1605180385623442589"
                 }, 
-                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
-                "instagramcode": "BUkRpLOjamb", 
-                "post_date": "2017-05-26 21:10:57", 
+                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #arteurbano #artederua #urbanart #jj_urbanart #street_art_community #lyon", 
+                "authorid": "2374356033", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605180385623442589_2374356033.json", 
+                "instagramcode": "BZGvw5dgoSd", 
+                "post_date": "2017-09-16 16:33:55", 
                 "validated": false
             }
         }, 
@@ -1540,6 +1540,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZBUGfiA_tW", 
+                "originally_localized": true, 
+                "author": "delboulbes_m", 
+                "instagramid": "1603651349424372566", 
+                "timestamp": 1505390159, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "delboulbes_m", 
+                    "timestamp": 1505390159, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
+                    "authorid": "2374356033", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1603651349424372566"
+                }, 
+                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #jj_urbanart #street_art_community", 
+                "authorid": "2374356033", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-14/1603651349424372566_2374356033.json", 
+                "instagramcode": "BZBUGfiA_tW", 
+                "post_date": "2017-09-14 13:55:59", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.832106828689576, 
                     45.75764678012361
                 ]
@@ -1757,6 +1795,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565433404965668064_3160895409.json", 
                 "instagramcode": "BW5iWNGgkTg", 
                 "post_date": "2017-07-23 20:23:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81852948665619, 
+                    45.72682065703105
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1523420170302630299", 
+                "timestamp": 1495825857, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1495825857, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1523420170302630299"
+                }, 
+                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
+                "instagramcode": "BUkRpLOjamb", 
+                "post_date": "2017-05-26 21:10:57", 
                 "validated": false
             }
         }, 
