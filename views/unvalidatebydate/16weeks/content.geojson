@@ -5,6 +5,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.830444, 
+                    45.769117
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-31 15:36:00", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-31/1526935853522739590_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/", 
+                "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
+                "validated": false, 
+                "id": "1526935853522739590_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818589836359024, 
                     45.72655664843437
                 ]
