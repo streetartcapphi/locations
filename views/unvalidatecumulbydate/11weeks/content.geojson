@@ -148,44 +148,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHHp5ClyXi", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1605285457251739106", 
-                "timestamp": 1505584960, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.107.1080.1080/21819646_128780034525961_421672067985833984_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1505584960, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21819646_128780034525961_421672067985833984_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605285457251739106"
-                }, 
-                "caption": "#croixrousse #lyon #onlylyon #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605285457251739106_34904985.json", 
-                "instagramcode": "BZHHp5ClyXi", 
-                "post_date": "2017-09-16 20:02:40", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -518,6 +480,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605180385623442589_2374356033.json", 
                 "instagramcode": "BZGvw5dgoSd", 
                 "post_date": "2017-09-16 16:33:55", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHHp5ClyXi", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1605285457251739106", 
+                "timestamp": 1505584960, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.107.1080.1080/21819646_128780034525961_421672067985833984_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1505584960, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21819646_128780034525961_421672067985833984_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605285457251739106"
+                }, 
+                "caption": "#croixrousse #lyon #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605285457251739106_34904985.json", 
+                "instagramcode": "BZHHp5ClyXi", 
+                "post_date": "2017-09-16 20:02:40", 
                 "validated": false
             }
         }, 
