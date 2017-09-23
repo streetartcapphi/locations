@@ -917,28 +917,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    -9.13333, 
-                    38.7167
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-08-19 21:56:26", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-19/1585109398622110756_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20904996_973925759417160_4922476272942055424_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BX_cJmLAQQk/", 
-                "caption": "#belletrouvaille #dujour #osgemos #lisboa #lisbonne #vacances", 
-                "validated": false, 
-                "id": "1585109398622110756_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -993,6 +971,28 @@
                 "caption": "#belletrouvaille #dujour #vhils #lisboa #lisbonne #vacances", 
                 "validated": false, 
                 "id": "1581142877726232882_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.13333, 
+                    38.7167
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-08-19 21:56:26", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-08-19/1585109398622110756_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20904996_973925759417160_4922476272942055424_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BX_cJmLAQQk/", 
+                "caption": "#belletrouvaille #dujour #osgemos #lisboa #lisbonne #vacances", 
+                "validated": false, 
+                "id": "1585109398622110756_29177514"
             }
         }, 
         {
