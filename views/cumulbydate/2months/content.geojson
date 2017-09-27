@@ -26,6 +26,111 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.831979423761369, 
+                    45.77278312109887
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-27 05:54:31", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22070820_740559469467729_6804456226798174208_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZiJEUag7RI/", 
+                "caption": "#eden #arbredevie petite #amazone #rayon de #soleil #capphi #streetart #urbanart #croixrousse", 
+                "validated": true, 
+                "id": "1612891495768241224_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831409454345704, 
+                    45.77033692357576
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-18 05:51:19", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21819580_874091792796730_1720506655453478912_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZK9jEZgRAP/", 
+                "caption": "#serpent quand tu me tentes #eden #petite  #amazone #croixroussienne #capphi #collage #urbanartist #streetart #flower", 
+                "validated": true, 
+                "id": "1606366907852722191_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8183631896972665, 
+                    45.77153431091206
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-21 06:13:18", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827018_604875943235102_1789537354109681664_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZSucrSgZS4/", 
+                "caption": "#\u00c9den #arbredevie #flower #skull #heart #collage #capphi #urbanartist #streetart #croixrousse", 
+                "validated": true, 
+                "id": "1608552297690928312_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834456443786622, 
+                    45.77515625111101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-19 06:02:00", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827596_1579939542086066_488525819518386176_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZNjkPiAi1J/", 
+                "caption": "#eden #petite #amazone #arbredevie ou la #tentation du #serpent #flowers #girl #capphi #urbanart #croixrousse", 
+                "validated": true, 
+                "id": "1607097064246881609_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.829531908035279, 
+                    45.76908712312587
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-15 12:22:18", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21576577_130791460807003_7570680204880773120_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZD76CUAxyV/", 
+                "caption": "#eden #petite #amazone #vegetal #environmentallyfriendly #streetart #capphi #urbanartist #croixrousse", 
+                "validated": true, 
+                "id": "1604389365231066261_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.833769798278809, 
                     45.769842993810634
                 ]
@@ -56,6 +161,154 @@
                 "authorid": "3644722472", 
                 "instagramcode": "BZbU8p8Flq1", 
                 "post_date": "2017-09-24 16:23:38", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833855628967286, 
+                    45.774856926127036
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHHp5ClyXi", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1605285457251739106", 
+                "timestamp": 1505584960, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.107.1080.1080/21819646_128780034525961_421672067985833984_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1505584960, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21819646_128780034525961_421672067985833984_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605285457251739106"
+                }, 
+                "caption": "#croixrousse #lyon #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "instagramcode": "BZHHp5ClyXi", 
+                "post_date": "2017-09-16 20:02:40", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832023680210114, 
+                    45.773107713624945
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZDPrPhDCcE", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1604194834569766660", 
+                "timestamp": 1505454948, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690566_1448909818524831_3108338991133360128_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1505454948, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690566_1448909818524831_3108338991133360128_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1604194834569766660"
+                }, 
+                "caption": "Prem's !!!! Yess les amazones de @cap_phi sont de retour \ud83d\ude0d\u2764\ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #amazon #beautyqueen #fantasy #artephemere #beauty #commeunedingue", 
+                "authorid": "2876693898", 
+                "instagramcode": "BZDPrPhDCcE", 
+                "post_date": "2017-09-15 07:55:48", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831924438476563, 
+                    45.770591370535584
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZDRDPBj7YT", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1604200881355470355", 
+                "timestamp": 1505455669, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.608.608/21576471_355349584887699_5087426055313031168_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1505455669, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21576471_355349584887699_5087426055313031168_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1604200881355470355"
+                }, 
+                "caption": "Et de deux ! Belle brochette \u2764. @cap_phi n'a pas ch\u00f4m\u00e9 cette nuit \ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #beautyqueen #fantasy #artephemere #beauty", 
+                "authorid": "2876693898", 
+                "instagramcode": "BZDRDPBj7YT", 
+                "post_date": "2017-09-15 08:07:49", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZD9vZYDQjt", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1604397430173665517", 
+                "timestamp": 1505479099, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.608.608/21689251_1559130574179252_6145544055305535488_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1505479099, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21689251_1559130574179252_6145544055305535488_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1604397430173665517"
+                }, 
+                "caption": "Et de trois !  Merci @cap_phi \n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #amazon #beautyqueen #fantasy #artephemere #beauty #commeunedingue", 
+                "authorid": "2876693898", 
+                "instagramcode": "BZD9vZYDQjt", 
+                "post_date": "2017-09-15 14:38:19", 
                 "validated": true
             }
         }, 
@@ -393,6 +646,43 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.832611083984376, 
+                    45.759656588250984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BW14GxNgIeS", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1564403201342474130", 
+                "timestamp": 1500711415, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.57.1080.1080/20066839_323227061439009_1623339961048629248_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1500711415, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20066839_323227061439009_1623339961048629248_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1564403201342474130"
+                }, 
+                "caption": "Monster de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawai #monster", 
+                "authorid": "54122886", 
+                "instagramcode": "BW14GxNgIeS", 
+                "post_date": "2017-07-22 10:16:55", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.832149073481561, 
                     45.778206000498386
                 ]
@@ -571,6 +861,117 @@
                 "authorid": "2876693898", 
                 "instagramcode": "BWaXR9pjW5A", 
                 "post_date": "2017-07-11 17:50:36", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832707643508912, 
+                    45.76827885403116
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWW05TBgBGt", 
+                "originally_localized": true, 
+                "author": "julia_couplan", 
+                "instagramid": "1555663357158101421", 
+                "timestamp": 1499669545, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19932604_1153630254738095_92073674940612608_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "julia_couplan", 
+                    "timestamp": 1499669545, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19932604_1153630254738095_92073674940612608_n.jpg", 
+                    "authorid": "1687942178", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1555663357158101421"
+                }, 
+                "caption": "Nice fucking monster by @cap_phi ! \n#streetart #artderue #art #lyon #capphi #monster #wallart #urbanart #cityart #instastreetart #streetartist", 
+                "authorid": "1687942178", 
+                "instagramcode": "BWW05TBgBGt", 
+                "post_date": "2017-07-10 08:52:25", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831543564796449, 
+                    45.770557693798736
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWrcm0CgUPR", 
+                "originally_localized": true, 
+                "author": "julia_couplan", 
+                "instagramid": "1561467508333036497", 
+                "timestamp": 1500361454, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20184519_1575250032524865_8141745275669577728_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "julia_couplan", 
+                    "timestamp": 1500361454, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184519_1575250032524865_8141745275669577728_n.jpg", 
+                    "authorid": "1687942178", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1561467508333036497"
+                }, 
+                "caption": "An another Monster by @cap_phi\n\n#streetart #streetartist #lyon #capphi #art #artderue #collage #cityart #urbanart #wallart #collage #monster #colorfull #instastreetart", 
+                "authorid": "1687942178", 
+                "instagramcode": "BWrcm0CgUPR", 
+                "post_date": "2017-07-18 09:04:14", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832439422607422, 
+                    45.76901976781533
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWRp9lyAzsn", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1554207898782087975", 
+                "timestamp": 1499496041, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932699_649417001920488_5706008050104532992_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1499496041, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19932699_649417001920488_5706008050104532992_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1554207898782087975"
+                }, 
+                "caption": "Une des si mignonne petite Amazone de @cap_phi rencontr\u00e9e sur les pentes\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #montre", 
+                "authorid": "54122886", 
+                "instagramcode": "BWRp9lyAzsn", 
+                "post_date": "2017-07-08 08:40:41", 
                 "validated": true
             }
         }
