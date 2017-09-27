@@ -71,8 +71,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8294118, 
-                    45.7692245
+                    4.829531908035279, 
+                    45.76908712312587
                 ]
             }, 
             "type": "Feature", 
@@ -224,30 +224,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83156, 
-                    45.7706
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-09-17 08:24:52", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-09-17/1605719416836845926_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688598_479398165749707_4099595079155449856_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BZIqU1ZgfFm/", 
-                "caption": "#eden quand la #vie l'emporte sur le #mort #suicide ...#streetart #urbanart #capphi #croixrousse #petite #amazone", 
-                "validated": false, 
-                "id": "1605719416836845926_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83205, 
-                    45.7748
+                    4.8183631896972665, 
+                    45.77153431091206
                 ]
             }, 
             "type": "Feature", 
@@ -268,22 +246,33 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830444, 
-                    45.769117
+                    4.81852948665619, 
+                    45.72682065703105
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-05-31 15:36:00", 
+                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
                 "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-05-31/1526935853522739590_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809443_217236348788538_2472320799214665728_n.jpg", 
+                "author": "cocottecoralie", 
+                "instagramid": "1523420170302630299", 
+                "timestamp": 1495825857, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUwxBGYB-GG/", 
-                "caption": "Les #jumeaux #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": false, 
-                "id": "1526935853522739590_29177514"
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1495825857, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1523420170302630299"
+                }, 
+                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
+                "instagramcode": "BUkRpLOjamb", 
+                "post_date": "2017-05-26 21:10:57", 
+                "validated": false
             }
         }, 
         {
@@ -579,8 +568,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8281813, 
-                    45.7712813
+                    4.833769798278809, 
+                    45.769842993810634
                 ]
             }, 
             "type": "Feature", 
@@ -825,8 +814,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83205, 
-                    45.7748
+                    4.834456443786622, 
+                    45.77515625111101
                 ]
             }, 
             "type": "Feature", 
@@ -979,8 +968,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.833855628967286, 
+                    45.774856926127036
                 ]
             }, 
             "type": "Feature", 
@@ -1050,8 +1039,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.8320960998535165, 
+                    45.773764376301294
                 ]
             }, 
             "type": "Feature", 
@@ -1458,8 +1447,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833705425262451, 
-                    45.76949125328108
+                    4.832702279090881, 
+                    45.76986170335113
                 ]
             }, 
             "type": "Feature", 
@@ -1950,39 +1939,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81852948665619, 
-                    45.72682065703105
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1523420170302630299", 
-                "timestamp": 1495825857, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1495825857, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1523420170302630299"
-                }, 
-                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
-                "instagramcode": "BUkRpLOjamb", 
-                "post_date": "2017-05-26 21:10:57", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2136,39 +2092,6 @@
                 "caption": "#belletrouvaille #dujour #vhils #lisboa #lisbonne #vacances", 
                 "validated": false, 
                 "id": "1581142877726232882_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.833340644836427, 
-                    45.771743851053024
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVOnq2RB9as", 
-                "originally_localized": true, 
-                "author": "lepelicanquisemarrait", 
-                "instagramid": "1535338991279658668", 
-                "timestamp": 1497246692, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19120987_1917433908469429_6422892848344989696_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lepelicanquisemarrait", 
-                    "timestamp": 1497246692, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19120987_1917433908469429_6422892848344989696_n.jpg", 
-                    "authorid": "5533275959", 
-                    "location": null, 
-                    "id": "1535338991279658668"
-                }, 
-                "caption": "Monstre \u00e0 paillettes de @cap_phi #collage #streetartlyon #muraldaily #graffiti #streetart #lyon #capphi", 
-                "authorid": "5533275959", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-12/1535338991279658668_5533275959.json", 
-                "instagramcode": "BVOnq2RB9as", 
-                "post_date": "2017-06-12 07:51:32", 
-                "validated": false
             }
         }, 
         {
