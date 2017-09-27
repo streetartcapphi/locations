@@ -5,6 +5,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.83156, 
+                    45.7706
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-27 05:54:31", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-09-27/1612891495768241224_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22070820_740559469467729_6804456226798174208_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZiJEUag7RI/", 
+                "caption": "#eden #arbredevie petite #amazone #rayon de #soleil #capphi #streetart #urbanart #croixrousse", 
+                "validated": false, 
+                "id": "1612891495768241224_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.83205, 
                     45.7748
                 ]
@@ -1571,28 +1593,6 @@
                 "instagramcode": "BWR0bASAVJe", 
                 "post_date": "2017-07-08 10:12:04", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-28 07:09:36", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-06-28/1546974699362404776_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19533632_1865197790468707_3978958965458337792_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BV39Ur4A0mo/", 
-                "caption": "#workonprogress #nouvelle #petite #amazone #capphi #urbanartist #streetart", 
-                "validated": false, 
-                "id": "1546974699362404776_29177514"
             }
         }, 
         {
