@@ -5,6 +5,43 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.833769798278809, 
+                    45.769842993810634
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZbU8p8Flq1", 
+                "originally_localized": true, 
+                "author": "silk_bl", 
+                "instagramid": "1610973420845423285", 
+                "timestamp": 1506263018, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.88.1080.1080/21911094_120306602007721_6525091462009323520_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "silk_bl", 
+                    "timestamp": 1506263018, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21911094_120306602007721_6525091462009323520_n.jpg", 
+                    "authorid": "3644722472", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1610973420845423285"
+                }, 
+                "caption": "@cap_phi #lyon #streetartist #capphi #art #streetart #streetartlyon #wall #wallart #urbanartist #urbanart #instaart #instaartist #lyonstreetart #graff #lyongraffiti #colourful #collage #onlylyon #croixrousse #france", 
+                "authorid": "3644722472", 
+                "instagramcode": "BZbU8p8Flq1", 
+                "post_date": "2017-09-24 16:23:38", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.832069277763367, 
                     45.77053150076713
                 ]
@@ -1221,26 +1258,6 @@
                 "caption": "#kawaii #serpent \u00e0 #plumes #ketzacoatl #streetart #urbanartist  #capphi #t0 #map_phi", 
                 "validated": true, 
                 "id": "1523102206868813521_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.833254814147949, 
-                    45.77150437654195
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 16:11:37", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645248_637786619759817_6505826214404423680_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUezh8GB18k/", 
-                "caption": "#quetzacoatl #arrow #plumes #urbanart #streetstyle #capphi #kawaii #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521880356738260772_29177514"
             }
         }, 
         {
