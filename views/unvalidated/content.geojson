@@ -1410,37 +1410,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832718372344972, 
-                    45.757905027679286
+                    4.8287408, 
+                    45.7766432
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BWR0bASAVJe", 
+                "originURL": "https://www.instagram.com/p/BaIrOIyHZik", 
                 "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1554253900566057566", 
-                "timestamp": 1499501524, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
+                "author": "instant_shots_", 
+                "instagramid": "1623737753170450596", 
+                "timestamp": 1507784645, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22429792_1563797350310327_6766080036878417920_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1499501524, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
-                    "authorid": "54122886", 
+                    "author": "instant_shots_", 
+                    "timestamp": 1507784645, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22429792_1563797350310327_6766080036878417920_n.jpg", 
+                    "authorid": "5681253376", 
                     "location": {
-                        "slug": "lyon-france", 
+                        "slug": "croix-rousse", 
                         "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
                     }, 
-                    "id": "1554253900566057566"
+                    "id": "1623737753170450596"
                 }, 
-                "caption": "Lavpetite Amazone au dragon de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #dragon", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-08/1554253900566057566_54122886.json", 
-                "instagramcode": "BWR0bASAVJe", 
-                "post_date": "2017-07-08 10:12:04", 
+                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #lyonrainbow #iglyon", 
+                "authorid": "5681253376", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
+                "instagramcode": "BaIrOIyHZik", 
+                "post_date": "2017-10-12 07:04:05", 
                 "validated": false
             }
         }, 
@@ -1523,6 +1523,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
                 "instagramcode": "BZHFpxWFJDa", 
                 "post_date": "2017-09-16 19:45:11", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832718372344972, 
+                    45.757905027679286
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWR0bASAVJe", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1554253900566057566", 
+                "timestamp": 1499501524, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1499501524, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1554253900566057566"
+                }, 
+                "caption": "Lavpetite Amazone au dragon de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #dragon", 
+                "authorid": "54122886", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-08/1554253900566057566_54122886.json", 
+                "instagramcode": "BWR0bASAVJe", 
+                "post_date": "2017-07-08 10:12:04", 
                 "validated": false
             }
         }, 
