@@ -76,6 +76,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.819044470787049, 
+                    45.72688431849176
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BYVmbcqn548", 
+                "originally_localized": true, 
+                "author": "lisbonstreetarttours", 
+                "instagramid": "1591347055318507068", 
+                "timestamp": 1503923373, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lisbonstreetarttours", 
+                    "timestamp": 1503923373, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                    "authorid": "3447903971", 
+                    "location": {
+                        "slug": "graca-lisbon", 
+                        "has_public_page": true, 
+                        "name": "Gra\u00e7a (Lisbon)", 
+                        "id": "251151033"
+                    }, 
+                    "id": "1591347055318507068"
+                }, 
+                "caption": "whatever comes up\nmade by @cap_phi\n\n#pasteupart #pasteups #capphi - - - - - - -\n#streetcandy #streetfiles #streetartfiles  #streetartphotography  #graffiti_of_our_world #instadaily #igersportugal #instapic #streetart #streetartportugal #streetartutopia\n#streetartnews . #streetarteverywhere\n#streetarttour #visitlisbon #lisbonstreetarttours #arteurbana #urbex #graffitiporn #wallporn #wallartistry #wallart #33thirdmedia #yesyoucanspray #jj_urbanart", 
+                "authorid": "3447903971", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-28/1591347055318507068_3447903971.json", 
+                "instagramcode": "BYVmbcqn548", 
+                "post_date": "2017-08-28 14:29:33", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.82076644897461, 
                     45.73239637690987
                 ]
@@ -1087,37 +1125,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819044470787049, 
-                    45.72688431849176
+                    4.828727245330811, 
+                    45.77674264670355
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BYVmbcqn548", 
+                "originURL": "https://www.instagram.com/p/BaIrOIyHZik", 
                 "originally_localized": true, 
-                "author": "lisbonstreetarttours", 
-                "instagramid": "1591347055318507068", 
-                "timestamp": 1503923373, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                "author": "instant_shots_", 
+                "instagramid": "1623737753170450596", 
+                "timestamp": 1507784645, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22429792_1563797350310327_6766080036878417920_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "lisbonstreetarttours", 
-                    "timestamp": 1503923373, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
-                    "authorid": "3447903971", 
+                    "author": "instant_shots_", 
+                    "timestamp": 1507784645, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22429792_1563797350310327_6766080036878417920_n.jpg", 
+                    "authorid": "5681253376", 
                     "location": {
-                        "slug": "graca-lisbon", 
+                        "slug": "croix-rousse", 
                         "has_public_page": true, 
-                        "name": "Gra\u00e7a (Lisbon)", 
-                        "id": "251151033"
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
                     }, 
-                    "id": "1591347055318507068"
+                    "id": "1623737753170450596"
                 }, 
-                "caption": "whatever comes up\nmade by @cap_phi\n\n#pasteupart #pasteups #capphi - - - - - - -\n#streetcandy #streetfiles #streetartfiles  #streetartphotography  #graffiti_of_our_world #instadaily #igersportugal #instapic #streetart #streetartportugal #streetartutopia\n#streetartnews . #streetarteverywhere\n#streetarttour #visitlisbon #lisbonstreetarttours #arteurbana #urbex #graffitiporn #wallporn #wallartistry #wallart #33thirdmedia #yesyoucanspray #jj_urbanart", 
-                "authorid": "3447903971", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-28/1591347055318507068_3447903971.json", 
-                "instagramcode": "BYVmbcqn548", 
-                "post_date": "2017-08-28 14:29:33", 
+                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #lyonrainbow #iglyon", 
+                "authorid": "5681253376", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
+                "instagramcode": "BaIrOIyHZik", 
+                "post_date": "2017-10-12 07:04:05", 
                 "validated": false
             }
         }, 
@@ -1852,38 +1890,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828727245330811, 
-                    45.77674264670355
+                    4.83156, 
+                    45.7706
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BaIrOIyHZik", 
+                "post_date": "2017-10-25 11:14:43", 
                 "originally_localized": true, 
-                "author": "instant_shots_", 
-                "instagramid": "1623737753170450596", 
-                "timestamp": 1507784645, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22429792_1563797350310327_6766080036878417920_n.jpg", 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-10-25/1633346378514178232_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/22708733_292546651263803_2260589563040759808_n.jpg", 
                 "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "instant_shots_", 
-                    "timestamp": 1507784645, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22429792_1563797350310327_6766080036878417920_n.jpg", 
-                    "authorid": "5681253376", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1623737753170450596"
-                }, 
-                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #lyonrainbow #iglyon", 
-                "authorid": "5681253376", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
-                "instagramcode": "BaIrOIyHZik", 
-                "post_date": "2017-10-12 07:04:05", 
-                "validated": false
+                "originURL": "https://www.instagram.com/p/Baqz-CegiC4/", 
+                "caption": "Tout est dans le #mouvement #octopus #dance #streetart #croixrousse #capephi #urbanart #monster", 
+                "validated": false, 
+                "id": "1633346378514178232_29177514"
             }
         }, 
         {
