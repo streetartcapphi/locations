@@ -1081,6 +1081,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.828727245330811, 
+                    45.77674264670355
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BaIrOIyHZik", 
+                "originally_localized": true, 
+                "author": "instant_shots_", 
+                "instagramid": "1623737753170450596", 
+                "timestamp": 1507784645, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22429792_1563797350310327_6766080036878417920_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "instant_shots_", 
+                    "timestamp": 1507784645, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22429792_1563797350310327_6766080036878417920_n.jpg", 
+                    "authorid": "5681253376", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1623737753170450596"
+                }, 
+                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #lyonrainbow #iglyon", 
+                "authorid": "5681253376", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
+                "instagramcode": "BaIrOIyHZik", 
+                "post_date": "2017-10-12 07:04:05", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1147,37 +1185,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828727245330811, 
-                    45.77674264670355
+                    4.8281813, 
+                    45.7712813
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BaIrOIyHZik", 
+                "originURL": "https://www.instagram.com/p/Bas3dmqjN75", 
                 "originally_localized": true, 
-                "author": "instant_shots_", 
-                "instagramid": "1623737753170450596", 
-                "timestamp": 1507784645, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22429792_1563797350310327_6766080036878417920_n.jpg", 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1633924691767647993", 
+                "timestamp": 1508999023, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.608.608/22710766_485985501784565_1204239307162779648_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "instant_shots_", 
-                    "timestamp": 1507784645, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22429792_1563797350310327_6766080036878417920_n.jpg", 
-                    "authorid": "5681253376", 
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1508999023, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22710766_485985501784565_1204239307162779648_n.jpg", 
+                    "authorid": "2876693898", 
                     "location": {
-                        "slug": "croix-rousse", 
+                        "slug": "pentes-de-la-croix-rousse", 
                         "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
                     }, 
-                    "id": "1623737753170450596"
+                    "id": "1633924691767647993"
                 }, 
-                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #lyonrainbow #iglyon", 
-                "authorid": "5681253376", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
-                "instagramcode": "BaIrOIyHZik", 
-                "post_date": "2017-10-12 07:04:05", 
+                "caption": "Second combo de ouf : @adelsa_bugey et @cap_phi\n\ud83d\ude0d\ud83d\udc4c\ud83d\udc95\ud83d\udc96\ud83d\udc97\ud83d\udc99\ud83d\udc9a\ud83d\udc9f\u2764\n\u00c7a valait le coup de se coucher trop tard \ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #adelsa #coeur #heart #artephemere #commeunedingue", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-26/1633924691767647993_2876693898.json", 
+                "instagramcode": "Bas3dmqjN75", 
+                "post_date": "2017-10-26 08:23:43", 
                 "validated": false
             }
         }, 
