@@ -121,6 +121,44 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://www.instagram.com/p/BasqnDoDdJP", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1633868166734926415", 
+                "timestamp": 1508992285, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22711100_1555061804539648_5148538921629515776_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1508992285, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22711100_1555061804539648_5148538921629515776_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1633868166734926415"
+                }, 
+                "caption": "Je n'ai pas de mots ! Combo de r\u00eave, deux de mes artistes favoris en collab \u2764\ud83d\udc95\ud83d\udc96\ud83d\udc97\ud83d\udc99\ud83d\udc9a\ud83d\udc9fMerci @cap_phi et @o_malley_street_art !\ud83d\udc4c\nEt merci @dedelelacurieuse pour le coup de pouce \ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #omalley #cutemonster #danseuse #artephemere #beauty #commeunedingue", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-26/1633868166734926415_2876693898.json", 
+                "instagramcode": "BasqnDoDdJP", 
+                "post_date": "2017-10-26 06:31:25", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8281813, 
+                    45.7712813
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://www.instagram.com/p/Bas3dmqjN75", 
                 "originally_localized": true, 
                 "author": "epices_fonds_de_placards", 
@@ -1921,44 +1959,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-12/1535341329545374894_5533275959.json", 
                 "instagramcode": "BVOoM38hyyu", 
                 "post_date": "2017-06-12 07:56:10", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.820079803466798, 
-                    45.727318712404795
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUygN9BlCeQ", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1527424919998310288", 
-                "timestamp": 1496303261, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879437_1880707908844603_3982209985118470144_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1496303261, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18879437_1880707908844603_3982209985118470144_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1527424919998310288"
-                }, 
-                "caption": "Reste plus qu'\u00e0 peindre l'autre c\u00f4t\u00e9 \ud83d\ude01\ud83d\ude0bBy @cap_phi #cap_phi #map_phi #monster #collageart #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #onlylyon #croixrousse #pentesdelacroixrousse #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-01/1527424919998310288_810473762.json", 
-                "instagramcode": "BUygN9BlCeQ", 
-                "post_date": "2017-06-01 09:47:41", 
                 "validated": false
             }
         }, 
