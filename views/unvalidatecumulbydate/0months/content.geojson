@@ -474,6 +474,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BbHNTGelikK", 
+                "originally_localized": true, 
+                "author": "vmilsant", 
+                "instagramid": "1641339076430145802", 
+                "timestamp": 1509882886, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/23347793_143463696278349_6591823661672431616_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vmilsant", 
+                    "timestamp": 1509882886, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23347793_143463696278349_6591823661672431616_n.jpg", 
+                    "authorid": "517763490", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1641339076430145802"
+                }, 
+                "caption": "#omalley x #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
+                "authorid": "517763490", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-05/1641339076430145802_517763490.json", 
+                "instagramcode": "BbHNTGelikK", 
+                "post_date": "2017-11-05 12:54:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8281813, 
                     45.7712813
                 ]
