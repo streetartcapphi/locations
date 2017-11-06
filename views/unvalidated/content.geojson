@@ -76,37 +76,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819044470787049, 
-                    45.72688431849176
+                    4.8320114, 
+                    45.7578137
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BYVmbcqn548", 
+                "originURL": "https://www.instagram.com/p/BbKS3lBn4yy", 
                 "originally_localized": true, 
-                "author": "lisbonstreetarttours", 
-                "instagramid": "1591347055318507068", 
-                "timestamp": 1503923373, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                "author": "h.lna", 
+                "instagramid": "1642207998294068402", 
+                "timestamp": 1509986470, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c40.0.999.999/23164719_368416016935149_1151161963879858176_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "lisbonstreetarttours", 
-                    "timestamp": 1503923373, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
-                    "authorid": "3447903971", 
+                    "author": "h.lna", 
+                    "timestamp": 1509986470, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23164719_368416016935149_1151161963879858176_n.jpg", 
+                    "authorid": "1413198960", 
                     "location": {
-                        "slug": "graca-lisbon", 
+                        "slug": "lyon-france", 
                         "has_public_page": true, 
-                        "name": "Gra\u00e7a (Lisbon)", 
-                        "id": "251151033"
+                        "name": "Lyon, France", 
+                        "id": "213168722"
                     }, 
-                    "id": "1591347055318507068"
+                    "id": "1642207998294068402"
                 }, 
-                "caption": "whatever comes up\nmade by @cap_phi\n\n#pasteupart #pasteups #capphi - - - - - - -\n#streetcandy #streetfiles #streetartfiles  #streetartphotography  #graffiti_of_our_world #instadaily #igersportugal #instapic #streetart #streetartportugal #streetartutopia\n#streetartnews . #streetarteverywhere\n#streetarttour #visitlisbon #lisbonstreetarttours #arteurbana #urbex #graffitiporn #wallporn #wallartistry #wallart #33thirdmedia #yesyoucanspray #jj_urbanart", 
-                "authorid": "3447903971", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-28/1591347055318507068_3447903971.json", 
-                "instagramcode": "BYVmbcqn548", 
-                "post_date": "2017-08-28 14:29:33", 
+                "caption": "#streetart by #capphi #streetartiseverywhere #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
+                "authorid": "1413198960", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-06/1642207998294068402_1413198960.json", 
+                "instagramcode": "BbKS3lBn4yy", 
+                "post_date": "2017-11-06 17:41:10", 
                 "validated": false
             }
         }, 
@@ -517,6 +517,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-27/1612936757794568209_54122886.json", 
                 "instagramcode": "BZiTW99g_gR", 
                 "post_date": "2017-09-27 09:24:26", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819044470787049, 
+                    45.72688431849176
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BYVmbcqn548", 
+                "originally_localized": true, 
+                "author": "lisbonstreetarttours", 
+                "instagramid": "1591347055318507068", 
+                "timestamp": 1503923373, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lisbonstreetarttours", 
+                    "timestamp": 1503923373, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                    "authorid": "3447903971", 
+                    "location": {
+                        "slug": "graca-lisbon", 
+                        "has_public_page": true, 
+                        "name": "Gra\u00e7a (Lisbon)", 
+                        "id": "251151033"
+                    }, 
+                    "id": "1591347055318507068"
+                }, 
+                "caption": "whatever comes up\nmade by @cap_phi\n\n#pasteupart #pasteups #capphi - - - - - - -\n#streetcandy #streetfiles #streetartfiles  #streetartphotography  #graffiti_of_our_world #instadaily #igersportugal #instapic #streetart #streetartportugal #streetartutopia\n#streetartnews . #streetarteverywhere\n#streetarttour #visitlisbon #lisbonstreetarttours #arteurbana #urbex #graffitiporn #wallporn #wallartistry #wallart #33thirdmedia #yesyoucanspray #jj_urbanart", 
+                "authorid": "3447903971", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-28/1591347055318507068_3447903971.json", 
+                "instagramcode": "BYVmbcqn548", 
+                "post_date": "2017-08-28 14:29:33", 
                 "validated": false
             }
         }, 
