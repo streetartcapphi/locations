@@ -304,44 +304,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8281813, 
-                    45.7712813
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Ba9eU9hAl-b", 
-                "originally_localized": true, 
-                "author": "elod30", 
-                "instagramid": "1638599221269651355", 
-                "timestamp": 1509556270, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/23098762_297196980781769_367604348194127872_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elod30", 
-                    "timestamp": 1509556270, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23098762_297196980781769_367604348194127872_n.jpg", 
-                    "authorid": "13718599", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1638599221269651355"
-                }, 
-                "caption": "Quand  @cap_phi et @o_malley_street_art colaborent et que @to_glass__________________  associe sa belle Tribu et son \" je t'aime \"\nSuperbe tableau au final \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d!\n.\n.\n#omalleystreetart #capphi #toglass \n#croixrousse \n#streetview #streetartlyon #streetartist  #urbanartist #urban #streetart #street #streetcapture  #graffiti #collageart #collage #tribu #jetaime #love #graffitiart #graffitiartist #urbanwalls #urbanwallart #streetartfrance #streetarteurope #street_focus_on #streetstyle #streetarts #streetstyle #streetphotography #bnw", 
-                "authorid": "13718599", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-01/1638599221269651355_13718599.json", 
-                "instagramcode": "Ba9eU9hAl-b", 
-                "post_date": "2017-11-01 18:11:10", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -585,6 +547,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-26/1633924691767647993_2876693898.json", 
                 "instagramcode": "Bas3dmqjN75", 
                 "post_date": "2017-10-26 08:23:43", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8281813, 
+                    45.7712813
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/Ba9eU9hAl-b", 
+                "originally_localized": true, 
+                "author": "elod30", 
+                "instagramid": "1638599221269651355", 
+                "timestamp": 1509556270, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/23098762_297196980781769_367604348194127872_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "elod30", 
+                    "timestamp": 1509556270, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23098762_297196980781769_367604348194127872_n.jpg", 
+                    "authorid": "13718599", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1638599221269651355"
+                }, 
+                "caption": "Quand  @cap_phi et @o_malley_street_art colaborent et que @to_glass__________________  associe sa belle Tribu et son \" je t'aime \"\nSuperbe tableau au final \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d!\n.\n.\n#omalleystreetart #capphi #toglass \n#croixrousse \n#streetview #streetartlyon #streetartist  #urbanartist #urban #streetart #street #streetcapture  #graffiti #collageart #collage #tribu #jetaime #love #graffitiart #graffitiartist #urbanwalls #urbanwallart #streetartfrance #streetarteurope #street_focus_on #streetstyle #streetarts #streetstyle #streetphotography #bnw", 
+                "authorid": "13718599", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-01/1638599221269651355_13718599.json", 
+                "instagramcode": "Ba9eU9hAl-b", 
+                "post_date": "2017-11-01 18:11:10", 
                 "validated": false
             }
         }, 
