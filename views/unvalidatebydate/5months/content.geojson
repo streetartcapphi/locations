@@ -197,6 +197,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.820122718811036, 
+                    45.72505683123883
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BV3AfoYBbSy", 
+                "originally_localized": true, 
+                "author": "rymchamam", 
+                "instagramid": "1546707170681533618", 
+                "timestamp": 1498601884, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e15/c235.0.610.610/19436433_143776522858421_4340441791254757376_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "rymchamam", 
+                    "timestamp": 1498601884, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s1080x1080/e15/fr/19436433_143776522858421_4340441791254757376_n.jpg", 
+                    "authorid": "2060505865", 
+                    "location": null, 
+                    "id": "1546707170681533618"
+                }, 
+                "caption": "#streetartlyonnais #streetart #lyon #art #capphi", 
+                "authorid": "2060505865", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-28/1546707170681533618_2060505865.json", 
+                "instagramcode": "BV3AfoYBbSy", 
+                "post_date": "2017-06-28 00:18:04", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.831205606460572, 
                     45.75825684126669
                 ]
