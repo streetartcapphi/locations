@@ -304,6 +304,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8331495, 
+                    45.7698861
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BbYui0PBNV8", 
+                "originally_localized": true, 
+                "author": "streetart_lyon", 
+                "instagramid": "1646270366492185980", 
+                "timestamp": 1510470742, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/23421936_230994880772232_1386496188533964800_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "streetart_lyon", 
+                    "timestamp": 1510470742, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23421936_230994880772232_1386496188533964800_n.jpg", 
+                    "authorid": "1222751817", 
+                    "location": {
+                        "slug": "passage-thiaffait", 
+                        "has_public_page": true, 
+                        "name": "Passage Thiaffait", 
+                        "id": "258601145"
+                    }, 
+                    "id": "1646270366492185980"
+                }, 
+                "caption": "Magnifique collaboration \ud83d\udd92@cap_phi @o_malley_street_art @to_glass__________________  #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #capphi #omalley", 
+                "authorid": "1222751817", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-12/1646270366492185980_1222751817.json", 
+                "instagramcode": "BbYui0PBNV8", 
+                "post_date": "2017-11-12 08:12:22", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.831948578357697, 
                     45.757690757146875
                 ]
