@@ -500,6 +500,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.83055556, 
+                    45.76888889
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-11 05:34:44", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-11/1667239722365236505_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25011410_160517511231773_7907063065705709568_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BcjObGvADUZ/", 
+                "caption": "#guerri\u00e8re et #charmeuse l'#essence #m\u00eame d'une #amazone #capphi #streetart #urbanart #lyon #croixrousse #birdskull #heart #dentelle #fleurs #parrure", 
+                "validated": false, 
+                "id": "1667239722365236505_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.834628105163575, 
                     45.77494672379091
                 ]
