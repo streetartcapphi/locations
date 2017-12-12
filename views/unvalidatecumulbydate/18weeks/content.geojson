@@ -5,6 +5,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.83205, 
+                    45.7748
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-12 05:38:07", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-12/1667966199792911989_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25014553_331132650626025_4009187576647778304_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BclzmvkA8Z1/", 
+                "caption": "Au #d\u00e9tour d'une #rue  la #surprise peut #toujours #surgir #capphi #urbanartist #streetart #lyon #croixrousse", 
+                "validated": false, 
+                "id": "1667966199792911989_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8316, 
                     45.7716
                 ]
