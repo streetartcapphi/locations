@@ -5,28 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832967817783357, 
-                    45.77020408683408
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-10-25 11:14:43", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-10-25/1633346378514178232_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/22708733_292546651263803_2260589563040759808_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Baqz-CegiC4/", 
-                "caption": "Tout est dans le #mouvement #octopus #dance #streetart #croixrousse #capephi #urbanart #monster", 
-                "validated": false, 
-                "id": "1633346378514178232_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.817461967468263, 
                     45.72695921423503
                 ]

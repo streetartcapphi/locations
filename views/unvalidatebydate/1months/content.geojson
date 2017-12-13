@@ -5,28 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832967817783357, 
-                    45.77020408683408
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-10-25 11:14:43", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-10-25/1633346378514178232_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/22708733_292546651263803_2260589563040759808_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Baqz-CegiC4/", 
-                "caption": "Tout est dans le #mouvement #octopus #dance #streetart #croixrousse #capephi #urbanart #monster", 
-                "validated": false, 
-                "id": "1633346378514178232_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.817461967468263, 
                     45.72695921423503
                 ]
@@ -684,44 +662,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-01/1638599221269651355_13718599.json", 
                 "instagramcode": "Ba9eU9hAl-b", 
                 "post_date": "2017-11-01 18:11:10", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8331495, 
-                    45.7698861
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbYui0PBNV8", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1646270366492185980", 
-                "timestamp": 1510470742, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/23421936_230994880772232_1386496188533964800_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1510470742, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23421936_230994880772232_1386496188533964800_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": {
-                        "slug": "passage-thiaffait", 
-                        "has_public_page": true, 
-                        "name": "Passage Thiaffait", 
-                        "id": "258601145"
-                    }, 
-                    "id": "1646270366492185980"
-                }, 
-                "caption": "Magnifique collaboration \ud83d\udd92@cap_phi @o_malley_street_art @to_glass__________________  #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #capphi #omalley", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-12/1646270366492185980_1222751817.json", 
-                "instagramcode": "BbYui0PBNV8", 
-                "post_date": "2017-11-12 08:12:22", 
                 "validated": false
             }
         }, 
