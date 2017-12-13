@@ -5,8 +5,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83205, 
-                    45.7748
+                    4.827150106430055, 
+                    45.77217789598351
                 ]
             }, 
             "type": "Feature", 
@@ -27,52 +27,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8316, 
-                    45.7716
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-10 06:05:27", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-10/1666530406108857088_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25012138_393944941062513_8118682894722924544_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BcgtJMfgYMA/", 
-                "caption": "#b\u00eate #beast #beauty #bella #belle ... Entre #crane #dent #fleur et #c\u0153ur ... que des doutes ... #capphi #urbanart #streetart #croixrousse", 
-                "validated": false, 
-                "id": "1666530406108857088_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.830803275108337, 
-                    45.76879899150495
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-11 05:34:44", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-11/1667239722365236505_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25011410_160517511231773_7907063065705709568_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BcjObGvADUZ/", 
-                "caption": "#guerri\u00e8re et #charmeuse l'#essence #m\u00eame d'une #amazone #capphi #streetart #urbanart #lyon #croixrousse #birdskull #heart #dentelle #fleurs #parrure", 
-                "validated": false, 
-                "id": "1667239722365236505_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83305556, 
-                    45.76916667
+                    4.834553003311158, 
+                    45.76940518877118
                 ]
             }, 
             "type": "Feature", 
@@ -487,30 +443,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83305556, 
-                    45.77
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-10-26 04:34:26", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-10-26/1633869692236003847_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22794535_129645997737643_6188275823099772928_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Basq9QXAPoH/", 
-                "caption": "Nooooo ... just repaired #sadness #coeur #heart #love #streetart #urbanart #adelsa #capphi #croix", 
-                "validated": false, 
-                "id": "1633869692236003847_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83156, 
-                    45.7706
+                    4.832967817783357, 
+                    45.77020408683408
                 ]
             }, 
             "type": "Feature", 
