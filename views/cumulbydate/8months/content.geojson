@@ -395,27 +395,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835636615753174, 
-                    45.77104039175067
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-26 04:37:43", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20393481_143253756255440_4559029302766600192_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BW_yMsNgpa5/", 
-                "caption": "#1 #processus #cr\u00e9atif #petitcadeau durant #balade #streetart #spacejunk #capphi #urbanart #collection #monstres", 
-                "validated": true, 
-                "id": "1567191969778800313_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     -9.129520654678347, 
                     38.720382324865234
                 ]
@@ -579,6 +558,27 @@
                 "instagramcode": "BXDbeGiD39I", 
                 "post_date": "2017-07-27 16:36:04", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835636615753174, 
+                    45.77104039175067
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-07-26 04:37:43", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20393481_143253756255440_4559029302766600192_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BW_yMsNgpa5/", 
+                "caption": "#1 #processus #cr\u00e9atif #petitcadeau durant #balade #streetart #spacejunk #capphi #urbanart #collection #monstres", 
+                "validated": true, 
+                "id": "1567191969778800313_29177514"
             }
         }, 
         {
@@ -1126,27 +1126,6 @@
                 "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
                 "validated": true, 
                 "id": "1526815519645468679_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.833214581012726, 
-                    45.771145162847375
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-31 04:29:35", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18721806_129167594324014_6192392802656059392_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUvkwIzhABv/", 
-                "caption": "#nativeamerican #amazone #streetart #urbanartist #capphi  #kawaii #monster #croixrousse #skel #flowers", 
-                "validated": true, 
-                "id": "1526600436365394031_29177514"
             }
         }, 
         {
@@ -1727,6 +1706,27 @@
                 "caption": "C'est quand la plage #plage #bernardlhermite #capphi #urbanart #streetart #kawaiiart #t0 #map_phi", 
                 "validated": true, 
                 "id": "1520456328722786443_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833214581012726, 
+                    45.771145162847375
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-31 04:29:35", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18721806_129167594324014_6192392802656059392_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUvkwIzhABv/", 
+                "caption": "#nativeamerican #amazone #streetart #urbanartist #capphi  #kawaii #monster #croixrousse #skel #flowers", 
+                "validated": true, 
+                "id": "1526600436365394031_29177514"
             }
         }, 
         {

@@ -5,27 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835636615753174, 
-                    45.77104039175067
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-26 04:37:43", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/20393481_143253756255440_4559029302766600192_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BW_yMsNgpa5/", 
-                "caption": "#1 #processus #cr\u00e9atif #petitcadeau durant #balade #streetart #spacejunk #capphi #urbanart #collection #monstres", 
-                "validated": true, 
-                "id": "1567191969778800313_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     -9.129520654678347, 
                     38.720382324865234
                 ]
