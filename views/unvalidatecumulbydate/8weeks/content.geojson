@@ -301,44 +301,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8331495, 
-                    45.7698861
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbtYBLklnXD", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1652082272575583683", 
-                "timestamp": 1511163575, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/23734767_131886587519442_4049996109626474496_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1511163575, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23734767_131886587519442_4049996109626474496_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "passage-thiaffait", 
-                        "has_public_page": true, 
-                        "name": "Passage Thiaffait", 
-                        "id": "258601145"
-                    }, 
-                    "id": "1652082272575583683"
-                }, 
-                "caption": "By @malochico69 & @cap_phi  #capphi #malochico69 #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-20/1652082272575583683_810473762.json", 
-                "instagramcode": "BbtYBLklnXD", 
-                "post_date": "2017-11-20 08:39:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -481,8 +443,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831905663013459, 
-                    45.75779181060092
+                    4.8325467109680185, 
+                    45.75740350234746
                 ]
             }, 
             "type": "Feature", 
@@ -552,8 +514,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.83301877975464, 
+                    45.757912513097864
                 ]
             }, 
             "type": "Feature", 
@@ -590,8 +552,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8322704434394845, 
-                    45.75783578750988
+                    4.831119775772096, 
+                    45.75765052285034
                 ]
             }, 
             "type": "Feature", 
@@ -628,8 +590,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.832031726837159, 
+                    45.7574933281114
                 ]
             }, 
             "type": "Feature", 
@@ -697,44 +659,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-05/1641336473361106181_517763490.json", 
                 "instagramcode": "BbHMtOLlMUF", 
                 "post_date": "2017-11-05 12:49:36", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8281813, 
-                    45.7712813
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Ba9eU9hAl-b", 
-                "originally_localized": true, 
-                "author": "elod30", 
-                "instagramid": "1638599221269651355", 
-                "timestamp": 1509556270, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/23098762_297196980781769_367604348194127872_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elod30", 
-                    "timestamp": 1509556270, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23098762_297196980781769_367604348194127872_n.jpg", 
-                    "authorid": "13718599", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1638599221269651355"
-                }, 
-                "caption": "Quand  @cap_phi et @o_malley_street_art colaborent et que @to_glass__________________  associe sa belle Tribu et son \" je t'aime \"\nSuperbe tableau au final \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d!\n.\n.\n#omalleystreetart #capphi #toglass \n#croixrousse \n#streetview #streetartlyon #streetartist  #urbanartist #urban #streetart #street #streetcapture  #graffiti #collageart #collage #tribu #jetaime #love #graffitiart #graffitiartist #urbanwalls #urbanwallart #streetartfrance #streetarteurope #street_focus_on #streetstyle #streetarts #streetstyle #streetphotography #bnw", 
-                "authorid": "13718599", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-01/1638599221269651355_13718599.json", 
-                "instagramcode": "Ba9eU9hAl-b", 
-                "post_date": "2017-11-01 18:11:10", 
                 "validated": false
             }
         }, 
@@ -925,44 +849,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-26/1633868166734926415_2876693898.json", 
                 "instagramcode": "BasqnDoDdJP", 
                 "post_date": "2017-10-26 06:31:25", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8281813, 
-                    45.7712813
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Bas3dmqjN75", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1633924691767647993", 
-                "timestamp": 1508999023, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.608.608/22710766_485985501784565_1204239307162779648_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1508999023, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22710766_485985501784565_1204239307162779648_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1633924691767647993"
-                }, 
-                "caption": "Second combo de ouf : @adelsa_bugey et @cap_phi\n\ud83d\ude0d\ud83d\udc4c\ud83d\udc95\ud83d\udc96\ud83d\udc97\ud83d\udc99\ud83d\udc9a\ud83d\udc9f\u2764\n\u00c7a valait le coup de se coucher trop tard \ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #adelsa #coeur #heart #artephemere #commeunedingue", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-26/1633924691767647993_2876693898.json", 
-                "instagramcode": "Bas3dmqjN75", 
-                "post_date": "2017-10-26 08:23:43", 
                 "validated": false
             }
         }, 

@@ -184,27 +184,6 @@
                 "validated": true, 
                 "id": "1658178807699472534_29177514"
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83288198709488, 
-                    45.77023589284327
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-10-26 04:34:26", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22794535_129645997737643_6188275823099772928_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Basq9QXAPoH/", 
-                "caption": "Nooooo ... just repaired #sadness #coeur #heart #love #streetart #urbanart #adelsa #capphi #croix", 
-                "validated": true, 
-                "id": "1633869692236003847_29177514"
-            }
         }
     ]
 }

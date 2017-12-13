@@ -126,44 +126,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8331495, 
-                    45.7698861
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbtYBLklnXD", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1652082272575583683", 
-                "timestamp": 1511163575, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/23734767_131886587519442_4049996109626474496_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1511163575, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23734767_131886587519442_4049996109626474496_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "passage-thiaffait", 
-                        "has_public_page": true, 
-                        "name": "Passage Thiaffait", 
-                        "id": "258601145"
-                    }, 
-                    "id": "1652082272575583683"
-                }, 
-                "caption": "By @malochico69 & @cap_phi  #capphi #malochico69 #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-20/1652082272575583683_810473762.json", 
-                "instagramcode": "BbtYBLklnXD", 
-                "post_date": "2017-11-20 08:39:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
