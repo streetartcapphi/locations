@@ -463,44 +463,6 @@
                 "post_date": "2017-10-15 19:43:48", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831920415163041, 
-                    45.75792748393201
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZvNiUegCh7", 
-                "originally_localized": true, 
-                "author": "julia_couplan", 
-                "instagramid": "1616570324302702715", 
-                "timestamp": 1506930221, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c111.0.857.857/22071075_294819784367310_5820275599180038144_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "julia_couplan", 
-                    "timestamp": 1506930221, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22071075_294819784367310_5820275599180038144_n.jpg", 
-                    "authorid": "1687942178", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1616570324302702715"
-                }, 
-                "caption": "A new girl by @cap_phi \n#streetart #streetartist #capphi #girl #collage #cityart #urbanart #lyon #colorfull #instastreetart", 
-                "authorid": "1687942178", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-02/1616570324302702715_1687942178.json", 
-                "instagramcode": "BZvNiUegCh7", 
-                "post_date": "2017-10-02 09:43:41", 
-                "validated": false
-            }
         }
     ]
 }
