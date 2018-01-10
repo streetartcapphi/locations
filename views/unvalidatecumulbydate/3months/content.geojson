@@ -137,6 +137,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.834078, 
+                    45.775755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-01-10 05:37:44", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-01-10/1688984504326275558_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26067702_1216932118450551_2802156059706261504_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BdwenVDgcHm/", 
+                "caption": "La #dent dans l'#univers #tattoo #represente l'#addiction \u00e0 l'#h\u00e9ro\u00efne ... Je #prefere mon #histoire de #petit #tresor ;) #streetart #capphi #croixrousse", 
+                "validated": false, 
+                "id": "1688984504326275558_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
