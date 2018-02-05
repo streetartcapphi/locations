@@ -202,44 +202,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819623827934266, 
-                    45.728288596967474
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUqq-1IjaXA", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1525220459431175616", 
-                "timestamp": 1496040469, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.65.1080.1080/18722178_1007589209344325_1703391146354409472_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1496040469, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18722178_1007589209344325_1703391146354409472_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": {
-                        "slug": "rue-rene-leynaud", 
-                        "has_public_page": true, 
-                        "name": "Rue Ren\u00e9-Leynaud", 
-                        "id": "238091071"
-                    }, 
-                    "id": "1525220459431175616"
-                }, 
-                "caption": "Allez c'est reparti pour un tour #capphi #map_phi #streetart #streearteverywhere #urbanart #urban #collage #streetartlyon #Lyon #lyonstreetart #murdelacroixrousse #dragon #guerriere #colorfull #graffiti #urbanpoestry #croixrousse #pentedelacroixrousse #serpentaplumes #skull #plume", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-29/1525220459431175616_2000118195.json", 
-                "instagramcode": "BUqq-1IjaXA", 
-                "post_date": "2017-05-29 08:47:49", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.817976951599122, 
                     45.725326464265336
                 ]
