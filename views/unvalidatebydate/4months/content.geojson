@@ -164,39 +164,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81853485107422, 
-                    45.72612037617472
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZV40XVnjyd", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1609442330930986141", 
-                "timestamp": 1506080498, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21909597_1450948901655838_1048127309061554176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1506080498, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21909597_1450948901655838_1048127309061554176_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1609442330930986141"
-                }, 
-                "caption": "Allez courage bient\u00f4t le week-end\n.\n.\n.\n#capphi #map_phi #sortirlatedeleau #weekend #streetart #lyonstreetart #streetarteverywhere #collage #croixrousse #littlemonster #igerlyon #igerlyonstreetart #picoftheday #instaart #instadailypic #littlefish #petitpoisson", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-22/1609442330930986141_2000118195.json", 
-                "instagramcode": "BZV40XVnjyd", 
-                "post_date": "2017-09-22 13:41:38", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828727245330811, 
                     45.77674264670355
                 ]
