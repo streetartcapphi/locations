@@ -389,6 +389,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "post_date": "2017-11-18 12:33:24", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-11-18/1650780600677723302_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734508_1971621986418803_8747826785325940736_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BbowDXJgGym/", 
+                "caption": "Je vais \u00e0 l'#\u00e9cole #collage #streetart #urbanart #capphi #monstre #cartable #art", 
+                "validated": false, 
+                "id": "1650780600677723302_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://www.instagram.com/p/BbxitWaHIHQ", 
                 "originally_localized": true, 
                 "author": "mescalou", 
@@ -410,28 +432,6 @@
                 "instagramcode": "BbxitWaHIHQ", 
                 "post_date": "2017-11-21 23:29:58", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-11-18 12:33:24", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-11-18/1650780600677723302_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734508_1971621986418803_8747826785325940736_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BbowDXJgGym/", 
-                "caption": "Je vais \u00e0 l'#\u00e9cole #collage #streetart #urbanart #capphi #monstre #cartable #art", 
-                "validated": false, 
-                "id": "1650780600677723302_29177514"
             }
         }, 
         {
@@ -2674,39 +2674,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-03/1550756867536619890_296047777.json", 
                 "instagramcode": "BWFZSeehIly", 
                 "post_date": "2017-07-03 14:24:06", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.820122718811036, 
-                    45.72505683123883
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BV3AfoYBbSy", 
-                "originally_localized": true, 
-                "author": "rymchamam", 
-                "instagramid": "1546707170681533618", 
-                "timestamp": 1498601884, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e15/c235.0.610.610/19436433_143776522858421_4340441791254757376_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "rymchamam", 
-                    "timestamp": 1498601884, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s1080x1080/e15/fr/19436433_143776522858421_4340441791254757376_n.jpg", 
-                    "authorid": "2060505865", 
-                    "location": null, 
-                    "id": "1546707170681533618"
-                }, 
-                "caption": "#streetartlyonnais #streetart #lyon #art #capphi", 
-                "authorid": "2060505865", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-28/1546707170681533618_2060505865.json", 
-                "instagramcode": "BV3AfoYBbSy", 
-                "post_date": "2017-06-28 00:18:04", 
                 "validated": false
             }
         }
