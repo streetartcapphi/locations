@@ -47,6 +47,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.833962917327882, 
+                    45.76973073643581
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-01-09 05:41:10", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26181032_1667828433283960_25222015057133568_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bdt6NklAwoa/", 
+                "caption": "Les #dents ont une #signification dans l' #univers #tatoo quelle est-elle ????\n#capphi #streetart #croixrousse #collage #instafun", 
+                "validated": true, 
+                "id": "1688261454660307482_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.832192659378053, 
                     45.778358927873214
                 ]
