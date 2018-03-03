@@ -1719,39 +1719,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZGvw5dgoSd", 
-                "originally_localized": true, 
-                "author": "delboulbes_m", 
-                "instagramid": "1605180385623442589", 
-                "timestamp": 1505572435, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c35.0.1009.1009/21577091_114962269197911_3800619141505744896_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "delboulbes_m", 
-                    "timestamp": 1505572435, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21577091_114962269197911_3800619141505744896_n.jpg", 
-                    "authorid": "2374356033", 
-                    "location": null, 
-                    "id": "1605180385623442589"
-                }, 
-                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #arteurbano #artederua #urbanart #jj_urbanart #street_art_community #lyon", 
-                "authorid": "2374356033", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605180385623442589_2374356033.json", 
-                "instagramcode": "BZGvw5dgoSd", 
-                "post_date": "2017-09-16 16:33:55", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833458662033082, 
                     45.757702920998256
                 ]
@@ -1991,6 +1958,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605168060963125409_37664964.json", 
                 "instagramcode": "BZGs9jOgnih", 
                 "post_date": "2017-09-16 16:09:25", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZGvw5dgoSd", 
+                "originally_localized": true, 
+                "author": "delboulbes_m", 
+                "instagramid": "1605180385623442589", 
+                "timestamp": 1505572435, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c35.0.1009.1009/21577091_114962269197911_3800619141505744896_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "delboulbes_m", 
+                    "timestamp": 1505572435, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21577091_114962269197911_3800619141505744896_n.jpg", 
+                    "authorid": "2374356033", 
+                    "location": null, 
+                    "id": "1605180385623442589"
+                }, 
+                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #arteurbano #artederua #urbanart #jj_urbanart #street_art_community #lyon", 
+                "authorid": "2374356033", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605180385623442589_2374356033.json", 
+                "instagramcode": "BZGvw5dgoSd", 
+                "post_date": "2017-09-16 16:33:55", 
                 "validated": false
             }
         }, 
