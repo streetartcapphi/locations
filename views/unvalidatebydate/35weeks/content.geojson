@@ -55,44 +55,6 @@
                 "post_date": "2017-06-28 00:18:04", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831205606460572, 
-                    45.75825684126669
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVt6PRnhIq1", 
-                "originally_localized": true, 
-                "author": "h.lna", 
-                "instagramid": "1544146383664351925", 
-                "timestamp": 1498296615, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19379489_112604509355825_3084234195854163968_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "h.lna", 
-                    "timestamp": 1498296615, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19379489_112604509355825_3084234195854163968_n.jpg", 
-                    "authorid": "1413198960", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1544146383664351925"
-                }, 
-                "caption": "#streetart by #capphi #streetartiseverywhere #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
-                "authorid": "1413198960", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-24/1544146383664351925_1413198960.json", 
-                "instagramcode": "BVt6PRnhIq1", 
-                "post_date": "2017-06-24 11:30:15", 
-                "validated": false
-            }
         }
     ]
 }
