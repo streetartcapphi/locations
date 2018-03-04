@@ -1043,39 +1043,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BajQfAsF3Ph", 
-                "originally_localized": true, 
-                "author": "verophoto___", 
-                "instagramid": "1631219989825942497", 
-                "timestamp": 1508676597, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/22708743_1527535227294984_1880590166863642624_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "verophoto___", 
-                    "timestamp": 1508676597, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22708743_1527535227294984_1880590166863642624_n.jpg", 
-                    "authorid": "5801321109", 
-                    "location": null, 
-                    "id": "1631219989825942497"
-                }, 
-                "caption": "Amazone by @cap_phi...\n#street #art #streetart #streetlife #capphi #amazone #woman #monster #draw #wall #wallinlyon #lyon #onlylyon #igerslyon #igerslyonnais #lovelyon #lyonnaise #picsoflyon #lyon4 #croixrousse #croixrousselyon #lyon4eme #xrousse #olympus #myolympus #myvision #myeyes #byme #greeneyes #blueeyes", 
-                "authorid": "5801321109", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-22/1631219989825942497_5801321109.json", 
-                "instagramcode": "BajQfAsF3Ph", 
-                "post_date": "2017-10-22 14:49:57", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8281813, 
                     45.7712813
                 ]
@@ -1292,6 +1259,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-22/1631175146793664212_5801321109.json", 
                 "instagramcode": "BajGSdXFP7U", 
                 "post_date": "2017-10-22 13:20:52", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BajQfAsF3Ph", 
+                "originally_localized": true, 
+                "author": "verophoto___", 
+                "instagramid": "1631219989825942497", 
+                "timestamp": 1508676597, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/22708743_1527535227294984_1880590166863642624_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "verophoto___", 
+                    "timestamp": 1508676597, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22708743_1527535227294984_1880590166863642624_n.jpg", 
+                    "authorid": "5801321109", 
+                    "location": null, 
+                    "id": "1631219989825942497"
+                }, 
+                "caption": "Amazone by @cap_phi...\n#street #art #streetart #streetlife #capphi #amazone #woman #monster #draw #wall #wallinlyon #lyon #onlylyon #igerslyon #igerslyonnais #lovelyon #lyonnaise #picsoflyon #lyon4 #croixrousse #croixrousselyon #lyon4eme #xrousse #olympus #myolympus #myvision #myeyes #byme #greeneyes #blueeyes", 
+                "authorid": "5801321109", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-22/1631219989825942497_5801321109.json", 
+                "instagramcode": "BajQfAsF3Ph", 
+                "post_date": "2017-10-22 14:49:57", 
                 "validated": false
             }
         }, 
