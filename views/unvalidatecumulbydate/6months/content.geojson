@@ -1458,39 +1458,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZLETIRnPa2", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1606396598829250230", 
-                "timestamp": 1505717419, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1505717419, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1606396598829250230"
-                }, 
-                "caption": "Nouvelle petite amazone .\n.\n.\n#amazone #capphi #map_phi #streetart #lyonstreetart #streetartlyon #croixrousse #pentesdelacroixrousse #lyon #explorationurbaine #explorelyon #igerlyonstreetart #igerlyon", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-18/1606396598829250230_2000118195.json", 
-                "instagramcode": "BZLETIRnPa2", 
-                "post_date": "2017-09-18 08:50:19", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.81853485107422, 
                     45.72612037617472
                 ]
@@ -2155,6 +2122,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-13/1603090527410216472_810473762.json", 
                 "instagramcode": "BY_UldVFF4Y", 
                 "post_date": "2017-09-13 19:21:44", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZLETIRnPa2", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1606396598829250230", 
+                "timestamp": 1505717419, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1505717419, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1606396598829250230"
+                }, 
+                "caption": "Nouvelle petite amazone .\n.\n.\n#amazone #capphi #map_phi #streetart #lyonstreetart #streetartlyon #croixrousse #pentesdelacroixrousse #lyon #explorationurbaine #explorelyon #igerlyonstreetart #igerlyon", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-18/1606396598829250230_2000118195.json", 
+                "instagramcode": "BZLETIRnPa2", 
+                "post_date": "2017-09-18 08:50:19", 
                 "validated": false
             }
         }, 
