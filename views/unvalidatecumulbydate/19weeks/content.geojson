@@ -597,44 +597,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8326218128204355, 
-                    45.75693191471448
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbK_-qylTt1", 
-                "originally_localized": true, 
-                "author": "denissouilla", 
-                "instagramid": "1642406397613521781", 
-                "timestamp": 1510010121, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23164392_778299732340543_6831156307605585920_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "denissouilla", 
-                    "timestamp": 1510010121, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23164392_778299732340543_6831156307605585920_n.jpg", 
-                    "authorid": "325549057", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1642406397613521781"
-                }, 
-                "caption": "Cap Phi.\n@cap_phi #capphi #urbex #lyon #streetart #street #streetphotography #nofilter #urban #urbanart #artderue #graffiti #wall #wallart #sprayart #graffitiporn #streetartistry #art #rsa_graffiti #tv_streetart #dsb_graff #jj_urbanart #total_urbanart #streetartorbis #streetarteverywhere #picoftheday #lyonstreetart #igersstreetart #igerslyon", 
-                "authorid": "325549057", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-07/1642406397613521781_325549057.json", 
-                "instagramcode": "BbK_-qylTt1", 
-                "post_date": "2017-11-07 00:15:21", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -922,6 +884,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-05/1641336473361106181_517763490.json", 
                 "instagramcode": "BbHMtOLlMUF", 
                 "post_date": "2017-11-05 12:49:36", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8326218128204355, 
+                    45.75693191471448
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BbK_-qylTt1", 
+                "originally_localized": true, 
+                "author": "denissouilla", 
+                "instagramid": "1642406397613521781", 
+                "timestamp": 1510010121, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23164392_778299732340543_6831156307605585920_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "denissouilla", 
+                    "timestamp": 1510010121, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23164392_778299732340543_6831156307605585920_n.jpg", 
+                    "authorid": "325549057", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1642406397613521781"
+                }, 
+                "caption": "Cap Phi.\n@cap_phi #capphi #urbex #lyon #streetart #street #streetphotography #nofilter #urban #urbanart #artderue #graffiti #wall #wallart #sprayart #graffitiporn #streetartistry #art #rsa_graffiti #tv_streetart #dsb_graff #jj_urbanart #total_urbanart #streetartorbis #streetarteverywhere #picoftheday #lyonstreetart #igersstreetart #igerslyon", 
+                "authorid": "325549057", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-07/1642406397613521781_325549057.json", 
+                "instagramcode": "BbK_-qylTt1", 
+                "post_date": "2017-11-07 00:15:21", 
                 "validated": false
             }
         }, 
