@@ -2796,39 +2796,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.82175350189209, 
-                    45.72904127569794
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUw8iSkgAsK", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1526986512871197450", 
-                "timestamp": 1496250999, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18879097_822484851261406_4524659355261337600_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1496250999, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18879097_822484851261406_4524659355261337600_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1526986512871197450"
-                }, 
-                "caption": "La petite amazone de @cap_phi \nMerci d'\u00eatre descendu de ta colline pour nous offrir ce magnifique collage \ud83d\ude01\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #capphi #lyon7", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-31/1526986512871197450_1222751817.json", 
-                "instagramcode": "BUw8iSkgAsK", 
-                "post_date": "2017-05-31 19:16:39", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819822311401368, 
                     45.72991002659822
                 ]
@@ -3058,6 +3025,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-28/1524599381508461550_4531964839.json", 
                 "instagramcode": "BUodw9Pl5Pu", 
                 "post_date": "2017-05-28 12:13:50", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.82175350189209, 
+                    45.72904127569794
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BUw8iSkgAsK", 
+                "originally_localized": true, 
+                "author": "streetart_lyon", 
+                "instagramid": "1526986512871197450", 
+                "timestamp": 1496250999, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/18879097_822484851261406_4524659355261337600_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "streetart_lyon", 
+                    "timestamp": 1496250999, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18879097_822484851261406_4524659355261337600_n.jpg", 
+                    "authorid": "1222751817", 
+                    "location": null, 
+                    "id": "1526986512871197450"
+                }, 
+                "caption": "La petite amazone de @cap_phi \nMerci d'\u00eatre descendu de ta colline pour nous offrir ce magnifique collage \ud83d\ude01\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #capphi #lyon7", 
+                "authorid": "1222751817", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-31/1526986512871197450_1222751817.json", 
+                "instagramcode": "BUw8iSkgAsK", 
+                "post_date": "2017-05-31 19:16:39", 
                 "validated": false
             }
         }, 
