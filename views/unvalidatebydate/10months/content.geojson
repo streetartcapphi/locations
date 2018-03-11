@@ -246,6 +246,39 @@
                 "post_date": "2017-05-26 21:10:57", 
                 "validated": false
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186635971069345, 
+                    45.72421796461154
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BU6xcf8DxN9", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1529752486163714941", 
+                "timestamp": 1496580728, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18722665_231933143962852_6175150209769668608_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1496580728, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18722665_231933143962852_6175150209769668608_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1529752486163714941"
+                }, 
+                "caption": "En descendant de la colline #croixrousse #pentesdelacroixrousse #capphi #map_phi #collage #streetart #streearteverywhere #baladeurbaine #explorationurbaine #explorelyon #Lyon #lyonstreetart #streeartlyon #petiteguerriere #amazone #skull #urban #urbanart #artderue #poesieurbaine", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-04/1529752486163714941_2000118195.json", 
+                "instagramcode": "BU6xcf8DxN9", 
+                "post_date": "2017-06-04 14:52:08", 
+                "validated": false
+            }
         }
     ]
 }
