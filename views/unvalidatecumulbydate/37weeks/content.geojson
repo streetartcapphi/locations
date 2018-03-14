@@ -2489,39 +2489,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819371700286866, 
-                    45.72292968062192
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWvHFoejcik", 
-                "originally_localized": true, 
-                "author": "jaylyonphoto", 
-                "instagramid": "1562498769106094244", 
-                "timestamp": 1500484389, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20065294_1169644933140960_4594370552830885888_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jaylyonphoto", 
-                    "timestamp": 1500484389, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20065294_1169644933140960_4594370552830885888_n.jpg", 
-                    "authorid": "3274253394", 
-                    "location": null, 
-                    "id": "1562498769106094244"
-                }, 
-                "caption": "Mode Street art off avec cette derni\u00e8re prise de cap phi !\n\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\n#streetart #urban #urban_streetz #graff #graffiti #tag #art #city #lyon__only #onlylyon #lyoncity #lyonphotos #focus_on_streetart #super_france #france4dreams #hello_france #monlyon #igerslyon #bloginlyon #lepetitpaum\u00e9 #le_bonbon_lyon #croixrousse #culture #painting #love_art #pics_of_lyon #oslyon #merveillesdelyon #capphi", 
-                "authorid": "3274253394", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-19/1562498769106094244_3274253394.json", 
-                "instagramcode": "BWvHFoejcik", 
-                "post_date": "2017-07-19 19:13:09", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819951057434083, 
                     45.72627765927053
                 ]
@@ -2614,6 +2581,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-19/1562178588278347117_3274253394.json", 
                 "instagramcode": "BWt-SY2DVVt", 
                 "post_date": "2017-07-19 08:37:01", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819371700286866, 
+                    45.72292968062192
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWvHFoejcik", 
+                "originally_localized": true, 
+                "author": "jaylyonphoto", 
+                "instagramid": "1562498769106094244", 
+                "timestamp": 1500484389, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20065294_1169644933140960_4594370552830885888_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jaylyonphoto", 
+                    "timestamp": 1500484389, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20065294_1169644933140960_4594370552830885888_n.jpg", 
+                    "authorid": "3274253394", 
+                    "location": null, 
+                    "id": "1562498769106094244"
+                }, 
+                "caption": "Mode Street art off avec cette derni\u00e8re prise de cap phi !\n\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\n#streetart #urban #urban_streetz #graff #graffiti #tag #art #city #lyon__only #onlylyon #lyoncity #lyonphotos #focus_on_streetart #super_france #france4dreams #hello_france #monlyon #igerslyon #bloginlyon #lepetitpaum\u00e9 #le_bonbon_lyon #croixrousse #culture #painting #love_art #pics_of_lyon #oslyon #merveillesdelyon #capphi", 
+                "authorid": "3274253394", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-19/1562498769106094244_3274253394.json", 
+                "instagramcode": "BWvHFoejcik", 
+                "post_date": "2017-07-19 19:13:09", 
                 "validated": false
             }
         }, 
