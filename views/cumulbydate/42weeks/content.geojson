@@ -2049,26 +2049,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835658073425293, 
-                    45.77018724835125
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 11:42:11", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18581354_238812293270176_7333073027699048448_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUeUscuht0s/", 
-                "caption": "Entre deux #mondes #dualit\u00e9 #heart #skull #monstre #human #streetart #urbanart #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521744739530366252_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833254814147949, 
                     45.77150437654195
                 ]
