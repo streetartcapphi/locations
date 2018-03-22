@@ -77,16 +77,16 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2018-02-08 16:28:04", 
+                "post_date": "2018-02-09 13:57:28", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-02-08/1710330327353800075_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/18ea81d9d4e5734b1d65240254f2f90b/5B179340/t51.2885-15/s640x640/sh0.08/e35/26871511_1834516446845412_1030316693865365504_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-02-09/1710979300846717718_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/vp/e33bb941f9325b6b12581bd67248f0dd/5B1FF2E3/t51.2885-15/s640x640/sh0.08/e35/27579189_1956216614628053_1141839870507876352_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Be8UF76gDWL/", 
-                "caption": "#lettre pour le #projet #streetartpostal #envoyer #capphi #urbanart #artpostal #pieuvre #baveuse #streetartlyon #croixrousse #instafun ;)", 
+                "originURL": "https://www.instagram.com/p/Be-npvlA8sW/", 
+                "caption": "#pieuvre #baveuse #slimy #octopus #enveloppe #projet #streetartpostal #capphi #urbanartist #instafun", 
                 "validated": false, 
-                "id": "1710330327353800075_29177514"
+                "id": "1710979300846717718_29177514"
             }
         }, 
         {
@@ -99,16 +99,16 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2018-02-09 13:57:28", 
+                "post_date": "2018-02-08 16:28:04", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-02-09/1710979300846717718_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/e33bb941f9325b6b12581bd67248f0dd/5B1FF2E3/t51.2885-15/s640x640/sh0.08/e35/27579189_1956216614628053_1141839870507876352_n.jpg", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-02-08/1710330327353800075_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/vp/18ea81d9d4e5734b1d65240254f2f90b/5B179340/t51.2885-15/s640x640/sh0.08/e35/26871511_1834516446845412_1030316693865365504_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Be-npvlA8sW/", 
-                "caption": "#pieuvre #baveuse #slimy #octopus #enveloppe #projet #streetartpostal #capphi #urbanartist #instafun", 
+                "originURL": "https://www.instagram.com/p/Be8UF76gDWL/", 
+                "caption": "#lettre pour le #projet #streetartpostal #envoyer #capphi #urbanart #artpostal #pieuvre #baveuse #streetartlyon #croixrousse #instafun ;)", 
                 "validated": false, 
-                "id": "1710979300846717718_29177514"
+                "id": "1710330327353800075_29177514"
             }
         }, 
         {
@@ -979,44 +979,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/Ba_qSLpA0My", 
-                "originally_localized": true, 
-                "author": "eindbaas_art", 
-                "instagramid": "1639214756789437234", 
-                "timestamp": 1509629648, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "eindbaas_art", 
-                    "timestamp": 1509629648, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
-                    "authorid": "4904271748", 
-                    "location": {
-                        "slug": "lisbon-portugal", 
-                        "has_public_page": true, 
-                        "name": "Lisbon, Portugal", 
-                        "id": "11100843"
-                    }, 
-                    "id": "1639214756789437234"
-                }, 
-                "caption": "More monsters in Lisbon! \n#CapPhi #red #monster #streetart #streetartist #LisbonStreetart #paint #painting #posterboy #posterdesign #graffiti #spaycan #spraycanlove #fortheloveofart #art #goplacesseethings #museum #picoftheday", 
-                "authorid": "4904271748", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1639214756789437234_4904271748.json", 
-                "instagramcode": "Ba_qSLpA0My", 
-                "post_date": "2017-11-02 14:34:08", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://www.instagram.com/p/Ba-MB5oDaw1", 
                 "originally_localized": true, 
                 "author": "elise_elisa1", 
@@ -1042,6 +1004,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1638800221562317877_3509040037.json", 
                 "instagramcode": "Ba-MB5oDaw1", 
                 "post_date": "2017-11-02 00:50:31", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/Ba_qSLpA0My", 
+                "originally_localized": true, 
+                "author": "eindbaas_art", 
+                "instagramid": "1639214756789437234", 
+                "timestamp": 1509629648, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "eindbaas_art", 
+                    "timestamp": 1509629648, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
+                    "authorid": "4904271748", 
+                    "location": {
+                        "slug": "lisbon-portugal", 
+                        "has_public_page": true, 
+                        "name": "Lisbon, Portugal", 
+                        "id": "11100843"
+                    }, 
+                    "id": "1639214756789437234"
+                }, 
+                "caption": "More monsters in Lisbon! \n#CapPhi #red #monster #streetart #streetartist #LisbonStreetart #paint #painting #posterboy #posterdesign #graffiti #spaycan #spraycanlove #fortheloveofart #art #goplacesseethings #museum #picoftheday", 
+                "authorid": "4904271748", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1639214756789437234_4904271748.json", 
+                "instagramcode": "Ba_qSLpA0My", 
+                "post_date": "2017-11-02 14:34:08", 
                 "validated": false
             }
         }, 
@@ -1938,44 +1938,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832804203033448, 
-                    45.7687428617952
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZBUGfiA_tW", 
-                "originally_localized": true, 
-                "author": "delboulbes_m", 
-                "instagramid": "1603651349424372566", 
-                "timestamp": 1505390159, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "delboulbes_m", 
-                    "timestamp": 1505390159, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
-                    "authorid": "2374356033", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1603651349424372566"
-                }, 
-                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #jj_urbanart #street_art_community", 
-                "authorid": "2374356033", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-14/1603651349424372566_2374356033.json", 
-                "instagramcode": "BZBUGfiA_tW", 
-                "post_date": "2017-09-14 13:55:59", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2144,6 +2106,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-13/1603090527410216472_810473762.json", 
                 "instagramcode": "BY_UldVFF4Y", 
                 "post_date": "2017-09-13 19:21:44", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832804203033448, 
+                    45.7687428617952
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZBUGfiA_tW", 
+                "originally_localized": true, 
+                "author": "delboulbes_m", 
+                "instagramid": "1603651349424372566", 
+                "timestamp": 1505390159, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "delboulbes_m", 
+                    "timestamp": 1505390159, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
+                    "authorid": "2374356033", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1603651349424372566"
+                }, 
+                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #jj_urbanart #street_art_community", 
+                "authorid": "2374356033", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-14/1603651349424372566_2374356033.json", 
+                "instagramcode": "BZBUGfiA_tW", 
+                "post_date": "2017-09-14 13:55:59", 
                 "validated": false
             }
         }, 

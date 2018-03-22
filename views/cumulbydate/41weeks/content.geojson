@@ -795,43 +795,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835652709007264, 
-                    45.77110026097291
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXDbeGiD39I", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1568217911109058376", 
-                "timestamp": 1501166164, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20347078_490433884633829_2506547483790802944_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1501166164, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20347078_490433884633829_2506547483790802944_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1568217911109058376"
-                }, 
-                "caption": "Merci @cap_phi pour ce bouquet de monstres bien plus original que des fleurs \ud83d\ude01\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #monster #cutemonster #monstrerigolo #fantasy #artephemere #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "BXDbeGiD39I", 
-                "post_date": "2017-07-27 16:36:04", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.835636615753174, 
                     45.77104039175067
                 ]
@@ -957,6 +920,43 @@
                 "authorid": "3160895409", 
                 "instagramcode": "BW5jYFEAJ4V", 
                 "post_date": "2017-07-23 20:32:45", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835652709007264, 
+                    45.77110026097291
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BXDbeGiD39I", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1568217911109058376", 
+                "timestamp": 1501166164, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20347078_490433884633829_2506547483790802944_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1501166164, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20347078_490433884633829_2506547483790802944_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1568217911109058376"
+                }, 
+                "caption": "Merci @cap_phi pour ce bouquet de monstres bien plus original que des fleurs \ud83d\ude01\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #monster #cutemonster #monstrerigolo #fantasy #artephemere #beauty", 
+                "authorid": "2876693898", 
+                "instagramcode": "BXDbeGiD39I", 
+                "post_date": "2017-07-27 16:36:04", 
                 "validated": true
             }
         }, 
@@ -1379,43 +1379,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834520816802979, 
-                    45.77527598065475
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVpm2fmj8Ty", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1542935217903224050", 
-                "timestamp": 1498152232, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1498152232, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1542935217903224050"
-                }, 
-                "caption": "Pas de cuisine aujourd'hui sur le blog (f\u00e9trocho) mais une petite histoire que ma inspir\u00e9e la derni\u00e8re cr\u00e9ature (cr\u00e9ation) de @cap_phi\ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
-                "authorid": "2876693898", 
-                "instagramcode": "BVpm2fmj8Ty", 
-                "post_date": "2017-06-22 19:23:52", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83449935913086, 
                     45.77626373958218
                 ]
@@ -1446,6 +1409,43 @@
                 "authorid": "1413198960", 
                 "instagramcode": "BVt6TXXhR7g", 
                 "post_date": "2017-06-24 11:30:48", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834520816802979, 
+                    45.77527598065475
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BVpm2fmj8Ty", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1542935217903224050", 
+                "timestamp": 1498152232, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1498152232, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1542935217903224050"
+                }, 
+                "caption": "Pas de cuisine aujourd'hui sur le blog (f\u00e9trocho) mais une petite histoire que ma inspir\u00e9e la derni\u00e8re cr\u00e9ature (cr\u00e9ation) de @cap_phi\ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
+                "authorid": "2876693898", 
+                "instagramcode": "BVpm2fmj8Ty", 
+                "post_date": "2017-06-22 19:23:52", 
                 "validated": true
             }
         }, 
@@ -1553,27 +1553,6 @@
                 "instagramcode": "BVOnq2RB9as", 
                 "post_date": "2017-06-12 07:51:32", 
                 "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.65, 
-                    45.7667
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-01 16:21:41", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18723516_115333492387302_9010729876772093952_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUzbCnCh1Vf/", 
-                "caption": "#expo #graffiti #artist \u00e0 #pollionnay du 10 juin au 2 juillet tous les dimanches #vernissage le 10 juin \u00e0 18h ;)", 
-                "validated": true, 
-                "id": "1527683625221838175_29177514"
             }
         }, 
         {
