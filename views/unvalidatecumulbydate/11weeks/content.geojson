@@ -187,28 +187,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-12-30 17:44:36", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-30/1681377812084211017_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26071031_413362022430897_1514174957674823680_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BdVdDY2gL1J/", 
-                "caption": "#2017 les #petites  #amazones apparaissent dans mon #univers \ud83d\ude09 #capphi #streetart #urbanart #croixrousse", 
-                "validated": false, 
-                "id": "1681377812084211017_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://www.instagram.com/p/BdVbJsfFrKl", 
                 "originally_localized": true, 
                 "author": "verophoto___", 
