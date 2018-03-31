@@ -5,28 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-10-14 06:18:51", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-10-14/1625224933460271710_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22580439_108689553164974_4764222765492338688_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BaN9XdXAeJe/", 
-                "caption": "#Belle (ou #B\u00eate) \u00e0 Le #cabinetdamateur #expo de #\"A / Z\" Exposition du jeudi 12 au dimanche 22 octobre 2017", 
-                "validated": false, 
-                "id": "1625224933460271710_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.817461967468263, 
                     45.72695921423503
                 ]
