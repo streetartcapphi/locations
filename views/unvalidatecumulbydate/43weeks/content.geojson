@@ -3043,44 +3043,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8281813, 
-                    45.7712813
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUq94-6Ac_0", 
-                "originally_localized": true, 
-                "author": "contestagtion", 
-                "instagramid": "1525303620491399156", 
-                "timestamp": 1496050382, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18723359_230299287466602_7026760018892423168_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "contestagtion", 
-                    "timestamp": 1496050382, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18723359_230299287466602_7026760018892423168_n.jpg", 
-                    "authorid": "3259994157", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1525303620491399156"
-                }, 
-                "caption": "@cap_phi #map_phi", 
-                "authorid": "3259994157", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-29/1525303620491399156_3259994157.json", 
-                "instagramcode": "BUq94-6Ac_0", 
-                "post_date": "2017-05-29 11:33:02", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186635971069345, 
                     45.72421796461154
                 ]
