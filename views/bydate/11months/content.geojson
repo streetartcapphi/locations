@@ -126,6 +126,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.65, 
+                    45.7667
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-01 16:21:41", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18723516_115333492387302_9010729876772093952_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUzbCnCh1Vf/", 
+                "caption": "#expo #graffiti #artist \u00e0 #pollionnay du 10 juin au 2 juillet tous les dimanches #vernissage le 10 juin \u00e0 18h ;)", 
+                "validated": true, 
+                "id": "1527683625221838175_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.83449399471283, 
                     45.77211615703999
                 ]
