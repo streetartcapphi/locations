@@ -1550,39 +1550,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZo3bkagIM6", 
-                "originally_localized": true, 
-                "author": "lisbon_streetart", 
-                "instagramid": "1614784253495640890", 
-                "timestamp": 1506717305, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22158688_175013716388638_1338288762639089664_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lisbon_streetart", 
-                    "timestamp": 1506717305, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22158688_175013716388638_1338288762639089664_n.jpg", 
-                    "authorid": "4131656736", 
-                    "location": null, 
-                    "id": "1614784253495640890"
-                }, 
-                "caption": "By @cap_phi #streetartportugal #lisboa #lisboando #lisbon #lisbonstreetart #streetartlisbon #artederua #urbanartportugal #arteurbana #pasteup #lisboalive #igerslisboa #streetartphoto #streetart_daily #streetartglobe #streetartlovers #capphi #streetarteverywhere #pasteups #pasteupart #pasteupartist", 
-                "authorid": "4131656736", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-29/1614784253495640890_4131656736.json", 
-                "instagramcode": "BZo3bkagIM6", 
-                "post_date": "2017-09-29 22:35:05", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831920415163041, 
                     45.75792748393201
                 ]
@@ -1647,6 +1614,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-27/1612936757794568209_54122886.json", 
                 "instagramcode": "BZiTW99g_gR", 
                 "post_date": "2017-09-27 09:24:26", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZo3bkagIM6", 
+                "originally_localized": true, 
+                "author": "lisbon_streetart", 
+                "instagramid": "1614784253495640890", 
+                "timestamp": 1506717305, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/22158688_175013716388638_1338288762639089664_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lisbon_streetart", 
+                    "timestamp": 1506717305, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22158688_175013716388638_1338288762639089664_n.jpg", 
+                    "authorid": "4131656736", 
+                    "location": null, 
+                    "id": "1614784253495640890"
+                }, 
+                "caption": "By @cap_phi #streetartportugal #lisboa #lisboando #lisbon #lisbonstreetart #streetartlisbon #artederua #urbanartportugal #arteurbana #pasteup #lisboalive #igerslisboa #streetartphoto #streetart_daily #streetartglobe #streetartlovers #capphi #streetarteverywhere #pasteups #pasteupart #pasteupartist", 
+                "authorid": "4131656736", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-29/1614784253495640890_4131656736.json", 
+                "instagramcode": "BZo3bkagIM6", 
+                "post_date": "2017-09-29 22:35:05", 
                 "validated": false
             }
         }
