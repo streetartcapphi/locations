@@ -2206,44 +2206,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819044470787049, 
-                    45.72688431849176
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BYVmbcqn548", 
-                "originally_localized": true, 
-                "author": "lisbonstreetarttours", 
-                "instagramid": "1591347055318507068", 
-                "timestamp": 1503923373, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lisbonstreetarttours", 
-                    "timestamp": 1503923373, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
-                    "authorid": "3447903971", 
-                    "location": {
-                        "slug": "graca-lisbon", 
-                        "has_public_page": true, 
-                        "name": "Gra\u00e7a (Lisbon)", 
-                        "id": "251151033"
-                    }, 
-                    "id": "1591347055318507068"
-                }, 
-                "caption": "whatever comes up\nmade by @cap_phi\n\n#pasteupart #pasteups #capphi - - - - - - -\n#streetcandy #streetfiles #streetartfiles  #streetartphotography  #graffiti_of_our_world #instadaily #igersportugal #instapic #streetart #streetartportugal #streetartutopia\n#streetartnews . #streetarteverywhere\n#streetarttour #visitlisbon #lisbonstreetarttours #arteurbana #urbex #graffitiporn #wallporn #wallartistry #wallart #33thirdmedia #yesyoucanspray #jj_urbanart", 
-                "authorid": "3447903971", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-28/1591347055318507068_3447903971.json", 
-                "instagramcode": "BYVmbcqn548", 
-                "post_date": "2017-08-28 14:29:33", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8177409172058105, 
                     45.72823242650626
                 ]
@@ -2406,6 +2368,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-27/1590447314906956936_1218180784.json", 
                 "instagramcode": "BYSZ2gHAMSI", 
                 "post_date": "2017-08-27 08:41:56", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819044470787049, 
+                    45.72688431849176
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BYVmbcqn548", 
+                "originally_localized": true, 
+                "author": "lisbonstreetarttours", 
+                "instagramid": "1591347055318507068", 
+                "timestamp": 1503923373, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lisbonstreetarttours", 
+                    "timestamp": 1503923373, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21224547_1978322295720575_7672549158330302464_n.jpg", 
+                    "authorid": "3447903971", 
+                    "location": {
+                        "slug": "graca-lisbon", 
+                        "has_public_page": true, 
+                        "name": "Gra\u00e7a (Lisbon)", 
+                        "id": "251151033"
+                    }, 
+                    "id": "1591347055318507068"
+                }, 
+                "caption": "whatever comes up\nmade by @cap_phi\n\n#pasteupart #pasteups #capphi - - - - - - -\n#streetcandy #streetfiles #streetartfiles  #streetartphotography  #graffiti_of_our_world #instadaily #igersportugal #instapic #streetart #streetartportugal #streetartutopia\n#streetartnews . #streetarteverywhere\n#streetarttour #visitlisbon #lisbonstreetarttours #arteurbana #urbex #graffitiporn #wallporn #wallartistry #wallart #33thirdmedia #yesyoucanspray #jj_urbanart", 
+                "authorid": "3447903971", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-28/1591347055318507068_3447903971.json", 
+                "instagramcode": "BYVmbcqn548", 
+                "post_date": "2017-08-28 14:29:33", 
                 "validated": false
             }
         }, 
