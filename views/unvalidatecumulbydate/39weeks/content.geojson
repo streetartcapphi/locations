@@ -3777,44 +3777,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832804203033448, 
-                    45.7687428617952
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZBUGfiA_tW", 
-                "originally_localized": true, 
-                "author": "delboulbes_m", 
-                "instagramid": "1603651349424372566", 
-                "timestamp": 1505390159, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "delboulbes_m", 
-                    "timestamp": 1505390159, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
-                    "authorid": "2374356033", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1603651349424372566"
-                }, 
-                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #jj_urbanart #street_art_community", 
-                "authorid": "2374356033", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-14/1603651349424372566_2374356033.json", 
-                "instagramcode": "BZBUGfiA_tW", 
-                "post_date": "2017-09-14 13:55:59", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -3983,6 +3945,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-13/1603090527410216472_810473762.json", 
                 "instagramcode": "BY_UldVFF4Y", 
                 "post_date": "2017-09-13 19:21:44", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832804203033448, 
+                    45.7687428617952
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZBUGfiA_tW", 
+                "originally_localized": true, 
+                "author": "delboulbes_m", 
+                "instagramid": "1603651349424372566", 
+                "timestamp": 1505390159, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "delboulbes_m", 
+                    "timestamp": 1505390159, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688669_129317867709723_7482861060119068672_n.jpg", 
+                    "authorid": "2374356033", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1603651349424372566"
+                }, 
+                "caption": "@cap_phi #capphi #streetart #streetartlyon #streetartorbis #streetart_daily #globalstreetart #total_urbanart #super_graffiti_channel #be_one_urbanart #graffiti_of_our_world #tv_streetart #topstreetart #dsb_graff #rsa_graffiti #arturbain #jj_urbanart #street_art_community", 
+                "authorid": "2374356033", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-14/1603651349424372566_2374356033.json", 
+                "instagramcode": "BZBUGfiA_tW", 
+                "post_date": "2017-09-14 13:55:59", 
                 "validated": false
             }
         }, 
