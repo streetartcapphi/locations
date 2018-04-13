@@ -5019,39 +5019,6 @@
                 "post_date": "2017-05-29 08:47:49", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.81852948665619, 
-                    45.72682065703105
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUkRpLOjamb", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1523420170302630299", 
-                "timestamp": 1495825857, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.70.1080.1080/18645666_128062617765570_6635624081754423296_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1495825857, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18645666_128062617765570_6635624081754423296_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1523420170302630299"
-                }, 
-                "caption": "C'est le week...#weekend #explosiondejoie #prout #paillettes #proutapailettes #confetti #explorationurbaine #explorelyon #capphi #streetart #streetarteverywhere #lyonstreetart #streeartlyon #croixrousse #collage #joie #bonheur #fart #glitterfarts #arcenciel #rainbow #overtherainbow #littlemonster #map_phi", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-26/1523420170302630299_2000118195.json", 
-                "instagramcode": "BUkRpLOjamb", 
-                "post_date": "2017-05-26 21:10:57", 
-                "validated": false
-            }
         }
     ]
 }
