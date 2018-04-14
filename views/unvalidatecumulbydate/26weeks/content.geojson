@@ -3346,44 +3346,6 @@
                 "post_date": "2017-10-12 07:04:05", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZ71OIGgwds", 
-                "originally_localized": true, 
-                "author": "streetartlife1", 
-                "instagramid": "1620122558206773100", 
-                "timestamp": 1507353680, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22280464_120141955336838_6408948524053954560_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetartlife1", 
-                    "timestamp": 1507353680, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22280464_120141955336838_6408948524053954560_n.jpg", 
-                    "authorid": "5989871810", 
-                    "location": {
-                        "slug": "lisboa-cidade", 
-                        "has_public_page": true, 
-                        "name": "Lisboa Cidade", 
-                        "id": "942751655"
-                    }, 
-                    "id": "1620122558206773100"
-                }, 
-                "caption": "#publicart #art #mural #fresque #streetart #urbanart #streetartartistry #urban #drawing #fineart #painting #creative #appreciation#collage #explore#sprayart #capphi #rsa_graffiti #grags #urbanphotography #urbanstreetart #dopeshotbro #progress  #streetartnews#lisboa#streetartlisbon#", 
-                "authorid": "5989871810", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-07/1620122558206773100_5989871810.json", 
-                "instagramcode": "BZ71OIGgwds", 
-                "post_date": "2017-10-07 07:21:20", 
-                "validated": false
-            }
         }
     ]
 }
