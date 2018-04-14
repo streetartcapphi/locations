@@ -81,8 +81,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.83351230621338, 
+                    45.76048743750028
                 ]
             }, 
             "type": "Feature", 
@@ -119,8 +119,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.833973646163941, 
+                    45.75953682517682
                 ]
             }, 
             "type": "Feature", 
@@ -195,28 +195,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83372688293457, 
-                    45.764948362449445
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-03-11 08:15:04", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-03-11/1732550238914452685_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/b041c12790a9ba1f37f02fc5f3e7c4a5/5B2B489A/t51.2885-15/s640x640/sh0.08/e35/28430310_1531921810253827_4373961884991225856_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BgLQUNKA5zN/", 
-                "caption": "#welcome on the #hotel #insitu @maisonno #capphi #urbanart", 
-                "validated": false, 
-                "id": "1732550238914452685_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -255,82 +233,6 @@
                 "caption": "#Welcome to the #hotel #streetart #lyon1 #urbanartist #capphi #collage #dragon", 
                 "validated": false, 
                 "id": "1731403024234084401_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c18700a9f5a5c3577459bde51baf4556/5B5063C5/t51.2885-15/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
-                "originally_localized": true, 
-                "author": "annirieix", 
-                "instagramid": "1728660321135256829", 
-                "timestamp": 1520292390, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/beb3170691677850ece5b10be04a1e43/5B717EA4/t51.2885-15/s640x640/sh0.08/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "annirieix", 
-                    "timestamp": 1520292390, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c18700a9f5a5c3577459bde51baf4556/5B5063C5/t51.2885-15/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
-                    "authorid": "5488122204", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1728660321135256829"
-                }, 
-                "caption": "@cap_phi \n#lyon #lyoncity #onlylyon #igerslyon #ilovelyon #monlyon #maville #jaimemaville #streetart #artderue #arturbainlyon #arturbain #streeview #streetphotographer #streetphotography #capphi #cap_phi", 
-                "authorid": "5488122204", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-06/1728660321135256829_5488122204.json", 
-                "instagramcode": "Bf9b2c6lGT9", 
-                "post_date": "2018-03-06 00:26:30", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9a3c0525ddcdc725331037decb9acaeb/5B7430E8/t51.2885-15/e35/28152855_1806894766279283_7687796025943130112_n.jpg", 
-                "originally_localized": true, 
-                "author": "olivier_croixroussien", 
-                "instagramid": "1719665092724864357", 
-                "timestamp": 1519220075, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/be2b78fbdee02bae36b518bc4a49b20f/5B75ABB6/t51.2885-15/s640x640/sh0.08/e35/c40.0.999.999/28152855_1806894766279283_7687796025943130112_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "olivier_croixroussien", 
-                    "timestamp": 1519220075, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9a3c0525ddcdc725331037decb9acaeb/5B7430E8/t51.2885-15/e35/28152855_1806894766279283_7687796025943130112_n.jpg", 
-                    "authorid": "6251084249", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1719665092724864357"
-                }, 
-                "caption": "@cap_phi il est trop beau \ud83d\udc4d#lyon #lyon4 #lyon1 #lyongraffiti #lyongraff #mylyon #monlyon #streetartlyon #streetartlyonnais #capphi #monstregentil #collage #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #street #urban #artderue #graffiticulture #streetphoto #frenchgraffiti #graffiti #rh\u00f4nealpesgraffiti", 
-                "authorid": "6251084249", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-21/1719665092724864357_6251084249.json", 
-                "instagramcode": "BfdekpogTVl", 
-                "post_date": "2018-02-21 14:34:35", 
-                "validated": false
             }
         }, 
         {
@@ -626,8 +528,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.831366539001466, 
+                    45.758017308852445
                 ]
             }, 
             "type": "Feature", 

@@ -43,8 +43,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.83351230621338, 
+                    45.76048743750028
                 ]
             }, 
             "type": "Feature", 
@@ -81,8 +81,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.833973646163941, 
+                    45.75953682517682
                 ]
             }, 
             "type": "Feature", 
@@ -189,28 +189,6 @@
                 "instagramcode": "BgqQMZPA8rX", 
                 "post_date": "2018-03-23 10:10:28", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83372688293457, 
-                    45.764948362449445
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-03-11 08:15:04", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-03-11/1732550238914452685_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/b041c12790a9ba1f37f02fc5f3e7c4a5/5B2B489A/t51.2885-15/s640x640/sh0.08/e35/28430310_1531921810253827_4373961884991225856_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BgLQUNKA5zN/", 
-                "caption": "#welcome on the #hotel #insitu @maisonno #capphi #urbanart", 
-                "validated": false, 
-                "id": "1732550238914452685_29177514"
             }
         }, 
         {
