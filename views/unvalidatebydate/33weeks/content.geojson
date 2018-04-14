@@ -38,39 +38,6 @@
                 "post_date": "2017-08-25 14:57:12", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.817419052124024, 
-                    45.72600803083517
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BX-4578HxDY", 
-                "originally_localized": true, 
-                "author": "cileneira", 
-                "instagramid": "1584954390855225560", 
-                "timestamp": 1503161308, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20968877_1610140339056705_2463160574570135552_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cileneira", 
-                    "timestamp": 1503161308, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20968877_1610140339056705_2463160574570135552_n.jpg", 
-                    "authorid": "840355636", 
-                    "location": null, 
-                    "id": "1584954390855225560"
-                }, 
-                "caption": "#monster by @cap_phi #capphi #gra\u00e7a #sapadores #streetart #streetarteverywhere #lisbonstreetart #lisboastreetart #lisbonnestreetart #dreamers #streetartlisbon #urbanwalls", 
-                "authorid": "840355636", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-19/1584954390855225560_840355636.json", 
-                "instagramcode": "BX-4578HxDY", 
-                "post_date": "2017-08-19 18:48:28", 
-                "validated": false
-            }
         }
     ]
 }
