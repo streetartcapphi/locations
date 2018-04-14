@@ -5,8 +5,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.831613302230836, 
+                    45.769738220267826
                 ]
             }, 
             "type": "Feature", 
@@ -81,44 +81,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833973646163941, 
-                    45.75953682517682
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b81c949f59b39c140b3e1aeffda2e541/5B69AF1F/t51.2885-15/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1742967213277421962", 
-                "timestamp": 1521997904, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3f8f4a84e6a96587f5c03323bbc9d2bd/5B5E7435/t51.2885-15/s640x640/sh0.08/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1521997904, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b81c949f59b39c140b3e1aeffda2e541/5B69AF1F/t51.2885-15/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1742967213277421962"
-                }, 
-                "caption": "Un peu de jaune, de bleu, de vert, d'orange et vous avez une tr\u00e8s belle amazone sign\u00e9 @cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-25/1742967213277421962_37664964.json", 
-                "instagramcode": "BgwQ3IijaGK", 
-                "post_date": "2018-03-25 19:11:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -157,8 +119,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.8333191871643075, 
+                    45.756864544727286
                 ]
             }, 
             "type": "Feature", 
@@ -376,8 +338,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.8345422744750985, 
+                    45.75890806481997
                 ]
             }, 
             "type": "Feature", 
@@ -604,8 +566,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.831280708312989, 
+                    45.75724630691264
                 ]
             }, 
             "type": "Feature", 
@@ -1046,44 +1008,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832310676574708, 
-                    45.75945448791422
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d1e8dd4b9f312f97313e39fb75ad3153/5B5D55A2/t51.2885-15/e35/26226726_532343117132702_8525471470804008960_n.jpg", 
-                "originally_localized": true, 
-                "author": "olivier_croixroussien", 
-                "instagramid": "1698069147344301380", 
-                "timestamp": 1516645638, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/829ee6dd5332f448389d51fb3c7146c0/5B608FC1/t51.2885-15/s640x640/sh0.08/e35/c90.0.900.900/26226726_532343117132702_8525471470804008960_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "olivier_croixroussien", 
-                    "timestamp": 1516645638, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d1e8dd4b9f312f97313e39fb75ad3153/5B5D55A2/t51.2885-15/e35/26226726_532343117132702_8525471470804008960_n.jpg", 
-                    "authorid": "6251084249", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1698069147344301380"
-                }, 
-                "caption": "C'est trop beau by @cap_phi #lyon #lyon4 #xrousse #croixrousse #monlyon #mylyon #lyongraffiti #lyongraff #streetartlyonnais #streetartlyon #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #capphi #street #urban #artderue #graffiticulture #streetphoto #frenchgraffiti #graffiti #rh\u00f4nealpesgraffiti", 
-                "authorid": "6251084249", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-22/1698069147344301380_6251084249.json", 
-                "instagramcode": "BeQwOSLge1E", 
-                "post_date": "2018-01-22 19:27:18", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1150,8 +1074,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.833576679229737, 
+                    45.75777028997327
                 ]
             }, 
             "type": "Feature", 
@@ -3570,8 +3494,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81853485107422, 
-                    45.72612037617472
+                    4.823942184448243, 
+                    45.7237386065975
                 ]
             }, 
             "type": "Feature", 
