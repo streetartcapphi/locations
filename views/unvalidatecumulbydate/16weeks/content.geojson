@@ -5,44 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83351230621338, 
-                    45.76048743750028
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eea5300ded049b02ac3c8bf1c47bb43a/5B56AB67/t51.2885-15/e35/29094862_197753740818646_6630289607818739712_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1742970912653484580", 
-                "timestamp": 1521998345, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/25082e8d90ad7613d9ad589a02215a3d/5B58D517/t51.2885-15/s640x640/sh0.08/e35/c0.58.1080.1080/29094862_197753740818646_6630289607818739712_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1521998345, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eea5300ded049b02ac3c8bf1c47bb43a/5B56AB67/t51.2885-15/e35/29094862_197753740818646_6630289607818739712_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1742970912653484580"
-                }, 
-                "caption": "Un peu de rouge, de vert, de bleu et vous avez une tr\u00e8s belle amazone sign\u00e9 @cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-25/1742970912653484580_37664964.json", 
-                "instagramcode": "BgwRs92jKIk", 
-                "post_date": "2018-03-25 19:19:05", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -74,6 +36,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-21/1740140999889574034_34904985.json", 
                 "instagramcode": "BgmOQUNgtiS", 
                 "post_date": "2018-03-21 20:36:34", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83351230621338, 
+                    45.76048743750028
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eea5300ded049b02ac3c8bf1c47bb43a/5B56AB67/t51.2885-15/e35/29094862_197753740818646_6630289607818739712_n.jpg", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1742970912653484580", 
+                "timestamp": 1521998345, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/25082e8d90ad7613d9ad589a02215a3d/5B58D517/t51.2885-15/s640x640/sh0.08/e35/c0.58.1080.1080/29094862_197753740818646_6630289607818739712_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1521998345, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eea5300ded049b02ac3c8bf1c47bb43a/5B56AB67/t51.2885-15/e35/29094862_197753740818646_6630289607818739712_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1742970912653484580"
+                }, 
+                "caption": "Un peu de rouge, de vert, de bleu et vous avez une tr\u00e8s belle amazone sign\u00e9 @cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
+                "authorid": "37664964", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-25/1742970912653484580_37664964.json", 
+                "instagramcode": "BgwRs92jKIk", 
+                "post_date": "2018-03-25 19:19:05", 
                 "validated": false
             }
         }, 
