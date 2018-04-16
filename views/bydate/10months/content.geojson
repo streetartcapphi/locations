@@ -132,6 +132,43 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.832707643508912, 
+                    45.76827885403116
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWW05TBgBGt", 
+                "originally_localized": true, 
+                "author": "julia_couplan", 
+                "instagramid": "1555663357158101421", 
+                "timestamp": 1499669545, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19932604_1153630254738095_92073674940612608_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "julia_couplan", 
+                    "timestamp": 1499669545, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19932604_1153630254738095_92073674940612608_n.jpg", 
+                    "authorid": "1687942178", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1555663357158101421"
+                }, 
+                "caption": "Nice fucking monster by @cap_phi ! \n#streetart #artderue #art #lyon #capphi #monster #wallart #urbanart #cityart #instastreetart #streetartist", 
+                "authorid": "1687942178", 
+                "instagramcode": "BWW05TBgBGt", 
+                "post_date": "2017-07-10 08:52:25", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.833211898803712, 
                     45.771130195559905
                 ]
