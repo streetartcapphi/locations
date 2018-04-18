@@ -1918,27 +1918,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83449399471283, 
-                    45.77211615703999
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-31 11:36:55", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812118_1322261707880905_951783350001991680_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUwVqAuBYgH/", 
-                "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1526815519645468679_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.843350648880005, 
                     45.75160194886312
                 ]
