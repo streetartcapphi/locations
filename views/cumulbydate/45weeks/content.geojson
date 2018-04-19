@@ -211,6 +211,80 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.831495285034181, 
+                    45.76803188058275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/edb0a026828f16179a8513935c37f65c/5B5F306A/t51.2885-15/e35/27891941_1633192166771012_2741300706743943168_n.jpg", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1718196224471644288", 
+                "timestamp": 1519044972, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/49ac9e501876b3c25a37881200836557/5B50D140/t51.2885-15/s640x640/sh0.08/e35/27891941_1633192166771012_2741300706743943168_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1519044972, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/edb0a026828f16179a8513935c37f65c/5B5F306A/t51.2885-15/e35/27891941_1633192166771012_2741300706743943168_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1718196224471644288"
+                }, 
+                "caption": "@cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
+                "authorid": "37664964", 
+                "instagramcode": "BfYQlzeDLiA", 
+                "post_date": "2018-02-19 13:56:12", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835132360458375, 
+                    45.77558278643725
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1718774079967061510", 
+                "timestamp": 1519113858, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f988cf28e87f9530799c3ad3e5f892ec/5B4FD48E/t51.2885-15/s640x640/sh0.08/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1519113858, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1718774079967061510"
+                }, 
+                "caption": "By @cap_phi monstre des dents 2/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "instagramcode": "BfaT-tVleYG", 
+                "post_date": "2018-02-20 09:04:18", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.827144742012025, 
                     45.77217041247884
                 ]
@@ -847,6 +921,43 @@
                 "caption": "#eden #petite #amazone #vegetal #environmentallyfriendly #streetart #capphi #urbanartist #croixrousse", 
                 "validated": true, 
                 "id": "1604389365231066261_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834960699081422, 
+                    45.775257272930475
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZGs9jOgnih", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1605168060963125409", 
+                "timestamp": 1505570965, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21689432_351345285317114_2642277139063242752_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1505570965, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21689432_351345285317114_2642277139063242752_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605168060963125409"
+                }, 
+                "caption": "Tr\u00e8s sympa ce @cap_phi... Bon comme tr\u00e8s souvent avec lui #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
+                "authorid": "37664964", 
+                "instagramcode": "BZGs9jOgnih", 
+                "post_date": "2017-09-16 16:09:25", 
+                "validated": true
             }
         }, 
         {
