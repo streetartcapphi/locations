@@ -1169,37 +1169,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.829295873641969, 
-                    45.7770195130069
+                    4.833458662033082, 
+                    45.757702920998256
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BalMvl9FrxZ", 
+                "originURL": "https://www.instagram.com/p/BZHFpxWFJDa", 
                 "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1631766487118560345", 
-                "timestamp": 1508741745, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c225.0.630.630/22710768_1880169405645687_9125444725216641024_n.jpg", 
+                "author": "vmilsant", 
+                "instagramid": "1605276652895768794", 
+                "timestamp": 1505583911, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.607.607/21690358_1390764680970783_3557013449789669376_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1508741745, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22710768_1880169405645687_9125444725216641024_n.jpg", 
-                    "authorid": "810473762", 
+                    "author": "vmilsant", 
+                    "timestamp": 1505583911, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690358_1390764680970783_3557013449789669376_n.jpg", 
+                    "authorid": "517763490", 
                     "location": {
-                        "slug": "croix-rousse", 
+                        "slug": "lyon-france", 
                         "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
+                        "name": "Lyon, France", 
+                        "id": "213168722"
                     }, 
-                    "id": "1631766487118560345"
+                    "id": "1605276652895768794"
                 }, 
-                "caption": "By @cap_phi Amazone 3/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-23/1631766487118560345_810473762.json", 
-                "instagramcode": "BalMvl9FrxZ", 
-                "post_date": "2017-10-23 08:55:45", 
+                "caption": "Eden #amazon #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
+                "authorid": "517763490", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
+                "instagramcode": "BZHFpxWFJDa", 
+                "post_date": "2017-09-16 19:45:11", 
                 "validated": false
             }
         }, 
@@ -2178,6 +2178,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.829295873641969, 
+                    45.7770195130069
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BalMvl9FrxZ", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1631766487118560345", 
+                "timestamp": 1508741745, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c225.0.630.630/22710768_1880169405645687_9125444725216641024_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1508741745, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22710768_1880169405645687_9125444725216641024_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1631766487118560345"
+                }, 
+                "caption": "By @cap_phi Amazone 3/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-23/1631766487118560345_810473762.json", 
+                "instagramcode": "BalMvl9FrxZ", 
+                "post_date": "2017-10-23 08:55:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -3119,37 +3157,37 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833458662033082, 
-                    45.757702920998256
+                    4.8320114, 
+                    45.7578137
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BZHFpxWFJDa", 
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d24a19e879aa3b565d678f272a46b0bd/5B61CF00/t51.2885-15/e35/30086557_1543955035703193_5353410180203675648_n.jpg", 
                 "originally_localized": true, 
-                "author": "vmilsant", 
-                "instagramid": "1605276652895768794", 
-                "timestamp": 1505583911, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.607.607/21690358_1390764680970783_3557013449789669376_n.jpg", 
+                "author": "mikamike69", 
+                "instagramid": "1762435671530986808", 
+                "timestamp": 1524318726, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e4e21ad5dda03e1e331b1f88074491a7/5B57142A/t51.2885-15/s640x640/sh0.08/e35/30086557_1543955035703193_5353410180203675648_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "vmilsant", 
-                    "timestamp": 1505583911, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690358_1390764680970783_3557013449789669376_n.jpg", 
-                    "authorid": "517763490", 
+                    "author": "mikamike69", 
+                    "timestamp": 1524318726, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d24a19e879aa3b565d678f272a46b0bd/5B61CF00/t51.2885-15/e35/30086557_1543955035703193_5353410180203675648_n.jpg", 
+                    "authorid": "37664964", 
                     "location": {
                         "slug": "lyon-france", 
                         "has_public_page": true, 
                         "name": "Lyon, France", 
                         "id": "213168722"
                     }, 
-                    "id": "1605276652895768794"
+                    "id": "1762435671530986808"
                 }, 
-                "caption": "Eden #amazon #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
-                "authorid": "517763490", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
-                "instagramcode": "BZHFpxWFJDa", 
-                "post_date": "2017-09-16 19:45:11", 
+                "caption": "@ghostsurfer69 surfe sur @cap_phi #ghostsurfer #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
+                "authorid": "37664964", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-21/1762435671530986808_37664964.json", 
+                "instagramcode": "Bh1befNFN04", 
+                "post_date": "2018-04-21 15:52:06", 
                 "validated": false
             }
         }, 
