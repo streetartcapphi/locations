@@ -3234,44 +3234,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83199954032898, 
-                    45.757178937305
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BYziJfOAJYf", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1599772478224242207", 
-                "timestamp": 1504927762, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/21433505_123531128302916_3742298841450283008_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1504927762, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21433505_123531128302916_3742298841450283008_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1599772478224242207"
-                }, 
-                "caption": "#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawaii #monster", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-09/1599772478224242207_54122886.json", 
-                "instagramcode": "BYziJfOAJYf", 
-                "post_date": "2017-09-09 05:29:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
