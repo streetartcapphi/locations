@@ -1534,6 +1534,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.830529689788819, 
+                    45.75733613292963
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZNx5ORgqNG", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1607160078656512838", 
+                "timestamp": 1505808432, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/21690178_1222163127917321_6806757886887198720_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1505808432, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690178_1222163127917321_6806757886887198720_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1607160078656512838"
+                }, 
+                "caption": "Rencontre avec Eden la nouvelle petite Amazone de @cap_phi (ou quand tu as envie de partir avec un bac de lauriers chez toi.... \ud83d\ude02)\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #eden #serpent #arbredevie #arbre", 
+                "authorid": "54122886", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-19/1607160078656512838_54122886.json", 
+                "instagramcode": "BZNx5ORgqNG", 
+                "post_date": "2017-09-19 10:07:12", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1851,37 +1889,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830529689788819, 
-                    45.75733613292963
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://www.instagram.com/p/BZNx5ORgqNG", 
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
                 "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1607160078656512838", 
-                "timestamp": 1505808432, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/21690178_1222163127917321_6806757886887198720_n.jpg", 
+                "author": "duke9784", 
+                "instagramid": "1763179767920915116", 
+                "timestamp": 1524407429, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eac555989d75cf53a7bb12d6273a19bd/5B5D4D96/t51.2885-15/s640x640/sh0.08/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1505808432, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690178_1222163127917321_6806757886887198720_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1607160078656512838"
+                    "author": "duke9784", 
+                    "timestamp": 1524407429, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1763179767920915116"
                 }, 
-                "caption": "Rencontre avec Eden la nouvelle petite Amazone de @cap_phi (ou quand tu as envie de partir avec un bac de lauriers chez toi.... \ud83d\ude02)\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #eden #serpent #arbredevie #arbre", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-19/1607160078656512838_54122886.json", 
-                "instagramcode": "BZNx5ORgqNG", 
-                "post_date": "2017-09-19 10:07:12", 
+                "caption": "Artistes: Cap Phi et Ghostsurfer\n@cap_phi \n@ghostsurfer69 \nLocalisation: Rue Lanterne\n#ghostsurfer #collage #Lyon #streetarteverywhere #streetartphotography #Art #Streetart #streetphoto #streetartist #StreetArtlyon  #Capphi #france #StreetArtFrance", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-22/1763179767920915116_5529011003.json", 
+                "instagramcode": "Bh4Eqg-FPKs", 
+                "post_date": "2018-04-22 16:30:29", 
                 "validated": false
             }
         }, 
