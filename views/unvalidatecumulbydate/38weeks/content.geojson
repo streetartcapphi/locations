@@ -3239,44 +3239,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833458662033082, 
-                    45.757702920998256
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHFpxWFJDa", 
-                "originally_localized": true, 
-                "author": "vmilsant", 
-                "instagramid": "1605276652895768794", 
-                "timestamp": 1505583911, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.607.607/21690358_1390764680970783_3557013449789669376_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "vmilsant", 
-                    "timestamp": 1505583911, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690358_1390764680970783_3557013449789669376_n.jpg", 
-                    "authorid": "517763490", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1605276652895768794"
-                }, 
-                "caption": "Eden #amazon #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
-                "authorid": "517763490", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
-                "instagramcode": "BZHFpxWFJDa", 
-                "post_date": "2017-09-16 19:45:11", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818599224090577, 
                     45.7271539426975
                 ]
@@ -3440,6 +3402,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605180385623442589_2374356033.json", 
                 "instagramcode": "BZGvw5dgoSd", 
                 "post_date": "2017-09-16 16:33:55", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833458662033082, 
+                    45.757702920998256
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHFpxWFJDa", 
+                "originally_localized": true, 
+                "author": "vmilsant", 
+                "instagramid": "1605276652895768794", 
+                "timestamp": 1505583911, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.607.607/21690358_1390764680970783_3557013449789669376_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vmilsant", 
+                    "timestamp": 1505583911, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690358_1390764680970783_3557013449789669376_n.jpg", 
+                    "authorid": "517763490", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1605276652895768794"
+                }, 
+                "caption": "Eden #amazon #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
+                "authorid": "517763490", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
+                "instagramcode": "BZHFpxWFJDa", 
+                "post_date": "2017-09-16 19:45:11", 
                 "validated": false
             }
         }, 
