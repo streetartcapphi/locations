@@ -190,43 +190,6 @@
                 "post_date": "2017-07-21 19:10:06", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831543564796449, 
-                    45.770557693798736
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWrcm0CgUPR", 
-                "originally_localized": true, 
-                "author": "julia_couplan", 
-                "instagramid": "1561467508333036497", 
-                "timestamp": 1500361454, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20184519_1575250032524865_8141745275669577728_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "julia_couplan", 
-                    "timestamp": 1500361454, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184519_1575250032524865_8141745275669577728_n.jpg", 
-                    "authorid": "1687942178", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1561467508333036497"
-                }, 
-                "caption": "An another Monster by @cap_phi\n\n#streetart #streetartist #lyon #capphi #art #artderue #collage #cityart #urbanart #wallart #collage #monster #colorfull #instastreetart", 
-                "authorid": "1687942178", 
-                "instagramcode": "BWrcm0CgUPR", 
-                "post_date": "2017-07-18 09:04:14", 
-                "validated": true
-            }
         }
     ]
 }
