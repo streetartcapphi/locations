@@ -47,27 +47,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833214581012726, 
-                    45.771145162847375
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-31 04:29:35", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18721806_129167594324014_6192392802656059392_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUvkwIzhABv/", 
-                "caption": "#nativeamerican #amazone #streetart #urbanartist #capphi  #kawaii #monster #croixrousse #skel #flowers", 
-                "validated": true, 
-                "id": "1526600436365394031_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834612011909485, 
                     45.77215170371277
                 ]
