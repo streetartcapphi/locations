@@ -47,48 +47,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832726418972015, 
-                    45.777560146622704
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-04 07:02:55", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18879719_1796547490659268_1545277294061289472_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BU6Jes-B4NK/", 
-                "caption": "#cthulhu #heart #hunter #heart #streetart #urbanartist #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1529576715733926730_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832675457000732, 
-                    45.777562017318154
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-04 07:05:18", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18878950_1307655246016036_1229353973807316992_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BU6JwIlBssr/", 
-                "caption": "Promis c'est les miens #streetart #urbanartist #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1529577913610324779_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831527471542359, 
                     45.776338569091
                 ]
