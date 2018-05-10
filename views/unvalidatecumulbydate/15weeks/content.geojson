@@ -1477,39 +1477,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4e74047af4057daf6e86e2824c3f85ad/5B69149E/t51.2885-15/e35/26408427_394428821007841_4474555890283839488_n.jpg", 
-                "originally_localized": true, 
-                "author": "_flawlex_", 
-                "instagramid": "1694948428410259018", 
-                "timestamp": 1516273619, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/24ee18e5a8598a06f80a9503d6883642/5B56B549/t51.2885-15/s640x640/sh0.08/e35/c0.13.1080.1080/26408427_394428821007841_4474555890283839488_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "_flawlex_", 
-                    "timestamp": 1516273619, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4e74047af4057daf6e86e2824c3f85ad/5B69149E/t51.2885-15/e35/26408427_394428821007841_4474555890283839488_n.jpg", 
-                    "authorid": "2999332484", 
-                    "location": null, 
-                    "id": "1694948428410259018"
-                }, 
-                "caption": "StreetArt / WallArt by @cap_phi \n#streetart #WallArt #lyon #collage #collagelyon #pentesdelacroixrousse #capphi #urbanart #streetartlyon", 
-                "authorid": "2999332484", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-18/1694948428410259018_2999332484.json", 
-                "instagramcode": "BeFqp2MAAZK", 
-                "post_date": "2018-01-18 12:06:59", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819446802139283, 
                     45.724188004856174
                 ]
