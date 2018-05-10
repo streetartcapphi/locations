@@ -2824,44 +2824,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819446802139283, 
-                    45.72652481752634
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Ba_qSLpA0My", 
-                "originally_localized": true, 
-                "author": "eindbaas_art", 
-                "instagramid": "1639214756789437234", 
-                "timestamp": 1509629648, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "eindbaas_art", 
-                    "timestamp": 1509629648, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
-                    "authorid": "4904271748", 
-                    "location": {
-                        "slug": "lisbon-portugal", 
-                        "has_public_page": true, 
-                        "name": "Lisbon, Portugal", 
-                        "id": "11100843"
-                    }, 
-                    "id": "1639214756789437234"
-                }, 
-                "caption": "More monsters in Lisbon! \n#CapPhi #red #monster #streetart #streetartist #LisbonStreetart #paint #painting #posterboy #posterdesign #graffiti #spaycan #spraycanlove #fortheloveofart #art #goplacesseethings #museum #picoftheday", 
-                "authorid": "4904271748", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1639214756789437234_4904271748.json", 
-                "instagramcode": "Ba_qSLpA0My", 
-                "post_date": "2017-11-02 14:34:08", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.81850266456604, 
                     45.727288754312326
                 ]
@@ -2893,6 +2855,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1638800221562317877_3509040037.json", 
                 "instagramcode": "Ba-MB5oDaw1", 
                 "post_date": "2017-11-02 00:50:31", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819446802139283, 
+                    45.72652481752634
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/Ba_qSLpA0My", 
+                "originally_localized": true, 
+                "author": "eindbaas_art", 
+                "instagramid": "1639214756789437234", 
+                "timestamp": 1509629648, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "eindbaas_art", 
+                    "timestamp": 1509629648, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23100966_1529917507094801_3355021691909570560_n.jpg", 
+                    "authorid": "4904271748", 
+                    "location": {
+                        "slug": "lisbon-portugal", 
+                        "has_public_page": true, 
+                        "name": "Lisbon, Portugal", 
+                        "id": "11100843"
+                    }, 
+                    "id": "1639214756789437234"
+                }, 
+                "caption": "More monsters in Lisbon! \n#CapPhi #red #monster #streetart #streetartist #LisbonStreetart #paint #painting #posterboy #posterdesign #graffiti #spaycan #spraycanlove #fortheloveofart #art #goplacesseethings #museum #picoftheday", 
+                "authorid": "4904271748", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1639214756789437234_4904271748.json", 
+                "instagramcode": "Ba_qSLpA0My", 
+                "post_date": "2017-11-02 14:34:08", 
                 "validated": false
             }
         }, 
