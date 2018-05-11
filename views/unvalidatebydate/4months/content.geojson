@@ -280,6 +280,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.819446802139283, 
+                    45.724188004856174
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5df4ebf5dffc8c7c828b7f267df6fda6/5B5C9D72/t51.2885-15/e35/26865668_140177389993594_5179936738881044480_n.jpg", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1695988954678855374", 
+                "timestamp": 1516397660, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c7746a7bc4847a77436109f698194938/5B6EB913/t51.2885-15/s640x640/sh0.08/e35/26865668_140177389993594_5179936738881044480_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1516397660, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5df4ebf5dffc8c7c828b7f267df6fda6/5B5C9D72/t51.2885-15/e35/26865668_140177389993594_5179936738881044480_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1695988954678855374"
+                }, 
+                "caption": "Je crois qu'il a une dent contre quelqu'un .\n.\n.\n.\n#streetart #capphi #map_phi #cap_phi #lyonstreetart #littlemonster #croixrousse #pentesdelacroixrousse #monster #petitmonstre #urbanart #dent", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-19/1695988954678855374_2000118195.json", 
+                "instagramcode": "BeJXPfynobO", 
+                "post_date": "2018-01-19 22:34:20", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.833576679229737, 
                     45.75777028997327
                 ]
