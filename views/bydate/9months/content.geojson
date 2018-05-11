@@ -95,43 +95,6 @@
                 "post_date": "2017-08-09 20:53:31", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.835786819458009, 
-                    45.77015731325816
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXX8fnDgqgx", 
-                "originally_localized": true, 
-                "author": "tazwallace", 
-                "instagramid": "1573992649818548273", 
-                "timestamp": 1501854567, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20589436_1431725610274889_7014553532858630144_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "tazwallace", 
-                    "timestamp": 1501854567, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20589436_1431725610274889_7014553532858630144_n.jpg", 
-                    "authorid": "547668977", 
-                    "location": {
-                        "slug": "rue-rene-leynaud", 
-                        "has_public_page": true, 
-                        "name": "Rue Ren\u00e9-Leynaud", 
-                        "id": "238091071"
-                    }, 
-                    "id": "1573992649818548273"
-                }, 
-                "caption": "Petit monstre #monstre #sirene #hame\u00e7on #streetart #urbanart #collage #capphi", 
-                "authorid": "547668977", 
-                "instagramcode": "BXX8fnDgqgx", 
-                "post_date": "2017-08-04 15:49:27", 
-                "validated": true
-            }
         }
     ]
 }
