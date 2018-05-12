@@ -2300,28 +2300,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819210767745973, 
-                    45.72703410987784
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-11-18 12:33:24", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-11-18/1650780600677723302_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734508_1971621986418803_8747826785325940736_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BbowDXJgGym/", 
-                "caption": "Je vais \u00e0 l'#\u00e9cole #collage #streetart #urbanart #capphi #monstre #cartable #art", 
-                "validated": false, 
-                "id": "1650780600677723302_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2387,6 +2365,28 @@
                 "instagramcode": "BbtXyAqFLdC", 
                 "post_date": "2017-11-20 08:37:31", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819210767745973, 
+                    45.72703410987784
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-11-18 12:33:24", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-11-18/1650780600677723302_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23734508_1971621986418803_8747826785325940736_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BbowDXJgGym/", 
+                "caption": "Je vais \u00e0 l'#\u00e9cole #collage #streetart #urbanart #capphi #monstre #cartable #art", 
+                "validated": false, 
+                "id": "1650780600677723302_29177514"
             }
         }, 
         {
