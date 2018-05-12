@@ -4325,44 +4325,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832718372344972, 
-                    45.757905027679286
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWR0bASAVJe", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1554253900566057566", 
-                "timestamp": 1499501524, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1499501524, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1554253900566057566"
-                }, 
-                "caption": "Lavpetite Amazone au dragon de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #dragon", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-08/1554253900566057566_54122886.json", 
-                "instagramcode": "BWR0bASAVJe", 
-                "post_date": "2017-07-08 10:12:04", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.820616245269776, 
                     45.727109005420246
                 ]
@@ -4537,6 +4499,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-12/1535341329545374894_5533275959.json", 
                 "instagramcode": "BVOoM38hyyu", 
                 "post_date": "2017-06-12 07:56:10", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832718372344972, 
+                    45.757905027679286
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWR0bASAVJe", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1554253900566057566", 
+                "timestamp": 1499501524, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1499501524, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1554253900566057566"
+                }, 
+                "caption": "Lavpetite Amazone au dragon de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #dragon", 
+                "authorid": "54122886", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-08/1554253900566057566_54122886.json", 
+                "instagramcode": "BWR0bASAVJe", 
+                "post_date": "2017-07-08 10:12:04", 
                 "validated": false
             }
         }, 
