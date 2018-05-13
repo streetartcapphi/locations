@@ -3910,44 +3910,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828941822052003, 
-                    45.77652564242378
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BYSZ2gHAMSI", 
-                "originally_localized": true, 
-                "author": "my_urbanitudes", 
-                "instagramid": "1590447314906956936", 
-                "timestamp": 1503816116, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21041947_1883608215299169_9099197029019549696_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "my_urbanitudes", 
-                    "timestamp": 1503816116, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21041947_1883608215299169_9099197029019549696_n.jpg", 
-                    "authorid": "1218180784", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1590447314906956936"
-                }, 
-                "caption": "Green eyes Amazon Death Queen by #capphi \u2716\ufe0f #mesurbanitudes #Lyon #France #onlylyon #monlyon #villedelyon #streetartlyon #streetart #streetphoto #streetartphoto #urbanart #instamural #igerslyon #queen #amazon #death #queen #greeneyes #artiseverywhere #rsa_graffiti #artpublic #dsb_graff #graffitiart #stencil #streetworkout #streetartist #urbanexploration #graffiti #jj_urbanart #aura_focus_on", 
-                "authorid": "1218180784", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-27/1590447314906956936_1218180784.json", 
-                "instagramcode": "BYSZ2gHAMSI", 
-                "post_date": "2017-08-27 08:41:56", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819044470787049, 
                     45.72688431849176
                 ]
@@ -4017,6 +3979,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-25/1589186647457611758_1629577880.json", 
                 "instagramcode": "BYN7NYDgT_u", 
                 "post_date": "2017-08-25 14:57:12", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.828941822052003, 
+                    45.77652564242378
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BYSZ2gHAMSI", 
+                "originally_localized": true, 
+                "author": "my_urbanitudes", 
+                "instagramid": "1590447314906956936", 
+                "timestamp": 1503816116, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21041947_1883608215299169_9099197029019549696_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "my_urbanitudes", 
+                    "timestamp": 1503816116, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21041947_1883608215299169_9099197029019549696_n.jpg", 
+                    "authorid": "1218180784", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1590447314906956936"
+                }, 
+                "caption": "Green eyes Amazon Death Queen by #capphi \u2716\ufe0f #mesurbanitudes #Lyon #France #onlylyon #monlyon #villedelyon #streetartlyon #streetart #streetphoto #streetartphoto #urbanart #instamural #igerslyon #queen #amazon #death #queen #greeneyes #artiseverywhere #rsa_graffiti #artpublic #dsb_graff #graffitiart #stencil #streetworkout #streetartist #urbanexploration #graffiti #jj_urbanart #aura_focus_on", 
+                "authorid": "1218180784", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-27/1590447314906956936_1218180784.json", 
+                "instagramcode": "BYSZ2gHAMSI", 
+                "post_date": "2017-08-27 08:41:56", 
                 "validated": false
             }
         }, 
