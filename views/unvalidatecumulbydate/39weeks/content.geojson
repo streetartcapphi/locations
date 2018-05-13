@@ -3189,44 +3189,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.827874302864076, 
-                    45.77145573315625
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BaRwjEihpkw", 
-                "originally_localized": true, 
-                "author": "enka76", 
-                "instagramid": "1626294456745892144", 
-                "timestamp": 1508089428, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "enka76", 
-                    "timestamp": 1508089428, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
-                    "authorid": "311942011", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1626294456745892144"
-                }, 
-                "caption": "#lyonstreetart #lespentesdelacroixrousse #capphi #streetartlyon #mylyon", 
-                "authorid": "311942011", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-15/1626294456745892144_311942011.json", 
-                "instagramcode": "BaRwjEihpkw", 
-                "post_date": "2017-10-15 19:43:48", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.821066856384278, 
                     45.724697318512426
                 ]
@@ -3318,6 +3280,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
                 "instagramcode": "BaIrOIyHZik", 
                 "post_date": "2017-10-12 07:04:05", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.827874302864076, 
+                    45.77145573315625
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BaRwjEihpkw", 
+                "originally_localized": true, 
+                "author": "enka76", 
+                "instagramid": "1626294456745892144", 
+                "timestamp": 1508089428, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "enka76", 
+                    "timestamp": 1508089428, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
+                    "authorid": "311942011", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1626294456745892144"
+                }, 
+                "caption": "#lyonstreetart #lespentesdelacroixrousse #capphi #streetartlyon #mylyon", 
+                "authorid": "311942011", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-15/1626294456745892144_311942011.json", 
+                "instagramcode": "BaRwjEihpkw", 
+                "post_date": "2017-10-15 19:43:48", 
                 "validated": false
             }
         }, 
