@@ -3533,44 +3533,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830529689788819, 
-                    45.75733613292963
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZNx5ORgqNG", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1607160078656512838", 
-                "timestamp": 1505808432, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/21690178_1222163127917321_6806757886887198720_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1505808432, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690178_1222163127917321_6806757886887198720_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1607160078656512838"
-                }, 
-                "caption": "Rencontre avec Eden la nouvelle petite Amazone de @cap_phi (ou quand tu as envie de partir avec un bac de lauriers chez toi.... \ud83d\ude02)\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #eden #serpent #arbredevie #arbre", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-19/1607160078656512838_54122886.json", 
-                "instagramcode": "BZNx5ORgqNG", 
-                "post_date": "2017-09-19 10:07:12", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8188138008117685, 
                     45.7257908292047
                 ]
@@ -3810,6 +3772,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-18/1606396598829250230_2000118195.json", 
                 "instagramcode": "BZLETIRnPa2", 
                 "post_date": "2017-09-18 08:50:19", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.830529689788819, 
+                    45.75733613292963
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZNx5ORgqNG", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1607160078656512838", 
+                "timestamp": 1505808432, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/21690178_1222163127917321_6806757886887198720_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1505808432, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690178_1222163127917321_6806757886887198720_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1607160078656512838"
+                }, 
+                "caption": "Rencontre avec Eden la nouvelle petite Amazone de @cap_phi (ou quand tu as envie de partir avec un bac de lauriers chez toi.... \ud83d\ude02)\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #eden #serpent #arbredevie #arbre", 
+                "authorid": "54122886", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-19/1607160078656512838_54122886.json", 
+                "instagramcode": "BZNx5ORgqNG", 
+                "post_date": "2017-09-19 10:07:12", 
                 "validated": false
             }
         }, 
