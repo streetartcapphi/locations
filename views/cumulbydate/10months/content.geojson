@@ -1551,30 +1551,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834306240081787, 
-                    45.770905685765726
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-11 17:57:57", 
-                "originally_localized": "false", 
-                "marker-color": "#7E7E7E", 
-                "marker-symbol": "", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19932142_243494979490480_6345493672200503296_n.jpg", 
-                "mustbepublished": "true", 
-                "originURL": "https://www.instagram.com/p/BWal2v_AU5K/", 
-                "caption": "#1 #deathqueen #amazone #monster #streetart #urbanartist #capphi #croixrousse #kawaiiart #spider #flowers #collage", 
-                "validated": "true", 
-                "id": "1556723111305498186_29177514", 
-                "marker-size": "medium"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832203388214111, 
                     45.77828784241779
                 ]
