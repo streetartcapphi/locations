@@ -529,44 +529,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81850266456604, 
-                    45.727288754312326
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Ba-MB5oDaw1", 
-                "originally_localized": true, 
-                "author": "elise_elisa1", 
-                "instagramid": "1638800221562317877", 
-                "timestamp": 1509580231, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/23101297_240340629831372_1380214627064872960_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elise_elisa1", 
-                    "timestamp": 1509580231, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23101297_240340629831372_1380214627064872960_n.jpg", 
-                    "authorid": "3509040037", 
-                    "location": {
-                        "slug": "1er-arrondissement-de-lyon", 
-                        "has_public_page": true, 
-                        "name": "1er arrondissement de Lyon", 
-                        "id": "1024891358"
-                    }, 
-                    "id": "1638800221562317877"
-                }, 
-                "caption": "Po\u00e9sies avec @cap_phi, @o_malley_street_art , @to_glass__________________  et @adelsa_bugey. Sans oublier @blkmsngr . Une chance l'image ne retransmet pas l'odorat n'est-ce pas @epices_fonds_de_placards? #capphi #omalleystreetart #adelsabugey  #toglass #blkmsngr #streetarteverywere #photographyeverywhere  #streeartlyon  #lyon ##lyon1 #streetartphotography #streeatartglobe #artderue #urbanart #onlylyon #streetartworld  #instapicture #instaphoto #arturbain #explorer", 
-                "authorid": "3509040037", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1638800221562317877_3509040037.json", 
-                "instagramcode": "Ba-MB5oDaw1", 
-                "post_date": "2017-11-02 00:50:31", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819446802139283, 
                     45.72652481752634
                 ]
@@ -598,44 +560,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1639214756789437234_4904271748.json", 
                 "instagramcode": "Ba_qSLpA0My", 
                 "post_date": "2017-11-02 14:34:08", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.87600802715369, 
-                    45.75135985
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Ba-NSTPD4Kv", 
-                "originally_localized": true, 
-                "author": "elise_elisa1", 
-                "instagramid": "1638805746618434223", 
-                "timestamp": 1509580890, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/23161514_361806044244848_6761384409263243264_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elise_elisa1", 
-                    "timestamp": 1509580890, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23161514_361806044244848_6761384409263243264_n.jpg", 
-                    "authorid": "3509040037", 
-                    "location": {
-                        "slug": "1st-arrondissement-of-lyon", 
-                        "has_public_page": true, 
-                        "name": "1st arrondissement of Lyon", 
-                        "id": "238386704"
-                    }, 
-                    "id": "1638805746618434223"
-                }, 
-                "caption": "Po\u00e9sies avec @cap_phi, @to_glass__________________  et @adelsa_bugey. #capphi # #adelsabugey  #toglass # #streetarteverywere #photographyeverywhere  #streeartlyon  #lyon ##lyon1 #streetartphotography #streeatartglobe #artderue #urbanart #onlylyon #streetartworld  #instapicture #instaphoto #arturbain #explorer", 
-                "authorid": "3509040037", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-02/1638805746618434223_3509040037.json", 
-                "instagramcode": "Ba-NSTPD4Kv", 
-                "post_date": "2017-11-02 01:01:30", 
                 "validated": false
             }
         }
