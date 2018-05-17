@@ -354,6 +354,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8281813, 
+                    45.7712813
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BcHJevGls-s", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1659336682288631724", 
+                "timestamp": 1512028368, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c28.0.1024.1024/24177708_909589129204047_2391472334834761728_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1512028368, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/24177708_909589129204047_2391472334834761728_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1659336682288631724"
+                }, 
+                "caption": "By @cap_phi Amazone 4/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-30/1659336682288631724_810473762.json", 
+                "instagramcode": "BcHJevGls-s", 
+                "post_date": "2017-11-30 08:52:48", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.817429780960084, 
                     45.7269517246652
                 ]
