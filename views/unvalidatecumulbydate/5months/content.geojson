@@ -1478,28 +1478,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2017-12-31 07:30:38", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-31/1681793573206492765_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25038718_184390502301530_7782930771320242176_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BdW7lgkggZd/", 
-                "caption": "#2017 il a eue aussi des #monstres autour de #collaborations ou de #beaux #projets", 
-                "validated": false, 
-                "id": "1681793573206492765_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2018-01-01 08:52:25", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
@@ -2038,6 +2016,28 @@
                 "instagramcode": "BdqJdAVndP-", 
                 "post_date": "2018-01-07 19:37:23", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-31 07:30:38", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2017-12-31/1681793573206492765_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25038718_184390502301530_7782930771320242176_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BdW7lgkggZd/", 
+                "caption": "#2017 il a eue aussi des #monstres autour de #collaborations ou de #beaux #projets", 
+                "validated": false, 
+                "id": "1681793573206492765_29177514"
             }
         }, 
         {
