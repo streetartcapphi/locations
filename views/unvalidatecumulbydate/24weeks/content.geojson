@@ -2323,39 +2323,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BcT0Zf5A2bX", 
-                "originally_localized": true, 
-                "author": "elod30", 
-                "instagramid": "1662903138077861591", 
-                "timestamp": 1512453523, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/24274644_1751548981819827_5989420645476204544_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elod30", 
-                    "timestamp": 1512453523, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/24274644_1751548981819827_5989420645476204544_n.jpg", 
-                    "authorid": "13718599", 
-                    "location": null, 
-                    "id": "1662903138077861591"
-                }, 
-                "caption": "Comme une amazone je pars en chasse , et qu'elle joie de tomber sur elle au d\u00e9tour d'un virage !!!\n.\n.\n#capphi #croixrousse \n#streetview #streetartlyon #streetartist  #urbanartist #urban #streetart #street #streetcapture  #collageart #collage #urbanwalls #urbanwallart #streetartfrance #streetarteurope #street_focus_on #streetstyle #streetarts #streetstyle #streetphotography #jj_urbanart", 
-                "authorid": "13718599", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-05/1662903138077861591_13718599.json", 
-                "instagramcode": "BcT0Zf5A2bX", 
-                "post_date": "2017-12-05 06:58:43", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8281813, 
                     45.7712813
                 ]
@@ -2387,6 +2354,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-30/1659336682288631724_810473762.json", 
                 "instagramcode": "BcHJevGls-s", 
                 "post_date": "2017-11-30 08:52:48", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BcT0Zf5A2bX", 
+                "originally_localized": true, 
+                "author": "elod30", 
+                "instagramid": "1662903138077861591", 
+                "timestamp": 1512453523, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/24274644_1751548981819827_5989420645476204544_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "elod30", 
+                    "timestamp": 1512453523, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/24274644_1751548981819827_5989420645476204544_n.jpg", 
+                    "authorid": "13718599", 
+                    "location": null, 
+                    "id": "1662903138077861591"
+                }, 
+                "caption": "Comme une amazone je pars en chasse , et qu'elle joie de tomber sur elle au d\u00e9tour d'un virage !!!\n.\n.\n#capphi #croixrousse \n#streetview #streetartlyon #streetartist  #urbanartist #urban #streetart #street #streetcapture  #collageart #collage #urbanwalls #urbanwallart #streetartfrance #streetarteurope #street_focus_on #streetstyle #streetarts #streetstyle #streetphotography #jj_urbanart", 
+                "authorid": "13718599", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-05/1662903138077861591_13718599.json", 
+                "instagramcode": "BcT0Zf5A2bX", 
+                "post_date": "2017-12-05 06:58:43", 
                 "validated": false
             }
         }
