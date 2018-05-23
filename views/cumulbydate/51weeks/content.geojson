@@ -2458,27 +2458,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83449399471283, 
-                    45.77211615703999
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-31 11:36:55", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812118_1322261707880905_951783350001991680_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUwVqAuBYgH/", 
-                "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1526815519645468679_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.843350648880005, 
                     45.75160194886312
                 ]
@@ -2694,6 +2673,27 @@
                 "caption": "Petite amazone dans la rue ... \u00c0 pr\u00e9sent si tu hashtagues #map_phi sur ton poste Instagram et qu'il est g\u00e9olocalis\u00e9 ta photo pourrait apparaitre sur la carte les jours\u200b suivants ;)", 
                 "validated": true, 
                 "id": "1524560033466424837_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83449399471283, 
+                    45.77211615703999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-31 11:36:55", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18812118_1322261707880905_951783350001991680_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUwVqAuBYgH/", 
+                "caption": "#heart of #cthulhu #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
+                "validated": true, 
+                "id": "1526815519645468679_29177514"
             }
         }, 
         {
@@ -2961,46 +2961,6 @@
                 "caption": "#quetzacoatl #arrow #plumes #urbanart #streetstyle #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521880356738260772_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83585923910141, 
-                    45.770166667976476
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 11:39:19", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18645640_1779691685673701_6354582548848312320_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUeUXdmBRsZ/", 
-                "caption": "Envi de l'eau #fish #ame\u00e7on #kawaii #monstre #streetart #urbanart #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521743297352375065_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.834046065807342, 
-                    45.769465059748626
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 11:36:03", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18580369_622764361267474_3064658087106314240_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUeT_iHBEQ4/", 
-                "caption": "#angel #skull plus tout neuf mais bien conserv\u00e9 #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521741652933493816_29177514"
             }
         }, 
         {
