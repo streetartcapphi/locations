@@ -1784,39 +1784,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.836301803588867, 
-                    45.75568181392639
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5349b41e34a3cc4bb66978f6b75db4f7/5B5F4333/t51.2885-15/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1686520973892612408", 
-                "timestamp": 1515268988, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/222b96d8daded6dff6bc56e85c02364b/5B5D5A52/t51.2885-15/s640x640/sh0.08/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1515268988, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5349b41e34a3cc4bb66978f6b75db4f7/5B5F4333/t51.2885-15/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1686520973892612408"
-                }, 
-                "caption": "#capphi #monster #littlemonster #love #streetart #lyonstreetart #streetarteverywhere #lyon #croixrousse", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686520973892612408_2000118195.json", 
-                "instagramcode": "BdnuePjHXE4", 
-                "post_date": "2018-01-06 21:03:08", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818127155303956, 
                     45.725101770166965
                 ]
@@ -2250,6 +2217,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686384218367505213_5529011003.json", 
                 "instagramcode": "BdnPYMCnrM9", 
                 "post_date": "2018-01-06 16:31:26", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.836301803588867, 
+                    45.75568181392639
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5349b41e34a3cc4bb66978f6b75db4f7/5B5F4333/t51.2885-15/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1686520973892612408", 
+                "timestamp": 1515268988, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/222b96d8daded6dff6bc56e85c02364b/5B5D5A52/t51.2885-15/s640x640/sh0.08/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1515268988, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5349b41e34a3cc4bb66978f6b75db4f7/5B5F4333/t51.2885-15/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1686520973892612408"
+                }, 
+                "caption": "#capphi #monster #littlemonster #love #streetart #lyonstreetart #streetarteverywhere #lyon #croixrousse", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686520973892612408_2000118195.json", 
+                "instagramcode": "BdnuePjHXE4", 
+                "post_date": "2018-01-06 21:03:08", 
                 "validated": false
             }
         }
