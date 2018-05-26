@@ -4742,39 +4742,6 @@
                 "post_date": "2017-06-12 07:56:10", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.819822311401368, 
-                    45.72991002659822
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BU3y1KXD2rQ", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1528914154097699536", 
-                "timestamp": 1496480791, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809390_1479901358746841_7125598653871292416_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1496480791, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18809390_1479901358746841_7125598653871292416_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1528914154097699536"
-                }, 
-                "caption": "A quoi peut r\u00eaver ce petit bernard l'hermite urbain...la plage, la mer... Bon week end...\u00e9vadez vous #capphi #map_phi #streetart #streearteverywhere #Lyon #lyonstreetart #streetartlyon #evadezvous #igerlyon #urbanartist #urban #urbanart #artderue #collage #bernardlhermite #cute #plage #beach #casentlete #voilal\u00e9t\u00e9 #croixrousse", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-03/1528914154097699536_2000118195.json", 
-                "instagramcode": "BU3y1KXD2rQ", 
-                "post_date": "2017-06-03 11:06:31", 
-                "validated": false
-            }
         }
     ]
 }
