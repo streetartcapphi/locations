@@ -2559,6 +2559,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BcpO0Mxg0WU", 
+                "originally_localized": true, 
+                "author": "_flawlex_", 
+                "instagramid": "1668930296697013652", 
+                "timestamp": 1513172016, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25005523_904879382997988_5429631135149719552_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "_flawlex_", 
+                    "timestamp": 1513172016, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25005523_904879382997988_5429631135149719552_n.jpg", 
+                    "authorid": "2999332484", 
+                    "location": null, 
+                    "id": "1668930296697013652"
+                }, 
+                "caption": "StreetArt / WallArt by @cap_phi \n#streetart #WallArt #Lyon #collage #capphi #croixrousse #streetartlyon", 
+                "authorid": "2999332484", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-13/1668930296697013652_2999332484.json", 
+                "instagramcode": "BcpO0Mxg0WU", 
+                "post_date": "2017-12-13 14:33:36", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.828416109085084, 
                     45.7773562404421
                 ]
@@ -2590,39 +2623,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-11/1667295511793457255_2876693898.json", 
                 "instagramcode": "BcjbG8sDVhn", 
                 "post_date": "2017-12-11 08:25:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BcpO0Mxg0WU", 
-                "originally_localized": true, 
-                "author": "_flawlex_", 
-                "instagramid": "1668930296697013652", 
-                "timestamp": 1513172016, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25005523_904879382997988_5429631135149719552_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "_flawlex_", 
-                    "timestamp": 1513172016, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25005523_904879382997988_5429631135149719552_n.jpg", 
-                    "authorid": "2999332484", 
-                    "location": null, 
-                    "id": "1668930296697013652"
-                }, 
-                "caption": "StreetArt / WallArt by @cap_phi \n#streetart #WallArt #Lyon #collage #capphi #croixrousse #streetartlyon", 
-                "authorid": "2999332484", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-13/1668930296697013652_2999332484.json", 
-                "instagramcode": "BcpO0Mxg0WU", 
-                "post_date": "2017-12-13 14:33:36", 
                 "validated": false
             }
         }, 
