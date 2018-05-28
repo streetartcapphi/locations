@@ -4940,39 +4940,6 @@
                 "post_date": "2017-06-18 10:25:19", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818255901336671, 
-                    45.72707155766162
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVOoM38hyyu", 
-                "originally_localized": true, 
-                "author": "lepelicanquisemarrait", 
-                "instagramid": "1535341329545374894", 
-                "timestamp": 1497246970, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950015_400679646993795_7116998712005492736_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lepelicanquisemarrait", 
-                    "timestamp": 1497246970, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18950015_400679646993795_7116998712005492736_n.jpg", 
-                    "authorid": "5533275959", 
-                    "location": null, 
-                    "id": "1535341329545374894"
-                }, 
-                "caption": "#collage de @cap_phi #streetartlyon #muraldaily #graffiti #streetart #capphi #pasteup #map_phi #lyon", 
-                "authorid": "5533275959", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-12/1535341329545374894_5533275959.json", 
-                "instagramcode": "BVOoM38hyyu", 
-                "post_date": "2017-06-12 07:56:10", 
-                "validated": false
-            }
         }
     ]
 }
