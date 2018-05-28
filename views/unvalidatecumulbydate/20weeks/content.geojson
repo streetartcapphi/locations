@@ -1388,44 +1388,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f09e0a87e85fbaf4bd0f7b5fbd4894c5/5B754A0F/t51.2885-15/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1718043794883229435", 
-                "timestamp": 1519026801, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/67da09ca205e7e1c73bec6d66165602d/5B531B25/t51.2885-15/s640x640/sh0.08/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1519026801, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f09e0a87e85fbaf4bd0f7b5fbd4894c5/5B754A0F/t51.2885-15/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "eglise-saint-polycarpe", 
-                        "has_public_page": true, 
-                        "name": "\u00c9glise Saint-Polycarpe", 
-                        "id": "358512866"
-                    }, 
-                    "id": "1718043794883229435"
-                }, 
-                "caption": "By @cap_phi monstre des dents 1/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-19/1718043794883229435_810473762.json", 
-                "instagramcode": "BfXt7qWlDb7", 
-                "post_date": "2018-02-19 08:53:21", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.9092352, 
                     45.7337532
                 ]
@@ -1571,6 +1533,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-23/1720940943128206575_810473762.json", 
                 "instagramcode": "BfiAqt6lRzv", 
                 "post_date": "2018-02-23 08:49:28", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f09e0a87e85fbaf4bd0f7b5fbd4894c5/5B754A0F/t51.2885-15/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1718043794883229435", 
+                "timestamp": 1519026801, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/67da09ca205e7e1c73bec6d66165602d/5B531B25/t51.2885-15/s640x640/sh0.08/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1519026801, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f09e0a87e85fbaf4bd0f7b5fbd4894c5/5B754A0F/t51.2885-15/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "eglise-saint-polycarpe", 
+                        "has_public_page": true, 
+                        "name": "\u00c9glise Saint-Polycarpe", 
+                        "id": "358512866"
+                    }, 
+                    "id": "1718043794883229435"
+                }, 
+                "caption": "By @cap_phi monstre des dents 1/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-19/1718043794883229435_810473762.json", 
+                "instagramcode": "BfXt7qWlDb7", 
+                "post_date": "2018-02-19 08:53:21", 
                 "validated": false
             }
         }, 
@@ -2207,28 +2207,6 @@
                 "instagramcode": "Bdw6frvDnYS", 
                 "post_date": "2018-01-10 10:41:21", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-01-01 08:52:25", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-01-01/1682559512650919831_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25021718_388792214882175_2739127113989750784_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BdZpvZRAy-X/", 
-                "caption": "Que #2018 permette \u00e0 chacun de trouver ses #petits #tr\u00e9sors !\n#Bonne #ann\u00e9e \u00e0 tous \ud83d\ude09", 
-                "validated": false, 
-                "id": "1682559512650919831_29177514"
             }
         }, 
         {
