@@ -4779,39 +4779,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819951057434083, 
-                    45.72627765927053
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW5iWNGgkTg", 
-                "originally_localized": true, 
-                "author": "gallmarine", 
-                "instagramid": "1565433404965668064", 
-                "timestamp": 1500834225, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20213818_756843667820000_5577421552510566400_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "gallmarine", 
-                    "timestamp": 1500834225, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20213818_756843667820000_5577421552510566400_n.jpg", 
-                    "authorid": "3160895409", 
-                    "location": null, 
-                    "id": "1565433404965668064"
-                }, 
-                "caption": "J'ai retrouv\u00e9 Mushu \ud83d\udc09 \n#capphi #monster #dragons #drawing #art #artderue #artlovers #streetart #streetstyle #croixrousse #igerslyon #igersfrance #lyon #france_focus_on #lyon_focus_on #2017 #fanart #stickart #streetartistry #streetartlyon #mural #minimalzine #wallporn #streetartporn #streetphotography #graffitiart #urbanart #wallartist", 
-                "authorid": "3160895409", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565433404965668064_3160895409.json", 
-                "instagramcode": "BW5iWNGgkTg", 
-                "post_date": "2017-07-23 20:23:45", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832417964935303, 
                     45.758017308852445
                 ]
@@ -4909,6 +4876,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-19/1562498769106094244_3274253394.json", 
                 "instagramcode": "BWvHFoejcik", 
                 "post_date": "2017-07-19 19:13:09", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819951057434083, 
+                    45.72627765927053
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BW5iWNGgkTg", 
+                "originally_localized": true, 
+                "author": "gallmarine", 
+                "instagramid": "1565433404965668064", 
+                "timestamp": 1500834225, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20213818_756843667820000_5577421552510566400_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "gallmarine", 
+                    "timestamp": 1500834225, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20213818_756843667820000_5577421552510566400_n.jpg", 
+                    "authorid": "3160895409", 
+                    "location": null, 
+                    "id": "1565433404965668064"
+                }, 
+                "caption": "J'ai retrouv\u00e9 Mushu \ud83d\udc09 \n#capphi #monster #dragons #drawing #art #artderue #artlovers #streetart #streetstyle #croixrousse #igerslyon #igersfrance #lyon #france_focus_on #lyon_focus_on #2017 #fanart #stickart #streetartistry #streetartlyon #mural #minimalzine #wallporn #streetartporn #streetphotography #graffitiart #urbanart #wallartist", 
+                "authorid": "3160895409", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565433404965668064_3160895409.json", 
+                "instagramcode": "BW5iWNGgkTg", 
+                "post_date": "2017-07-23 20:23:45", 
                 "validated": false
             }
         }
