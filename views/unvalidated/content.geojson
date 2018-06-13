@@ -2110,6 +2110,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c19147be1c131238288b5fc7f138e566/5B81CD79/t51.2885-15/e35/31136691_1886924494932586_1425046462068162560_n.jpg", 
+                "originally_localized": true, 
+                "author": "beapyl", 
+                "instagramid": "1773542035689808728", 
+                "timestamp": 1525642707, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c66fc4a029ecbc9b54d24bd038e7e6c0/5B7E0953/t51.2885-15/s640x640/sh0.08/e35/31136691_1886924494932586_1425046462068162560_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "beapyl", 
+                    "timestamp": 1525642707, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c19147be1c131238288b5fc7f138e566/5B81CD79/t51.2885-15/e35/31136691_1886924494932586_1425046462068162560_n.jpg", 
+                    "authorid": "555786811", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1773542035689808728"
+                }, 
+                "caption": "#urbanart #streetart #streeartlyon #streetarteverywhere #instacolor #instart #capphi", 
+                "authorid": "555786811", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-06/1773542035689808728_555786811.json", 
+                "instagramcode": "Bic4xW3g6NY", 
+                "post_date": "2018-05-06 23:38:27", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -5338,37 +5376,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c19147be1c131238288b5fc7f138e566/5B81CD79/t51.2885-15/e35/31136691_1886924494932586_1425046462068162560_n.jpg", 
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ace747427f845aa8377b97cab3f1980/5BAC9524/t51.2885-15/e35/33740407_369948370194949_388977836330844160_n.jpg", 
                 "originally_localized": true, 
-                "author": "beapyl", 
-                "instagramid": "1773542035689808728", 
-                "timestamp": 1525642707, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c66fc4a029ecbc9b54d24bd038e7e6c0/5B7E0953/t51.2885-15/s640x640/sh0.08/e35/31136691_1886924494932586_1425046462068162560_n.jpg", 
+                "author": "verophoto___", 
+                "instagramid": "1800657798642346452", 
+                "timestamp": 1528875158, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/01dfceb3df95d40d699886824a30be8c/5BB62CB9/t51.2885-15/s640x640/sh0.08/e35/c64.0.952.952/33740407_369948370194949_388977836330844160_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "beapyl", 
-                    "timestamp": 1525642707, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c19147be1c131238288b5fc7f138e566/5B81CD79/t51.2885-15/e35/31136691_1886924494932586_1425046462068162560_n.jpg", 
-                    "authorid": "555786811", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1773542035689808728"
+                    "author": "verophoto___", 
+                    "timestamp": 1528875158, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ace747427f845aa8377b97cab3f1980/5BAC9524/t51.2885-15/e35/33740407_369948370194949_388977836330844160_n.jpg", 
+                    "authorid": "5801321109", 
+                    "location": null, 
+                    "id": "1800657798642346452"
                 }, 
-                "caption": "#urbanart #streetart #streeartlyon #streetarteverywhere #instacolor #instart #capphi", 
-                "authorid": "555786811", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-06/1773542035689808728_555786811.json", 
-                "instagramcode": "Bic4xW3g6NY", 
-                "post_date": "2018-05-06 23:38:27", 
+                "caption": "Attachment - Lyon - 2018\n\n@capphi @to_glass__________________\n\n#street #art #streetart #streetlife #urban #streetphotography #fish #capphi #fishing #jetaime #tongue #lyon #igerslyon #igerslyonnais #lyonnaise #igersfrance #igersphotography #photography #photophone #honor #honorview10 #blackandwhite #bnw #bnwphotography #attachment", 
+                "authorid": "5801321109", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-13/1800657798642346452_5801321109.json", 
+                "instagramcode": "Bj9OLpCHSnU", 
+                "post_date": "2018-06-13 09:32:38", 
                 "validated": false
             }
         }, 
