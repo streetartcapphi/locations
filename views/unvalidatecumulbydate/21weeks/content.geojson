@@ -540,44 +540,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/159876486b619ddbdccae41a50d07fd1/5B8CF7FE/t51.2885-15/e35/32121671_1621410521289764_1969534829280100352_n.jpg", 
-                "originally_localized": true, 
-                "author": "mike_fouks", 
-                "instagramid": "1786383559491493925", 
-                "timestamp": 1527173536, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/43205a567bb5fcdf29b2b176cf1c7591/5BC4E3D4/t51.2885-15/s640x640/sh0.08/e35/32121671_1621410521289764_1969534829280100352_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mike_fouks", 
-                    "timestamp": 1527173536, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/159876486b619ddbdccae41a50d07fd1/5B8CF7FE/t51.2885-15/e35/32121671_1621410521289764_1969534829280100352_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1786383559491493925"
-                }, 
-                "caption": "@cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-24/1786383559491493925_37664964.json", 
-                "instagramcode": "BjKgmH4FqAl", 
-                "post_date": "2018-05-24 16:52:16", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8307475, 
                     45.7719149
                 ]
@@ -1033,39 +995,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1781309237303314755", 
-                "timestamp": 1526568630, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0fdb0d7d989bf44850c30a960fe9c8af/5B7DE062/t51.2885-15/s640x640/sh0.08/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1526568630, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1781309237303314755"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Mont\u00e9e de la Grande C\u00f4te\n#capphi #Collage #france #StreetArtFrance #streetarteverywhere #streetartphotography #Lyon #Art #Streetart #streetphoto #streetartist #StreetArtlyon", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-17/1781309237303314755_5529011003.json", 
-                "instagramcode": "Bi4e1BElglD", 
-                "post_date": "2018-05-17 16:50:30", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/99e1af5a3a711aafe823262a7c97cf7c/5B93EE4B/t51.2885-15/e35/32121535_1949334452063367_2707426196601176064_n.jpg", 
                 "originally_localized": true, 
                 "author": "streetart_lyon", 
@@ -1195,6 +1124,77 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-23/1785576343849692504_688260737.json", 
                 "instagramcode": "BjHpDlugG1Y", 
                 "post_date": "2018-05-23 14:08:29", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/159876486b619ddbdccae41a50d07fd1/5B8CF7FE/t51.2885-15/e35/32121671_1621410521289764_1969534829280100352_n.jpg", 
+                "originally_localized": true, 
+                "author": "mike_fouks", 
+                "instagramid": "1786383559491493925", 
+                "timestamp": 1527173536, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/43205a567bb5fcdf29b2b176cf1c7591/5BC4E3D4/t51.2885-15/s640x640/sh0.08/e35/32121671_1621410521289764_1969534829280100352_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mike_fouks", 
+                    "timestamp": 1527173536, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/159876486b619ddbdccae41a50d07fd1/5B8CF7FE/t51.2885-15/e35/32121671_1621410521289764_1969534829280100352_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1786383559491493925"
+                }, 
+                "caption": "@cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
+                "authorid": "37664964", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-24/1786383559491493925_37664964.json", 
+                "instagramcode": "BjKgmH4FqAl", 
+                "post_date": "2018-05-24 16:52:16", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1781309237303314755", 
+                "timestamp": 1526568630, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0fdb0d7d989bf44850c30a960fe9c8af/5B7DE062/t51.2885-15/s640x640/sh0.08/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1526568630, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1781309237303314755"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Mont\u00e9e de la Grande C\u00f4te\n#capphi #Collage #france #StreetArtFrance #streetarteverywhere #streetartphotography #Lyon #Art #Streetart #streetphoto #streetartist #StreetArtlyon", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-17/1781309237303314755_5529011003.json", 
+                "instagramcode": "Bi4e1BElglD", 
+                "post_date": "2018-05-17 16:50:30", 
                 "validated": false
             }
         }, 
