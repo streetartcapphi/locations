@@ -2113,28 +2113,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.817236661911011, 
-                    45.72741607609428
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-02-08 16:28:04", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-02-08/1710330327353800075_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/18ea81d9d4e5734b1d65240254f2f90b/5B179340/t51.2885-15/s640x640/sh0.08/e35/26871511_1834516446845412_1030316693865365504_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Be8UF76gDWL/", 
-                "caption": "#lettre pour le #projet #streetartpostal #envoyer #capphi #urbanart #artpostal #pieuvre #baveuse #streetartlyon #croixrousse #instafun ;)", 
-                "validated": false, 
-                "id": "1710330327353800075_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.817934036254883, 
                     45.72725879620383
                 ]
