@@ -5480,44 +5480,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.820079803466798, 
-                    45.727318712404795
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUygN9BlCeQ", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1527424919998310288", 
-                "timestamp": 1496303261, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879437_1880707908844603_3982209985118470144_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1496303261, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18879437_1880707908844603_3982209985118470144_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1527424919998310288"
-                }, 
-                "caption": "Reste plus qu'\u00e0 peindre l'autre c\u00f4t\u00e9 \ud83d\ude01\ud83d\ude0bBy @cap_phi #cap_phi #map_phi #monster #collageart #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #onlylyon #croixrousse #pentesdelacroixrousse #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-01/1527424919998310288_810473762.json", 
-                "instagramcode": "BUygN9BlCeQ", 
-                "post_date": "2017-06-01 09:47:41", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819822311401368, 
                     45.72991002659822
                 ]
@@ -5577,6 +5539,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-28/1524599381508461550_4531964839.json", 
                 "instagramcode": "BUodw9Pl5Pu", 
                 "post_date": "2017-05-28 12:13:50", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.820079803466798, 
+                    45.727318712404795
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BUygN9BlCeQ", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1527424919998310288", 
+                "timestamp": 1496303261, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18879437_1880707908844603_3982209985118470144_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1496303261, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18879437_1880707908844603_3982209985118470144_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "montee-de-la-grande-cote", 
+                        "has_public_page": true, 
+                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
+                        "id": "235465523"
+                    }, 
+                    "id": "1527424919998310288"
+                }, 
+                "caption": "Reste plus qu'\u00e0 peindre l'autre c\u00f4t\u00e9 \ud83d\ude01\ud83d\ude0bBy @cap_phi #cap_phi #map_phi #monster #collageart #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #onlylyon #croixrousse #pentesdelacroixrousse #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-01/1527424919998310288_810473762.json", 
+                "instagramcode": "BUygN9BlCeQ", 
+                "post_date": "2017-06-01 09:47:41", 
                 "validated": false
             }
         }, 
