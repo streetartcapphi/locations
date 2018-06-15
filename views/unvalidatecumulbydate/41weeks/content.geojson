@@ -186,6 +186,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7485618b5fb88cd208a98accfc5e6783/5BA35E25/t51.2885-15/e35/34057154_208470849764439_3747039428783112192_n.jpg", 
+                "originally_localized": true, 
+                "author": "elod30", 
+                "instagramid": "1802200171637652814", 
+                "timestamp": 1529059023, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/34b327d73e9ea1435baab307dc4eb3eb/5BBE71F7/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/34057154_208470849764439_3747039428783112192_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "elod30", 
+                    "timestamp": 1529059023, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7485618b5fb88cd208a98accfc5e6783/5BA35E25/t51.2885-15/e35/34057154_208470849764439_3747039428783112192_n.jpg", 
+                    "authorid": "13718599", 
+                    "location": null, 
+                    "id": "1802200171637652814"
+                }, 
+                "caption": "Un beau @cap_phi des nuages de fou ! Mon m\u00e9lange, mon kiff!!!\n.\n.\n#capphi #streetartview #clouds #cloud_skye #streetartlyon #streetartist #igersstreetart #colors #ilestinterditdinterdire #monster #urbanart #artderue #streetarteverywhere #collage #lyon #pentescroixrousse #croixrousse  #\ud83d\udda4 #ilovelyon #diane #lelyondelod", 
+                "authorid": "13718599", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-15/1802200171637652814_13718599.json", 
+                "instagramcode": "BkCs4H0nD1O", 
+                "post_date": "2018-06-15 12:37:03", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7f4deac972cbd952113101568c922923/5BBE6EC2/t51.2885-15/e35/33441939_394689241049653_1278111035256995840_n.jpg", 
                 "originally_localized": true, 
                 "author": "streetart_lyon", 
@@ -4846,39 +4879,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819318056106568, 
-                    45.726472390108924
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BYfqTIIgSq6", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1594178825468586682", 
-                "timestamp": 1504260946, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c109.0.861.861/21227883_374225036362252_4759356073624731648_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1504260946, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21227883_374225036362252_4759356073624731648_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": null, 
-                    "id": "1594178825468586682"
-                }, 
-                "caption": "M\u00eame les montres de @cap_phi sont amoureux \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawaii #monster", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-01/1594178825468586682_54122886.json", 
-                "instagramcode": "BYfqTIIgSq6", 
-                "post_date": "2017-09-01 12:15:46", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.822998046875001, 
                     45.72788791310857
                 ]
@@ -4910,6 +4910,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-08-25/1589186647457611758_1629577880.json", 
                 "instagramcode": "BYN7NYDgT_u", 
                 "post_date": "2017-08-25 14:57:12", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819318056106568, 
+                    45.726472390108924
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BYfqTIIgSq6", 
+                "originally_localized": true, 
+                "author": "isa_belledixon", 
+                "instagramid": "1594178825468586682", 
+                "timestamp": 1504260946, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c109.0.861.861/21227883_374225036362252_4759356073624731648_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "isa_belledixon", 
+                    "timestamp": 1504260946, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21227883_374225036362252_4759356073624731648_n.jpg", 
+                    "authorid": "54122886", 
+                    "location": null, 
+                    "id": "1594178825468586682"
+                }, 
+                "caption": "M\u00eame les montres de @cap_phi sont amoureux \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawaii #monster", 
+                "authorid": "54122886", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-01/1594178825468586682_54122886.json", 
+                "instagramcode": "BYfqTIIgSq6", 
+                "post_date": "2017-09-01 12:15:46", 
                 "validated": false
             }
         }, 
