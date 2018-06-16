@@ -2990,39 +2990,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BdVbJsfFrKl", 
-                "originally_localized": true, 
-                "author": "verophoto___", 
-                "instagramid": "1681369449390060197", 
-                "timestamp": 1514654879, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/26226051_144983872828155_7208964097935671296_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "verophoto___", 
-                    "timestamp": 1514654879, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/26226051_144983872828155_7208964097935671296_n.jpg", 
-                    "authorid": "5801321109", 
-                    "location": null, 
-                    "id": "1681369449390060197"
-                }, 
-                "caption": "#street #art #streetart #streetlife #capphi #amazone #woman #skull #skullhead #portrait #details #jetaime #lyon #onlylyon #igerslyon #igerslyonnais #picsoflyon #lyonnaise #croixrousse #croixrousselyon #photography #olympus #myolympus #myvision #myeyes #byme #capphi", 
-                "authorid": "5801321109", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-30/1681369449390060197_5801321109.json", 
-                "instagramcode": "BdVbJsfFrKl", 
-                "post_date": "2017-12-30 18:27:59", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.817622900009156, 
                     45.724757237460835
                 ]
@@ -3257,6 +3224,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-24/1676825735204760294_460823669.json", 
                 "instagramcode": "BdFSB85HOrm", 
                 "post_date": "2017-12-24 12:00:26", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BdVbJsfFrKl", 
+                "originally_localized": true, 
+                "author": "verophoto___", 
+                "instagramid": "1681369449390060197", 
+                "timestamp": 1514654879, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/26226051_144983872828155_7208964097935671296_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "verophoto___", 
+                    "timestamp": 1514654879, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/26226051_144983872828155_7208964097935671296_n.jpg", 
+                    "authorid": "5801321109", 
+                    "location": null, 
+                    "id": "1681369449390060197"
+                }, 
+                "caption": "#street #art #streetart #streetlife #capphi #amazone #woman #skull #skullhead #portrait #details #jetaime #lyon #onlylyon #igerslyon #igerslyonnais #picsoflyon #lyonnaise #croixrousse #croixrousselyon #photography #olympus #myolympus #myvision #myeyes #byme #capphi", 
+                "authorid": "5801321109", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-30/1681369449390060197_5801321109.json", 
+                "instagramcode": "BdVbJsfFrKl", 
+                "post_date": "2017-12-30 18:27:59", 
                 "validated": false
             }
         }, 
