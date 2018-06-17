@@ -5420,39 +5420,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819006919860841, 
-                    45.72517666830017
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVeWCfOh0iV", 
-                "originally_localized": true, 
-                "author": "lepelicanquisemarrait", 
-                "instagramid": "1539765050599229589", 
-                "timestamp": 1497774319, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19122238_1891275441129779_4813818737134141440_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lepelicanquisemarrait", 
-                    "timestamp": 1497774319, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19122238_1891275441129779_4813818737134141440_n.jpg", 
-                    "authorid": "5533275959", 
-                    "location": null, 
-                    "id": "1539765050599229589"
-                }, 
-                "caption": "Princesse de @cap_phi #collage #lespentes #croixrousse #lyon #streetart #pasteup #map_phi  #muraldaily #streetartlyon #collageart #streetarteverywhere", 
-                "authorid": "5533275959", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-18/1539765050599229589_5533275959.json", 
-                "instagramcode": "BVeWCfOh0iV", 
-                "post_date": "2017-06-18 10:25:19", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831205606460572, 
                     45.75825684126669
                 ]
@@ -5507,6 +5474,39 @@
                 "caption": "#renaissance sous la #licorne #r\u00e9apparition d'une de mes #skell", 
                 "validated": false, 
                 "id": "1538284507088782735_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819006919860841, 
+                    45.72517666830017
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BVeWCfOh0iV", 
+                "originally_localized": true, 
+                "author": "lepelicanquisemarrait", 
+                "instagramid": "1539765050599229589", 
+                "timestamp": 1497774319, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19122238_1891275441129779_4813818737134141440_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lepelicanquisemarrait", 
+                    "timestamp": 1497774319, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19122238_1891275441129779_4813818737134141440_n.jpg", 
+                    "authorid": "5533275959", 
+                    "location": null, 
+                    "id": "1539765050599229589"
+                }, 
+                "caption": "Princesse de @cap_phi #collage #lespentes #croixrousse #lyon #streetart #pasteup #map_phi  #muraldaily #streetartlyon #collageart #streetarteverywhere", 
+                "authorid": "5533275959", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-06-18/1539765050599229589_5533275959.json", 
+                "instagramcode": "BVeWCfOh0iV", 
+                "post_date": "2017-06-18 10:25:19", 
+                "validated": false
             }
         }, 
         {
