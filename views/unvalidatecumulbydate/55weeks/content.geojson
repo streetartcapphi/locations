@@ -2787,39 +2787,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f9dd5abb91d445740793f71479fda9a/5B673ADD/t51.2885-15/e35/25015937_180937155835154_4358070918312886272_n.jpg", 
-                "originally_localized": true, 
-                "author": "casponiliott", 
-                "instagramid": "1687202586049762302", 
-                "timestamp": 1515350243, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/24691e538231a487791bf3cdb829fabe/5B58F6BC/t51.2885-15/s640x640/sh0.08/e35/25015937_180937155835154_4358070918312886272_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "casponiliott", 
-                    "timestamp": 1515350243, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f9dd5abb91d445740793f71479fda9a/5B673ADD/t51.2885-15/e35/25015937_180937155835154_4358070918312886272_n.jpg", 
-                    "authorid": "511387350", 
-                    "location": null, 
-                    "id": "1687202586049762302"
-                }, 
-                "caption": "Cap Phi\u2019s tooth fairy #lyon1 #lespentes #streetart #streetartist #streetartlyon #capphi #streetarteverywhere #lyonnaise #urban #urbanwalk", 
-                "authorid": "511387350", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-07/1687202586049762302_511387350.json", 
-                "instagramcode": "BdqJdAVndP-", 
-                "post_date": "2018-01-07 19:37:23", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2018-01-01 08:52:25", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
@@ -3027,6 +2994,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-07/1686894496795900103_2969355137.json", 
                 "instagramcode": "BdpDZt3FLjH", 
                 "post_date": "2018-01-07 09:25:16", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f9dd5abb91d445740793f71479fda9a/5B673ADD/t51.2885-15/e35/25015937_180937155835154_4358070918312886272_n.jpg", 
+                "originally_localized": true, 
+                "author": "casponiliott", 
+                "instagramid": "1687202586049762302", 
+                "timestamp": 1515350243, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/24691e538231a487791bf3cdb829fabe/5B58F6BC/t51.2885-15/s640x640/sh0.08/e35/25015937_180937155835154_4358070918312886272_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "casponiliott", 
+                    "timestamp": 1515350243, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f9dd5abb91d445740793f71479fda9a/5B673ADD/t51.2885-15/e35/25015937_180937155835154_4358070918312886272_n.jpg", 
+                    "authorid": "511387350", 
+                    "location": null, 
+                    "id": "1687202586049762302"
+                }, 
+                "caption": "Cap Phi\u2019s tooth fairy #lyon1 #lespentes #streetart #streetartist #streetartlyon #capphi #streetarteverywhere #lyonnaise #urban #urbanwalk", 
+                "authorid": "511387350", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-07/1687202586049762302_511387350.json", 
+                "instagramcode": "BdqJdAVndP-", 
+                "post_date": "2018-01-07 19:37:23", 
                 "validated": false
             }
         }, 
@@ -4191,44 +4191,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.827874302864076, 
-                    45.77145573315625
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BaRwjEihpkw", 
-                "originally_localized": true, 
-                "author": "enka76", 
-                "instagramid": "1626294456745892144", 
-                "timestamp": 1508089428, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "enka76", 
-                    "timestamp": 1508089428, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
-                    "authorid": "311942011", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1626294456745892144"
-                }, 
-                "caption": "#lyonstreetart #lespentesdelacroixrousse #capphi #streetartlyon #mylyon", 
-                "authorid": "311942011", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-15/1626294456745892144_311942011.json", 
-                "instagramcode": "BaRwjEihpkw", 
-                "post_date": "2017-10-15 19:43:48", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.821066856384278, 
                     45.724697318512426
                 ]
@@ -4320,6 +4282,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
                 "instagramcode": "BaIrOIyHZik", 
                 "post_date": "2017-10-12 07:04:05", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.827874302864076, 
+                    45.77145573315625
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BaRwjEihpkw", 
+                "originally_localized": true, 
+                "author": "enka76", 
+                "instagramid": "1626294456745892144", 
+                "timestamp": 1508089428, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "enka76", 
+                    "timestamp": 1508089428, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
+                    "authorid": "311942011", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1626294456745892144"
+                }, 
+                "caption": "#lyonstreetart #lespentesdelacroixrousse #capphi #streetartlyon #mylyon", 
+                "authorid": "311942011", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-15/1626294456745892144_311942011.json", 
+                "instagramcode": "BaRwjEihpkw", 
+                "post_date": "2017-10-15 19:43:48", 
                 "validated": false
             }
         }, 
