@@ -26,27 +26,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831597208976746, 
-                    45.77119006468571
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-06 18:23:40", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950076_1693808864257719_1366811275379605504_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVAg-fShdi9/", 
-                "caption": "Plus que la moiti\u00e9 de la #dualit\u00e9 #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1531368904998639805_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831527471542359, 
                     45.776338569091
                 ]
