@@ -1989,44 +1989,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831366539001466, 
-                    45.758017308852445
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0ef605f54f1538c2bb9e66ee44b2980c/5B622730/t51.2885-15/e35/28151041_564927100537599_1927762677438873600_n.jpg", 
-                "originally_localized": true, 
-                "author": "olivier_croixroussien", 
-                "instagramid": "1721105066737528033", 
-                "timestamp": 1519391733, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/059765404f0e77c1099fb9f9d57e171e/5B531B51/t51.2885-15/s640x640/sh0.08/e35/28151041_564927100537599_1927762677438873600_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "olivier_croixroussien", 
-                    "timestamp": 1519391733, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0ef605f54f1538c2bb9e66ee44b2980c/5B622730/t51.2885-15/e35/28151041_564927100537599_1927762677438873600_n.jpg", 
-                    "authorid": "6251084249", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1721105066737528033"
-                }, 
-                "caption": "By @cap_phi je suis tomb\u00e9 par hasard sur cette petite boule violette...sympathique comme tout \ud83d\udc4d#lyon #lyon2 #lyon4 #lyon1 #lyongraffiti #lyongraff #mylyon #monlyon #streetartlyonnais #streetartlyon #xrousse #capphi #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #street #urban #artderue #graffiticulture #streetphoto #frenchgraffiti #graffiti #rh\u00f4nealpesgraffiti", 
-                "authorid": "6251084249", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-23/1721105066737528033_6251084249.json", 
-                "instagramcode": "Bfil_B8A-zh", 
-                "post_date": "2018-02-23 14:15:33", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2167,6 +2129,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-23/1720941358313981824_810473762.json", 
                 "instagramcode": "BfiAwwllUeA", 
                 "post_date": "2018-02-23 08:50:18", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831366539001466, 
+                    45.758017308852445
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0ef605f54f1538c2bb9e66ee44b2980c/5B622730/t51.2885-15/e35/28151041_564927100537599_1927762677438873600_n.jpg", 
+                "originally_localized": true, 
+                "author": "olivier_croixroussien", 
+                "instagramid": "1721105066737528033", 
+                "timestamp": 1519391733, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/059765404f0e77c1099fb9f9d57e171e/5B531B51/t51.2885-15/s640x640/sh0.08/e35/28151041_564927100537599_1927762677438873600_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "olivier_croixroussien", 
+                    "timestamp": 1519391733, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0ef605f54f1538c2bb9e66ee44b2980c/5B622730/t51.2885-15/e35/28151041_564927100537599_1927762677438873600_n.jpg", 
+                    "authorid": "6251084249", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1721105066737528033"
+                }, 
+                "caption": "By @cap_phi je suis tomb\u00e9 par hasard sur cette petite boule violette...sympathique comme tout \ud83d\udc4d#lyon #lyon2 #lyon4 #lyon1 #lyongraffiti #lyongraff #mylyon #monlyon #streetartlyonnais #streetartlyon #xrousse #capphi #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #street #urban #artderue #graffiticulture #streetphoto #frenchgraffiti #graffiti #rh\u00f4nealpesgraffiti", 
+                "authorid": "6251084249", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-23/1721105066737528033_6251084249.json", 
+                "instagramcode": "Bfil_B8A-zh", 
+                "post_date": "2018-02-23 14:15:33", 
                 "validated": false
             }
         }, 
