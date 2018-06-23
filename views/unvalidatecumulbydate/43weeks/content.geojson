@@ -109,6 +109,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1d81af5bfa9838ace889c85ecef27648/5BA583A3/t51.2885-15/e35/35369071_2063959397202125_9084050221259816960_n.jpg", 
+                "originally_localized": true, 
+                "author": "marionh24fit", 
+                "instagramid": "1808248871841606866", 
+                "timestamp": 1529780085, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0cca4e250076ec72eca4199a0adaed14/5BB2A889/t51.2885-15/s640x640/sh0.08/e35/35369071_2063959397202125_9084050221259816960_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "marionh24fit", 
+                    "timestamp": 1529780085, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1d81af5bfa9838ace889c85ecef27648/5BA583A3/t51.2885-15/e35/35369071_2063959397202125_9084050221259816960_n.jpg", 
+                    "authorid": "2370477718", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1808248871841606866"
+                }, 
+                "caption": "Aujourd'hui c'\u00e9tait sortie #touristique #d\u00e9couverte #visiteguid\u00e9e \u00e0 #lyon #croixrousse avec @nomade_land\n\n#urbanviste #urbain #visiteurbaine\n#streetart #art #graff #artiste #artderue #graffiti #capphi #loodz #pentedelacroixrousse\n\nOn a fini par l' #exposition des #oeuvres de @loodz78 avec l' #association @superposition.lyon merci pour ce partage et cette d\u00e9couverte", 
+                "authorid": "2370477718", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808248871841606866_2370477718.json", 
+                "instagramcode": "BkYMMS3nqzS", 
+                "post_date": "2018-06-23 20:54:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -4677,120 +4715,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828657507896424, 
-                    45.77655931555704
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHGY6gF87D", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1605279892542836419", 
-                "timestamp": 1505584297, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.17.1080.1080/21827868_273133363194695_2605768452463394816_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1505584297, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21827868_273133363194695_2605768452463394816_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605279892542836419"
-                }, 
-                "caption": "#lyon #croixrousse #onlylyon #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605279892542836419_34904985.json", 
-                "instagramcode": "BZHGY6gF87D", 
-                "post_date": "2017-09-16 19:51:37", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.828898906707765, 
-                    45.77665659338332
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHGgWyFHhm", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1605280403945715814", 
-                "timestamp": 1505584358, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1505584358, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605280403945715814"
-                }, 
-                "caption": "#lyon #croixrousse #onlylyon #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605280403945715814_34904985.json", 
-                "instagramcode": "BZHGgWyFHhm", 
-                "post_date": "2017-09-16 19:52:38", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.833458662033082, 
-                    45.757702920998256
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHFpxWFJDa", 
-                "originally_localized": true, 
-                "author": "vmilsant", 
-                "instagramid": "1605276652895768794", 
-                "timestamp": 1505583911, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.607.607/21690358_1390764680970783_3557013449789669376_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "vmilsant", 
-                    "timestamp": 1505583911, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690358_1390764680970783_3557013449789669376_n.jpg", 
-                    "authorid": "517763490", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1605276652895768794"
-                }, 
-                "caption": "Eden #amazon #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
-                "authorid": "517763490", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
-                "instagramcode": "BZHFpxWFJDa", 
-                "post_date": "2017-09-16 19:45:11", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818599224090577, 
                     45.7271539426975
                 ]
@@ -4928,6 +4852,82 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.828657507896424, 
+                    45.77655931555704
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHGY6gF87D", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1605279892542836419", 
+                "timestamp": 1505584297, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.17.1080.1080/21827868_273133363194695_2605768452463394816_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1505584297, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21827868_273133363194695_2605768452463394816_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605279892542836419"
+                }, 
+                "caption": "#lyon #croixrousse #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605279892542836419_34904985.json", 
+                "instagramcode": "BZHGY6gF87D", 
+                "post_date": "2017-09-16 19:51:37", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.828898906707765, 
+                    45.77665659338332
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHGgWyFHhm", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1605280403945715814", 
+                "timestamp": 1505584358, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1505584358, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605280403945715814"
+                }, 
+                "caption": "#lyon #croixrousse #onlylyon #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605280403945715814_34904985.json", 
+                "instagramcode": "BZHGgWyFHhm", 
+                "post_date": "2017-09-16 19:52:38", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -4954,6 +4954,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605180385623442589_2374356033.json", 
                 "instagramcode": "BZGvw5dgoSd", 
                 "post_date": "2017-09-16 16:33:55", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833458662033082, 
+                    45.757702920998256
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZHFpxWFJDa", 
+                "originally_localized": true, 
+                "author": "vmilsant", 
+                "instagramid": "1605276652895768794", 
+                "timestamp": 1505583911, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.607.607/21690358_1390764680970783_3557013449789669376_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vmilsant", 
+                    "timestamp": 1505583911, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690358_1390764680970783_3557013449789669376_n.jpg", 
+                    "authorid": "517763490", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1605276652895768794"
+                }, 
+                "caption": "Eden #amazon #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
+                "authorid": "517763490", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605276652895768794_517763490.json", 
+                "instagramcode": "BZHFpxWFJDa", 
+                "post_date": "2017-09-16 19:45:11", 
                 "validated": false
             }
         }, 
