@@ -1131,44 +1131,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d442f4a33dae624519db6124b824be9a/5B8B5F69/t51.2885-15/e35/32469581_185039272148419_8340988383329255424_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1783365500333757105", 
-                "timestamp": 1526813756, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4123e2c7a24c13837736472d7a1349bc/5B80DEA1/t51.2885-15/s640x640/sh0.08/e35/c0.0.1079.1079/32469581_185039272148419_8340988383329255424_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1526813756, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d442f4a33dae624519db6124b824be9a/5B8B5F69/t51.2885-15/e35/32469581_185039272148419_8340988383329255424_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1783365500333757105"
-                }, 
-                "caption": "@cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #streetphotography #graffitiigers #urban #stencilart #instagraff #urbanwalls #wall #artwork #streetartistry #instagrafite #wallporn #photography #streetarteverywhere #sprayart #instagood #streetart #graffiti #art #graffitiporn #street #mural #stickerart #instagraffiti #urbanart #instaart", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-20/1783365500333757105_37664964.json", 
-                "instagramcode": "Bi_yXlQFJKx", 
-                "post_date": "2018-05-20 12:55:56", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1337,6 +1299,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-24/1786461813737409821_2876693898.json", 
                 "instagramcode": "BjKyY30nk0d", 
                 "post_date": "2018-05-24 19:27:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d442f4a33dae624519db6124b824be9a/5B8B5F69/t51.2885-15/e35/32469581_185039272148419_8340988383329255424_n.jpg", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1783365500333757105", 
+                "timestamp": 1526813756, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4123e2c7a24c13837736472d7a1349bc/5B80DEA1/t51.2885-15/s640x640/sh0.08/e35/c0.0.1079.1079/32469581_185039272148419_8340988383329255424_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1526813756, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d442f4a33dae624519db6124b824be9a/5B8B5F69/t51.2885-15/e35/32469581_185039272148419_8340988383329255424_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1783365500333757105"
+                }, 
+                "caption": "@cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #streetphotography #graffitiigers #urban #stencilart #instagraff #urbanwalls #wall #artwork #streetartistry #instagrafite #wallporn #photography #streetarteverywhere #sprayart #instagood #streetart #graffiti #art #graffitiporn #street #mural #stickerart #instagraffiti #urbanart #instaart", 
+                "authorid": "37664964", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-20/1783365500333757105_37664964.json", 
+                "instagramcode": "Bi_yXlQFJKx", 
+                "post_date": "2018-05-20 12:55:56", 
                 "validated": false
             }
         }, 
@@ -3994,44 +3994,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-06/1642208218427863201_1413198960.json", 
                 "instagramcode": "BbKS6yCnrCh", 
                 "post_date": "2017-11-06 17:41:36", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832053184509278, 
-                    45.756842088046795
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbHMtOLlMUF", 
-                "originally_localized": true, 
-                "author": "vmilsant", 
-                "instagramid": "1641336473361106181", 
-                "timestamp": 1509882576, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23164082_201675487043358_9100156374389620736_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "vmilsant", 
-                    "timestamp": 1509882576, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23164082_201675487043358_9100156374389620736_n.jpg", 
-                    "authorid": "517763490", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1641336473361106181"
-                }, 
-                "caption": "#love #cap_phi #capphi #Lyon #france #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #artist #art #streetartlyon #dsb_graff #rsa_graffiti #graffiti #graffitiart #urbanart #cool #colors #tv_streetart #tvsa_vmilsant #onlylyon #monlyon #lyongraff #muralsdaily #globalstreetart #instaart", 
-                "authorid": "517763490", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-05/1641336473361106181_517763490.json", 
-                "instagramcode": "BbHMtOLlMUF", 
-                "post_date": "2017-11-05 12:49:36", 
                 "validated": false
             }
         }, 
