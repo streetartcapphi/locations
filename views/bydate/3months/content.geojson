@@ -63,43 +63,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834740757942201, 
-                    45.772181637735464
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4543eec3bd779b5e227aace3673e3af4/5B5D4607/t51.2885-15/e35/28158411_1903330753073928_761249242017693696_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1728193745374159255", 
-                "timestamp": 1520236770, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/65107711f7e0e0a23a7fd590c39332db/5B4F3A66/t51.2885-15/s640x640/sh0.08/e35/28158411_1903330753073928_761249242017693696_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1520236770, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4543eec3bd779b5e227aace3673e3af4/5B5D4607/t51.2885-15/e35/28158411_1903330753073928_761249242017693696_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1728193745374159255"
-                }, 
-                "caption": "By @cap_phi monstre des dents 4/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "instagramcode": "Bf7xw4YFCGX", 
-                "post_date": "2018-03-05 08:59:30", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831613302230836, 
                     45.769738220267826
                 ]

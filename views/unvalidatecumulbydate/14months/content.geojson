@@ -4606,39 +4606,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818599224090577, 
-                    45.7271539426975
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZLETIRnPa2", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1606396598829250230", 
-                "timestamp": 1505717419, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1505717419, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1606396598829250230"
-                }, 
-                "caption": "Nouvelle petite amazone .\n.\n.\n#amazone #capphi #map_phi #streetart #lyonstreetart #streetartlyon #croixrousse #pentesdelacroixrousse #lyon #explorationurbaine #explorelyon #igerlyonstreetart #igerlyon", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-18/1606396598829250230_2000118195.json", 
-                "instagramcode": "BZLETIRnPa2", 
-                "post_date": "2017-09-18 08:50:19", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.823942184448243, 
                     45.7237386065975
                 ]
@@ -5232,6 +5199,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-13/1603090527410216472_810473762.json", 
                 "instagramcode": "BY_UldVFF4Y", 
                 "post_date": "2017-09-13 19:21:44", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818599224090577, 
+                    45.7271539426975
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZLETIRnPa2", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1606396598829250230", 
+                "timestamp": 1505717419, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1505717419, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690642_467861163599051_9076958023368310784_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": null, 
+                    "id": "1606396598829250230"
+                }, 
+                "caption": "Nouvelle petite amazone .\n.\n.\n#amazone #capphi #map_phi #streetart #lyonstreetart #streetartlyon #croixrousse #pentesdelacroixrousse #lyon #explorationurbaine #explorelyon #igerlyonstreetart #igerlyon", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-18/1606396598829250230_2000118195.json", 
+                "instagramcode": "BZLETIRnPa2", 
+                "post_date": "2017-09-18 08:50:19", 
                 "validated": false
             }
         }, 
@@ -5906,44 +5906,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819623827934266, 
-                    45.728288596967474
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUqq-1IjaXA", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1525220459431175616", 
-                "timestamp": 1496040469, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.65.1080.1080/18722178_1007589209344325_1703391146354409472_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1496040469, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18722178_1007589209344325_1703391146354409472_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": {
-                        "slug": "rue-rene-leynaud", 
-                        "has_public_page": true, 
-                        "name": "Rue Ren\u00e9-Leynaud", 
-                        "id": "238091071"
-                    }, 
-                    "id": "1525220459431175616"
-                }, 
-                "caption": "Allez c'est reparti pour un tour #capphi #map_phi #streetart #streearteverywhere #urbanart #urban #collage #streetartlyon #Lyon #lyonstreetart #murdelacroixrousse #dragon #guerriere #colorfull #graffiti #urbanpoestry #croixrousse #pentedelacroixrousse #serpentaplumes #skull #plume", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-29/1525220459431175616_2000118195.json", 
-                "instagramcode": "BUqq-1IjaXA", 
-                "post_date": "2017-05-29 08:47:49", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831205606460572, 
                     45.75825684126669
                 ]
@@ -6041,6 +6003,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-28/1524599381508461550_4531964839.json", 
                 "instagramcode": "BUodw9Pl5Pu", 
                 "post_date": "2017-05-28 12:13:50", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819623827934266, 
+                    45.728288596967474
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BUqq-1IjaXA", 
+                "originally_localized": true, 
+                "author": "cocottecoralie", 
+                "instagramid": "1525220459431175616", 
+                "timestamp": 1496040469, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.65.1080.1080/18722178_1007589209344325_1703391146354409472_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "cocottecoralie", 
+                    "timestamp": 1496040469, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18722178_1007589209344325_1703391146354409472_n.jpg", 
+                    "authorid": "2000118195", 
+                    "location": {
+                        "slug": "rue-rene-leynaud", 
+                        "has_public_page": true, 
+                        "name": "Rue Ren\u00e9-Leynaud", 
+                        "id": "238091071"
+                    }, 
+                    "id": "1525220459431175616"
+                }, 
+                "caption": "Allez c'est reparti pour un tour #capphi #map_phi #streetart #streearteverywhere #urbanart #urban #collage #streetartlyon #Lyon #lyonstreetart #murdelacroixrousse #dragon #guerriere #colorfull #graffiti #urbanpoestry #croixrousse #pentedelacroixrousse #serpentaplumes #skull #plume", 
+                "authorid": "2000118195", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-05-29/1525220459431175616_2000118195.json", 
+                "instagramcode": "BUqq-1IjaXA", 
+                "post_date": "2017-05-29 08:47:49", 
                 "validated": false
             }
         }, 
