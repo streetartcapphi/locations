@@ -110,27 +110,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83540293, 
-                    45.7651567525
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-29 15:59:26", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18722396_1314946015290087_1225047813826543616_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUrqG_TB8CF/", 
-                "caption": "Encore un #Wahou \u00e0 #lyon #streetart #urbanartist #capphi #kawaii #monster", 
-                "validated": true, 
-                "id": "1525498097030381701_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8317018151283255, 
                     45.76962596268214
                 ]
