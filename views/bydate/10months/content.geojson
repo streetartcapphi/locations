@@ -26,6 +26,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8316723108291635, 
+                    45.76967086574354
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-18 05:51:19", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21819580_874091792796730_1720506655453478912_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZK9jEZgRAP/", 
+                "caption": "#serpent quand tu me tentes #eden #petite  #amazone #croixroussienne #capphi #collage #urbanartist #streetart #flower", 
+                "validated": true, 
+                "id": "1606366907852722191_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.829531908035279, 
                     45.76920312374778
                 ]
