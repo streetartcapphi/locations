@@ -4786,39 +4786,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZN84xegPbt", 
-                "originally_localized": true, 
-                "author": "_flawlex_", 
-                "instagramid": "1607208426247616237", 
-                "timestamp": 1505814196, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c202.0.676.676/21690628_119712258731457_8524756530547916800_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "_flawlex_", 
-                    "timestamp": 1505814196, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690628_119712258731457_8524756530547916800_n.jpg", 
-                    "authorid": "2999332484", 
-                    "location": null, 
-                    "id": "1607208426247616237"
-                }, 
-                "caption": "StreetArt / WallArt by @cap_phi \n#StreetArt #wallart #streetartlyon #Lyon #pentesdelacroixrousse #collage #capphi", 
-                "authorid": "2999332484", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-19/1607208426247616237_2999332484.json", 
-                "instagramcode": "BZN84xegPbt", 
-                "post_date": "2017-09-19 11:43:16", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.827874302864076, 
                     45.77145573315625
                 ]
