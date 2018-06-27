@@ -5,27 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.843350648880005, 
-                    45.75160194886312
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-07 05:57:23", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18889183_1886887944904030_5576686619181711360_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVBwXVkBClH/", 
-                "caption": "#6 #petite #amazone #death #queen #t0 #map_phi #streetart #urbanartist #capphi #kawaii #monster", 
-                "validated": true, 
-                "id": "1531718058216008007_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831527471542359, 
                     45.776338569091
                 ]
