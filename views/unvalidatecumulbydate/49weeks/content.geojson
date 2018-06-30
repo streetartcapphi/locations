@@ -5669,39 +5669,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818894267082214, 
-                    45.72718390086225
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWkUpI0lTjQ", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1559462158877931728", 
-                "timestamp": 1500122397, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19984211_1931323190483360_3384393414173786112_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1500122397, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984211_1931323190483360_3384393414173786112_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1559462158877931728"
-                }, 
-                "caption": "Petit monstre des pentes .\n.\n.\n.\n #capphi #map_phi #streetart #streetarteverywhere #lyonstreetart #streetartlyon #collage #petitmonstre #petitdiable #croixrousse #pentesdelacroixrousse #lyon #igerlyon #igerlyonstreetart", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-15/1559462158877931728_2000118195.json", 
-                "instagramcode": "BWkUpI0lTjQ", 
-                "post_date": "2017-07-15 14:39:57", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.81858715415001, 
                     45.72664839624417
                 ]
