@@ -152,6 +152,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/868369d2ddf0e751ee97d510b2bacc5e/5BE3C934/t51.2885-15/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1813200657916489588", 
+                "timestamp": 1530370383, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1c35e27d1da6024ade92cc5a85a7e6a2/5BCA8855/t51.2885-15/s640x640/sh0.08/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1530370383, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/868369d2ddf0e751ee97d510b2bacc5e/5BE3C934/t51.2885-15/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1813200657916489588"
+                }, 
+                "caption": "Et de trois ! A d\u00e9faut du badge pour Gremlin (pas facile d'intercepter un skateur \ud83d\ude02) j'ai au moins trouv\u00e9 le troisi\u00e8me SANS INTERDIT \ud83d\udc4d\nMerci @cap_phi \u2764\ud83d\udc4c\ud83d\ude0d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #sansinterdit #monster #monstre #capphi #nofilter #jeudepiste", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-30/1813200657916489588_2876693898.json", 
+                "instagramcode": "BkpyGRBne90", 
+                "post_date": "2018-06-30 16:53:03", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -2079,6 +2117,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1763179767920915116", 
+                "timestamp": 1524407429, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eac555989d75cf53a7bb12d6273a19bd/5B5D4D96/t51.2885-15/s640x640/sh0.08/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1524407429, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1763179767920915116"
+                }, 
+                "caption": "Artistes: Cap Phi et Ghostsurfer\n@cap_phi \n@ghostsurfer69 \nLocalisation: Rue Lanterne\n#ghostsurfer #collage #Lyon #streetarteverywhere #streetartphotography #Art #Streetart #streetphoto #streetartist #StreetArtlyon  #Capphi #france #StreetArtFrance", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-22/1763179767920915116_5529011003.json", 
+                "instagramcode": "Bh4Eqg-FPKs", 
+                "post_date": "2018-04-22 16:30:29", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -2110,39 +2181,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-21/1762435671530986808_37664964.json", 
                 "instagramcode": "Bh1befNFN04", 
                 "post_date": "2018-04-21 15:52:06", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1763179767920915116", 
-                "timestamp": 1524407429, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eac555989d75cf53a7bb12d6273a19bd/5B5D4D96/t51.2885-15/s640x640/sh0.08/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1524407429, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1763179767920915116"
-                }, 
-                "caption": "Artistes: Cap Phi et Ghostsurfer\n@cap_phi \n@ghostsurfer69 \nLocalisation: Rue Lanterne\n#ghostsurfer #collage #Lyon #streetarteverywhere #streetartphotography #Art #Streetart #streetphoto #streetartist #StreetArtlyon  #Capphi #france #StreetArtFrance", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-22/1763179767920915116_5529011003.json", 
-                "instagramcode": "Bh4Eqg-FPKs", 
-                "post_date": "2018-04-22 16:30:29", 
                 "validated": false
             }
         }, 
