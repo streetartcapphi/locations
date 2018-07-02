@@ -3447,44 +3447,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828416109085084, 
-                    45.7773562404421
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BcjbG8sDVhn", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1667295511793457255", 
-                "timestamp": 1512977135, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008775_133113494020069_2679232304693379072_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1512977135, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25008775_133113494020069_2679232304693379072_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1667295511793457255"
-                }, 
-                "caption": "Et de deux ! Trouv\u00e9e toute seule comme une grande en plus !\nBy @cap_phi \u2764\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart  #murals #muralsdaily #streetartchat #collage #pasteup #amazone #capphi #warrior #beauty", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-11/1667295511793457255_2876693898.json", 
-                "instagramcode": "BcjbG8sDVhn", 
-                "post_date": "2017-12-11 08:25:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.822697639465333, 
                     45.724877075164834
                 ]
@@ -3763,82 +3725,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828727245330811, 
-                    45.77674264670355
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BaIrOIyHZik", 
-                "originally_localized": true, 
-                "author": "instant_shots_", 
-                "instagramid": "1623737753170450596", 
-                "timestamp": 1507784645, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22429792_1563797350310327_6766080036878417920_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "instant_shots_", 
-                    "timestamp": 1507784645, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22429792_1563797350310327_6766080036878417920_n.jpg", 
-                    "authorid": "5681253376", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1623737753170450596"
-                }, 
-                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #lyonrainbow #iglyon", 
-                "authorid": "5681253376", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-12/1623737753170450596_5681253376.json", 
-                "instagramcode": "BaIrOIyHZik", 
-                "post_date": "2017-10-12 07:04:05", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.827874302864076, 
-                    45.77145573315625
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BaRwjEihpkw", 
-                "originally_localized": true, 
-                "author": "enka76", 
-                "instagramid": "1626294456745892144", 
-                "timestamp": 1508089428, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "enka76", 
-                    "timestamp": 1508089428, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22580461_184396788774793_5125326130928156672_n.jpg", 
-                    "authorid": "311942011", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1626294456745892144"
-                }, 
-                "caption": "#lyonstreetart #lespentesdelacroixrousse #capphi #streetartlyon #mylyon", 
-                "authorid": "311942011", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-15/1626294456745892144_311942011.json", 
-                "instagramcode": "BaRwjEihpkw", 
-                "post_date": "2017-10-15 19:43:48", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819318056106568, 
                     45.726472390108924
                 ]
@@ -3941,44 +3827,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605279892542836419_34904985.json", 
                 "instagramcode": "BZHGY6gF87D", 
                 "post_date": "2017-09-16 19:51:37", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.828898906707765, 
-                    45.77665659338332
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHGgWyFHhm", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1605280403945715814", 
-                "timestamp": 1505584358, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1505584358, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605280403945715814"
-                }, 
-                "caption": "#lyon #croixrousse #onlylyon #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605280403945715814_34904985.json", 
-                "instagramcode": "BZHGgWyFHhm", 
-                "post_date": "2017-09-16 19:52:38", 
                 "validated": false
             }
         }, 

@@ -114,44 +114,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828898906707765, 
-                    45.77665659338332
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHGgWyFHhm", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1605280403945715814", 
-                "timestamp": 1505584358, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1505584358, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21688785_1478812425540948_2468005916155314176_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605280403945715814"
-                }, 
-                "caption": "#lyon #croixrousse #onlylyon #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605280403945715814_34904985.json", 
-                "instagramcode": "BZHGgWyFHhm", 
-                "post_date": "2017-09-16 19:52:38", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.823942184448243, 
                     45.7237386065975
                 ]
