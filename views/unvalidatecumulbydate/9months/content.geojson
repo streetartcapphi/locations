@@ -4125,82 +4125,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.87600802715369, 
-                    45.75135985
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BalMpKEF6y-", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1631766044854430910", 
-                "timestamp": 1508741692, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/22639078_256278454898407_4470765027594338304_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1508741692, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22639078_256278454898407_4470765027594338304_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "1st-arrondissement-of-lyon", 
-                        "has_public_page": true, 
-                        "name": "1st arrondissement of Lyon", 
-                        "id": "238386704"
-                    }, 
-                    "id": "1631766044854430910"
-                }, 
-                "caption": "By @cap_phi Amazone 2/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-23/1631766044854430910_810473762.json", 
-                "instagramcode": "BalMpKEF6y-", 
-                "post_date": "2017-10-23 08:54:52", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.829295873641969, 
-                    45.7770195130069
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BalMvl9FrxZ", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1631766487118560345", 
-                "timestamp": 1508741745, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c225.0.630.630/22710768_1880169405645687_9125444725216641024_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1508741745, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22710768_1880169405645687_9125444725216641024_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1631766487118560345"
-                }, 
-                "caption": "By @cap_phi Amazone 3/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-23/1631766487118560345_810473762.json", 
-                "instagramcode": "BalMvl9FrxZ", 
-                "post_date": "2017-10-23 08:55:45", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832053184509278, 
                     45.756842088046795
                 ]
@@ -4713,6 +4637,82 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-16/1626723105084865872_2999332484.json", 
                 "instagramcode": "BaTSAuagP1Q", 
                 "post_date": "2017-10-16 09:55:27", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.87600802715369, 
+                    45.75135985
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BalMpKEF6y-", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1631766044854430910", 
+                "timestamp": 1508741692, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.0.1080.1080/22639078_256278454898407_4470765027594338304_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1508741692, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22639078_256278454898407_4470765027594338304_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "1st-arrondissement-of-lyon", 
+                        "has_public_page": true, 
+                        "name": "1st arrondissement of Lyon", 
+                        "id": "238386704"
+                    }, 
+                    "id": "1631766044854430910"
+                }, 
+                "caption": "By @cap_phi Amazone 2/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-23/1631766044854430910_810473762.json", 
+                "instagramcode": "BalMpKEF6y-", 
+                "post_date": "2017-10-23 08:54:52", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.829295873641969, 
+                    45.7770195130069
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BalMvl9FrxZ", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1631766487118560345", 
+                "timestamp": 1508741745, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c225.0.630.630/22710768_1880169405645687_9125444725216641024_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1508741745, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22710768_1880169405645687_9125444725216641024_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1631766487118560345"
+                }, 
+                "caption": "By @cap_phi Amazone 3/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-10-23/1631766487118560345_810473762.json", 
+                "instagramcode": "BalMvl9FrxZ", 
+                "post_date": "2017-10-23 08:55:45", 
                 "validated": false
             }
         }, 
