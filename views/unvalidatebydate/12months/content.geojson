@@ -5,72 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818894267082214, 
-                    45.72718390086225
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWkUpI0lTjQ", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1559462158877931728", 
-                "timestamp": 1500122397, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19984211_1931323190483360_3384393414173786112_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1500122397, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984211_1931323190483360_3384393414173786112_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1559462158877931728"
-                }, 
-                "caption": "Petit monstre des pentes .\n.\n.\n.\n #capphi #map_phi #streetart #streetarteverywhere #lyonstreetart #streetartlyon #collage #petitmonstre #petitdiable #croixrousse #pentesdelacroixrousse #lyon #igerlyon #igerlyonstreetart", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-15/1559462158877931728_2000118195.json", 
-                "instagramcode": "BWkUpI0lTjQ", 
-                "post_date": "2017-07-15 14:39:57", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.81858715415001, 
-                    45.72664839624417
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWt-SY2DVVt", 
-                "originally_localized": true, 
-                "author": "jaylyonphoto", 
-                "instagramid": "1562178588278347117", 
-                "timestamp": 1500446221, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20184905_330184554083080_2397307554712518656_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jaylyonphoto", 
-                    "timestamp": 1500446221, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184905_330184554083080_2397307554712518656_n.jpg", 
-                    "authorid": "3274253394", 
-                    "location": null, 
-                    "id": "1562178588278347117"
-                }, 
-                "caption": "Aujourd'hui c'est parti pour une petite s\u00e9rie en mode street art !\n\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\u25fe\n#streetart #urban #urban_streetz #graff #graffiti #tag #art #city #lyon__only #onlylyon #lyoncity #lyonphotos #focus_on_streetart #super_france #france4dreams #hello_france #monlyon #igerslyon #bloginlyon #lepetitpaum\u00e9 #le_bonbon_lyon #croixrousse #culture #painting #love_art #pics_of_lyon #oslyon #merveillesdelyon #capphi", 
-                "authorid": "3274253394", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-19/1562178588278347117_3274253394.json", 
-                "instagramcode": "BWt-SY2DVVt", 
-                "post_date": "2017-07-19 08:37:01", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819371700286866, 
                     45.72292968062192
                 ]
@@ -97,39 +31,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-19/1562498769106094244_3274253394.json", 
                 "instagramcode": "BWvHFoejcik", 
                 "post_date": "2017-07-19 19:13:09", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.819951057434083, 
-                    45.72627765927053
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW5iWNGgkTg", 
-                "originally_localized": true, 
-                "author": "gallmarine", 
-                "instagramid": "1565433404965668064", 
-                "timestamp": 1500834225, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20213818_756843667820000_5577421552510566400_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "gallmarine", 
-                    "timestamp": 1500834225, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20213818_756843667820000_5577421552510566400_n.jpg", 
-                    "authorid": "3160895409", 
-                    "location": null, 
-                    "id": "1565433404965668064"
-                }, 
-                "caption": "J'ai retrouv\u00e9 Mushu \ud83d\udc09 \n#capphi #monster #dragons #drawing #art #artderue #artlovers #streetart #streetstyle #croixrousse #igerslyon #igersfrance #lyon #france_focus_on #lyon_focus_on #2017 #fanart #stickart #streetartistry #streetartlyon #mural #minimalzine #wallporn #streetartporn #streetphotography #graffitiart #urbanart #wallartist", 
-                "authorid": "3160895409", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-23/1565433404965668064_3160895409.json", 
-                "instagramcode": "BW5iWNGgkTg", 
-                "post_date": "2017-07-23 20:23:45", 
                 "validated": false
             }
         }, 
@@ -168,77 +69,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-27/1568421336665368637_177231564.json", 
                 "instagramcode": "BXEJuVWFSg9", 
                 "post_date": "2017-07-27 23:20:14", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818921089172364, 
-                    45.726652141049534
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWauqkUgy_K", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1556761856566308810", 
-                "timestamp": 1499800496, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932348_331417360626501_413051274053812224_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1499800496, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19932348_331417360626501_413051274053812224_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": null, 
-                    "id": "1556761856566308810"
-                }, 
-                "caption": "Death Queen nouvelle petite Amazone de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #death #queen", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-11/1556761856566308810_54122886.json", 
-                "instagramcode": "BWauqkUgy_K", 
-                "post_date": "2017-07-11 21:14:56", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832718372344972, 
-                    45.757905027679286
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWR0bASAVJe", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1554253900566057566", 
-                "timestamp": 1499501524, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1499501524, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19764844_320851381698632_4461020335210233856_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1554253900566057566"
-                }, 
-                "caption": "Lavpetite Amazone au dragon de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #dragon", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-07-08/1554253900566057566_54122886.json", 
-                "instagramcode": "BWR0bASAVJe", 
-                "post_date": "2017-07-08 10:12:04", 
                 "validated": false
             }
         }
