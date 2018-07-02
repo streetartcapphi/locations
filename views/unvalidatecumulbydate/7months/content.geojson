@@ -530,8 +530,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828603863716126, 
+                    45.776652851931594
                 ]
             }, 
             "type": "Feature", 
@@ -639,8 +639,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828767478466035, 
+                    45.776564927743934
                 ]
             }, 
             "type": "Feature", 
@@ -791,8 +791,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828805029392243, 
+                    45.77649384000149
                 ]
             }, 
             "type": "Feature", 
@@ -900,8 +900,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828778207302094, 
+                    45.77681186340827
                 ]
             }, 
             "type": "Feature", 
@@ -1592,8 +1592,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828687012195587, 
+                    45.77675200031732
                 ]
             }, 
             "type": "Feature", 
@@ -1894,8 +1894,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828788936138154, 
+                    45.77669774933565
                 ]
             }, 
             "type": "Feature", 
@@ -2800,41 +2800,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819446802139283, 
-                    45.724188004856174
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5df4ebf5dffc8c7c828b7f267df6fda6/5B5C9D72/t51.2885-15/e35/26865668_140177389993594_5179936738881044480_n.jpg", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1695988954678855374", 
-                "timestamp": 1516397660, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c7746a7bc4847a77436109f698194938/5B6EB913/t51.2885-15/s640x640/sh0.08/e35/26865668_140177389993594_5179936738881044480_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1516397660, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5df4ebf5dffc8c7c828b7f267df6fda6/5B5C9D72/t51.2885-15/e35/26865668_140177389993594_5179936738881044480_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1695988954678855374"
-                }, 
-                "caption": "Je crois qu'il a une dent contre quelqu'un .\n.\n.\n.\n#streetart #capphi #map_phi #cap_phi #lyonstreetart #littlemonster #croixrousse #pentesdelacroixrousse #monster #petitmonstre #urbanart #dent", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-19/1695988954678855374_2000118195.json", 
-                "instagramcode": "BeJXPfynobO", 
-                "post_date": "2018-01-19 22:34:20", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.82889622449875, 
+                    45.776576152116036
                 ]
             }, 
             "type": "Feature", 
@@ -2909,8 +2876,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
+                    4.828955233097077, 
+                    45.77666220556043
                 ]
             }, 
             "type": "Feature", 
@@ -3440,77 +3407,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-07/1687202586049762302_511387350.json", 
                 "instagramcode": "BdqJdAVndP-", 
                 "post_date": "2018-01-07 19:37:23", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.822697639465333, 
-                    45.724877075164834
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BceFYvdBYNU", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1665792602626425684", 
-                "timestamp": 1512797974, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/24839146_521982758155708_5050527699215319040_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1512797974, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/24839146_521982758155708_5050527699215319040_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1665792602626425684"
-                }, 
-                "caption": "Le dernier @cap_phi \nTrop beau, as usual !\n\ud83d\udc79\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdail #capphi", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-09/1665792602626425684_1222751817.json", 
-                "instagramcode": "BceFYvdBYNU", 
-                "post_date": "2017-12-09 06:39:34", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8281813, 
-                    45.7712813
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BcHJevGls-s", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1659336682288631724", 
-                "timestamp": 1512028368, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c28.0.1024.1024/24177708_909589129204047_2391472334834761728_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1512028368, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/24177708_909589129204047_2391472334834761728_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1659336682288631724"
-                }, 
-                "caption": "By @cap_phi Amazone 4/6 #capphi #serpent #tentation #eden #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-30/1659336682288631724_810473762.json", 
-                "instagramcode": "BcHJevGls-s", 
-                "post_date": "2017-11-30 08:52:48", 
                 "validated": false
             }
         }

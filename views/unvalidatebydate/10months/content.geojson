@@ -5,8 +5,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819318056106568, 
-                    45.726472390108924
+                    4.819908142089845, 
+                    45.726644651438555
                 ]
             }, 
             "type": "Feature", 
@@ -69,115 +69,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-09/1599772478224242207_54122886.json", 
                 "instagramcode": "BYziJfOAJYf", 
                 "post_date": "2017-09-09 05:29:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.828657507896424, 
-                    45.77655931555704
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZHGY6gF87D", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1605279892542836419", 
-                "timestamp": 1505584297, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.17.1080.1080/21827868_273133363194695_2605768452463394816_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1505584297, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21827868_273133363194695_2605768452463394816_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605279892542836419"
-                }, 
-                "caption": "#lyon #croixrousse #onlylyon #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-16/1605279892542836419_34904985.json", 
-                "instagramcode": "BZHGY6gF87D", 
-                "post_date": "2017-09-16 19:51:37", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.823942184448243, 
-                    45.7237386065975
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZV40XVnjyd", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1609442330930986141", 
-                "timestamp": 1506080498, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21909597_1450948901655838_1048127309061554176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1506080498, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21909597_1450948901655838_1048127309061554176_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1609442330930986141"
-                }, 
-                "caption": "Allez courage bient\u00f4t le week-end\n.\n.\n.\n#capphi #map_phi #sortirlatedeleau #weekend #streetart #lyonstreetart #streetarteverywhere #collage #croixrousse #littlemonster #igerlyon #igerlyonstreetart #picoftheday #instaart #instadailypic #littlefish #petitpoisson", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-22/1609442330930986141_2000118195.json", 
-                "instagramcode": "BZV40XVnjyd", 
-                "post_date": "2017-09-22 13:41:38", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.830529689788819, 
-                    45.75733613292963
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZNx5ORgqNG", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1607160078656512838", 
-                "timestamp": 1505808432, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/21690178_1222163127917321_6806757886887198720_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1505808432, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690178_1222163127917321_6806757886887198720_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1607160078656512838"
-                }, 
-                "caption": "Rencontre avec Eden la nouvelle petite Amazone de @cap_phi (ou quand tu as envie de partir avec un bac de lauriers chez toi.... \ud83d\ude02)\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #eden #serpent #arbredevie #arbre", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-19/1607160078656512838_54122886.json", 
-                "instagramcode": "BZNx5ORgqNG", 
-                "post_date": "2017-09-19 10:07:12", 
                 "validated": false
             }
         }
