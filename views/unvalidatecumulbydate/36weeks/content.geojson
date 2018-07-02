@@ -3447,44 +3447,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83201026916504, 
-                    45.75833918029661
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BdFSB85HOrm", 
-                "originally_localized": true, 
-                "author": "gaill_art", 
-                "instagramid": "1676825735204760294", 
-                "timestamp": 1514113226, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25017464_1752941501677162_7585683865675497472_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "gaill_art", 
-                    "timestamp": 1514113226, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25017464_1752941501677162_7585683865675497472_n.jpg", 
-                    "authorid": "460823669", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1676825735204760294"
-                }, 
-                "caption": "I \u2764\ufe0f Street Art in Lyon!\n\u0152uvre: \ud83d\udca5La petite Amazone \ud83d\udca5\nStreet Artiste: \ud83c\udf1f@cap_phi \ud83c\udf1f\n#cap_phi #capphi #amazone \n#femme #woman #mujer #\u2764\ufe0f\n#kawaii #monster #monstre #monstruo\n#queen #reine #reina \n#collage #collageart #collageartist \n#collageartwork #papercollage #wallart \n#Instagram #Instagramer #Instagramers\n@streetartglobe #streetartglobe", 
-                "authorid": "460823669", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-12-24/1676825735204760294_460823669.json", 
-                "instagramcode": "BdFSB85HOrm", 
-                "post_date": "2017-12-24 12:00:26", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828416109085084, 
                     45.7773562404421
                 ]
@@ -3625,82 +3587,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-06/1642208269237701490_1413198960.json", 
                 "instagramcode": "BbKS7hXH0ty", 
                 "post_date": "2017-11-06 17:41:42", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83237773180008, 
-                    45.7575270127356
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbKS4ZlH6eB", 
-                "originally_localized": true, 
-                "author": "h.lna", 
-                "instagramid": "1642208054724241281", 
-                "timestamp": 1509986477, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23416868_140617509917331_1483267118882357248_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "h.lna", 
-                    "timestamp": 1509986477, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23416868_140617509917331_1483267118882357248_n.jpg", 
-                    "authorid": "1413198960", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1642208054724241281"
-                }, 
-                "caption": "#streetart by #capphi #streetartiseverywhere #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
-                "authorid": "1413198960", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-06/1642208054724241281_1413198960.json", 
-                "instagramcode": "BbKS4ZlH6eB", 
-                "post_date": "2017-11-06 17:41:17", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831119775772096, 
-                    45.75765052285034
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbKS3lBn4yy", 
-                "originally_localized": true, 
-                "author": "h.lna", 
-                "instagramid": "1642207998294068402", 
-                "timestamp": 1509986470, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c40.0.999.999/23164719_368416016935149_1151161963879858176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "h.lna", 
-                    "timestamp": 1509986470, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23164719_368416016935149_1151161963879858176_n.jpg", 
-                    "authorid": "1413198960", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1642207998294068402"
-                }, 
-                "caption": "#streetart by #capphi #streetartiseverywhere #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
-                "authorid": "1413198960", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-06/1642207998294068402_1413198960.json", 
-                "instagramcode": "BbKS3lBn4yy", 
-                "post_date": "2017-11-06 17:41:10", 
                 "validated": false
             }
         }, 
