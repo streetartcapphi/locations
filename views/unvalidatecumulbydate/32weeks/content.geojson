@@ -3227,39 +3227,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818250536918641, 
-                    45.72586947127188
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f6a876db6068931a0692ea82b62d45b/5B70FB59/t51.2885-15/e35/25036156_143284899711461_4145845301338439680_n.jpg", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1687701864906722753", 
-                "timestamp": 1515409762, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2d0dd958198c0524ce86acfc69ed8ccb/5B69BA8B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036156_143284899711461_4145845301338439680_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1515409762, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f6a876db6068931a0692ea82b62d45b/5B70FB59/t51.2885-15/e35/25036156_143284899711461_4145845301338439680_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1687701864906722753"
-                }, 
-                "caption": "Eh @cap_phi, tu as trop arros\u00e9 ton r\u00e9veillon ??\n\ud83e\udd22\n#vomito #capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #jj_urbanart", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-08/1687701864906722753_1222751817.json", 
-                "instagramcode": "Bdr6-eAh43B", 
-                "post_date": "2018-01-08 12:09:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -3451,6 +3418,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686520973892612408_2000118195.json", 
                 "instagramcode": "BdnuePjHXE4", 
                 "post_date": "2018-01-06 21:03:08", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818250536918641, 
+                    45.72586947127188
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f6a876db6068931a0692ea82b62d45b/5B70FB59/t51.2885-15/e35/25036156_143284899711461_4145845301338439680_n.jpg", 
+                "originally_localized": true, 
+                "author": "streetart_lyon", 
+                "instagramid": "1687701864906722753", 
+                "timestamp": 1515409762, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2d0dd958198c0524ce86acfc69ed8ccb/5B69BA8B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036156_143284899711461_4145845301338439680_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "streetart_lyon", 
+                    "timestamp": 1515409762, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f6a876db6068931a0692ea82b62d45b/5B70FB59/t51.2885-15/e35/25036156_143284899711461_4145845301338439680_n.jpg", 
+                    "authorid": "1222751817", 
+                    "location": null, 
+                    "id": "1687701864906722753"
+                }, 
+                "caption": "Eh @cap_phi, tu as trop arros\u00e9 ton r\u00e9veillon ??\n\ud83e\udd22\n#vomito #capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #jj_urbanart", 
+                "authorid": "1222751817", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-08/1687701864906722753_1222751817.json", 
+                "instagramcode": "Bdr6-eAh43B", 
+                "post_date": "2018-01-08 12:09:22", 
                 "validated": false
             }
         }, 
@@ -3999,39 +3999,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-20/1652081230064432962_810473762.json", 
                 "instagramcode": "BbtXyAqFLdC", 
                 "post_date": "2017-11-20 08:37:31", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BbburuEhmtx", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1647115403279100785", 
-                "timestamp": 1510571478, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/23421315_129120344526520_6150699137047199744_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1510571478, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/23421315_129120344526520_6150699137047199744_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1647115403279100785"
-                }, 
-                "caption": "13 novembre  2015 .\n\nHommage aux victimes et \u00e0 leurs familles avec ce coeur bris\u00e9 de @cap_phi \ud83d\udc94\n\n#peace #jesuisparis #streetart #urbanart #streetartlyon #capphi", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-11-13/1647115403279100785_1222751817.json", 
-                "instagramcode": "BbburuEhmtx", 
-                "post_date": "2017-11-13 12:11:18", 
                 "validated": false
             }
         }
