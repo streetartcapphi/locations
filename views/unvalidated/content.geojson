@@ -1498,44 +1498,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83199954032898, 
-                    45.757178937305
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BYziJfOAJYf", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1599772478224242207", 
-                "timestamp": 1504927762, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/21433505_123531128302916_3742298841450283008_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1504927762, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21433505_123531128302916_3742298841450283008_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1599772478224242207"
-                }, 
-                "caption": "#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawaii #monster", 
-                "authorid": "54122886", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2017-09-09/1599772478224242207_54122886.json", 
-                "instagramcode": "BYziJfOAJYf", 
-                "post_date": "2017-09-09 05:29:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2201,39 +2163,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-23/1698453859109643827_3319426304.json", 
                 "instagramcode": "BeSHsk7nyYz", 
                 "post_date": "2018-01-23 08:11:39", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.836301803588867, 
-                    45.75568181392639
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5349b41e34a3cc4bb66978f6b75db4f7/5B5F4333/t51.2885-15/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
-                "originally_localized": true, 
-                "author": "cocottecoralie", 
-                "instagramid": "1686520973892612408", 
-                "timestamp": 1515268988, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/222b96d8daded6dff6bc56e85c02364b/5B5D5A52/t51.2885-15/s640x640/sh0.08/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "cocottecoralie", 
-                    "timestamp": 1515268988, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5349b41e34a3cc4bb66978f6b75db4f7/5B5F4333/t51.2885-15/e35/26288698_569976240014716_2254284310532063232_n.jpg", 
-                    "authorid": "2000118195", 
-                    "location": null, 
-                    "id": "1686520973892612408"
-                }, 
-                "caption": "#capphi #monster #littlemonster #love #streetart #lyonstreetart #streetarteverywhere #lyon #croixrousse", 
-                "authorid": "2000118195", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686520973892612408_2000118195.json", 
-                "instagramcode": "BdnuePjHXE4", 
-                "post_date": "2018-01-06 21:03:08", 
                 "validated": false
             }
         }, 
