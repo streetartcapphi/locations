@@ -66,6 +66,44 @@
                 "post_date": "2018-05-19 08:08:13", 
                 "validated": false
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.830658435821534, 
+                    45.7720787394652
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f8f72c7a715cdf7c4a6b2d8d81875bf4/5B77541A/t51.2885-15/e35/31846926_1968404790139865_6867515280235429888_n.jpg", 
+                "originally_localized": true, 
+                "author": "vv_street", 
+                "instagramid": "1782561627964750883", 
+                "timestamp": 1526717926, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/27c00ad8bd49fac240b8b9298980acb0/5B9D0630/t51.2885-15/s640x640/sh0.08/e35/31846926_1968404790139865_6867515280235429888_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vv_street", 
+                    "timestamp": 1526717926, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f8f72c7a715cdf7c4a6b2d8d81875bf4/5B77541A/t51.2885-15/e35/31846926_1968404790139865_6867515280235429888_n.jpg", 
+                    "authorid": "363991452", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1782561627964750883"
+                }, 
+                "caption": "Un ptit monstre de @cap_phi \u2764\n#capphi #streetart #streetartlyon #urbanart #urbanstreet #monster #petitmonstre #coeur #love #cute #collage #collageart #lespentesdelacroixrousse #lespentes #lyon #lyonstreetart #streetartist", 
+                "authorid": "363991452", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-19/1782561627964750883_363991452.json", 
+                "instagramcode": "Bi87lsxFLwj", 
+                "post_date": "2018-05-19 10:18:46", 
+                "validated": false
+            }
         }
     ]
 }
