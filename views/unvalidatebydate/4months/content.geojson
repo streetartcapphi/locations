@@ -27,6 +27,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/30cc5e642eb604864e8b7cdaabf35653/5B51BF75/t51.2885-15/e35/29417806_545076482546065_4814573221154127872_n.jpg", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1740140999889574034", 
+                "timestamp": 1521660994, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0d133e508d105fb15aedc6c29ae8b11b/5B6A8814/t51.2885-15/s640x640/sh0.08/e35/29417806_545076482546065_4814573221154127872_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1521660994, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/30cc5e642eb604864e8b7cdaabf35653/5B51BF75/t51.2885-15/e35/29417806_545076482546065_4814573221154127872_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "montee-de-la-grande-cote", 
+                        "has_public_page": true, 
+                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
+                        "id": "235465523"
+                    }, 
+                    "id": "1740140999889574034"
+                }, 
+                "caption": "#monteedelagrandecote #croixrousse #capphi #onlylyon", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-21/1740140999889574034_34904985.json", 
+                "instagramcode": "BgmOQUNgtiS", 
+                "post_date": "2018-03-21 20:36:34", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.9092352, 
                     45.7337532
                 ]
