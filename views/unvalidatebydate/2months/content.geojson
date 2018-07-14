@@ -152,44 +152,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832294583320619, 
-                    45.75789379954956
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d24a19e879aa3b565d678f272a46b0bd/5B61CF00/t51.2885-15/e35/30086557_1543955035703193_5353410180203675648_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1762435671530986808", 
-                "timestamp": 1524318726, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e4e21ad5dda03e1e331b1f88074491a7/5B57142A/t51.2885-15/s640x640/sh0.08/e35/30086557_1543955035703193_5353410180203675648_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1524318726, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d24a19e879aa3b565d678f272a46b0bd/5B61CF00/t51.2885-15/e35/30086557_1543955035703193_5353410180203675648_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1762435671530986808"
-                }, 
-                "caption": "@ghostsurfer69 surfe sur @cap_phi #ghostsurfer #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-21/1762435671530986808_37664964.json", 
-                "instagramcode": "Bh1befNFN04", 
-                "post_date": "2018-04-21 15:52:06", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831892251968385, 
                     45.7578058457884
                 ]
