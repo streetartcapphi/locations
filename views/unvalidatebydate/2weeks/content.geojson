@@ -266,39 +266,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831881523132325, 
-                    45.77710182434549
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aba8a7434836ac236c655b4c7c78d189/5BC59731/t51.2885-15/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1808035481826823973", 
-                "timestamp": 1529754646, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c662b0725bbb63c79c9d4710f466684e/5BAFA81B/t51.2885-15/s640x640/sh0.08/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1529754646, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aba8a7434836ac236c655b4c7c78d189/5BC59731/t51.2885-15/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1808035481826823973"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Rue des Tables Claudiennes et pour le panneau: rue Celu\n#Capphi #artderue #arturbain #urbanart #bigbenstreetart #collage #Lyon #Art #Streetart #streetphoto #streetartist #graffiti #france #StreetArtFrance #streetarteverywhere #streetartphotography", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808035481826823973_5529011003.json", 
-                "instagramcode": "BkXbrD7lw8l", 
-                "post_date": "2018-06-23 13:50:46", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
