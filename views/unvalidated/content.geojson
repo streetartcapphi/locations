@@ -2104,32 +2104,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819318056106568, 
-                    45.725978072039794
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/12b4ecc1c953e1b69328e4f7c7842f05/5B548DE0/t51.2885-15/e35/26065946_1520734798021713_223994776553259008_n.jpg", 
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82d73c959620dc337e092ada4f70982b/5B7C31AD/t51.2885-15/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
                 "originally_localized": true, 
-                "author": "_flawlex_", 
-                "instagramid": "1685530040462440834", 
-                "timestamp": 1515150860, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/99672c90e290a63c103a22a595a9672e/5B55BE81/t51.2885-15/s640x640/sh0.08/e35/26065946_1520734798021713_223994776553259008_n.jpg", 
+                "author": "moemoea987", 
+                "instagramid": "1767683959323337078", 
+                "timestamp": 1524944370, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e0150ca3cc97ea37a6dd896583c616a8/5B9C54CC/t51.2885-15/s640x640/sh0.08/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "_flawlex_", 
-                    "timestamp": 1515150860, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/12b4ecc1c953e1b69328e4f7c7842f05/5B548DE0/t51.2885-15/e35/26065946_1520734798021713_223994776553259008_n.jpg", 
-                    "authorid": "2999332484", 
+                    "author": "moemoea987", 
+                    "timestamp": 1524944370, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82d73c959620dc337e092ada4f70982b/5B7C31AD/t51.2885-15/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
+                    "authorid": "1014838066", 
                     "location": null, 
-                    "id": "1685530040462440834"
+                    "id": "1767683959323337078"
                 }, 
-                "caption": "StreetArt / WallArt by @cap_phi \n#StreetArt #WallArt #Lyon #pentesdelacroixrousse #collage #streetartlyon #capphi", 
-                "authorid": "2999332484", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-05/1685530040462440834_2999332484.json", 
-                "instagramcode": "BdkNKQ4A3mC", 
-                "post_date": "2018-01-05 12:14:20", 
+                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #capphi #lyon #monlyon #onlylyon #lyonmaville", 
+                "authorid": "1014838066", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-28/1767683959323337078_1014838066.json", 
+                "instagramcode": "BiIEzIGn6F2", 
+                "post_date": "2018-04-28 21:39:30", 
                 "validated": false
             }
         }, 
@@ -3199,6 +3199,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8307475, 
+                    45.7719149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/be5dbe9e92e847b3d03d7625792c5147/5BE8473F/t51.2885-15/e35/36824383_644359115936564_4791785872733241344_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1824124997738593353", 
+                "timestamp": 1531672666, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a8a0795ccb2b4864cd61e88ea41d8222/5BDCB8DA/t51.2885-15/sh0.08/e35/s640x640/36824383_644359115936564_4791785872733241344_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1531672666, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/be5dbe9e92e847b3d03d7625792c5147/5BE8473F/t51.2885-15/e35/36824383_644359115936564_4791785872733241344_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1824124997738593353"
+                }, 
+                "caption": "Superbe collab @cap_phi et @green_vegetal_work \ud83d\ude0d\ud83d\udc4c parfaitement situ\u00e9e en plus \ud83d\udc96\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #tv_streetart  #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #plantecarnivore #collaboration #capphi #greenvegetalwork", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-15/1824124997738593353_2876693898.json", 
+                "instagramcode": "BlQmAVUHnxJ", 
+                "post_date": "2018-07-15 18:37:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.81839805841446, 
                     45.72664839624417
                 ]
@@ -3412,32 +3450,32 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.819318056106568, 
+                    45.725978072039794
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82d73c959620dc337e092ada4f70982b/5B7C31AD/t51.2885-15/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/12b4ecc1c953e1b69328e4f7c7842f05/5B548DE0/t51.2885-15/e35/26065946_1520734798021713_223994776553259008_n.jpg", 
                 "originally_localized": true, 
-                "author": "moemoea987", 
-                "instagramid": "1767683959323337078", 
-                "timestamp": 1524944370, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e0150ca3cc97ea37a6dd896583c616a8/5B9C54CC/t51.2885-15/s640x640/sh0.08/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
+                "author": "_flawlex_", 
+                "instagramid": "1685530040462440834", 
+                "timestamp": 1515150860, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/99672c90e290a63c103a22a595a9672e/5B55BE81/t51.2885-15/s640x640/sh0.08/e35/26065946_1520734798021713_223994776553259008_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "moemoea987", 
-                    "timestamp": 1524944370, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82d73c959620dc337e092ada4f70982b/5B7C31AD/t51.2885-15/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
-                    "authorid": "1014838066", 
+                    "author": "_flawlex_", 
+                    "timestamp": 1515150860, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/12b4ecc1c953e1b69328e4f7c7842f05/5B548DE0/t51.2885-15/e35/26065946_1520734798021713_223994776553259008_n.jpg", 
+                    "authorid": "2999332484", 
                     "location": null, 
-                    "id": "1767683959323337078"
+                    "id": "1685530040462440834"
                 }, 
-                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #capphi #lyon #monlyon #onlylyon #lyonmaville", 
-                "authorid": "1014838066", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-28/1767683959323337078_1014838066.json", 
-                "instagramcode": "BiIEzIGn6F2", 
-                "post_date": "2018-04-28 21:39:30", 
+                "caption": "StreetArt / WallArt by @cap_phi \n#StreetArt #WallArt #Lyon #pentesdelacroixrousse #collage #streetartlyon #capphi", 
+                "authorid": "2999332484", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-05/1685530040462440834_2999332484.json", 
+                "instagramcode": "BdkNKQ4A3mC", 
+                "post_date": "2018-01-05 12:14:20", 
                 "validated": false
             }
         }, 
