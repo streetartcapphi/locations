@@ -5,6 +5,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.82889622449875, 
+                    45.776576152116036
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80dafb972ad865ba28f7c31f62d3836c/5B75F7E4/t51.2885-15/e35/27880176_191506538250505_4803115347920027648_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1708631921637312916", 
+                "timestamp": 1517904819, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/915c7df5cf5c5b32cb83f984e083fb79/5B5BD385/t51.2885-15/s640x640/sh0.08/e35/27880176_191506538250505_4803115347920027648_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1517904819, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80dafb972ad865ba28f7c31f62d3836c/5B75F7E4/t51.2885-15/e35/27880176_191506538250505_4803115347920027648_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1708631921637312916"
+                }, 
+                "caption": "By @cap_phi Amazone 4/6 #capphi #skull #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-06/1708631921637312916_810473762.json", 
+                "instagramcode": "Be2R64VFcmU", 
+                "post_date": "2018-02-06 09:13:39", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.828955233097077, 
                     45.77666220556043
                 ]
