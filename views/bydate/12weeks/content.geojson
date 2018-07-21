@@ -74,43 +74,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831720590591431, 
-                    45.769603511137895
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0b1a59dac498e3b387676f57c4126011/5B6BD270/t51.2885-15/e35/30592144_2076564192622338_8258231162468564992_n.jpg", 
-                "originally_localized": true, 
-                "author": "gaby_boucher64", 
-                "instagramid": "1762230743382424331", 
-                "timestamp": 1524294296, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e78952e9321ef30482696034febf8ef5/5B762D4A/t51.2885-15/s640x640/sh0.08/e35/c0.95.1080.1080/30592144_2076564192622338_8258231162468564992_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "gaby_boucher64", 
-                    "timestamp": 1524294296, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0b1a59dac498e3b387676f57c4126011/5B6BD270/t51.2885-15/e35/30592144_2076564192622338_8258231162468564992_n.jpg", 
-                    "authorid": "4227301483", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1762230743382424331"
-                }, 
-                "caption": "Art by @cap_phi \u2764 #streetart #streetartist #urbanart #streetartphotography #streetarteverywhere #super_graffiti_channel #streetartphotographer #tv_streetart_ #rsa_graffiti #jj_urbanart #dsb_graff #lyonstreetart #capphi #instaphoto", 
-                "authorid": "4227301483", 
-                "instagramcode": "Bh0s4Y_lPsL", 
-                "post_date": "2018-04-21 09:04:56", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831709861755372, 
                     45.76967834958357
                 ]
