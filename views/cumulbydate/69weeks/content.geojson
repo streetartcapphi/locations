@@ -5,6 +5,43 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8307475, 
+                    45.7719149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/be5dbe9e92e847b3d03d7625792c5147/5BE8473F/t51.2885-15/e35/36824383_644359115936564_4791785872733241344_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1824124997738593353", 
+                "timestamp": 1531672666, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a8a0795ccb2b4864cd61e88ea41d8222/5BDCB8DA/t51.2885-15/sh0.08/e35/s640x640/36824383_644359115936564_4791785872733241344_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1531672666, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/be5dbe9e92e847b3d03d7625792c5147/5BE8473F/t51.2885-15/e35/36824383_644359115936564_4791785872733241344_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1824124997738593353"
+                }, 
+                "caption": "Superbe collab @cap_phi et @green_vegetal_work \ud83d\ude0d\ud83d\udc4c parfaitement situ\u00e9e en plus \ud83d\udc96\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #tv_streetart  #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #plantecarnivore #collaboration #capphi #greenvegetalwork", 
+                "authorid": "2876693898", 
+                "instagramcode": "BlQmAVUHnxJ", 
+                "post_date": "2018-07-15 18:37:46", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
@@ -2426,43 +2463,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831527471542359, 
-                    45.776338569091
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVKRohZDZah", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1534116174496634529", 
-                "timestamp": 1497100920, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18949590_234565710365842_3672132536261148672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1497100920, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18949590_234565710365842_3672132536261148672_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1534116174496634529"
-                }, 
-                "caption": "Seul les pets de #licorne sont tol\u00e9r\u00e9s @cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon", 
-                "authorid": "37664964", 
-                "instagramcode": "BVKRohZDZah", 
-                "post_date": "2017-06-10 15:22:00", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833190441131593, 
                     45.771695207876185
                 ]
@@ -2594,6 +2594,43 @@
                 "caption": "Une petite #brochette  de #monstres #streetart #urbanartist #capphi #t0 #map_phi", 
                 "validated": true, 
                 "id": "1529575212025566862_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831527471542359, 
+                    45.776338569091
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BVKRohZDZah", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1534116174496634529", 
+                "timestamp": 1497100920, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18949590_234565710365842_3672132536261148672_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1497100920, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18949590_234565710365842_3672132536261148672_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1534116174496634529"
+                }, 
+                "caption": "Seul les pets de #licorne sont tol\u00e9r\u00e9s @cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon", 
+                "authorid": "37664964", 
+                "instagramcode": "BVKRohZDZah", 
+                "post_date": "2017-06-10 15:22:00", 
+                "validated": true
             }
         }, 
         {
