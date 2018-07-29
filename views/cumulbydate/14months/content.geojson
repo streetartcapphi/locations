@@ -2404,27 +2404,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834638833999634, 
-                    45.7775358275761
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-04 06:59:56", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18888421_680995515431155_1503288306501156864_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BU6JI0iBtaO/", 
-                "caption": "Une petite #brochette  de #monstres #streetart #urbanartist #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1529575212025566862_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831527471542359, 
                     45.776338569091
                 ]
