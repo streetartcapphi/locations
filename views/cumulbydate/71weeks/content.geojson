@@ -2352,43 +2352,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834520816802979, 
-                    45.77527598065475
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVpm2fmj8Ty", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1542935217903224050", 
-                "timestamp": 1498152232, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1498152232, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1542935217903224050"
-                }, 
-                "caption": "Pas de cuisine aujourd'hui sur le blog (f\u00e9trocho) mais une petite histoire que ma inspir\u00e9e la derni\u00e8re cr\u00e9ature (cr\u00e9ation) de @cap_phi\ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
-                "authorid": "2876693898", 
-                "instagramcode": "BVpm2fmj8Ty", 
-                "post_date": "2017-06-22 19:23:52", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83449935913086, 
                     45.77626373958218
                 ]
@@ -2419,6 +2382,43 @@
                 "authorid": "1413198960", 
                 "instagramcode": "BVt6TXXhR7g", 
                 "post_date": "2017-06-24 11:30:48", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834520816802979, 
+                    45.77527598065475
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BVpm2fmj8Ty", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1542935217903224050", 
+                "timestamp": 1498152232, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1498152232, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19367093_1568979966488336_1128902338090631168_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1542935217903224050"
+                }, 
+                "caption": "Pas de cuisine aujourd'hui sur le blog (f\u00e9trocho) mais une petite histoire que ma inspir\u00e9e la derni\u00e8re cr\u00e9ature (cr\u00e9ation) de @cap_phi\ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
+                "authorid": "2876693898", 
+                "instagramcode": "BVpm2fmj8Ty", 
+                "post_date": "2017-06-22 19:23:52", 
                 "validated": true
             }
         }, 
