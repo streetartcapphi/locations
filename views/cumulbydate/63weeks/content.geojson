@@ -2921,27 +2921,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833831489086151, 
-                    45.769842993810606
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-26 08:39:13", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645339_1571322866275509_4681311986665914368_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUjJWMtB3bR/", 
-                "caption": "#kawaii #serpent \u00e0 #plumes #ketzacoatl #streetart #urbanartist  #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1523102206868813521_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834397435188294, 
                     45.77518244197068
                 ]
@@ -3173,6 +3152,27 @@
                 "caption": "#rendezvous a #pollionnay le 10 juin pour le #vernissage de l' #expo #graffitiartist avec #kr\u00e9a #lacarotte #zen #cocodelapalma #capphi", 
                 "validated": true, 
                 "id": "1518329814137013171_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833831489086151, 
+                    45.769842993810606
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-26 08:39:13", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645339_1571322866275509_4681311986665914368_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUjJWMtB3bR/", 
+                "caption": "#kawaii #serpent \u00e0 #plumes #ketzacoatl #streetart #urbanartist  #capphi #t0 #map_phi", 
+                "validated": true, 
+                "id": "1523102206868813521_29177514"
             }
         }, 
         {
