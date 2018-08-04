@@ -208,39 +208,6 @@
                 "post_date": "2018-06-15 12:37:03", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7f4deac972cbd952113101568c922923/5BBE6EC2/t51.2885-15/e35/33441939_394689241049653_1278111035256995840_n.jpg", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1798010248361835883", 
-                "timestamp": 1528559546, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/89e104861c272ca5e68ca6db800e1e16/5BC50F10/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/33441939_394689241049653_1278111035256995840_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1528559546, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7f4deac972cbd952113101568c922923/5BBE6EC2/t51.2885-15/e35/33441939_394689241049653_1278111035256995840_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1798010248361835883"
-                }, 
-                "caption": "Il est interdit d'interdire par @cap_phi \ud83d\ude01\nJe veux le m\u00eame vers chez moi !!\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #capphi", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-09/1798010248361835883_1222751817.json", 
-                "instagramcode": "Bjz0MtsHn1r", 
-                "post_date": "2018-06-09 17:52:26", 
-                "validated": false
-            }
         }
     ]
 }
