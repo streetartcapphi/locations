@@ -38,6 +38,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6c48960a989d9b151456329de4a09cf0/5BBBDE8D/t51.2885-15/e35/35618204_462717240864865_8877407408935141376_n.jpg", 
+                "originally_localized": true, 
+                "author": "coeurlyonnais", 
+                "instagramid": "1806649793097217828", 
+                "timestamp": 1529589460, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0330bfdd4a62ab44137c97c606344b6a/5BB10B5F/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/35618204_462717240864865_8877407408935141376_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "coeurlyonnais", 
+                    "timestamp": 1529589460, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6c48960a989d9b151456329de4a09cf0/5BBBDE8D/t51.2885-15/e35/35618204_462717240864865_8877407408935141376_n.jpg", 
+                    "authorid": "8011157754", 
+                    "location": null, 
+                    "id": "1806649793097217828"
+                }, 
+                "caption": "[On POST&REPOST le meilleur TOUS LES JOURS !] \ud83d\udca5\n-\nIl est interdit d'interdire par @cap_phi \ud83d\ude01\nJe veux le m\u00eame vers chez moi !!\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #capphi", 
+                "authorid": "8011157754", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-21/1806649793097217828_8011157754.json", 
+                "instagramcode": "BkSgmovF7ck", 
+                "post_date": "2018-06-21 15:57:40", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818800389766694, 
                     45.72669895109539
                 ]
