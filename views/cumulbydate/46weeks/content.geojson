@@ -1525,43 +1525,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831924438476563, 
-                    45.770591370535584
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZDRDPBj7YT", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1604200881355470355", 
-                "timestamp": 1505455669, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/c236.0.608.608/21576471_355349584887699_5087426055313031168_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1505455669, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21576471_355349584887699_5087426055313031168_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1604200881355470355"
-                }, 
-                "caption": "Et de deux ! Belle brochette \u2764. @cap_phi n'a pas ch\u00f4m\u00e9 cette nuit \ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #beautyqueen #fantasy #artephemere #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "BZDRDPBj7YT", 
-                "post_date": "2017-09-15 08:07:49", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8287408, 
                     45.7766432
                 ]
