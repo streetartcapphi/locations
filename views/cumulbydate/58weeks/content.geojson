@@ -2262,38 +2262,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83449935913086, 
-                    45.77542564222295
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
-                "originally_localized": true, 
-                "author": "nm_sophie_", 
-                "instagramid": "1549558984659148945", 
-                "timestamp": 1498941847, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "nm_sophie_", 
-                    "timestamp": 1498941847, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
-                    "authorid": "1801636017", 
-                    "location": null, 
-                    "id": "1549558984659148945"
-                }, 
-                "caption": "Arc en ciel. Prout de licorne..#capphi", 
-                "authorid": "1801636017", 
-                "instagramcode": "BWBI6_HH6CR", 
-                "post_date": "2017-07-01 22:44:07", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832439422607422, 
                     45.76901976781533
                 ]
@@ -2324,6 +2292,38 @@
                 "authorid": "54122886", 
                 "instagramcode": "BWRp9lyAzsn", 
                 "post_date": "2017-07-08 08:40:41", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83449935913086, 
+                    45.77542564222295
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
+                "originally_localized": true, 
+                "author": "nm_sophie_", 
+                "instagramid": "1549558984659148945", 
+                "timestamp": 1498941847, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "nm_sophie_", 
+                    "timestamp": 1498941847, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
+                    "authorid": "1801636017", 
+                    "location": null, 
+                    "id": "1549558984659148945"
+                }, 
+                "caption": "Arc en ciel. Prout de licorne..#capphi", 
+                "authorid": "1801636017", 
+                "instagramcode": "BWBI6_HH6CR", 
+                "post_date": "2017-07-01 22:44:07", 
                 "validated": true
             }
         }
