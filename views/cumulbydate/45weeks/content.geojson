@@ -1251,6 +1251,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.831978082656861, 
+                    45.77304223401676
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-27 05:54:31", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22070820_740559469467729_6804456226798174208_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZiJEUag7RI/", 
+                "caption": "#eden #arbredevie petite #amazone #rayon de #soleil #capphi #streetart #urbanart #croixrousse", 
+                "validated": true, 
+                "id": "1612891495768241224_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.831538200378419, 
                     45.770606337967685
                 ]
@@ -1282,27 +1303,6 @@
                 "instagramcode": "BZtoOEcH4pp", 
                 "post_date": "2017-10-01 18:58:22", 
                 "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831978082656861, 
-                    45.77304223401676
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-09-27 05:54:31", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22070820_740559469467729_6804456226798174208_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BZiJEUag7RI/", 
-                "caption": "#eden #arbredevie petite #amazone #rayon de #soleil #capphi #streetart #urbanart #croixrousse", 
-                "validated": true, 
-                "id": "1612891495768241224_29177514"
             }
         }
     ]
