@@ -1789,43 +1789,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832149073481561, 
-                    45.778206000498386
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW487E8AWJo", 
-                "originally_localized": true, 
-                "author": "my_urbanitudes", 
-                "instagramid": "1565268813052732008", 
-                "timestamp": 1500814604, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20213942_333088697117822_7166399395779313664_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "my_urbanitudes", 
-                    "timestamp": 1500814604, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20213942_333088697117822_7166399395779313664_n.jpg", 
-                    "authorid": "1218180784", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1565268813052732008"
-                }, 
-                "caption": "Belle \u00e0 cornes \u2763\ufe0f by #capphi \u2716\ufe0f #mesurbanitudes  #lyon #france #onlylyon #monlyon #villedelyon #streetartlyon #streetart #streetphoto #urbanart #urbanwalls #streetartistry #dsb_graff #igerslyon #graphic #urbanexploration #streetarteverywhere #urbanexploration  #aura_focus_on #art #jj_urbanart #be_one_urbanart", 
-                "authorid": "1218180784", 
-                "instagramcode": "BW487E8AWJo", 
-                "post_date": "2017-07-23 14:56:44", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832954406738282, 
                     45.77758072426925
                 ]
@@ -1972,6 +1935,43 @@
                 "authorid": "54122886", 
                 "instagramcode": "BW14GxNgIeS", 
                 "post_date": "2017-07-22 10:16:55", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832149073481561, 
+                    45.778206000498386
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BW487E8AWJo", 
+                "originally_localized": true, 
+                "author": "my_urbanitudes", 
+                "instagramid": "1565268813052732008", 
+                "timestamp": 1500814604, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20213942_333088697117822_7166399395779313664_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "my_urbanitudes", 
+                    "timestamp": 1500814604, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20213942_333088697117822_7166399395779313664_n.jpg", 
+                    "authorid": "1218180784", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1565268813052732008"
+                }, 
+                "caption": "Belle \u00e0 cornes \u2763\ufe0f by #capphi \u2716\ufe0f #mesurbanitudes  #lyon #france #onlylyon #monlyon #villedelyon #streetartlyon #streetart #streetphoto #urbanart #urbanwalls #streetartistry #dsb_graff #igerslyon #graphic #urbanexploration #streetarteverywhere #urbanexploration  #aura_focus_on #art #jj_urbanart #be_one_urbanart", 
+                "authorid": "1218180784", 
+                "instagramcode": "BW487E8AWJo", 
+                "post_date": "2017-07-23 14:56:44", 
                 "validated": true
             }
         }, 
