@@ -153,39 +153,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8e36cafa91fab54e87649abb224a4224/5BE1F1CB/t51.2885-15/e35/36757830_429909027510289_8343241772280840192_n.jpg?_nc_eui2=AeEu4hjxe9c5Y2VzxogYyZBARfNnbllbCRbbq7sHn930h1GSr3G0KAf-9wpyZEGgl4X7MW-1ozgu_AIwc5MgSojg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1830371205301359547", 
-                "timestamp": 1532417272, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ace33ee766762c88d83692ad332af940/5C11472E/t51.2885-15/sh0.08/e35/s640x640/36757830_429909027510289_8343241772280840192_n.jpg?_nc_eui2=AeEu4hjxe9c5Y2VzxogYyZBARfNnbllbCRbbq7sHn930h1GSr3G0KAf-9wpyZEGgl4X7MW-1ozgu_AIwc5MgSojg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1532417272, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d888f99c9d8ad7100d5cecc410dcf46e/5BE1F1CB/t51.2885-15/e35/36757830_429909027510289_8343241772280840192_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": null, 
-                    "id": "1830371205301359547"
-                }, 
-                "caption": "By @cap_phi #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-24/1830371205301359547_810473762.json", 
-                "instagramcode": "BlmyOnbF1O7", 
-                "post_date": "2018-07-24 09:27:52", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/52a45c9a47ca27532ea4e012f266a486/5BD04AA5/t51.2885-15/e35/36790988_224051745111495_3419070469020581888_n.jpg", 
                 "originally_localized": true, 
                 "author": "fellassari", 
