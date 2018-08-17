@@ -1937,43 +1937,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832149744033814, 
-                    45.778314031806644
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW0QVAujgrF", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1563946783238654661", 
-                "timestamp": 1500657006, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.125.1080.1080/20184650_325775734516450_8289190300350414848_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1500657006, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184650_325775734516450_8289190300350414848_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1563946783238654661"
-                }, 
-                "caption": "Et de trois ! Death (Beauty) Queen by @cap_phi\ud83d\ude0a ! \u2764\u2764\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #fantasy #artephemere #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "BW0QVAujgrF", 
-                "post_date": "2017-07-21 19:10:06", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834499359130859, 
                     45.775270368338134
                 ]
@@ -2144,6 +2107,43 @@
                 "authorid": "1222751817", 
                 "instagramcode": "BWkFZgFBuFe", 
                 "post_date": "2017-07-15 12:26:45", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832149744033814, 
+                    45.778314031806644
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BW0QVAujgrF", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1563946783238654661", 
+                "timestamp": 1500657006, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.125.1080.1080/20184650_325775734516450_8289190300350414848_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1500657006, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184650_325775734516450_8289190300350414848_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1563946783238654661"
+                }, 
+                "caption": "Et de trois ! Death (Beauty) Queen by @cap_phi\ud83d\ude0a ! \u2764\u2764\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #fantasy #artephemere #beauty", 
+                "authorid": "2876693898", 
+                "instagramcode": "BW0QVAujgrF", 
+                "post_date": "2017-07-21 19:10:06", 
                 "validated": true
             }
         }, 
