@@ -11,39 +11,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6574c4018b76257fbc1e00fc3e693303/5BDC528E/t51.2885-15/e35/36868606_247303942752095_2270615103336349696_n.jpg?_nc_eui2=AeEymfVHECSLtq-jPIBr6eprhmUlUhF9XRhiA2L8qg5ZPzVAX4X_V4dnQe0tawcSqrI-BsuaKvoIu9sZNDFzRHho", 
-                "originally_localized": true, 
-                "author": "__hungryeyes__", 
-                "instagramid": "1829758616455646301", 
-                "timestamp": 1532344246, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c7e5d28096180f9ae12bf933f2a46e95/5BDC61E1/t51.2885-15/sh0.08/e35/c188.0.703.703/s640x640/36868606_247303942752095_2270615103336349696_n.jpg?_nc_eui2=AeEymfVHECSLtq-jPIBr6eprhmUlUhF9XRhiA2L8qg5ZPzVAX4X_V4dnQe0tawcSqrI-BsuaKvoIu9sZNDFzRHho", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "__hungryeyes__", 
-                    "timestamp": 1532344246, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a6d8b8e5631b619b5b9b87160c3b2067/5BDC528E/t51.2885-15/e35/36868606_247303942752095_2270615103336349696_n.jpg", 
-                    "authorid": "4615015196", 
-                    "location": null, 
-                    "id": "1829758616455646301"
-                }, 
-                "caption": "[...]\n.\n#streetart #streetartlyon #lyon #croixrousse #capphi #spraying #fatcap", 
-                "authorid": "4615015196", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-23/1829758616455646301_4615015196.json", 
-                "instagramcode": "Blkm8RmjIxd", 
-                "post_date": "2018-07-23 13:10:46", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5c11456d2b5b8fbc747ba6642d2029e3/5C079992/t51.2885-15/e35/37950017_233320530857037_5682045624401264640_n.jpg", 
                 "originally_localized": true, 
                 "author": "siliceinlyon", 
@@ -353,6 +320,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-23/1829711113053034895_37664964.json", 
                 "instagramcode": "BlkcJAnHFmP", 
                 "post_date": "2018-07-23 11:36:23", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6574c4018b76257fbc1e00fc3e693303/5BDC528E/t51.2885-15/e35/36868606_247303942752095_2270615103336349696_n.jpg?_nc_eui2=AeEymfVHECSLtq-jPIBr6eprhmUlUhF9XRhiA2L8qg5ZPzVAX4X_V4dnQe0tawcSqrI-BsuaKvoIu9sZNDFzRHho", 
+                "originally_localized": true, 
+                "author": "__hungryeyes__", 
+                "instagramid": "1829758616455646301", 
+                "timestamp": 1532344246, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c7e5d28096180f9ae12bf933f2a46e95/5BDC61E1/t51.2885-15/sh0.08/e35/c188.0.703.703/s640x640/36868606_247303942752095_2270615103336349696_n.jpg?_nc_eui2=AeEymfVHECSLtq-jPIBr6eprhmUlUhF9XRhiA2L8qg5ZPzVAX4X_V4dnQe0tawcSqrI-BsuaKvoIu9sZNDFzRHho", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "__hungryeyes__", 
+                    "timestamp": 1532344246, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a6d8b8e5631b619b5b9b87160c3b2067/5BDC528E/t51.2885-15/e35/36868606_247303942752095_2270615103336349696_n.jpg", 
+                    "authorid": "4615015196", 
+                    "location": null, 
+                    "id": "1829758616455646301"
+                }, 
+                "caption": "[...]\n.\n#streetart #streetartlyon #lyon #croixrousse #capphi #spraying #fatcap", 
+                "authorid": "4615015196", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-23/1829758616455646301_4615015196.json", 
+                "instagramcode": "Blkm8RmjIxd", 
+                "post_date": "2018-07-23 13:10:46", 
                 "validated": false
             }
         }, 
