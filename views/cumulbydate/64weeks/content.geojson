@@ -2879,26 +2879,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831554293632507, 
-                    45.770565177519785
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-25 17:00:23", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18722250_434738140237678_442650865807917056_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUhd59thZdH/", 
-                "caption": "Toujours 5.0 #bombe #fire #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1522629675648915271_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8317018151283255, 
                     45.76962596268214
                 ]
