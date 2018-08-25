@@ -1130,27 +1130,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834553003311158, 
-                    45.76940518877118
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-09 12:35:20", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008022_383160695472164_2032404015098101760_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bce097WADz1/", 
-                "caption": "#belle ou #b\u00eate  une #dualit\u00e9 comme je les aime #collage #streetart #capphi #urbanart #hearts #flowers #skull", 
-                "validated": true, 
-                "id": "1666001866200202485_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833297729492188, 
                     45.77602054298497
                 ]
@@ -1166,6 +1145,27 @@
                 "caption": "Ma #derni\u00e8re #petite #amazone je retourne aux #monstres #capphi #streetart #urbanart #lyon #croixrousse", 
                 "validated": true, 
                 "id": "1668689046320397725_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834553003311158, 
+                    45.76940518877118
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-09 12:35:20", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008022_383160695472164_2032404015098101760_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bce097WADz1/", 
+                "caption": "#belle ou #b\u00eate  une #dualit\u00e9 comme je les aime #collage #streetart #capphi #urbanart #hearts #flowers #skull", 
+                "validated": true, 
+                "id": "1666001866200202485_29177514"
             }
         }, 
         {
@@ -1942,38 +1942,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8191142082214355, 
-                    45.727004151632755
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWkFZgFBuFe", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1559395113640583518", 
-                "timestamp": 1500114405, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19984374_240830526435808_5455350322736136192_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1500114405, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984374_240830526435808_5455350322736136192_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1559395113640583518"
-                }, 
-                "caption": "La belle amazone de @cap_phi \n#capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #collage", 
-                "authorid": "1222751817", 
-                "instagramcode": "BWkFZgFBuFe", 
-                "post_date": "2017-07-15 12:26:45", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832611083984376, 
                     45.759656588250984
                 ]
@@ -2188,6 +2156,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8191142082214355, 
+                    45.727004151632755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWkFZgFBuFe", 
+                "originally_localized": true, 
+                "author": "streetart_lyon", 
+                "instagramid": "1559395113640583518", 
+                "timestamp": 1500114405, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19984374_240830526435808_5455350322736136192_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "streetart_lyon", 
+                    "timestamp": 1500114405, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984374_240830526435808_5455350322736136192_n.jpg", 
+                    "authorid": "1222751817", 
+                    "location": null, 
+                    "id": "1559395113640583518"
+                }, 
+                "caption": "La belle amazone de @cap_phi \n#capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #collage", 
+                "authorid": "1222751817", 
+                "instagramcode": "BWkFZgFBuFe", 
+                "post_date": "2017-07-15 12:26:45", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.832718372344972, 
                     45.77638346674811
                 ]
@@ -2324,43 +2324,6 @@
                 "authorid": "54122886", 
                 "instagramcode": "BWRp9lyAzsn", 
                 "post_date": "2017-07-08 08:40:41", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.83449935913086, 
-                    45.77626373958218
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVt6TXXhR7g", 
-                "originally_localized": true, 
-                "author": "h.lna", 
-                "instagramid": "1544146664716312288", 
-                "timestamp": 1498296648, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19429229_1702745633072143_4642852577459830784_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "h.lna", 
-                    "timestamp": 1498296648, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19429229_1702745633072143_4642852577459830784_n.jpg", 
-                    "authorid": "1413198960", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1544146664716312288"
-                }, 
-                "caption": "#streetart by #capphi #streetartiseverywhere #unicorn #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
-                "authorid": "1413198960", 
-                "instagramcode": "BVt6TXXhR7g", 
-                "post_date": "2017-06-24 11:30:48", 
                 "validated": true
             }
         }

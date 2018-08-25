@@ -1130,27 +1130,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834553003311158, 
-                    45.76940518877118
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-09 12:35:20", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008022_383160695472164_2032404015098101760_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bce097WADz1/", 
-                "caption": "#belle ou #b\u00eate  une #dualit\u00e9 comme je les aime #collage #streetart #capphi #urbanart #hearts #flowers #skull", 
-                "validated": true, 
-                "id": "1666001866200202485_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833297729492188, 
                     45.77602054298497
                 ]
@@ -1166,6 +1145,27 @@
                 "caption": "Ma #derni\u00e8re #petite #amazone je retourne aux #monstres #capphi #streetart #urbanart #lyon #croixrousse", 
                 "validated": true, 
                 "id": "1668689046320397725_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834553003311158, 
+                    45.76940518877118
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-09 12:35:20", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008022_383160695472164_2032404015098101760_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bce097WADz1/", 
+                "caption": "#belle ou #b\u00eate  une #dualit\u00e9 comme je les aime #collage #streetart #capphi #urbanart #hearts #flowers #skull", 
+                "validated": true, 
+                "id": "1666001866200202485_29177514"
             }
         }, 
         {
@@ -1936,38 +1936,6 @@
                 "caption": "#5 #deathqueen #petite #amazone #streetartlyon #urbanartist #capphi #croixrousse #kawaii #collage #urbain #araign\u00e9e #fleurs", 
                 "validated": true, 
                 "id": "1561600158817555943_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8191142082214355, 
-                    45.727004151632755
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWkFZgFBuFe", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1559395113640583518", 
-                "timestamp": 1500114405, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19984374_240830526435808_5455350322736136192_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1500114405, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19984374_240830526435808_5455350322736136192_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1559395113640583518"
-                }, 
-                "caption": "La belle amazone de @cap_phi \n#capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #collage", 
-                "authorid": "1222751817", 
-                "instagramcode": "BWkFZgFBuFe", 
-                "post_date": "2017-07-15 12:26:45", 
-                "validated": true
             }
         }, 
         {
