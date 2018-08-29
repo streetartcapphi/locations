@@ -327,44 +327,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8287408, 
-                    45.7766432
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e163e287a39c011fba2a6519c87e37d8/5BD60976/t51.2885-15/e35/35616955_275400779879815_4219696881741070336_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1815834646325148909", 
-                "timestamp": 1530684379, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6ae9e9e70a19079fb275f52e6df4884d/5BC82017/t51.2885-15/s640x640/sh0.08/e35/35616955_275400779879815_4219696881741070336_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1530684379, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e163e287a39c011fba2a6519c87e37d8/5BD60976/t51.2885-15/e35/35616955_275400779879815_4219696881741070336_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1815834646325148909"
-                }, 
-                "caption": "Quatre !\nMerci @cap_phi \u2764\ud83d\udc4c\ud83d\ude0d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #monster #monstre #capphi #nofilter #jeudepiste", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-04/1815834646325148909_2876693898.json", 
-                "instagramcode": "BkzI_15Drzt", 
-                "post_date": "2018-07-04 08:06:19", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -931,6 +893,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-21/1806649793097217828_8011157754.json", 
                 "instagramcode": "BkSgmovF7ck", 
                 "post_date": "2018-06-21 15:57:40", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e163e287a39c011fba2a6519c87e37d8/5BD60976/t51.2885-15/e35/35616955_275400779879815_4219696881741070336_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1815834646325148909", 
+                "timestamp": 1530684379, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6ae9e9e70a19079fb275f52e6df4884d/5BC82017/t51.2885-15/s640x640/sh0.08/e35/35616955_275400779879815_4219696881741070336_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1530684379, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e163e287a39c011fba2a6519c87e37d8/5BD60976/t51.2885-15/e35/35616955_275400779879815_4219696881741070336_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1815834646325148909"
+                }, 
+                "caption": "Quatre !\nMerci @cap_phi \u2764\ud83d\udc4c\ud83d\ude0d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #monster #monstre #capphi #nofilter #jeudepiste", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-04/1815834646325148909_2876693898.json", 
+                "instagramcode": "BkzI_15Drzt", 
+                "post_date": "2018-07-04 08:06:19", 
                 "validated": false
             }
         }, 
