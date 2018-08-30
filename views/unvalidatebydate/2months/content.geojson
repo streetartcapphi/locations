@@ -180,44 +180,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83050286769867, 
-                    45.771981453653225
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82810da9ecc962290a4c4e7792f30716/5BA7A434/t51.2885-15/e35/33095235_1923965147894756_4145368448299433984_n.jpg", 
-                "originally_localized": true, 
-                "author": "graphull_____", 
-                "instagramid": "1796277466714988198", 
-                "timestamp": 1528352982, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/25d1f86410be13248e347739ba75f4af/5BA49A1E/t51.2885-15/s640x640/sh0.08/e35/33095235_1923965147894756_4145368448299433984_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "graphull_____", 
-                    "timestamp": 1528352982, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82810da9ecc962290a4c4e7792f30716/5BA7A434/t51.2885-15/e35/33095235_1923965147894756_4145368448299433984_n.jpg", 
-                    "authorid": "7001793922", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1796277466714988198"
-                }, 
-                "caption": "Par @cap_phi #streetart #streetartlyon #streetartcroixrousse #artderue #arturbain #urbanart #interditdinterdire #panneaux #sensinterdit #capphi #monstres", 
-                "authorid": "7001793922", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-07/1796277466714988198_7001793922.json", 
-                "instagramcode": "BjtqNbBld6m", 
-                "post_date": "2018-06-07 08:29:42", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8182880878448495, 
                     45.72661282058071
                 ]
