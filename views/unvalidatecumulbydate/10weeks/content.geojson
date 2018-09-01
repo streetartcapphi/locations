@@ -882,44 +882,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/467428e938e9c5213223e93f0dfae077/5BAFDC18/t51.2885-15/e35/34710532_1455850237892010_6970636375565533184_n.jpg", 
-                "originally_localized": true, 
-                "author": "marionh24fit", 
-                "instagramid": "1808255233703028405", 
-                "timestamp": 1529780843, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/026a3764adfee40e67f60d38f23a81db/5BB05632/t51.2885-15/s640x640/sh0.08/e35/34710532_1455850237892010_6970636375565533184_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "marionh24fit", 
-                    "timestamp": 1529780843, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/467428e938e9c5213223e93f0dfae077/5BAFDC18/t51.2885-15/e35/34710532_1455850237892010_6970636375565533184_n.jpg", 
-                    "authorid": "2370477718", 
-                    "location": {
-                        "slug": "superposition", 
-                        "has_public_page": true, 
-                        "name": "Superposition", 
-                        "id": "432660843863347"
-                    }, 
-                    "id": "1808255233703028405"
-                }, 
-                "caption": "#graff #graffiti #lyon #perrache #croixrousse #galerie #vernissage #urbain  #artiste #art #artderue #streetart #loodz #capphi #mur #style #patrimoine #beaut\u00e9 #passion #m\u00e9tierdart", 
-                "authorid": "2370477718", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808255233703028405_2370477718.json", 
-                "instagramcode": "BkYNo30HCa1", 
-                "post_date": "2018-06-23 21:07:23", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.830779135227204, 
                     45.77213299494044
                 ]
@@ -1088,6 +1050,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808035481826823973_5529011003.json", 
                 "instagramcode": "BkXbrD7lw8l", 
                 "post_date": "2018-06-23 13:50:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/467428e938e9c5213223e93f0dfae077/5BAFDC18/t51.2885-15/e35/34710532_1455850237892010_6970636375565533184_n.jpg", 
+                "originally_localized": true, 
+                "author": "marionh24fit", 
+                "instagramid": "1808255233703028405", 
+                "timestamp": 1529780843, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/026a3764adfee40e67f60d38f23a81db/5BB05632/t51.2885-15/s640x640/sh0.08/e35/34710532_1455850237892010_6970636375565533184_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "marionh24fit", 
+                    "timestamp": 1529780843, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/467428e938e9c5213223e93f0dfae077/5BAFDC18/t51.2885-15/e35/34710532_1455850237892010_6970636375565533184_n.jpg", 
+                    "authorid": "2370477718", 
+                    "location": {
+                        "slug": "superposition", 
+                        "has_public_page": true, 
+                        "name": "Superposition", 
+                        "id": "432660843863347"
+                    }, 
+                    "id": "1808255233703028405"
+                }, 
+                "caption": "#graff #graffiti #lyon #perrache #croixrousse #galerie #vernissage #urbain  #artiste #art #artderue #streetart #loodz #capphi #mur #style #patrimoine #beaut\u00e9 #passion #m\u00e9tierdart", 
+                "authorid": "2370477718", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808255233703028405_2370477718.json", 
+                "instagramcode": "BkYNo30HCa1", 
+                "post_date": "2018-06-23 21:07:23", 
                 "validated": false
             }
         }, 
