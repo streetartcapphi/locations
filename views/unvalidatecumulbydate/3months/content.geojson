@@ -966,39 +966,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/baae22147d9bbfe0896cc05558c4d34d/5BAAA3FF/t51.2885-15/e35/34197592_604649229898373_4700084120485625856_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1797955994007347246", 
-                "timestamp": 1528553078, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a2b65265f017ea6f57c50f4440b17b00/5BB28D9E/t51.2885-15/s640x640/sh0.08/e35/34197592_604649229898373_4700084120485625856_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1528553078, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/baae22147d9bbfe0896cc05558c4d34d/5BAAA3FF/t51.2885-15/e35/34197592_604649229898373_4700084120485625856_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1797955994007347246"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi\nLocalisation: Mont\u00e9e Allouche\n#capphi  #collage #StreetArtlyon #france #Lyon #Art #Streetart #streetartphotography #artist #graffiti #StreetArtFrance #streetarteverywhere #graffitilyon", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-09/1797955994007347246_5529011003.json", 
-                "instagramcode": "Bjzn3NYl6Au", 
-                "post_date": "2018-06-09 16:04:38", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828603863716126, 
                     45.776652851931594
                 ]
@@ -1646,6 +1613,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-17/1781309237303314755_5529011003.json", 
                 "instagramcode": "Bi4e1BElglD", 
                 "post_date": "2018-05-17 16:50:30", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/baae22147d9bbfe0896cc05558c4d34d/5BAAA3FF/t51.2885-15/e35/34197592_604649229898373_4700084120485625856_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1797955994007347246", 
+                "timestamp": 1528553078, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a2b65265f017ea6f57c50f4440b17b00/5BB28D9E/t51.2885-15/s640x640/sh0.08/e35/34197592_604649229898373_4700084120485625856_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1528553078, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/baae22147d9bbfe0896cc05558c4d34d/5BAAA3FF/t51.2885-15/e35/34197592_604649229898373_4700084120485625856_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1797955994007347246"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi\nLocalisation: Mont\u00e9e Allouche\n#capphi  #collage #StreetArtlyon #france #Lyon #Art #Streetart #streetartphotography #artist #graffiti #StreetArtFrance #streetarteverywhere #graffitilyon", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-09/1797955994007347246_5529011003.json", 
+                "instagramcode": "Bjzn3NYl6Au", 
+                "post_date": "2018-06-09 16:04:38", 
                 "validated": false
             }
         }, 
