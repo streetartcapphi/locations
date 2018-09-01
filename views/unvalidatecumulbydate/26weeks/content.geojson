@@ -2477,44 +2477,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831664264202119, 
-                    45.75779461763869
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/53175008e65519c9c62ed402c8c0e700/5B7A9D6D/t51.2885-15/e35/31670526_193573891265280_3616925773962674176_n.jpg", 
-                "originally_localized": true, 
-                "author": "morgane_inked", 
-                "instagramid": "1772407878064086346", 
-                "timestamp": 1525507505, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/28d104b53fdabdb47b6d63e5ab7098d9/5B81EC0C/t51.2885-15/s640x640/sh0.08/e35/31670526_193573891265280_3616925773962674176_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "morgane_inked", 
-                    "timestamp": 1525507505, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/53175008e65519c9c62ed402c8c0e700/5B7A9D6D/t51.2885-15/e35/31670526_193573891265280_3616925773962674176_n.jpg", 
-                    "authorid": "317430393", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1772407878064086346"
-                }, 
-                "caption": "Street art in Lyon #streetart #lyonstreetart #lyonstreet #lyon #onlylyon #monlyon #art #capphi", 
-                "authorid": "317430393", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-05/1772407878064086346_317430393.json", 
-                "instagramcode": "BiY25MRHR1K", 
-                "post_date": "2018-05-05 10:05:05", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832037091255189, 
                     45.75804912181041
                 ]
@@ -2622,6 +2584,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-01/1769782944182641869_6251084249.json", 
                 "instagramcode": "BiPiDYFjSTN", 
                 "post_date": "2018-05-01 19:09:49", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831664264202119, 
+                    45.75779461763869
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/53175008e65519c9c62ed402c8c0e700/5B7A9D6D/t51.2885-15/e35/31670526_193573891265280_3616925773962674176_n.jpg", 
+                "originally_localized": true, 
+                "author": "morgane_inked", 
+                "instagramid": "1772407878064086346", 
+                "timestamp": 1525507505, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/28d104b53fdabdb47b6d63e5ab7098d9/5B81EC0C/t51.2885-15/s640x640/sh0.08/e35/31670526_193573891265280_3616925773962674176_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "morgane_inked", 
+                    "timestamp": 1525507505, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/53175008e65519c9c62ed402c8c0e700/5B7A9D6D/t51.2885-15/e35/31670526_193573891265280_3616925773962674176_n.jpg", 
+                    "authorid": "317430393", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1772407878064086346"
+                }, 
+                "caption": "Street art in Lyon #streetart #lyonstreetart #lyonstreet #lyon #onlylyon #monlyon #art #capphi", 
+                "authorid": "317430393", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-05/1772407878064086346_317430393.json", 
+                "instagramcode": "BiY25MRHR1K", 
+                "post_date": "2018-05-05 10:05:05", 
                 "validated": false
             }
         }, 
