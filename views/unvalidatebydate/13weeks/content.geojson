@@ -185,44 +185,6 @@
                 "post_date": "2018-05-28 23:02:32", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.828687012195587, 
-                    45.77675200031732
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/17007b7439d2614782416dde3d5f3e98/5BBDBF04/t51.2885-15/e35/32748734_190712394814912_4691004164484890624_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1789126303158741218", 
-                "timestamp": 1527500497, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4e084e85f707ea15565a242ab95c436c/5B8F6365/t51.2885-15/s640x640/sh0.08/e35/32748734_190712394814912_4691004164484890624_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527500497, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/17007b7439d2614782416dde3d5f3e98/5BBDBF04/t51.2885-15/e35/32748734_190712394814912_4691004164484890624_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1789126303158741218"
-                }, 
-                "caption": "D\u00e9j\u00e0 bien d\u00e9t\u00e9rior\u00e9 celui-ci. C'est dommage il est super r\u00e9cent. \ud83d\ude10\ud83d\ude27\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-28/1789126303158741218_10561354.json", 
-                "instagramcode": "BjUQOS-Faji", 
-                "post_date": "2018-05-28 11:41:37", 
-                "validated": false
-            }
         }
     ]
 }
