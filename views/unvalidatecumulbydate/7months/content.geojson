@@ -3144,39 +3144,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8188f9096ce6f07beb22bde59769ad52/5B593DBA/t51.2885-15/e35/26431871_156971244957545_3143786464328810496_n.jpg", 
-                "originally_localized": true, 
-                "author": "nat_streetart", 
-                "instagramid": "1698453859109643827", 
-                "timestamp": 1516691499, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/60d9e9b00216295c351f4884b13aea92/5B75FF1A/t51.2885-15/s640x640/sh0.08/e35/c134.0.811.811/26431871_156971244957545_3143786464328810496_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "nat_streetart", 
-                    "timestamp": 1516691499, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8188f9096ce6f07beb22bde59769ad52/5B593DBA/t51.2885-15/e35/26431871_156971244957545_3143786464328810496_n.jpg", 
-                    "authorid": "3319426304", 
-                    "location": null, 
-                    "id": "1698453859109643827"
-                }, 
-                "caption": "Et de 5 ....Artiste @cap_phi...\ud83d\udcab\u2022\t#streetartist #streetart #streetartlyon #urbanart #urbanartist  #streetarteverywhere #streetartworld  #lyon #onlylyon  #croixrousse # #urbanwalls #collage #stencil  #graffiti #pasteup #monstre #monster #graffitilyon #dent # #capphi #coeur #sourire #smile #tooth #monstre #streetstyle #instart #petitesouris #theeth", 
-                "authorid": "3319426304", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-23/1698453859109643827_3319426304.json", 
-                "instagramcode": "BeSHsk7nyYz", 
-                "post_date": "2018-01-23 08:11:39", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f09e0a87e85fbaf4bd0f7b5fbd4894c5/5B754A0F/t51.2885-15/e35/28151008_1167935629975546_5546425087067947008_n.jpg", 
                 "originally_localized": true, 
                 "author": "garzaf69", 
