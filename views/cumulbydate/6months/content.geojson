@@ -296,43 +296,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831677675247192, 
-                    45.76952867259179
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b81c949f59b39c140b3e1aeffda2e541/5B69AF1F/t51.2885-15/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1742967213277421962", 
-                "timestamp": 1521997904, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3f8f4a84e6a96587f5c03323bbc9d2bd/5B5E7435/t51.2885-15/s640x640/sh0.08/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1521997904, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b81c949f59b39c140b3e1aeffda2e541/5B69AF1F/t51.2885-15/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1742967213277421962"
-                }, 
-                "caption": "Un peu de jaune, de bleu, de vert, d'orange et vous avez une tr\u00e8s belle amazone sign\u00e9 @cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "instagramcode": "BgwQ3IijaGK", 
-                "post_date": "2018-03-25 19:11:44", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83372688293457, 
                     45.764948362449445
                 ]
@@ -442,6 +405,43 @@
                 "authorid": "810473762", 
                 "instagramcode": "Bf7xw4YFCGX", 
                 "post_date": "2018-03-05 08:59:30", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831677675247192, 
+                    45.76952867259179
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b81c949f59b39c140b3e1aeffda2e541/5B69AF1F/t51.2885-15/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1742967213277421962", 
+                "timestamp": 1521997904, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3f8f4a84e6a96587f5c03323bbc9d2bd/5B5E7435/t51.2885-15/s640x640/sh0.08/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1521997904, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b81c949f59b39c140b3e1aeffda2e541/5B69AF1F/t51.2885-15/e35/29087746_1975810999113761_9062965458004606976_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1742967213277421962"
+                }, 
+                "caption": "Un peu de jaune, de bleu, de vert, d'orange et vous avez une tr\u00e8s belle amazone sign\u00e9 @cap_phi #capphi #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
+                "authorid": "37664964", 
+                "instagramcode": "BgwQ3IijaGK", 
+                "post_date": "2018-03-25 19:11:44", 
                 "validated": true
             }
         }
