@@ -114,6 +114,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.830527007579804, 
+                    45.77225647272189
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/faea03f2b52a247986d5e8377024ea5d/5BB47829/t51.2885-15/e35/33858123_252684468641274_4797901644169740288_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1798643776254422688", 
+                "timestamp": 1528635068, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c5b34a1f429a64ed4b205154290e3149/5B9EF448/t51.2885-15/s640x640/sh0.08/e35/33858123_252684468641274_4797901644169740288_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1528635068, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/faea03f2b52a247986d5e8377024ea5d/5BB47829/t51.2885-15/e35/33858123_252684468641274_4797901644169740288_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1798643776254422688"
+                }, 
+                "caption": "SANS INTERDIT \ud83d\ude09\nUn gros coup de pouce de @olivier_croixroussien m'a permis de trouver ce @cap_phi. Je n'ai jamais eu autant envie de piquer un panneau \ud83d\ude01\ud83d\ude0d\u2764\ud83d\udc4c\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #sansinterdit #monster #monstre #capphi", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-10/1798643776254422688_2876693898.json", 
+                "instagramcode": "Bj2EPwhHK6g", 
+                "post_date": "2018-06-10 14:51:08", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
