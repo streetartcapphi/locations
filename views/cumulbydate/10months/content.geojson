@@ -634,38 +634,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.817655086517335, 
-                    45.72564103448472
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/973f784906e7478009ddfe7be05afebd/5B649A5B/t51.2885-15/e35/26278827_346114752461053_424702227542704128_n.jpg", 
-                "originally_localized": true, 
-                "author": "vv_street", 
-                "instagramid": "1703938938748944827", 
-                "timestamp": 1517345372, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/814ba7032a82ed92c4186db288f41686/5B61ACCE/t51.2885-15/s640x640/sh0.08/e35/26278827_346114752461053_424702227542704128_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "vv_street", 
-                    "timestamp": 1517345372, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/973f784906e7478009ddfe7be05afebd/5B649A5B/t51.2885-15/e35/26278827_346114752461053_424702227542704128_n.jpg", 
-                    "authorid": "363991452", 
-                    "location": null, 
-                    "id": "1703938938748944827"
-                }, 
-                "caption": "Archive. Artist : @cap_phi \u2022\n\u2022\n#capphi #streetart #urbanart #artwork #streetartlyon #lyon #lespentes #monster #petitsmonstres #collage #streetartphotography #streetphotography #streetphoto #iphone #drawingart #drawing", 
-                "authorid": "363991452", 
-                "instagramcode": "Belm2_bFkG7", 
-                "post_date": "2018-01-30 21:49:32", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8315167427063, 
                     45.769985186161065
                 ]
@@ -1028,6 +996,38 @@
                 "authorid": "2876693898", 
                 "instagramcode": "Bd0dMo_DJcn", 
                 "post_date": "2018-01-11 19:42:19", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.817655086517335, 
+                    45.72564103448472
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/973f784906e7478009ddfe7be05afebd/5B649A5B/t51.2885-15/e35/26278827_346114752461053_424702227542704128_n.jpg", 
+                "originally_localized": true, 
+                "author": "vv_street", 
+                "instagramid": "1703938938748944827", 
+                "timestamp": 1517345372, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/814ba7032a82ed92c4186db288f41686/5B61ACCE/t51.2885-15/s640x640/sh0.08/e35/26278827_346114752461053_424702227542704128_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vv_street", 
+                    "timestamp": 1517345372, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/973f784906e7478009ddfe7be05afebd/5B649A5B/t51.2885-15/e35/26278827_346114752461053_424702227542704128_n.jpg", 
+                    "authorid": "363991452", 
+                    "location": null, 
+                    "id": "1703938938748944827"
+                }, 
+                "caption": "Archive. Artist : @cap_phi \u2022\n\u2022\n#capphi #streetart #urbanart #artwork #streetartlyon #lyon #lespentes #monster #petitsmonstres #collage #streetartphotography #streetphotography #streetphoto #iphone #drawingart #drawing", 
+                "authorid": "363991452", 
+                "instagramcode": "Belm2_bFkG7", 
+                "post_date": "2018-01-30 21:49:32", 
                 "validated": true
             }
         }, 
