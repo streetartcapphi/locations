@@ -137,6 +137,105 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4841839a0ecd009d5e3edeede8a6df50/5B606539/t51.2885-15/e35/26072414_158369941462149_616130418869010432_n.jpg", 
+                "originally_localized": true, 
+                "author": "vdfdesordre", 
+                "instagramid": "1688590156543727390", 
+                "timestamp": 1515515654, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4841839a0ecd009d5e3edeede8a6df50/5B606539/t51.2885-15/e35/26072414_158369941462149_616130418869010432_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vdfdesordre", 
+                    "timestamp": 1515515654, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4841839a0ecd009d5e3edeede8a6df50/5B606539/t51.2885-15/e35/26072414_158369941462149_616130418869010432_n.jpg", 
+                    "authorid": "2000926026", 
+                    "location": null, 
+                    "id": "1688590156543727390"
+                }, 
+                "caption": "By @cap_phi\n.\n.\n#streetart #art #artderue #arturbain #urbanart #graffiti #graffart #graff #welovestreetart #painting #wall #artiste #artwork #graffitiporn #graffity #spraypaint #paint #capphi #lyon #onlylyon #monlyon #lovelyon #igerslyon #streetstyle #instagood #streephotographer #urbanphotography", 
+                "authorid": "2000926026", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-09/1688590156543727390_2000926026.json", 
+                "instagramcode": "BdvE80EApce", 
+                "post_date": "2018-01-09 17:34:14", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ac125eac8a2a2f4aea252028f210b24c/5B63D3E4/t51.2885-15/e35/26154723_206898933201818_7725625500885843968_n.jpg", 
+                "originally_localized": true, 
+                "author": "vdfdesordre", 
+                "instagramid": "1688589874971675500", 
+                "timestamp": 1515515621, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0deddeca4a9ee1eca44a93e88184cbe0/5B62F379/t51.2885-15/e35/c0.0.319.319/26154723_206898933201818_7725625500885843968_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vdfdesordre", 
+                    "timestamp": 1515515621, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ac125eac8a2a2f4aea252028f210b24c/5B63D3E4/t51.2885-15/e35/26154723_206898933201818_7725625500885843968_n.jpg", 
+                    "authorid": "2000926026", 
+                    "location": null, 
+                    "id": "1688589874971675500"
+                }, 
+                "caption": "By @cap_phi\n.\n.\n#streetart #art #artderue #arturbain #urbanart #graffiti #graffart #graff #welovestreetart #painting #wall #artiste #artwork #graffitiporn #graffity #spraypaint #paint #capphi #lyon #onlylyon #monlyon #lovelyon #igerslyon #streetstyle #instagood #streephotographer #urbanphotography", 
+                "authorid": "2000926026", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-09/1688589874971675500_2000926026.json", 
+                "instagramcode": "BdvE4t1Agts", 
+                "post_date": "2018-01-09 17:33:41", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.817901849746705, 
+                    45.72629263858989
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/800d80fa47a518ad7232b8ee46f291c4/5B53B24D/t51.2885-15/e35/26067244_206169059941687_4053371232366624768_n.jpg", 
+                "originally_localized": true, 
+                "author": "vdfdesordre", 
+                "instagramid": "1688590022057498553", 
+                "timestamp": 1515515638, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/800d80fa47a518ad7232b8ee46f291c4/5B53B24D/t51.2885-15/e35/26067244_206169059941687_4053371232366624768_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "vdfdesordre", 
+                    "timestamp": 1515515638, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/800d80fa47a518ad7232b8ee46f291c4/5B53B24D/t51.2885-15/e35/26067244_206169059941687_4053371232366624768_n.jpg", 
+                    "authorid": "2000926026", 
+                    "location": null, 
+                    "id": "1688590022057498553"
+                }, 
+                "caption": "By @cap_phi\n.\n.\n#streetart #art #artderue #arturbain #urbanart #graffiti #graffart #graff #welovestreetart #painting #wall #artiste #artwork #graffitiporn #graffity #spraypaint #paint #capphi #lyon #onlylyon #monlyon #lovelyon #igerslyon #streetstyle #instagood #streephotographer #urbanphotography", 
+                "authorid": "2000926026", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-09/1688590022057498553_2000926026.json", 
+                "instagramcode": "BdvE620AZe5", 
+                "post_date": "2018-01-09 17:33:58", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818250536918641, 
                     45.72586947127188
                 ]
