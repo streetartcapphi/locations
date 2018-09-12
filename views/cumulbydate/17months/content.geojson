@@ -2758,26 +2758,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834587872028351, 
-                    45.76939583392515
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 17:08:40", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18646055_1962394077326272_3497281196415516672_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUe6Dx7hPPv/", 
-                "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521909070565798895_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832726418972015, 
                     45.777560146622704
                 ]
@@ -3273,6 +3253,26 @@
                 "caption": "#angel #skull plus tout neuf mais bien conserv\u00e9 #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521741652933493816_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834587872028351, 
+                    45.76939583392515
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-24 17:08:40", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18646055_1962394077326272_3497281196415516672_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUe6Dx7hPPv/", 
+                "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
+                "validated": true, 
+                "id": "1521909070565798895_29177514"
             }
         }
     ]
