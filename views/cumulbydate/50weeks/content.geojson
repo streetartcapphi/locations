@@ -486,43 +486,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834574460983277, 
-                    45.777603172602255
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a6d8ad674e11e48f9453783d237536d1/5B5CB509/t51.2885-15/e35/27578971_2003876726598658_1937437194352328704_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1714645032457343759", 
-                "timestamp": 1518621637, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/030c737b6772b7a4a303971f2c52c4de/5B582A23/t51.2885-15/s640x640/sh0.08/e35/27578971_2003876726598658_1937437194352328704_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1518621637, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a6d8ad674e11e48f9453783d237536d1/5B5CB509/t51.2885-15/e35/27578971_2003876726598658_1937437194352328704_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1714645032457343759"
-                }, 
-                "caption": "Ange ou d\u00e9mon vous pouvez vous aimez by @cap_phi #capphi #valentines #saintvaletin #amour #love \ud83d\udc93#walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
-                "authorid": "37664964", 
-                "instagramcode": "BfLpJKLghMP", 
-                "post_date": "2018-02-14 16:20:37", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831495285034181, 
                     45.76803188058275
                 ]
@@ -590,6 +553,43 @@
                 "authorid": "810473762", 
                 "instagramcode": "BfaT-tVleYG", 
                 "post_date": "2018-02-20 09:04:18", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834574460983277, 
+                    45.777603172602255
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a6d8ad674e11e48f9453783d237536d1/5B5CB509/t51.2885-15/e35/27578971_2003876726598658_1937437194352328704_n.jpg", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1714645032457343759", 
+                "timestamp": 1518621637, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/030c737b6772b7a4a303971f2c52c4de/5B582A23/t51.2885-15/s640x640/sh0.08/e35/27578971_2003876726598658_1937437194352328704_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1518621637, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a6d8ad674e11e48f9453783d237536d1/5B5CB509/t51.2885-15/e35/27578971_2003876726598658_1937437194352328704_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1714645032457343759"
+                }, 
+                "caption": "Ange ou d\u00e9mon vous pouvez vous aimez by @cap_phi #capphi #valentines #saintvaletin #amour #love \ud83d\udc93#walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
+                "authorid": "37664964", 
+                "instagramcode": "BfLpJKLghMP", 
+                "post_date": "2018-02-14 16:20:37", 
                 "validated": true
             }
         }, 
