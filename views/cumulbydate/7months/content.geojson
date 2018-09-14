@@ -592,43 +592,6 @@
                 "post_date": "2018-02-20 09:04:18", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.827144742012025, 
-                    45.77217041247884
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a1973d0e09f7af9d8049c5c420c8e3ce/5B70564D/t51.2885-15/e35/26866623_1791555474482121_176029488029630464_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1705722855378171009", 
-                "timestamp": 1517558031, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/fcbd705111685f7253240a653fd34036/5B5AA52C/t51.2885-15/s640x640/sh0.08/e35/26866623_1791555474482121_176029488029630464_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1517558031, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a1973d0e09f7af9d8049c5c420c8e3ce/5B70564D/t51.2885-15/e35/26866623_1791555474482121_176029488029630464_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1705722855378171009"
-                }, 
-                "caption": "By @cap_phi Amazone 2/6 #capphi #skull #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "instagramcode": "Ber8eZQFLSB", 
-                "post_date": "2018-02-02 08:53:51", 
-                "validated": true
-            }
         }
     ]
 }
