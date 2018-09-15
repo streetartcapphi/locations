@@ -958,44 +958,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828778207302094, 
-                    45.77681186340827
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e2365c4cfb6d4301ba8559bf5b7685e8/5BAE70E3/t51.2885-15/e35/35574710_401840060320624_4192832947931316224_n.jpg", 
-                "originally_localized": true, 
-                "author": "mike_fouks", 
-                "instagramid": "1808076166936195389", 
-                "timestamp": 1529759497, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9dc4af689427f8b61dfe5db117e886bd/5BBD3482/t51.2885-15/s640x640/sh0.08/e35/35574710_401840060320624_4192832947931316224_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mike_fouks", 
-                    "timestamp": 1529759497, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e2365c4cfb6d4301ba8559bf5b7685e8/5BAE70E3/t51.2885-15/e35/35574710_401840060320624_4192832947931316224_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1808076166936195389"
-                }, 
-                "caption": "Mangeons les interdits @cap_phi #capphi #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808076166936195389_37664964.json", 
-                "instagramcode": "BkXk7G5FPE9", 
-                "post_date": "2018-06-23 15:11:37", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.830779135227204, 
                     45.77213299494044
                 ]
@@ -1126,6 +1088,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808035481826823973_5529011003.json", 
                 "instagramcode": "BkXbrD7lw8l", 
                 "post_date": "2018-06-23 13:50:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.828778207302094, 
+                    45.77681186340827
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e2365c4cfb6d4301ba8559bf5b7685e8/5BAE70E3/t51.2885-15/e35/35574710_401840060320624_4192832947931316224_n.jpg", 
+                "originally_localized": true, 
+                "author": "mike_fouks", 
+                "instagramid": "1808076166936195389", 
+                "timestamp": 1529759497, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9dc4af689427f8b61dfe5db117e886bd/5BBD3482/t51.2885-15/s640x640/sh0.08/e35/35574710_401840060320624_4192832947931316224_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mike_fouks", 
+                    "timestamp": 1529759497, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e2365c4cfb6d4301ba8559bf5b7685e8/5BAE70E3/t51.2885-15/e35/35574710_401840060320624_4192832947931316224_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1808076166936195389"
+                }, 
+                "caption": "Mangeons les interdits @cap_phi #capphi #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
+                "authorid": "37664964", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808076166936195389_37664964.json", 
+                "instagramcode": "BkXk7G5FPE9", 
+                "post_date": "2018-06-23 15:11:37", 
                 "validated": false
             }
         }
