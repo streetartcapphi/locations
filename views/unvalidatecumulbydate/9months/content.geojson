@@ -3668,39 +3668,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.817622900009156, 
-                    45.724757237460835
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/da73baf32f4c7dc6fdc2e5e5f4c9949b/5B7259E2/t51.2885-15/e35/25036633_1957705647889035_1613197919765135360_n.jpg", 
-                "originally_localized": true, 
-                "author": "fgeranium69", 
-                "instagramid": "1686894496795900103", 
-                "timestamp": 1515313516, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/22ed3a6c4b01ec20cac2059c77fd5e12/5B5E83E1/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036633_1957705647889035_1613197919765135360_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "fgeranium69", 
-                    "timestamp": 1515313516, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/da73baf32f4c7dc6fdc2e5e5f4c9949b/5B7259E2/t51.2885-15/e35/25036633_1957705647889035_1613197919765135360_n.jpg", 
-                    "authorid": "2969355137", 
-                    "location": null, 
-                    "id": "1686894496795900103"
-                }, 
-                "caption": "#Repost @streetart_lyon with @instatoolsapp \u30fb\u30fb\u30fb\nNouveau monstre de @cap_phi \nA l'entr\u00e9e d'un proth\u00e8siste dentaire !!! S'xuse l'humour \ud83d\ude02\ud83d\ude02\ud83d\ude02\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #jj_urbanart #capphi", 
-                "authorid": "2969355137", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-07/1686894496795900103_2969355137.json", 
-                "instagramcode": "BdpDZt3FLjH", 
-                "post_date": "2018-01-07 09:25:16", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -3892,6 +3859,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686384218367505213_5529011003.json", 
                 "instagramcode": "BdnPYMCnrM9", 
                 "post_date": "2018-01-06 16:31:26", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.817622900009156, 
+                    45.724757237460835
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/da73baf32f4c7dc6fdc2e5e5f4c9949b/5B7259E2/t51.2885-15/e35/25036633_1957705647889035_1613197919765135360_n.jpg", 
+                "originally_localized": true, 
+                "author": "fgeranium69", 
+                "instagramid": "1686894496795900103", 
+                "timestamp": 1515313516, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/22ed3a6c4b01ec20cac2059c77fd5e12/5B5E83E1/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036633_1957705647889035_1613197919765135360_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "fgeranium69", 
+                    "timestamp": 1515313516, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/da73baf32f4c7dc6fdc2e5e5f4c9949b/5B7259E2/t51.2885-15/e35/25036633_1957705647889035_1613197919765135360_n.jpg", 
+                    "authorid": "2969355137", 
+                    "location": null, 
+                    "id": "1686894496795900103"
+                }, 
+                "caption": "#Repost @streetart_lyon with @instatoolsapp \u30fb\u30fb\u30fb\nNouveau monstre de @cap_phi \nA l'entr\u00e9e d'un proth\u00e8siste dentaire !!! S'xuse l'humour \ud83d\ude02\ud83d\ude02\ud83d\ude02\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #jj_urbanart #capphi", 
+                "authorid": "2969355137", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-07/1686894496795900103_2969355137.json", 
+                "instagramcode": "BdpDZt3FLjH", 
+                "post_date": "2018-01-07 09:25:16", 
                 "validated": false
             }
         }
