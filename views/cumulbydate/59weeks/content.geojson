@@ -703,43 +703,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831602573394776, 
-                    45.76988041288537
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d9ba0c5b8ad200cfa67ca1a9e4bab8bd/5B645F73/t51.2885-15/e35/26153162_531727393874959_6067464809744433152_n.jpg", 
-                "originally_localized": true, 
-                "author": "olivier_croixroussien", 
-                "instagramid": "1692044262348390361", 
-                "timestamp": 1515927416, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b0c586e8e61a061bdc21b051f7bbf315/5B56B612/t51.2885-15/s640x640/sh0.08/e35/26153162_531727393874959_6067464809744433152_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "olivier_croixroussien", 
-                    "timestamp": 1515927416, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d9ba0c5b8ad200cfa67ca1a9e4bab8bd/5B645F73/t51.2885-15/e35/26153162_531727393874959_6067464809744433152_n.jpg", 
-                    "authorid": "6251084249", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1692044262348390361"
-                }, 
-                "caption": "Passage oblig\u00e9 dans les pentes by @cap_phi \ud83d\udc4d..#pentesdelacroixrousse #xrousse #lyon1 #lyon1er #croixrousse #lyon #mylyon #monlyon #lyongraffiti #lyongraff #streetartlyonnais #streetartlyon #capphi #collage #french #france #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #street #urban #artderue #graffiticulture", 
-                "authorid": "6251084249", 
-                "instagramcode": "Bd7WUqxg3_Z", 
-                "post_date": "2018-01-14 11:56:56", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -907,6 +870,43 @@
                 "authorid": "2876693898", 
                 "instagramcode": "Bd1lnYrjriV", 
                 "post_date": "2018-01-12 06:15:07", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831602573394776, 
+                    45.76988041288537
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d9ba0c5b8ad200cfa67ca1a9e4bab8bd/5B645F73/t51.2885-15/e35/26153162_531727393874959_6067464809744433152_n.jpg", 
+                "originally_localized": true, 
+                "author": "olivier_croixroussien", 
+                "instagramid": "1692044262348390361", 
+                "timestamp": 1515927416, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b0c586e8e61a061bdc21b051f7bbf315/5B56B612/t51.2885-15/s640x640/sh0.08/e35/26153162_531727393874959_6067464809744433152_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "olivier_croixroussien", 
+                    "timestamp": 1515927416, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d9ba0c5b8ad200cfa67ca1a9e4bab8bd/5B645F73/t51.2885-15/e35/26153162_531727393874959_6067464809744433152_n.jpg", 
+                    "authorid": "6251084249", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1692044262348390361"
+                }, 
+                "caption": "Passage oblig\u00e9 dans les pentes by @cap_phi \ud83d\udc4d..#pentesdelacroixrousse #xrousse #lyon1 #lyon1er #croixrousse #lyon #mylyon #monlyon #lyongraffiti #lyongraff #streetartlyonnais #streetartlyon #capphi #collage #french #france #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #street #urban #artderue #graffiticulture", 
+                "authorid": "6251084249", 
+                "instagramcode": "Bd7WUqxg3_Z", 
+                "post_date": "2018-01-14 11:56:56", 
                 "validated": true
             }
         }, 
