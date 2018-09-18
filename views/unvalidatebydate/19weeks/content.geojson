@@ -5,44 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832222163677216, 
-                    45.757803974430274
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9df3f04a6cc09b0f898bf6f7d7e7000e/5B97F3CD/t51.2885-15/e35/30920499_2088486608140639_5516964957196910592_n.jpg", 
-                "originally_localized": true, 
-                "author": "olivier_croixroussien", 
-                "instagramid": "1769782944182641869", 
-                "timestamp": 1525194589, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/95292dc775f7f012417e34ef39d897c5/5B9D37E7/t51.2885-15/s640x640/sh0.08/e35/30920499_2088486608140639_5516964957196910592_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "olivier_croixroussien", 
-                    "timestamp": 1525194589, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9df3f04a6cc09b0f898bf6f7d7e7000e/5B97F3CD/t51.2885-15/e35/30920499_2088486608140639_5516964957196910592_n.jpg", 
-                    "authorid": "6251084249", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1769782944182641869"
-                }, 
-                "caption": "Collab by @cap_phi and @ghostsurfer69 il est temps de le poster y'a moins de monde dessus \ud83e\udd23 #lyon #lyongraffiti #lyongraff #streetartlyonnais #streetartlyon #xrousse #capphi #ghostsurfer", 
-                "authorid": "6251084249", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-01/1769782944182641869_6251084249.json", 
-                "instagramcode": "BiPiDYFjSTN", 
-                "post_date": "2018-05-01 19:09:49", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831664264202119, 
                     45.75779461763869
                 ]
