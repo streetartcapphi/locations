@@ -2477,44 +2477,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828788936138154, 
-                    45.77669774933565
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3889e6b0378944b520ee597545f517c7/5B7E7467/t51.2885-15/e35/30855648_950643578470634_2646793765326422016_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1769732856358896610", 
-                "timestamp": 1525188618, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9bf9629ae218c302401350fa6078ed86/5B94E506/t51.2885-15/s640x640/sh0.08/e35/30855648_950643578470634_2646793765326422016_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1525188618, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3889e6b0378944b520ee597545f517c7/5B7E7467/t51.2885-15/e35/30855648_950643578470634_2646793765326422016_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1769732856358896610"
-                }, 
-                "caption": "Gremlin :\"rhhhaaannn j'adoooore, c'est celui que tu m'as montr\u00e9 sur ton t\u00e9l\u00e9phone ! Je peux le prendre ?\"\nMoi :\"\u00e7a va pas non ? C'est fait pour que tout monde en profite ! Pas touche\"\nGremlin :\"bon ben tu peux pas conna\u00eetre le monsieur  comme \u00e7a tu lui en ach\u00e8tes un ?\" Gremlin, 7 ans et demi, fan de @cap_phi comme sa maman \u2764\ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #nofilter  #TV_Streetart #sticker #autocollant #sansinterdit #sensinterdit #capphi #monster", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-01/1769732856358896610_2876693898.json", 
-                "instagramcode": "BiPWqgKnAPi", 
-                "post_date": "2018-05-01 17:30:18", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832222163677216, 
                     45.757803974430274
                 ]
@@ -2655,6 +2617,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-24/1764703956922457293_3432192446.json", 
                 "instagramcode": "Bh9fOYmFtzN", 
                 "post_date": "2018-04-24 18:58:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.828788936138154, 
+                    45.77669774933565
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3889e6b0378944b520ee597545f517c7/5B7E7467/t51.2885-15/e35/30855648_950643578470634_2646793765326422016_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1769732856358896610", 
+                "timestamp": 1525188618, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9bf9629ae218c302401350fa6078ed86/5B94E506/t51.2885-15/s640x640/sh0.08/e35/30855648_950643578470634_2646793765326422016_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1525188618, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3889e6b0378944b520ee597545f517c7/5B7E7467/t51.2885-15/e35/30855648_950643578470634_2646793765326422016_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1769732856358896610"
+                }, 
+                "caption": "Gremlin :\"rhhhaaannn j'adoooore, c'est celui que tu m'as montr\u00e9 sur ton t\u00e9l\u00e9phone ! Je peux le prendre ?\"\nMoi :\"\u00e7a va pas non ? C'est fait pour que tout monde en profite ! Pas touche\"\nGremlin :\"bon ben tu peux pas conna\u00eetre le monsieur  comme \u00e7a tu lui en ach\u00e8tes un ?\" Gremlin, 7 ans et demi, fan de @cap_phi comme sa maman \u2764\ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #nofilter  #TV_Streetart #sticker #autocollant #sansinterdit #sensinterdit #capphi #monster", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-01/1769732856358896610_2876693898.json", 
+                "instagramcode": "BiPWqgKnAPi", 
+                "post_date": "2018-05-01 17:30:18", 
                 "validated": false
             }
         }, 
