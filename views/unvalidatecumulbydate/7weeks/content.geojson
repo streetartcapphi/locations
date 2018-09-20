@@ -82,6 +82,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1cf36039c29e9f9534ea80abecd1508e/5C11CA78/t51.2885-15/e35/37933168_1460282670784609_5150769165002342400_n.jpg", 
+                "originally_localized": true, 
+                "author": "streetart_lyon", 
+                "instagramid": "1840606299165679536", 
+                "timestamp": 1533637390, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d2212e48331ce3f16cd716897f30ea22/5BED2DC2/t51.2885-15/sh0.08/e35/s640x640/37933168_1460282670784609_5150769165002342400_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "streetart_lyon", 
+                    "timestamp": 1533637390, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1cf36039c29e9f9534ea80abecd1508e/5C11CA78/t51.2885-15/e35/37933168_1460282670784609_5150769165002342400_n.jpg", 
+                    "authorid": "1222751817", 
+                    "location": null, 
+                    "id": "1840606299165679536"
+                }, 
+                "caption": "@cap_phi \n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #capphi", 
+                "authorid": "1222751817", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-07/1840606299165679536_1222751817.json", 
+                "instagramcode": "BmLJa1ZHd-w", 
+                "post_date": "2018-08-07 12:23:10", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/eb2b9a395470e9897957c6d0b1b305ac/5C1023E1/t51.2885-15/e35/37645781_1068520079975678_5536637183017877504_n.jpg", 
                 "originally_localized": true, 
                 "author": "fellassari", 
@@ -107,39 +140,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-02/1836971556121476376_6832502255.json", 
                 "instagramcode": "Bl-O-XJHf0Y", 
                 "post_date": "2018-08-02 12:01:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1cf36039c29e9f9534ea80abecd1508e/5C11CA78/t51.2885-15/e35/37933168_1460282670784609_5150769165002342400_n.jpg", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1840606299165679536", 
-                "timestamp": 1533637390, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d2212e48331ce3f16cd716897f30ea22/5BED2DC2/t51.2885-15/sh0.08/e35/s640x640/37933168_1460282670784609_5150769165002342400_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1533637390, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1cf36039c29e9f9534ea80abecd1508e/5C11CA78/t51.2885-15/e35/37933168_1460282670784609_5150769165002342400_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1840606299165679536"
-                }, 
-                "caption": "@cap_phi \n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #capphi", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-07/1840606299165679536_1222751817.json", 
-                "instagramcode": "BmLJa1ZHd-w", 
-                "post_date": "2018-08-07 12:23:10", 
                 "validated": false
             }
         }
