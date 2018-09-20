@@ -750,43 +750,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831548929214478, 
-                    45.769985186161065
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/30153504e3931e55ae295a81f2358cd1/5B71AC8C/t51.2885-15/e35/26153100_323422901478492_6361105616328458240_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1690104172160784167", 
-                "timestamp": 1515696139, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1710ed37165233a5a9b070934d4aa85b/5B5151ED/t51.2885-15/s640x640/sh0.08/e35/26153100_323422901478492_6361105616328458240_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1515696139, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/30153504e3931e55ae295a81f2358cd1/5B71AC8C/t51.2885-15/e35/26153100_323422901478492_6361105616328458240_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1690104172160784167"
-                }, 
-                "caption": "Et de deux ! Tooth Monster \ud83d\udc4c\u2764\nBy @cap_phi \u2764\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart  #murals #muralsdaily #streetartchat #collage #pasteup #capphi #toothmonster", 
-                "authorid": "2876693898", 
-                "instagramcode": "Bd0dMo_DJcn", 
-                "post_date": "2018-01-11 19:42:19", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.827144742012025, 
                     45.77217041247884
                 ]
