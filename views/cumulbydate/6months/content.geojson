@@ -222,27 +222,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83372688293457, 
-                    45.764948362449445
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-03-11 08:15:04", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/b041c12790a9ba1f37f02fc5f3e7c4a5/5B2B489A/t51.2885-15/s640x640/sh0.08/e35/28430310_1531921810253827_4373961884991225856_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BgLQUNKA5zN/", 
-                "caption": "#welcome on the #hotel #insitu @maisonno #capphi #urbanart", 
-                "validated": true, 
-                "id": "1732550238914452685_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831613302230836, 
                     45.769738220267826
                 ]
