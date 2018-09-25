@@ -486,43 +486,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835132360458375, 
-                    45.77558278643725
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1718774079967061510", 
-                "timestamp": 1519113858, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f988cf28e87f9530799c3ad3e5f892ec/5B4FD48E/t51.2885-15/s640x640/sh0.08/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1519113858, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1718774079967061510"
-                }, 
-                "caption": "By @cap_phi monstre des dents 2/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "instagramcode": "BfaT-tVleYG", 
-                "post_date": "2018-02-20 09:04:18", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834574460983277, 
                     45.777603172602255
                 ]
@@ -590,6 +553,43 @@
                 "authorid": "37664964", 
                 "instagramcode": "BfYQlzeDLiA", 
                 "post_date": "2018-02-19 13:56:12", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835132360458375, 
+                    45.77558278643725
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1718774079967061510", 
+                "timestamp": 1519113858, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f988cf28e87f9530799c3ad3e5f892ec/5B4FD48E/t51.2885-15/s640x640/sh0.08/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1519113858, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1718774079967061510"
+                }, 
+                "caption": "By @cap_phi monstre des dents 2/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "instagramcode": "BfaT-tVleYG", 
+                "post_date": "2018-02-20 09:04:18", 
                 "validated": true
             }
         }, 
@@ -2016,43 +2016,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831543564796449, 
-                    45.770557693798736
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWrcm0CgUPR", 
-                "originally_localized": true, 
-                "author": "julia_couplan", 
-                "instagramid": "1561467508333036497", 
-                "timestamp": 1500361454, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20184519_1575250032524865_8141745275669577728_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "julia_couplan", 
-                    "timestamp": 1500361454, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184519_1575250032524865_8141745275669577728_n.jpg", 
-                    "authorid": "1687942178", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1561467508333036497"
-                }, 
-                "caption": "An another Monster by @cap_phi\n\n#streetart #streetartist #lyon #capphi #art #artderue #collage #cityart #urbanart #wallart #collage #monster #colorfull #instastreetart", 
-                "authorid": "1687942178", 
-                "instagramcode": "BWrcm0CgUPR", 
-                "post_date": "2017-07-18 09:04:14", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834499359130859, 
                     45.775270368338134
                 ]
@@ -2218,6 +2181,43 @@
                 "authorid": "2876693898", 
                 "instagramcode": "BWaXR9pjW5A", 
                 "post_date": "2017-07-11 17:50:36", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831543564796449, 
+                    45.770557693798736
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWrcm0CgUPR", 
+                "originally_localized": true, 
+                "author": "julia_couplan", 
+                "instagramid": "1561467508333036497", 
+                "timestamp": 1500361454, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20184519_1575250032524865_8141745275669577728_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "julia_couplan", 
+                    "timestamp": 1500361454, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20184519_1575250032524865_8141745275669577728_n.jpg", 
+                    "authorid": "1687942178", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1561467508333036497"
+                }, 
+                "caption": "An another Monster by @cap_phi\n\n#streetart #streetartist #lyon #capphi #art #artderue #collage #cityart #urbanart #wallart #collage #monster #colorfull #instastreetart", 
+                "authorid": "1687942178", 
+                "instagramcode": "BWrcm0CgUPR", 
+                "post_date": "2017-07-18 09:04:14", 
                 "validated": true
             }
         }, 
