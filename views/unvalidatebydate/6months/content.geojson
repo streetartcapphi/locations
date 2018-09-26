@@ -38,39 +38,6 @@
                 "post_date": "2018-03-21 20:36:34", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.819650650024415, 
-                    45.72529650510443
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aa8bc8a3b98a703e578cd7d563a4745b/5B76043F/t51.2885-15/e35/29088571_1549935128457343_7312748812957646848_n.jpg", 
-                "originally_localized": true, 
-                "author": "ghappix", 
-                "instagramid": "1735071856936978376", 
-                "timestamp": 1521056705, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5af3b120e4e8b24225835eda4ba30fd8/5B50C4DF/t51.2885-15/s640x640/sh0.08/e35/c142.0.796.796/29088571_1549935128457343_7312748812957646848_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "ghappix", 
-                    "timestamp": 1521056705, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aa8bc8a3b98a703e578cd7d563a4745b/5B76043F/t51.2885-15/e35/29088571_1549935128457343_7312748812957646848_n.jpg", 
-                    "authorid": "2000204064", 
-                    "location": null, 
-                    "id": "1735071856936978376"
-                }, 
-                "caption": "Reppst de @_flawlex_ -  Photo de famille ! \ud83d\udc9cMagnifique d\u00e9dicace de @_flawlex_\nqui nous as tous r\u00e9unis dans ce joli tr\u00e8s joli portrait de famille.\n\nMerci, tu es adorable \ud83d\ude47\u200d\u2640\ufe0f\ud83d\udc9c\nStreetArt #lyon #wallart #streetartlyon #urbanart #graffiti #graff #adelsabugey #estellewynton #ghappix #swingforain #linestreetart #lerangdhonneur #cmado #capphi #kken #aiyanauna #mrrenard #georgesdeloup - #regrann", 
-                "authorid": "2000204064", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-03-14/1735071856936978376_2000204064.json", 
-                "instagramcode": "BgUNqk8gYfI", 
-                "post_date": "2018-03-14 20:45:05", 
-                "validated": false
-            }
         }
     ]
 }
