@@ -682,44 +682,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8182880878448495, 
-                    45.72661282058071
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/92eddc4398c62d44ce60bd53f0f263a0/5BBDB680/t51.2885-15/e35/34378507_1960228187622096_9032709840060809216_n.jpg", 
-                "originally_localized": true, 
-                "author": "escaia", 
-                "instagramid": "1796656538054421385", 
-                "timestamp": 1528398171, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5988fb630cf5066aeccdc2d0429700f9/5BA0C183/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/34378507_1960228187622096_9032709840060809216_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "escaia", 
-                    "timestamp": 1528398171, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/92eddc4398c62d44ce60bd53f0f263a0/5BBDB680/t51.2885-15/e35/34378507_1960228187622096_9032709840060809216_n.jpg", 
-                    "authorid": "233438542", 
-                    "location": {
-                        "slug": "reykjavik-iceland", 
-                        "has_public_page": true, 
-                        "name": "Reykjav\u00edk, Iceland", 
-                        "id": "213216893"
-                    }, 
-                    "id": "1796656538054421385"
-                }, 
-                "caption": "Je nargue. #capphi #elementstorelyon", 
-                "authorid": "233438542", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-07/1796656538054421385_233438542.json", 
-                "instagramcode": "BjvAZouHeuJ", 
-                "post_date": "2018-06-07 21:02:51", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
