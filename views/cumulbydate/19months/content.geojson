@@ -3299,26 +3299,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830969572067261, 
-                    45.76910209096159
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-03-16 13:14:05", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/17265406_231279894011890_3347907413591195648_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BRs0XPIhmeN/", 
-                "caption": "Avec un seul doigt #collabe #cal #capphi #noeud #doigt #fuck #corde #rue #streetart #urbanart #monstre #urbanpoetry #coloryourcity #kawaii #kawaiiart", 
-                "validated": true, 
-                "id": "1471781473459005325_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832653999328613, 
                     45.76854640736626
                 ]
