@@ -109,44 +109,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831919074058534, 
-                    45.75754946914042
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/78acef76df855163223e610b85585cb5/5BAEFC85/t51.2885-15/e35/33728680_1290850527683972_8371422087797014528_n.jpg", 
-                "originally_localized": true, 
-                "author": "julia_couplan", 
-                "instagramid": "1799188698123602938", 
-                "timestamp": 1528700028, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/dec8064f59f7318282d3f64eb39ec2f0/5BAD02AF/t51.2885-15/s640x640/sh0.08/e35/33728680_1290850527683972_8371422087797014528_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "julia_couplan", 
-                    "timestamp": 1528700028, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/78acef76df855163223e610b85585cb5/5BAEFC85/t51.2885-15/e35/33728680_1290850527683972_8371422087797014528_n.jpg", 
-                    "authorid": "1687942178", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1799188698123602938"
-                }, 
-                "caption": "Have a nice week ! By @cap_phi \n#streetart #art #collage #lyonstreetart #wallart #monster #capphi #instastreetart #Lyon", 
-                "authorid": "1687942178", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-11/1799188698123602938_1687942178.json", 
-                "instagramcode": "Bj4AJajjgv6", 
-                "post_date": "2018-06-11 08:53:48", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.819049835205079, 
                     45.726717675102755
                 ]
