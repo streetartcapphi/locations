@@ -2330,44 +2330,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8334184288978586, 
-                    45.75781145986241
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/310d04437bdbd462509b6dff1085b7cd/5B6B498B/t51.2885-15/e35/30841247_1799670446760389_624944778387128320_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1762542183071612594", 
-                "timestamp": 1524331423, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d019f61ffbfea063eb3227f8833a094c/5B6C17EA/t51.2885-15/s640x640/sh0.08/e35/30841247_1799670446760389_624944778387128320_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1524331423, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/310d04437bdbd462509b6dff1085b7cd/5B6B498B/t51.2885-15/e35/30841247_1799670446760389_624944778387128320_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1762542183071612594"
-                }, 
-                "caption": "Que dire..... rien, hein, ce serait trop banal\ud83e\udd14\nMerciiiiii @cap_phi et @ghostsurfer69 pour cette collab au top \ud83d\udc4c\u2764\ud83d\ude0d\nJ'ai m\u00eame r\u00e9ussi \u00e0 motiver les Gremlins pour aller d\u00e9nicher ce petit bijou \ud83d\udc4f\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #nofilter #TV_Streetart #collage #pasteup #capphi #ghostsurfer", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-21/1762542183071612594_2876693898.json", 
-                "instagramcode": "Bh1zsbzn_6y", 
-                "post_date": "2018-04-21 19:23:43", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831892251968385, 
                     45.7578058457884
                 ]
