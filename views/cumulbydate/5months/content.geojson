@@ -42,43 +42,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83174204826355, 
-                    45.7673321165405
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f8bfec8dec089a02a982a4019c03c343/5B6843F6/t51.2885-15/e35/31090143_1849799971737229_6288712495150399488_n.jpg", 
-                "originally_localized": true, 
-                "author": "karine.bln", 
-                "instagramid": "1764707841175573396", 
-                "timestamp": 1524589589, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/bac2ac923a94341be41708e6295d6472/5B647C3F/t51.2885-15/s640x640/sh0.08/e35/c75.0.929.929/31090143_1849799971737229_6288712495150399488_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "karine.bln", 
-                    "timestamp": 1524589589, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f8bfec8dec089a02a982a4019c03c343/5B6843F6/t51.2885-15/e35/31090143_1849799971737229_6288712495150399488_n.jpg", 
-                    "authorid": "4587659287", 
-                    "location": {
-                        "slug": "place-des-terreaux", 
-                        "has_public_page": true, 
-                        "name": "Place des Terreaux", 
-                        "id": "216480360"
-                    }, 
-                    "id": "1764707841175573396"
-                }, 
-                "caption": "Quand @ghostsurfer69 surfe sur la vague de @cap_phi, c'est d'la bombe \ud83c\udfc4\u200d\u2642\ufe0f\ud83c\udfc4\u200d\u2640\ufe0f \ud83e\udd19en collab' avec @elementstorelyon -\n#capphi #ghostsurfer #steetart #streetartlyon #streetartfrance #streetarteverywhere #collage #collageart #sreetartist #instastreet #surf #surfing #ride #streetstyle #elementstore #elementstorelyon", 
-                "authorid": "4587659287", 
-                "instagramcode": "Bh9gG6FndOU", 
-                "post_date": "2018-04-24 19:06:29", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
