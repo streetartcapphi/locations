@@ -497,39 +497,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b1a2a9f5a8476a82747455474854d5c6/5B7F8F48/t51.2885-15/e35/32343554_614552062213766_8486033066752475136_n.jpg", 
-                "originally_localized": true, 
-                "author": "chaquelegumesarecette", 
-                "instagramid": "1785576343849692504", 
-                "timestamp": 1527077309, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/dca1a7cb289140c0d3003151d2ce7454/5BA04D29/t51.2885-15/s640x640/sh0.08/e35/32343554_614552062213766_8486033066752475136_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "chaquelegumesarecette", 
-                    "timestamp": 1527077309, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b1a2a9f5a8476a82747455474854d5c6/5B7F8F48/t51.2885-15/e35/32343554_614552062213766_8486033066752475136_n.jpg", 
-                    "authorid": "688260737", 
-                    "location": null, 
-                    "id": "1785576343849692504"
-                }, 
-                "caption": "Berlinmuralfest - MTO en live  #mtostreetart #berlinstagram #berlinmuralfest #streetart #capphi \ud83d\ude03", 
-                "authorid": "688260737", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-23/1785576343849692504_688260737.json", 
-                "instagramcode": "BjHpDlugG1Y", 
-                "post_date": "2018-05-23 14:08:29", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831704497337342, 
                     45.75765987966609
                 ]
