@@ -1699,27 +1699,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834585189819336, 
-                    45.77752834479042
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-19 05:52:20", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066618_338484103230990_4079642117092147200_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BWt5LFeA_DZ/", 
-                "caption": "#6 #deathqueen #littleamazon #derniere #fleurs #araign\u00e9e #kawaii #streetart #urbanartist  #capphi #croixrousse", 
-                "validated": true, 
-                "id": "1562156096205091033_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     -9.129711091518402, 
                     38.71986333815312
                 ]
@@ -2010,6 +1989,27 @@
                 "caption": "#3 #deathqueen #little #amazone #streetart #urbanartist #capphi #kawaii #kawaiiart #spider #flowers", 
                 "validated": true, 
                 "id": "1558640698306073592_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834585189819336, 
+                    45.77752834479042
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-07-19 05:52:20", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20066618_338484103230990_4079642117092147200_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BWt5LFeA_DZ/", 
+                "caption": "#6 #deathqueen #littleamazon #derniere #fleurs #araign\u00e9e #kawaii #streetart #urbanartist  #capphi #croixrousse", 
+                "validated": true, 
+                "id": "1562156096205091033_29177514"
             }
         }, 
         {
