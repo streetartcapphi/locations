@@ -295,39 +295,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3b339fc9cababfff5241ca392a036bb5/5BE673A7/t51.2885-15/e35/36653592_902377709969913_8806689204743438336_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1824012024050299838", 
-                "timestamp": 1531659199, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3295631e3374d8d011e101b7a60178b2/5BE93557/t51.2885-15/e35/c90.0.540.540/36653592_902377709969913_8806689204743438336_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1531659199, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3b339fc9cababfff5241ca392a036bb5/5BE673A7/t51.2885-15/e35/36653592_902377709969913_8806689204743438336_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1824012024050299838"
-                }, 
-                "caption": "Artistes: Cap Phi et Green\n@cap_phi @green_vegetal_work \n#capphi #green #plantecarnivore #carnivorousplant #collage #Art #Streetart #streetphoto #streetartist #pochoir #france #StreetArtFrance #streetartlyon #france #streetart #urbanart #streetartist #artderue #worldart #globalstreetart #frenchstreetart  #streetphotography #igerslyon #igersstreetartlyon #igersrhonealpes #igersfrance #streetarteverywhere #picoftheday #pictureoftheday #photooftheday", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-15/1824012024050299838_5529011003.json", 
-                "instagramcode": "BlQMUWXjzO-", 
-                "post_date": "2018-07-15 14:53:19", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/43b975eb5438176dc78a18a72a308e31/5BDB13C6/t51.2885-15/e35/36739528_246795956119486_3099583683120594944_n.jpg", 
                 "originally_localized": true, 
                 "author": "garzaf69", 
@@ -391,6 +358,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-15/1823828029698650989_7001793922.json", 
                 "instagramcode": "BlPie4RlrNt", 
                 "post_date": "2018-07-15 08:47:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3b339fc9cababfff5241ca392a036bb5/5BE673A7/t51.2885-15/e35/36653592_902377709969913_8806689204743438336_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1824012024050299838", 
+                "timestamp": 1531659199, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3295631e3374d8d011e101b7a60178b2/5BE93557/t51.2885-15/e35/c90.0.540.540/36653592_902377709969913_8806689204743438336_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1531659199, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/3b339fc9cababfff5241ca392a036bb5/5BE673A7/t51.2885-15/e35/36653592_902377709969913_8806689204743438336_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1824012024050299838"
+                }, 
+                "caption": "Artistes: Cap Phi et Green\n@cap_phi @green_vegetal_work \n#capphi #green #plantecarnivore #carnivorousplant #collage #Art #Streetart #streetphoto #streetartist #pochoir #france #StreetArtFrance #streetartlyon #france #streetart #urbanart #streetartist #artderue #worldart #globalstreetart #frenchstreetart  #streetphotography #igerslyon #igersstreetartlyon #igersrhonealpes #igersfrance #streetarteverywhere #picoftheday #pictureoftheday #photooftheday", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-15/1824012024050299838_5529011003.json", 
+                "instagramcode": "BlQMUWXjzO-", 
+                "post_date": "2018-07-15 14:53:19", 
                 "validated": false
             }
         }, 
@@ -1230,44 +1230,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-11/1799188698123602938_1687942178.json", 
                 "instagramcode": "Bj4AJajjgv6", 
                 "post_date": "2018-06-11 08:53:48", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.830527007579804, 
-                    45.77225647272189
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/faea03f2b52a247986d5e8377024ea5d/5BB47829/t51.2885-15/e35/33858123_252684468641274_4797901644169740288_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1798643776254422688", 
-                "timestamp": 1528635068, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c5b34a1f429a64ed4b205154290e3149/5B9EF448/t51.2885-15/s640x640/sh0.08/e35/33858123_252684468641274_4797901644169740288_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1528635068, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/faea03f2b52a247986d5e8377024ea5d/5BB47829/t51.2885-15/e35/33858123_252684468641274_4797901644169740288_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1798643776254422688"
-                }, 
-                "caption": "SANS INTERDIT \ud83d\ude09\nUn gros coup de pouce de @olivier_croixroussien m'a permis de trouver ce @cap_phi. Je n'ai jamais eu autant envie de piquer un panneau \ud83d\ude01\ud83d\ude0d\u2764\ud83d\udc4c\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #sansinterdit #monster #monstre #capphi", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-10/1798643776254422688_2876693898.json", 
-                "instagramcode": "Bj2EPwhHK6g", 
-                "post_date": "2018-06-10 14:51:08", 
                 "validated": false
             }
         }, 
