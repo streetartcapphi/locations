@@ -11,44 +11,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8dffa41dee3a744a92bbb3b853d2de1b/5BD446B3/t51.2885-15/e35/37132637_240733026545703_5218193666148925440_n.jpg", 
-                "originally_localized": true, 
-                "author": "mike_fouks", 
-                "instagramid": "1829711113053034895", 
-                "timestamp": 1532338583, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9cd3e23a92f0d896b6c57500018aec0c/5BECB88D/t51.2885-15/sh0.08/e35/c45.0.989.989/s640x640/37132637_240733026545703_5218193666148925440_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mike_fouks", 
-                    "timestamp": 1532338583, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8dffa41dee3a744a92bbb3b853d2de1b/5BD446B3/t51.2885-15/e35/37132637_240733026545703_5218193666148925440_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1829711113053034895"
-                }, 
-                "caption": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d Trop beau celui-l\u00e0 @cap_phi et @green_vegetal_work\n#capphi #streetartlyon #lyon #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart  #urbanart #artderue #graffiti #sprayart  #streetartistry", 
-                "authorid": "37664964", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-23/1829711113053034895_37664964.json", 
-                "instagramcode": "BlkcJAnHFmP", 
-                "post_date": "2018-07-23 11:36:23", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6574c4018b76257fbc1e00fc3e693303/5BDC528E/t51.2885-15/e35/36868606_247303942752095_2270615103336349696_n.jpg?_nc_eui2=AeEymfVHECSLtq-jPIBr6eprhmUlUhF9XRhiA2L8qg5ZPzVAX4X_V4dnQe0tawcSqrI-BsuaKvoIu9sZNDFzRHho", 
                 "originally_localized": true, 
                 "author": "__hungryeyes__", 
