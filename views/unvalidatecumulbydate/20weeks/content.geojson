@@ -583,44 +583,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828767478466035, 
-                    45.776564927743934
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/868369d2ddf0e751ee97d510b2bacc5e/5BE3C934/t51.2885-15/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1813200657916489588", 
-                "timestamp": 1530370383, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1c35e27d1da6024ade92cc5a85a7e6a2/5BCA8855/t51.2885-15/s640x640/sh0.08/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1530370383, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/868369d2ddf0e751ee97d510b2bacc5e/5BE3C934/t51.2885-15/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1813200657916489588"
-                }, 
-                "caption": "Et de trois ! A d\u00e9faut du badge pour Gremlin (pas facile d'intercepter un skateur \ud83d\ude02) j'ai au moins trouv\u00e9 le troisi\u00e8me SANS INTERDIT \ud83d\udc4d\nMerci @cap_phi \u2764\ud83d\udc4c\ud83d\ude0d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #sansinterdit #monster #monstre #capphi #nofilter #jeudepiste", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-30/1813200657916489588_2876693898.json", 
-                "instagramcode": "BkpyGRBne90", 
-                "post_date": "2018-06-30 16:53:03", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -799,6 +761,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-26/1810144605561636621_3406678819.json", 
                 "instagramcode": "Bke7O2el0cN", 
                 "post_date": "2018-06-26 11:41:14", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.828767478466035, 
+                    45.776564927743934
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/868369d2ddf0e751ee97d510b2bacc5e/5BE3C934/t51.2885-15/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1813200657916489588", 
+                "timestamp": 1530370383, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1c35e27d1da6024ade92cc5a85a7e6a2/5BCA8855/t51.2885-15/s640x640/sh0.08/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1530370383, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/868369d2ddf0e751ee97d510b2bacc5e/5BE3C934/t51.2885-15/e35/35515143_218466495544400_9044514557673865216_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1813200657916489588"
+                }, 
+                "caption": "Et de trois ! A d\u00e9faut du badge pour Gremlin (pas facile d'intercepter un skateur \ud83d\ude02) j'ai au moins trouv\u00e9 le troisi\u00e8me SANS INTERDIT \ud83d\udc4d\nMerci @cap_phi \u2764\ud83d\udc4c\ud83d\ude0d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #sansinterdit #monster #monstre #capphi #nofilter #jeudepiste", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-30/1813200657916489588_2876693898.json", 
+                "instagramcode": "BkpyGRBne90", 
+                "post_date": "2018-06-30 16:53:03", 
                 "validated": false
             }
         }, 
