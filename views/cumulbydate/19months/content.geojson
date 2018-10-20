@@ -597,27 +597,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-01-13 08:21:07", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/42dea0256fa4f1e7b8417b6b35e5ef48/5ADD9708/t51.2885-15/sh0.08/e35/p640x640/26295305_1536786946374639_2719782241986150400_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bd4fsnIgFdz/", 
-                "caption": "Cet #os est le #mien #artwork #capphi #future #collaboration  #plantecarnivore #monstre #wood #v\u00e9g\u00e9tale", 
-                "validated": true, 
-                "id": "1691241065195001715_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834359884262085, 
                     45.777603172602255
                 ]
@@ -913,6 +892,27 @@
                 "caption": "La #dent dans l'#univers #tattoo #represente l'#addiction \u00e0 l'#h\u00e9ro\u00efne ... Je #prefere mon #histoire de #petit #tresor ;) #streetart #capphi #croixrousse", 
                 "validated": true, 
                 "id": "1688984504326275558_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-01-13 08:21:07", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/vp/42dea0256fa4f1e7b8417b6b35e5ef48/5ADD9708/t51.2885-15/sh0.08/e35/p640x640/26295305_1536786946374639_2719782241986150400_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bd4fsnIgFdz/", 
+                "caption": "Cet #os est le #mien #artwork #capphi #future #collaboration  #plantecarnivore #monstre #wood #v\u00e9g\u00e9tale", 
+                "validated": true, 
+                "id": "1691241065195001715_29177514"
             }
         }, 
         {
