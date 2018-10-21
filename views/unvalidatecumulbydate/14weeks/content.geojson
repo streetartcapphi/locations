@@ -431,44 +431,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8307475, 
-                    45.7719149
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/cc4042bffe29bb66d14a86180c79d19f/5BDD89F6/t51.2885-15/e35/36819715_1738086952973848_3089137227440062464_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1821114318911911109", 
-                "timestamp": 1531313765, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4baed7d3f422aadc592be0b07f877d24/5BE2774C/t51.2885-15/sh0.08/e35/s640x640/36819715_1738086952973848_3089137227440062464_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1531313765, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/cc4042bffe29bb66d14a86180c79d19f/5BDD89F6/t51.2885-15/e35/36819715_1738086952973848_3089137227440062464_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1821114318911911109"
-                }, 
-                "caption": "Et de cinq ! Il ne me manque plus qu'un exemplaire de la derni\u00e8re s\u00e9rie de @cap_phi \u2764\ud83d\udc4c\ud83d\ude0d\nEn revanche le piaf de @alex_nihilo a disparu, il ne reste qu'une plume de sa cr\u00eate \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #collage #pasteup #monster #monstre #capphi #nofilter #chasseaugraff", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-11/1821114318911911109_2876693898.json", 
-                "instagramcode": "BlF5dMKHzTF", 
-                "post_date": "2018-07-11 14:56:05", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8287408, 
                     45.7766432
                 ]
