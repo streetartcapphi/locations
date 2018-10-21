@@ -1478,39 +1478,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1793702018374114146", 
-                "timestamp": 1528045964, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ebb8b8a1c7c95cc673aa6b2b5804d5c/5BB750B2/t51.2885-15/s640x640/sh0.08/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1528045964, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1793702018374114146"
-                }, 
-                "caption": "Artiste: Cap Phi\nMerci @cap_phi pour l'invitation et le voyage ;)\n#capphi  #collage #StreetArtlyon #france #Lyon #Art #Streetart #streetartphotography #artist #graffiti #StreetArtFrance #streetarteverywhere #graffitilyon", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793702018374114146_5529011003.json", 
-                "instagramcode": "Bjkgnt2Fxti", 
-                "post_date": "2018-06-03 19:12:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831704497337342, 
                     45.75765987966609
                 ]
@@ -1580,6 +1547,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793647494460519549_34904985.json", 
                 "instagramcode": "BjkUOSflrR9", 
                 "post_date": "2018-06-03 17:24:25", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1793702018374114146", 
+                "timestamp": 1528045964, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ebb8b8a1c7c95cc673aa6b2b5804d5c/5BB750B2/t51.2885-15/s640x640/sh0.08/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1528045964, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1793702018374114146"
+                }, 
+                "caption": "Artiste: Cap Phi\nMerci @cap_phi pour l'invitation et le voyage ;)\n#capphi  #collage #StreetArtlyon #france #Lyon #Art #Streetart #streetartphotography #artist #graffiti #StreetArtFrance #streetarteverywhere #graffitilyon", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793702018374114146_5529011003.json", 
+                "instagramcode": "Bjkgnt2Fxti", 
+                "post_date": "2018-06-03 19:12:44", 
                 "validated": false
             }
         }, 
@@ -3405,39 +3405,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/42264608ca2d2721088189616a30cc40/5B5B3D62/t51.2885-15/e35/27573637_332111487281961_7990652986235813888_n.jpg", 
-                "originally_localized": true, 
-                "author": "sysy_jm69", 
-                "instagramid": "1702407940001988745", 
-                "timestamp": 1517162862, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/05a574e214d5ed581ea30c1858e0a393/5B7520FA/t51.2885-15/s640x640/sh0.08/e35/c159.0.762.762/27573637_332111487281961_7990652986235813888_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "sysy_jm69", 
-                    "timestamp": 1517162862, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/42264608ca2d2721088189616a30cc40/5B5B3D62/t51.2885-15/e35/27573637_332111487281961_7990652986235813888_n.jpg", 
-                    "authorid": "7115879", 
-                    "location": null, 
-                    "id": "1702407940001988745"
-                }, 
-                "caption": "#arturbain #streetart #capphi #croixrousse #lyon", 
-                "authorid": "7115879", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-28/1702407940001988745_7115879.json", 
-                "instagramcode": "BegKwBun4CJ", 
-                "post_date": "2018-01-28 19:07:42", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8188f9096ce6f07beb22bde59769ad52/5B593DBA/t51.2885-15/e35/26431871_156971244957545_3143786464328810496_n.jpg", 
                 "originally_localized": true, 
                 "author": "nat_streetart", 
@@ -3458,6 +3425,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-23/1698453859109643827_3319426304.json", 
                 "instagramcode": "BeSHsk7nyYz", 
                 "post_date": "2018-01-23 08:11:39", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/42264608ca2d2721088189616a30cc40/5B5B3D62/t51.2885-15/e35/27573637_332111487281961_7990652986235813888_n.jpg", 
+                "originally_localized": true, 
+                "author": "sysy_jm69", 
+                "instagramid": "1702407940001988745", 
+                "timestamp": 1517162862, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/05a574e214d5ed581ea30c1858e0a393/5B7520FA/t51.2885-15/s640x640/sh0.08/e35/c159.0.762.762/27573637_332111487281961_7990652986235813888_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "sysy_jm69", 
+                    "timestamp": 1517162862, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/42264608ca2d2721088189616a30cc40/5B5B3D62/t51.2885-15/e35/27573637_332111487281961_7990652986235813888_n.jpg", 
+                    "authorid": "7115879", 
+                    "location": null, 
+                    "id": "1702407940001988745"
+                }, 
+                "caption": "#arturbain #streetart #capphi #croixrousse #lyon", 
+                "authorid": "7115879", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-28/1702407940001988745_7115879.json", 
+                "instagramcode": "BegKwBun4CJ", 
+                "post_date": "2018-01-28 19:07:42", 
                 "validated": false
             }
         }
