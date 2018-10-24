@@ -2904,6 +2904,28 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "post_date": "2018-03-09 18:15:46", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-03-09/1731403024234084401_29177514.geojson", 
+                "imageURL": "https://scontent.cdninstagram.com/vp/f23423c7da2f3a8b45d5dc6fbc4dd9ed/5B45FB89/t51.2885-15/s640x640/sh0.08/e35/28433763_203038030465605_7894056590473428992_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BgHLeCOgngx/", 
+                "caption": "#Welcome to the #hotel #streetart #lyon1 #urbanartist #capphi #collage #dragon", 
+                "validated": false, 
+                "id": "1731403024234084401_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f359b25decde08e08b56b0b5054b2c07/5B564AF2/t51.2885-15/e35/28434676_427974447657939_3363804556432506880_n.jpg", 
                 "originally_localized": true, 
                 "author": "_flawlex_", 
@@ -2925,28 +2947,6 @@
                 "instagramcode": "BgTqcrDDCIx", 
                 "post_date": "2018-03-14 15:37:21", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-03-09 18:15:46", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-03-09/1731403024234084401_29177514.geojson", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/f23423c7da2f3a8b45d5dc6fbc4dd9ed/5B45FB89/t51.2885-15/s640x640/sh0.08/e35/28433763_203038030465605_7894056590473428992_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BgHLeCOgngx/", 
-                "caption": "#Welcome to the #hotel #streetart #lyon1 #urbanartist #capphi #collage #dragon", 
-                "validated": false, 
-                "id": "1731403024234084401_29177514"
             }
         }
     ]
