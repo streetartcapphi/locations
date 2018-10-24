@@ -11,6 +11,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a5e6b825c881f8fcd4becf26ca13af5c/5B9758A2/t51.2885-15/e35/30590066_625253461146374_4423321457338089472_n.jpg", 
+                "originally_localized": true, 
+                "author": "moemoea987", 
+                "instagramid": "1760295802667657039", 
+                "timestamp": 1524063633, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5c79f5c336c479e3d3146071b7a74bd8/5B68B4C3/t51.2885-15/s640x640/sh0.08/e35/30590066_625253461146374_4423321457338089472_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "moemoea987", 
+                    "timestamp": 1524063633, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a5e6b825c881f8fcd4becf26ca13af5c/5B9758A2/t51.2885-15/e35/30590066_625253461146374_4423321457338089472_n.jpg", 
+                    "authorid": "1014838066", 
+                    "location": null, 
+                    "id": "1760295802667657039"
+                }, 
+                "caption": "#chasingstreetart #streetphotography #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #capphi #lyon #monlyon #onlylyon #lyonmaville", 
+                "authorid": "1014838066", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-18/1760295802667657039_1014838066.json", 
+                "instagramcode": "Bht07TBnedP", 
+                "post_date": "2018-04-18 17:00:33", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/dcbf00977eddfff39f6d4b18c60b5a6a/5B650BD4/t51.2885-15/e35/30830593_205552406887906_7738625757005479936_n.jpg", 
                 "originally_localized": true, 
                 "author": "moemoea987", 
