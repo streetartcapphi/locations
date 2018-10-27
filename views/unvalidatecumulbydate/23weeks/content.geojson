@@ -882,39 +882,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831881523132325, 
-                    45.77710182434549
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aba8a7434836ac236c655b4c7c78d189/5BC59731/t51.2885-15/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1808035481826823973", 
-                "timestamp": 1529754646, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c662b0725bbb63c79c9d4710f466684e/5BAFA81B/t51.2885-15/s640x640/sh0.08/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1529754646, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aba8a7434836ac236c655b4c7c78d189/5BC59731/t51.2885-15/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1808035481826823973"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Rue des Tables Claudiennes et pour le panneau: rue Celu\n#Capphi #artderue #arturbain #urbanart #bigbenstreetart #collage #Lyon #Art #Streetart #streetphoto #streetartist #graffiti #france #StreetArtFrance #streetarteverywhere #streetartphotography", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808035481826823973_5529011003.json", 
-                "instagramcode": "BkXbrD7lw8l", 
-                "post_date": "2018-06-23 13:50:46", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1088,6 +1055,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-21/1806649793097217828_8011157754.json", 
                 "instagramcode": "BkSgmovF7ck", 
                 "post_date": "2018-06-21 15:57:40", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831881523132325, 
+                    45.77710182434549
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aba8a7434836ac236c655b4c7c78d189/5BC59731/t51.2885-15/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1808035481826823973", 
+                "timestamp": 1529754646, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c662b0725bbb63c79c9d4710f466684e/5BAFA81B/t51.2885-15/s640x640/sh0.08/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1529754646, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/aba8a7434836ac236c655b4c7c78d189/5BC59731/t51.2885-15/e35/33881643_2106236289650425_2967576853960720384_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1808035481826823973"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Rue des Tables Claudiennes et pour le panneau: rue Celu\n#Capphi #artderue #arturbain #urbanart #bigbenstreetart #collage #Lyon #Art #Streetart #streetphoto #streetartist #graffiti #france #StreetArtFrance #streetarteverywhere #streetartphotography", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-23/1808035481826823973_5529011003.json", 
+                "instagramcode": "BkXbrD7lw8l", 
+                "post_date": "2018-06-23 13:50:46", 
                 "validated": false
             }
         }, 
@@ -2074,44 +2074,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832004904747009, 
-                    45.75794994017566
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/73f82cdd2d24ed929d14128f5c285813/5B8A2CE7/t51.2885-15/e35/32178566_174393239945567_609439748880072704_n.jpg", 
-                "originally_localized": true, 
-                "author": "chachi.44", 
-                "instagramid": "1782658665225105645", 
-                "timestamp": 1526729494, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/bdd4952bf15a9800f82799aa295eab57/5B891AF1/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/32178566_174393239945567_609439748880072704_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "chachi.44", 
-                    "timestamp": 1526729494, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/73f82cdd2d24ed929d14128f5c285813/5B8A2CE7/t51.2885-15/e35/32178566_174393239945567_609439748880072704_n.jpg", 
-                    "authorid": "3694450611", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1782658665225105645"
-                }, 
-                "caption": "#streetart #streetartlyon #urbanart #lyon #capphi", 
-                "authorid": "3694450611", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-19/1782658665225105645_3694450611.json", 
-                "instagramcode": "Bi9Rpxwg7Dt", 
-                "post_date": "2018-05-19 13:31:34", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2318,6 +2280,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-19/1782561627964750883_363991452.json", 
                 "instagramcode": "Bi87lsxFLwj", 
                 "post_date": "2018-05-19 10:18:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832004904747009, 
+                    45.75794994017566
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/73f82cdd2d24ed929d14128f5c285813/5B8A2CE7/t51.2885-15/e35/32178566_174393239945567_609439748880072704_n.jpg", 
+                "originally_localized": true, 
+                "author": "chachi.44", 
+                "instagramid": "1782658665225105645", 
+                "timestamp": 1526729494, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/bdd4952bf15a9800f82799aa295eab57/5B891AF1/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/32178566_174393239945567_609439748880072704_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "chachi.44", 
+                    "timestamp": 1526729494, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/73f82cdd2d24ed929d14128f5c285813/5B8A2CE7/t51.2885-15/e35/32178566_174393239945567_609439748880072704_n.jpg", 
+                    "authorid": "3694450611", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1782658665225105645"
+                }, 
+                "caption": "#streetart #streetartlyon #urbanart #lyon #capphi", 
+                "authorid": "3694450611", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-19/1782658665225105645_3694450611.json", 
+                "instagramcode": "Bi9Rpxwg7Dt", 
+                "post_date": "2018-05-19 13:31:34", 
                 "validated": false
             }
         }
