@@ -1904,39 +1904,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818360507488252, 
-                    45.726796315865144
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6ceb7774cc4f7dd4155c39666100a0ae/5BBE99E7/t51.2885-15/e35/32706223_215187775745960_6562458343204454400_n.jpg", 
-                "originally_localized": true, 
-                "author": "_flawlex_", 
-                "instagramid": "1788511389830374201", 
-                "timestamp": 1527427193, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9ca7ecdd84a2511598a32e72626def2a/5B822386/t51.2885-15/s640x640/sh0.08/e35/32706223_215187775745960_6562458343204454400_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "_flawlex_", 
-                    "timestamp": 1527427193, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6ceb7774cc4f7dd4155c39666100a0ae/5BBE99E7/t51.2885-15/e35/32706223_215187775745960_6562458343204454400_n.jpg", 
-                    "authorid": "2999332484", 
-                    "location": null, 
-                    "id": "1788511389830374201"
-                }, 
-                "caption": "StreetArt by @cap_phi\n#streetart #wallart #lyon #urbanart #streetartlyon #sticker #croixrousse #capphi #stickers #autocollant", 
-                "authorid": "2999332484", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788511389830374201_2999332484.json", 
-                "instagramcode": "BjSEaITlGM5", 
-                "post_date": "2018-05-27 15:19:53", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2138,6 +2105,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-24/1786461813737409821_2876693898.json", 
                 "instagramcode": "BjKyY30nk0d", 
                 "post_date": "2018-05-24 19:27:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818360507488252, 
+                    45.726796315865144
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6ceb7774cc4f7dd4155c39666100a0ae/5BBE99E7/t51.2885-15/e35/32706223_215187775745960_6562458343204454400_n.jpg", 
+                "originally_localized": true, 
+                "author": "_flawlex_", 
+                "instagramid": "1788511389830374201", 
+                "timestamp": 1527427193, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9ca7ecdd84a2511598a32e72626def2a/5B822386/t51.2885-15/s640x640/sh0.08/e35/32706223_215187775745960_6562458343204454400_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "_flawlex_", 
+                    "timestamp": 1527427193, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6ceb7774cc4f7dd4155c39666100a0ae/5BBE99E7/t51.2885-15/e35/32706223_215187775745960_6562458343204454400_n.jpg", 
+                    "authorid": "2999332484", 
+                    "location": null, 
+                    "id": "1788511389830374201"
+                }, 
+                "caption": "StreetArt by @cap_phi\n#streetart #wallart #lyon #urbanart #streetartlyon #sticker #croixrousse #capphi #stickers #autocollant", 
+                "authorid": "2999332484", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788511389830374201_2999332484.json", 
+                "instagramcode": "BjSEaITlGM5", 
+                "post_date": "2018-05-27 15:19:53", 
                 "validated": false
             }
         }, 
