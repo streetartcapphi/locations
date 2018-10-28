@@ -1283,43 +1283,6 @@
                 "post_date": "2017-12-08 17:20:59", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831538200378419, 
-                    45.770606337967685
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZtoOEcH4pp", 
-                "originally_localized": true, 
-                "author": "instant_shots_", 
-                "instagramid": "1616124729995790953", 
-                "timestamp": 1506877102, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/22157484_1799244377033364_7528530667148148736_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "instant_shots_", 
-                    "timestamp": 1506877102, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/22157484_1799244377033364_7528530667148148736_n.jpg", 
-                    "authorid": "5681253376", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1616124729995790953"
-                }, 
-                "caption": "Street Art @cap_phi\n#cap_phi #capphi #capephi #streetart #wallart #art #croixrousse #lyon #onlylyon #monlyon #igerslyon #vuesdelyon #merveillesdelyon #picsfromlyon #pics_of_lyon #rhonetourisme #lyonmylove #lyoncity #lyon__only #mangedulyon #weheartlyon #grandlyon #colorslyon #iglyon", 
-                "authorid": "5681253376", 
-                "instagramcode": "BZtoOEcH4pp", 
-                "post_date": "2017-10-01 18:58:22", 
-                "validated": true
-            }
         }
     ]
 }
