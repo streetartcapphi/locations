@@ -2685,27 +2685,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.827541708946228, 
-                    45.77945887021172
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-28 08:55:40", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18721843_1366156993461029_5529818364089729024_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUoU0Xhhh4F/", 
-                "caption": "Petite amazone dans la rue ... \u00c0 pr\u00e9sent si tu hashtagues #map_phi sur ton poste Instagram et qu'il est g\u00e9olocalis\u00e9 ta photo pourrait apparaitre sur la carte les jours\u200b suivants ;)", 
-                "validated": true, 
-                "id": "1524560033466424837_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.65, 
                     45.7667
                 ]
