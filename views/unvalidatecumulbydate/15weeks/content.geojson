@@ -366,39 +366,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/32efc490436e95d8fb34cd9565c0dbab/5BC5944D/t51.2885-15/e35/36497178_190891854912276_9158122172139438080_n.jpg", 
-                "originally_localized": true, 
-                "author": "oumm26", 
-                "instagramid": "1820324545938898406", 
-                "timestamp": 1531219617, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/579e6f2aaaeac92cb147777ae89e6e12/5BE9A80E/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/36497178_190891854912276_9158122172139438080_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "oumm26", 
-                    "timestamp": 1531219617, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/32efc490436e95d8fb34cd9565c0dbab/5BC5944D/t51.2885-15/e35/36497178_190891854912276_9158122172139438080_n.jpg", 
-                    "authorid": "1730455071", 
-                    "location": null, 
-                    "id": "1820324545938898406"
-                }, 
-                "caption": "#joli #portrait #wildbeauty #beautiful #streetart #capphi #streetartlyon #streetarteverywhere #streetartphotography #streetartchat #streetphotography #street #lyon #onlylyon #monlyon#igerslyon #visualyon#lyon_focus_on #toplyonphoto #croixrousse #walking #exploring #enjoying#details #collage #collageart #urbanart #wallart", 
-                "authorid": "1730455071", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-10/1820324545938898406_1730455071.json", 
-                "instagramcode": "BlDF4ewnL3m", 
-                "post_date": "2018-07-10 12:46:57", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/43b975eb5438176dc78a18a72a308e31/5BDB13C6/t51.2885-15/e35/36739528_246795956119486_3099583683120594944_n.jpg", 
                 "originally_localized": true, 
                 "author": "garzaf69", 
