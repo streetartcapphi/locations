@@ -3311,26 +3311,6 @@
                 "post_date": "2017-06-04 15:17:46", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831591844558716, 
-                    45.76990286431815
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-04-21 05:51:02", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18094732_1291332437623744_8591123503372042240_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BTIuRx3BukU/", 
-                "caption": "#quetzalcoatl #dragon #serpent #plume #streetart #urbanartist #capphi #kawaiiart #kawaiigirl #streetstyle #lyon #croixrousse", 
-                "validated": true, 
-                "id": "1497650408007854356_29177514"
-            }
         }
     ]
 }
