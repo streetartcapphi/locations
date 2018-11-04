@@ -1826,43 +1826,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832954406738282, 
-                    45.77758072426925
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW5jYFEAJ4V", 
-                "originally_localized": true, 
-                "author": "gallmarine", 
-                "instagramid": "1565437931819146773", 
-                "timestamp": 1500834765, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225550_254414491723559_6659334929748328448_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "gallmarine", 
-                    "timestamp": 1500834765, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20225550_254414491723559_6659334929748328448_n.jpg", 
-                    "authorid": "3160895409", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1565437931819146773"
-                }, 
-                "caption": "Cap phi habill\u00e9 la Ville de couleurs et de petits monstres attachants \ud83d\ude0d\n\n#capphi #monster #streetart #streetstyle #streetphotography #street #streetview #wallporn #wallart #wall #wallartist #urbanculture #instadaily #streetphotography #streetporn #art #artderue #artlovers #igerslyon #lyon #igersfrance #france #ilovelyon #bestiaire #creativity #creatures", 
-                "authorid": "3160895409", 
-                "instagramcode": "BW5jYFEAJ4V", 
-                "post_date": "2017-07-23 20:32:45", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.835652709007264, 
                     45.77110026097291
                 ]
@@ -2009,6 +1972,43 @@
                 "authorid": "1218180784", 
                 "instagramcode": "BW487E8AWJo", 
                 "post_date": "2017-07-23 14:56:44", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832954406738282, 
+                    45.77758072426925
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BW5jYFEAJ4V", 
+                "originally_localized": true, 
+                "author": "gallmarine", 
+                "instagramid": "1565437931819146773", 
+                "timestamp": 1500834765, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20225550_254414491723559_6659334929748328448_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "gallmarine", 
+                    "timestamp": 1500834765, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20225550_254414491723559_6659334929748328448_n.jpg", 
+                    "authorid": "3160895409", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1565437931819146773"
+                }, 
+                "caption": "Cap phi habill\u00e9 la Ville de couleurs et de petits monstres attachants \ud83d\ude0d\n\n#capphi #monster #streetart #streetstyle #streetphotography #street #streetview #wallporn #wallart #wall #wallartist #urbanculture #instadaily #streetphotography #streetporn #art #artderue #artlovers #igerslyon #lyon #igersfrance #france #ilovelyon #bestiaire #creativity #creatures", 
+                "authorid": "3160895409", 
+                "instagramcode": "BW5jYFEAJ4V", 
+                "post_date": "2017-07-23 20:32:45", 
                 "validated": true
             }
         }, 
