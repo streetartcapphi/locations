@@ -3285,44 +3285,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818628728389741, 
-                    45.727813018610505
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/200297f415afc277f63d49f5840c0cd2/5B4EAF69/t51.2885-15/e35/26401802_184926652097671_1273229482802544640_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1702816028961518292", 
-                "timestamp": 1517211510, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6db5d3c323946cc7a9e0fce4db977f9e/5B5F8B08/t51.2885-15/s640x640/sh0.08/e35/26401802_184926652097671_1273229482802544640_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1517211510, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/200297f415afc277f63d49f5840c0cd2/5B4EAF69/t51.2885-15/e35/26401802_184926652097671_1273229482802544640_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1702816028961518292"
-                }, 
-                "caption": "By @cap_phi Amazone 1/6 #capphi #skull #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-29/1702816028961518292_810473762.json", 
-                "instagramcode": "BehnigMF7LU", 
-                "post_date": "2018-01-29 08:38:30", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828955233097077, 
                     45.77666220556043
                 ]
@@ -3425,6 +3387,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-23/1698453859109643827_3319426304.json", 
                 "instagramcode": "BeSHsk7nyYz", 
                 "post_date": "2018-01-23 08:11:39", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818628728389741, 
+                    45.727813018610505
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/200297f415afc277f63d49f5840c0cd2/5B4EAF69/t51.2885-15/e35/26401802_184926652097671_1273229482802544640_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1702816028961518292", 
+                "timestamp": 1517211510, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6db5d3c323946cc7a9e0fce4db977f9e/5B5F8B08/t51.2885-15/s640x640/sh0.08/e35/26401802_184926652097671_1273229482802544640_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1517211510, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/200297f415afc277f63d49f5840c0cd2/5B4EAF69/t51.2885-15/e35/26401802_184926652097671_1273229482802544640_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "slug": "montee-de-la-grande-cote", 
+                        "has_public_page": true, 
+                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
+                        "id": "235465523"
+                    }, 
+                    "id": "1702816028961518292"
+                }, 
+                "caption": "By @cap_phi Amazone 1/6 #capphi #skull #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-29/1702816028961518292_810473762.json", 
+                "instagramcode": "BehnigMF7LU", 
+                "post_date": "2018-01-29 08:38:30", 
                 "validated": false
             }
         }, 
