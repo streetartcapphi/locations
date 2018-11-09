@@ -1209,43 +1209,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8317688703537, 
-                    45.76801317042845
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Bccp_sajlFK", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1665390659144405322", 
-                "timestamp": 1512750059, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008848_145259746125250_1236986787822305280_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1512750059, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25008848_145259746125250_1236986787822305280_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1665390659144405322"
-                }, 
-                "caption": "Merci @cap_phi 1/pour cette belle amazone \u2764et 2/ pour m'avoir dit o\u00f9 elle se trouvait. Je serais encore en train de chercher sinon \ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart  #murals #muralsdaily #streetartchat #collage #pasteup #amazone #capphi #warrior #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "Bccp_sajlFK", 
-                "post_date": "2017-12-08 17:20:59", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.391677379608155, 
                     45.439944268451235
                 ]
@@ -1282,6 +1245,43 @@
                 "caption": "#belle ou #b\u00eate #petite #amazone #croixrousse #streetart #urbanart #capphi #collage #skull #heart #flowers", 
                 "validated": true, 
                 "id": "1665402056468380403_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8317688703537, 
+                    45.76801317042845
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/Bccp_sajlFK", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1665390659144405322", 
+                "timestamp": 1512750059, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008848_145259746125250_1236986787822305280_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1512750059, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25008848_145259746125250_1236986787822305280_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1665390659144405322"
+                }, 
+                "caption": "Merci @cap_phi 1/pour cette belle amazone \u2764et 2/ pour m'avoir dit o\u00f9 elle se trouvait. Je serais encore en train de chercher sinon \ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart  #murals #muralsdaily #streetartchat #collage #pasteup #amazone #capphi #warrior #beauty", 
+                "authorid": "2876693898", 
+                "instagramcode": "Bccp_sajlFK", 
+                "post_date": "2017-12-08 17:20:59", 
+                "validated": true
             }
         }
     ]
