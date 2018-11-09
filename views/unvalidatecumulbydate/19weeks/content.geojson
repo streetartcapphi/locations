@@ -621,44 +621,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830779135227204, 
-                    45.77213299494044
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/21b8cfbcda59a5162681ba25ae51e99e/5BE9077E/t51.2885-15/e35/35414352_244996096276989_2119759131593146368_n.jpg", 
-                "originally_localized": true, 
-                "author": "my_urbanitudes", 
-                "instagramid": "1807495252795581222", 
-                "timestamp": 1529690246, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/647dd5ff0abb836965a05386a707b1fb/5BBA501F/t51.2885-15/s640x640/sh0.08/e35/35414352_244996096276989_2119759131593146368_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "my_urbanitudes", 
-                    "timestamp": 1529690246, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/21b8cfbcda59a5162681ba25ae51e99e/5BE9077E/t51.2885-15/e35/35414352_244996096276989_2119759131593146368_n.jpg", 
-                    "authorid": "1218180784", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1807495252795581222"
-                }, 
-                "caption": "Il est interdit d\u2019interdire \ud83d\udcdb\u2716\ufe0f tribute to @mcyannnnn #mcyannnnn #m\u00e9m\u00e9 #memesticker \u2795 @cap_phi #capphi #interditdinterdire \u2716\ufe0f#stickerart #slap #streetart #igerslyon #sticker #brand #nobrand #logo #nologo #detournement #distorsion #typography #lyon #onlylyon #monlyon #France #streetartlyon #streetart #streetartaddiction #urbanexploration #artiseverywhere #aura_focus_on #jj_urbanart #igers_opengallery #mesurbanitudes\ud83c\udf3b", 
-                "authorid": "1218180784", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-22/1807495252795581222_1218180784.json", 
-                "instagramcode": "BkVg1scFeMm", 
-                "post_date": "2018-06-22 19:57:26", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831835925579072, 
                     45.75796303964695
                 ]
