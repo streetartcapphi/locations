@@ -2500,43 +2500,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831527471542359, 
-                    45.776338569091
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVKRohZDZah", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1534116174496634529", 
-                "timestamp": 1497100920, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18949590_234565710365842_3672132536261148672_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1497100920, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18949590_234565710365842_3672132536261148672_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1534116174496634529"
-                }, 
-                "caption": "Seul les pets de #licorne sont tol\u00e9r\u00e9s @cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon", 
-                "authorid": "37664964", 
-                "instagramcode": "BVKRohZDZah", 
-                "post_date": "2017-06-10 15:22:00", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833190441131593, 
                     45.771695207876185
                 ]
