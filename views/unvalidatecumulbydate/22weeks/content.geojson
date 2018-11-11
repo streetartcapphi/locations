@@ -1484,44 +1484,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f44cca0b234b1749341d8adb29124714/5BA1301D/t51.2885-15/e35/33528295_298859240651947_8146519106049277952_n.jpg", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1793647494460519549", 
-                "timestamp": 1528039465, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f01dce8e862dba76d89c48ba9218b8e6/5BACDD9F/t51.2885-15/s640x640/sh0.08/e35/c0.63.1080.1080/33528295_298859240651947_8146519106049277952_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1528039465, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f44cca0b234b1749341d8adb29124714/5BA1301D/t51.2885-15/e35/33528295_298859240651947_8146519106049277952_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1793647494460519549"
-                }, 
-                "caption": "#croixrousse #pentesdelacroixrousse #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793647494460519549_34904985.json", 
-                "instagramcode": "BjkUOSflrR9", 
-                "post_date": "2018-06-03 17:24:25", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
                 "originally_localized": true, 
                 "author": "duke9784", 
@@ -1542,44 +1504,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793702018374114146_5529011003.json", 
                 "instagramcode": "Bjkgnt2Fxti", 
                 "post_date": "2018-06-03 19:12:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/50d5e5acadce3e43241d1cdb053afeb0/5BB13B81/t51.2885-15/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1793646311733954976", 
-                "timestamp": 1528039324, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ccca476a2dd4aa7821e271fc9f7a2ab5/5BBA85AB/t51.2885-15/s640x640/sh0.08/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1528039324, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/50d5e5acadce3e43241d1cdb053afeb0/5BB13B81/t51.2885-15/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1793646311733954976"
-                }, 
-                "caption": "#croixrousse #pentesdelacroixrousse #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793646311733954976_34904985.json", 
-                "instagramcode": "BjkT9E_l4mg", 
-                "post_date": "2018-06-03 17:22:04", 
                 "validated": false
             }
         }, 

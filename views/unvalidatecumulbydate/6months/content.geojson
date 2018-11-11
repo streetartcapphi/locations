@@ -1592,138 +1592,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5169293f1d55da04899dcc4d93be436f/5B8571CD/t51.2885-15/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788570608210303576", 
-                "timestamp": 1527434253, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/87772d9bfb10dc691016208de7f71e9e/5B855BAC/t51.2885-15/s640x640/sh0.08/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434253, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5169293f1d55da04899dcc4d93be436f/5B8571CD/t51.2885-15/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788570608210303576"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 6/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788570608210303576_10561354.json", 
-                "instagramcode": "BjSR33uFFpY", 
-                "post_date": "2018-05-27 17:17:33", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1e6cd5f633e35fc84461bb12831d53f2/5B85DBAE/t51.2885-15/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788569435650783760", 
-                "timestamp": 1527434113, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/86898f59fd7b21655757d7cfcf009d2b/5BC00CCF/t51.2885-15/s640x640/sh0.08/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434113, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1e6cd5f633e35fc84461bb12831d53f2/5B85DBAE/t51.2885-15/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788569435650783760"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 3/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788569435650783760_10561354.json", 
-                "instagramcode": "BjSRmzsFfoQ", 
-                "post_date": "2018-05-27 17:15:13", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a96ece04cf846b637b4589e132e25892/5B83A6D7/t51.2885-15/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788569585102308584", 
-                "timestamp": 1527434131, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ff7d69eb39778a9deca042c701459c7a/5BA594FD/t51.2885-15/s640x640/sh0.08/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434131, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a96ece04cf846b637b4589e132e25892/5B83A6D7/t51.2885-15/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788569585102308584"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 4/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788569585102308584_10561354.json", 
-                "instagramcode": "BjSRo-4F0To", 
-                "post_date": "2018-05-27 17:15:31", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/76283314058bc8d4d524c49cbab0f8a0/5B864304/t51.2885-15/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788570316915878485", 
-                "timestamp": 1527434218, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/857381f11c2083dafadb67f1268dceaa/5BC39C65/t51.2885-15/s640x640/sh0.08/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434218, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/76283314058bc8d4d524c49cbab0f8a0/5B864304/t51.2885-15/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788570316915878485"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 5/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788570316915878485_10561354.json", 
-                "instagramcode": "BjSRzoblCpV", 
-                "post_date": "2018-05-27 17:16:58", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828805029392243, 
                     45.77649384000149
                 ]
@@ -2558,6 +2426,105 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5169293f1d55da04899dcc4d93be436f/5B8571CD/t51.2885-15/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
+                "originally_localized": true, 
+                "author": "flambidou", 
+                "instagramid": "1788570608210303576", 
+                "timestamp": 1527434253, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/87772d9bfb10dc691016208de7f71e9e/5B855BAC/t51.2885-15/s640x640/sh0.08/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "flambidou", 
+                    "timestamp": 1527434253, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5169293f1d55da04899dcc4d93be436f/5B8571CD/t51.2885-15/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
+                    "authorid": "10561354", 
+                    "location": null, 
+                    "id": "1788570608210303576"
+                }, 
+                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 6/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
+                "authorid": "10561354", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788570608210303576_10561354.json", 
+                "instagramcode": "BjSR33uFFpY", 
+                "post_date": "2018-05-27 17:17:33", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1e6cd5f633e35fc84461bb12831d53f2/5B85DBAE/t51.2885-15/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
+                "originally_localized": true, 
+                "author": "flambidou", 
+                "instagramid": "1788569435650783760", 
+                "timestamp": 1527434113, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/86898f59fd7b21655757d7cfcf009d2b/5BC00CCF/t51.2885-15/s640x640/sh0.08/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "flambidou", 
+                    "timestamp": 1527434113, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1e6cd5f633e35fc84461bb12831d53f2/5B85DBAE/t51.2885-15/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
+                    "authorid": "10561354", 
+                    "location": null, 
+                    "id": "1788569435650783760"
+                }, 
+                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 3/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
+                "authorid": "10561354", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788569435650783760_10561354.json", 
+                "instagramcode": "BjSRmzsFfoQ", 
+                "post_date": "2018-05-27 17:15:13", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a96ece04cf846b637b4589e132e25892/5B83A6D7/t51.2885-15/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
+                "originally_localized": true, 
+                "author": "flambidou", 
+                "instagramid": "1788569585102308584", 
+                "timestamp": 1527434131, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ff7d69eb39778a9deca042c701459c7a/5BA594FD/t51.2885-15/s640x640/sh0.08/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "flambidou", 
+                    "timestamp": 1527434131, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a96ece04cf846b637b4589e132e25892/5B83A6D7/t51.2885-15/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
+                    "authorid": "10561354", 
+                    "location": null, 
+                    "id": "1788569585102308584"
+                }, 
+                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 4/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
+                "authorid": "10561354", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788569585102308584_10561354.json", 
+                "instagramcode": "BjSRo-4F0To", 
+                "post_date": "2018-05-27 17:15:31", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818360507488252, 
                     45.726796315865144
                 ]
@@ -2584,6 +2551,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788511389830374201_2999332484.json", 
                 "instagramcode": "BjSEaITlGM5", 
                 "post_date": "2018-05-27 15:19:53", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/76283314058bc8d4d524c49cbab0f8a0/5B864304/t51.2885-15/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
+                "originally_localized": true, 
+                "author": "flambidou", 
+                "instagramid": "1788570316915878485", 
+                "timestamp": 1527434218, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/857381f11c2083dafadb67f1268dceaa/5BC39C65/t51.2885-15/s640x640/sh0.08/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "flambidou", 
+                    "timestamp": 1527434218, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/76283314058bc8d4d524c49cbab0f8a0/5B864304/t51.2885-15/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
+                    "authorid": "10561354", 
+                    "location": null, 
+                    "id": "1788570316915878485"
+                }, 
+                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 5/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
+                "authorid": "10561354", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788570316915878485_10561354.json", 
+                "instagramcode": "BjSRzoblCpV", 
+                "post_date": "2018-05-27 17:16:58", 
                 "validated": false
             }
         }
