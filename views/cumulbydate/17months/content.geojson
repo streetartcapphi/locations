@@ -1083,27 +1083,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831661581993104, 
-                    45.77110493825319
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-10 06:05:27", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25012138_393944941062513_8118682894722924544_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BcgtJMfgYMA/", 
-                "caption": "#b\u00eate #beast #beauty #bella #belle ... Entre #crane #dent #fleur et #c\u0153ur ... que des doutes ... #capphi #urbanart #streetart #croixrousse", 
-                "validated": true, 
-                "id": "1666530406108857088_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.830803275108337, 
                     45.76879899150495
                 ]
@@ -1182,6 +1161,27 @@
                 "caption": "Ma #derni\u00e8re #petite #amazone je retourne aux #monstres #capphi #streetart #urbanart #lyon #croixrousse", 
                 "validated": true, 
                 "id": "1668689046320397725_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831661581993104, 
+                    45.77110493825319
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-10 06:05:27", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25012138_393944941062513_8118682894722924544_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BcgtJMfgYMA/", 
+                "caption": "#b\u00eate #beast #beauty #bella #belle ... Entre #crane #dent #fleur et #c\u0153ur ... que des doutes ... #capphi #urbanart #streetart #croixrousse", 
+                "validated": true, 
+                "id": "1666530406108857088_29177514"
             }
         }, 
         {
