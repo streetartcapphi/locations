@@ -3488,39 +3488,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818250536918641, 
-                    45.72586947127188
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f6a876db6068931a0692ea82b62d45b/5B70FB59/t51.2885-15/e35/25036156_143284899711461_4145845301338439680_n.jpg", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1687701864906722753", 
-                "timestamp": 1515409762, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2d0dd958198c0524ce86acfc69ed8ccb/5B69BA8B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036156_143284899711461_4145845301338439680_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1515409762, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2f6a876db6068931a0692ea82b62d45b/5B70FB59/t51.2885-15/e35/25036156_143284899711461_4145845301338439680_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1687701864906722753"
-                }, 
-                "caption": "Eh @cap_phi, tu as trop arros\u00e9 ton r\u00e9veillon ??\n\ud83e\udd22\n#vomito #capphi #Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #jj_urbanart", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-08/1687701864906722753_1222751817.json", 
-                "instagramcode": "Bdr6-eAh43B", 
-                "post_date": "2018-01-08 12:09:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828955233097077, 
                     45.77666220556043
                 ]
