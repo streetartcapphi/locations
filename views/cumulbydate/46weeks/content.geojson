@@ -814,27 +814,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832192659378053, 
-                    45.778358927873214
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-01-08 05:43:34", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26340598_2008704966076813_2862624689518280704_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BdrVsP1g2sr/", 
-                "caption": "A #chacun son #tresor il est s'ouvrant bien #cach\u00e9  #monstre #dent #sourire #streetart #urbanartist #capphi  #croixrousse", 
-                "validated": true, 
-                "id": "1687537885018024747_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.835164546966553, 
                     45.77550795591423
                 ]
@@ -1098,6 +1077,27 @@
                 "caption": "Ma #f\u00e9e des #dents \u00e0 #trouv\u00e9e la #fabrique de ses #petits #tresors #capphi #monstre #urbanart #croixrousse #streetstyle #instart", 
                 "validated": true, 
                 "id": "1686238124533076011_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832192659378053, 
+                    45.778358927873214
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-01-08 05:43:34", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26340598_2008704966076813_2862624689518280704_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BdrVsP1g2sr/", 
+                "caption": "A #chacun son #tresor il est s'ouvrant bien #cach\u00e9  #monstre #dent #sourire #streetart #urbanartist #capphi  #croixrousse", 
+                "validated": true, 
+                "id": "1687537885018024747_29177514"
             }
         }
     ]
