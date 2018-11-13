@@ -1330,27 +1330,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834456443786622, 
-                    45.77515625111101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-09-19 06:02:00", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21827596_1579939542086066_488525819518386176_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BZNjkPiAi1J/", 
-                "caption": "#eden #petite #amazone #arbredevie ou la #tentation du #serpent #flowers #girl #capphi #urbanart #croixrousse", 
-                "validated": true, 
-                "id": "1607097064246881609_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831538200378419, 
                     45.770606337967685
                 ]
