@@ -512,39 +512,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6c7b91a09b217d00b9b1e6b43c2ccb90/5BAE7E6C/t51.2885-15/s1080x1080/e15/fr/35617024_212402386049340_8654463911526924288_n.jpg", 
-                "originally_localized": true, 
-                "author": "photisao", 
-                "instagramid": "1810144605561636621", 
-                "timestamp": 1530006074, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/26d1670a1f6cc8434faa847ecc66ff40/5BB32C7D/t51.2885-15/s640x640/e15/c182.0.716.716/35617024_212402386049340_8654463911526924288_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "photisao", 
-                    "timestamp": 1530006074, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6c7b91a09b217d00b9b1e6b43c2ccb90/5BAE7E6C/t51.2885-15/s1080x1080/e15/fr/35617024_212402386049340_8654463911526924288_n.jpg", 
-                    "authorid": "3406678819", 
-                    "location": null, 
-                    "id": "1810144605561636621"
-                }, 
-                "caption": "Petite amazonne, collage par @cap_phi \n#capphi #petite #amazone #eden #arbredevie #collage #cr\u00e9ature # #croixrousse #pentes #mur #graff #streetart #artderue #Lyon #rhone #ville #jaimelyon #nikon #nikonfrance #nikonfr #D90 #photisao #cornes #serpent #femme #streetartcroixrousse #art", 
-                "authorid": "3406678819", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-26/1810144605561636621_3406678819.json", 
-                "instagramcode": "Bke7O2el0cN", 
-                "post_date": "2018-06-26 11:41:14", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828767478466035, 
                     45.776564927743934
                 ]
@@ -1324,6 +1291,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-25/1809368038011382800_2876693898.json", 
                 "instagramcode": "BkcKqTlnSwQ", 
                 "post_date": "2018-06-25 09:58:20", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6c7b91a09b217d00b9b1e6b43c2ccb90/5BAE7E6C/t51.2885-15/s1080x1080/e15/fr/35617024_212402386049340_8654463911526924288_n.jpg", 
+                "originally_localized": true, 
+                "author": "photisao", 
+                "instagramid": "1810144605561636621", 
+                "timestamp": 1530006074, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/26d1670a1f6cc8434faa847ecc66ff40/5BB32C7D/t51.2885-15/s640x640/e15/c182.0.716.716/35617024_212402386049340_8654463911526924288_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "photisao", 
+                    "timestamp": 1530006074, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6c7b91a09b217d00b9b1e6b43c2ccb90/5BAE7E6C/t51.2885-15/s1080x1080/e15/fr/35617024_212402386049340_8654463911526924288_n.jpg", 
+                    "authorid": "3406678819", 
+                    "location": null, 
+                    "id": "1810144605561636621"
+                }, 
+                "caption": "Petite amazonne, collage par @cap_phi \n#capphi #petite #amazone #eden #arbredevie #collage #cr\u00e9ature # #croixrousse #pentes #mur #graff #streetart #artderue #Lyon #rhone #ville #jaimelyon #nikon #nikonfrance #nikonfr #D90 #photisao #cornes #serpent #femme #streetartcroixrousse #art", 
+                "authorid": "3406678819", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-26/1810144605561636621_3406678819.json", 
+                "instagramcode": "Bke7O2el0cN", 
+                "post_date": "2018-06-26 11:41:14", 
                 "validated": false
             }
         }, 
