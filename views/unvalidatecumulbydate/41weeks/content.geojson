@@ -735,39 +735,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.819049835205079, 
-                    45.726717675102755
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e43439a9ae4525b9739b758566388ee5/5BC57158/t51.2885-15/e35/35316502_1511414999004874_5752947794927157248_n.jpg", 
-                "originally_localized": true, 
-                "author": "elod30", 
-                "instagramid": "1806159560036041412", 
-                "timestamp": 1529531019, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b15400af5df526dda4ec7fe8c78a88f9/5BBE6F5B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/35316502_1511414999004874_5752947794927157248_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elod30", 
-                    "timestamp": 1529531019, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e43439a9ae4525b9739b758566388ee5/5BC57158/t51.2885-15/e35/35316502_1511414999004874_5752947794927157248_n.jpg", 
-                    "authorid": "13718599", 
-                    "location": null, 
-                    "id": "1806159560036041412"
-                }, 
-                "caption": "Il ne faut pas tant se m\u00e9fier des autres , que se d\u00e9fier sois m\u00eame. (Proverbe Iranien)\n.\n.\n@cap_phi #capphi #poisson #conscience #collage #posca #streetart #streetartlyon #streetartiseverywhere #streetartist #croixrousse #artderue #urbanart #jj_urbanart #lyon #monlyon #lelyondelod #streetview #igersstreetart", 
-                "authorid": "13718599", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-20/1806159560036041412_13718599.json", 
-                "instagramcode": "BkQxIznn8LE", 
-                "post_date": "2018-06-20 23:43:39", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -1154,6 +1121,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-14/1801465493398187273_1730455071.json", 
                 "instagramcode": "BkAF1JZH20J", 
                 "post_date": "2018-06-14 12:17:23", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.819049835205079, 
+                    45.726717675102755
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e43439a9ae4525b9739b758566388ee5/5BC57158/t51.2885-15/e35/35316502_1511414999004874_5752947794927157248_n.jpg", 
+                "originally_localized": true, 
+                "author": "elod30", 
+                "instagramid": "1806159560036041412", 
+                "timestamp": 1529531019, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b15400af5df526dda4ec7fe8c78a88f9/5BBE6F5B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/35316502_1511414999004874_5752947794927157248_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "elod30", 
+                    "timestamp": 1529531019, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/e43439a9ae4525b9739b758566388ee5/5BC57158/t51.2885-15/e35/35316502_1511414999004874_5752947794927157248_n.jpg", 
+                    "authorid": "13718599", 
+                    "location": null, 
+                    "id": "1806159560036041412"
+                }, 
+                "caption": "Il ne faut pas tant se m\u00e9fier des autres , que se d\u00e9fier sois m\u00eame. (Proverbe Iranien)\n.\n.\n@cap_phi #capphi #poisson #conscience #collage #posca #streetart #streetartlyon #streetartiseverywhere #streetartist #croixrousse #artderue #urbanart #jj_urbanart #lyon #monlyon #lelyondelod #streetview #igersstreetart", 
+                "authorid": "13718599", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-20/1806159560036041412_13718599.json", 
+                "instagramcode": "BkQxIznn8LE", 
+                "post_date": "2018-06-20 23:43:39", 
                 "validated": false
             }
         }, 
