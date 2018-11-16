@@ -3247,39 +3247,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818127155303956, 
-                    45.725101770166965
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/57194be3111fe146b93898d45bc4546f/5B6F9968/t51.2885-15/e35/26157374_2022614018058970_2388249258231857152_n.jpg", 
-                "originally_localized": true, 
-                "author": "nat_streetart", 
-                "instagramid": "1690489446222202587", 
-                "timestamp": 1515742067, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/97bcd97376aed95a5b5be56b4a530147/5B511342/t51.2885-15/s640x640/sh0.08/e35/26157374_2022614018058970_2388249258231857152_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "nat_streetart", 
-                    "timestamp": 1515742067, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/57194be3111fe146b93898d45bc4546f/5B6F9968/t51.2885-15/e35/26157374_2022614018058970_2388249258231857152_n.jpg", 
-                    "authorid": "3319426304", 
-                    "location": null, 
-                    "id": "1690489446222202587"
-                }, 
-                "caption": "Et de 3 ....Artiste @cap_phi...\ud83d\udcab\u2022\t#streetartist #streetart #streetartlyon #urbanart #urbanartist  #streetarteverywhere #streetartworld  #lyon #onlylyon  #croixrousse # #urbanwalls #collage #stencil  #graffiti #pasteup #monstre #monster #graffitilyon #dent # #capphi #coeur #sourire #smile #tooth #monstre #streetstyle #instart #petitesouris #theeth", 
-                "authorid": "3319426304", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-12/1690489446222202587_3319426304.json", 
-                "instagramcode": "Bd10zHanwbb", 
-                "post_date": "2018-01-12 08:27:47", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -3623,6 +3590,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686384218367505213_5529011003.json", 
                 "instagramcode": "BdnPYMCnrM9", 
                 "post_date": "2018-01-06 16:31:26", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818127155303956, 
+                    45.725101770166965
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/57194be3111fe146b93898d45bc4546f/5B6F9968/t51.2885-15/e35/26157374_2022614018058970_2388249258231857152_n.jpg", 
+                "originally_localized": true, 
+                "author": "nat_streetart", 
+                "instagramid": "1690489446222202587", 
+                "timestamp": 1515742067, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/97bcd97376aed95a5b5be56b4a530147/5B511342/t51.2885-15/s640x640/sh0.08/e35/26157374_2022614018058970_2388249258231857152_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "nat_streetart", 
+                    "timestamp": 1515742067, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/57194be3111fe146b93898d45bc4546f/5B6F9968/t51.2885-15/e35/26157374_2022614018058970_2388249258231857152_n.jpg", 
+                    "authorid": "3319426304", 
+                    "location": null, 
+                    "id": "1690489446222202587"
+                }, 
+                "caption": "Et de 3 ....Artiste @cap_phi...\ud83d\udcab\u2022\t#streetartist #streetart #streetartlyon #urbanart #urbanartist  #streetarteverywhere #streetartworld  #lyon #onlylyon  #croixrousse # #urbanwalls #collage #stencil  #graffiti #pasteup #monstre #monster #graffitilyon #dent # #capphi #coeur #sourire #smile #tooth #monstre #streetstyle #instart #petitesouris #theeth", 
+                "authorid": "3319426304", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-12/1690489446222202587_3319426304.json", 
+                "instagramcode": "Bd10zHanwbb", 
+                "post_date": "2018-01-12 08:27:47", 
                 "validated": false
             }
         }, 
