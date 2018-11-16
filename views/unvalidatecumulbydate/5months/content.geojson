@@ -1478,44 +1478,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828898906707765, 
-                    45.77654809118156
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0cb81be08fd6291785d5cc232862a43c/5BA745E4/t51.2885-15/e35/32758535_256440788425562_1850047288622186496_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1792199097304482425", 
-                "timestamp": 1527866802, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/51e90eb7f35242e938b088ab0f0230b2/5BBDD185/t51.2885-15/s640x640/sh0.08/e35/32758535_256440788425562_1850047288622186496_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1527866802, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0cb81be08fd6291785d5cc232862a43c/5BA745E4/t51.2885-15/e35/32758535_256440788425562_1850047288622186496_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1792199097304482425"
-                }, 
-                "caption": "Et de 4 !\nMa bouillabaisse fa\u00e7on @cap_phi sera bient\u00f4t pr\u00eate \ud83d\ude0a\ud83d\udc4c\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #nofilter #collage #pasteup #poisson #fish #capphi #jeudepiste", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-01/1792199097304482425_2876693898.json", 
-                "instagramcode": "BjfK5VhnAJ5", 
-                "post_date": "2018-06-01 17:26:42", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828805029392243, 
                     45.77649384000149
                 ]
