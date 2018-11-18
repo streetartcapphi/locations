@@ -1255,39 +1255,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1793702018374114146", 
-                "timestamp": 1528045964, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ebb8b8a1c7c95cc673aa6b2b5804d5c/5BB750B2/t51.2885-15/s640x640/sh0.08/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1528045964, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1793702018374114146"
-                }, 
-                "caption": "Artiste: Cap Phi\nMerci @cap_phi pour l'invitation et le voyage ;)\n#capphi  #collage #StreetArtlyon #france #Lyon #Art #Streetart #streetartphotography #artist #graffiti #StreetArtFrance #streetarteverywhere #graffitilyon", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793702018374114146_5529011003.json", 
-                "instagramcode": "Bjkgnt2Fxti", 
-                "post_date": "2018-06-03 19:12:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832179248332977, 
                     45.758021051554316
                 ]
@@ -1831,6 +1798,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793647494460519549_34904985.json", 
                 "instagramcode": "BjkUOSflrR9", 
                 "post_date": "2018-06-03 17:24:25", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1793702018374114146", 
+                "timestamp": 1528045964, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ebb8b8a1c7c95cc673aa6b2b5804d5c/5BB750B2/t51.2885-15/s640x640/sh0.08/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1528045964, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1793702018374114146"
+                }, 
+                "caption": "Artiste: Cap Phi\nMerci @cap_phi pour l'invitation et le voyage ;)\n#capphi  #collage #StreetArtlyon #france #Lyon #Art #Streetart #streetartphotography #artist #graffiti #StreetArtFrance #streetarteverywhere #graffitilyon", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793702018374114146_5529011003.json", 
+                "instagramcode": "Bjkgnt2Fxti", 
+                "post_date": "2018-06-03 19:12:44", 
                 "validated": false
             }
         }, 
