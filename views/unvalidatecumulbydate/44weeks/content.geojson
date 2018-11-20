@@ -2553,39 +2553,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81815129518509, 
-                    45.726736399103835
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f6572a45d2f5de1e57677818e893f1e7/5B7C8597/t51.2885-15/e35/30604668_362993857520553_4306318228843397120_n.jpg", 
-                "originally_localized": true, 
-                "author": "ghostsurfer69", 
-                "instagramid": "1764703956922457293", 
-                "timestamp": 1524589126, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/375bbc5c12621dd195221a2e39a16f10/5B69E9F6/t51.2885-15/s640x640/sh0.08/e35/30604668_362993857520553_4306318228843397120_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "ghostsurfer69", 
-                    "timestamp": 1524589126, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f6572a45d2f5de1e57677818e893f1e7/5B7C8597/t51.2885-15/e35/30604668_362993857520553_4306318228843397120_n.jpg", 
-                    "authorid": "3432192446", 
-                    "location": null, 
-                    "id": "1764703956922457293"
-                }, 
-                "caption": "#streetart #streetartist #streetartlyon #urbanartist #urbanart #ghostsurfer @ghostsurfer69 #gs #capphi @cap_phi #element @elementstorelyon #bigwaves #surf #surfer #pictoftheday #photooftheday #lyon #onlylyon #handpainted #handpaint #collab #collage merci @cap_phi pour la collab et @elementstorelyon pour le spot !!", 
-                "authorid": "3432192446", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-24/1764703956922457293_3432192446.json", 
-                "instagramcode": "Bh9fOYmFtzN", 
-                "post_date": "2018-04-24 18:58:46", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828788936138154, 
                     45.77669774933565
                 ]
@@ -2650,6 +2617,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-28/1767683959323337078_1014838066.json", 
                 "instagramcode": "BiIEzIGn6F2", 
                 "post_date": "2018-04-28 21:39:30", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81815129518509, 
+                    45.726736399103835
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f6572a45d2f5de1e57677818e893f1e7/5B7C8597/t51.2885-15/e35/30604668_362993857520553_4306318228843397120_n.jpg", 
+                "originally_localized": true, 
+                "author": "ghostsurfer69", 
+                "instagramid": "1764703956922457293", 
+                "timestamp": 1524589126, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/375bbc5c12621dd195221a2e39a16f10/5B69E9F6/t51.2885-15/s640x640/sh0.08/e35/30604668_362993857520553_4306318228843397120_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "ghostsurfer69", 
+                    "timestamp": 1524589126, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f6572a45d2f5de1e57677818e893f1e7/5B7C8597/t51.2885-15/e35/30604668_362993857520553_4306318228843397120_n.jpg", 
+                    "authorid": "3432192446", 
+                    "location": null, 
+                    "id": "1764703956922457293"
+                }, 
+                "caption": "#streetart #streetartist #streetartlyon #urbanartist #urbanart #ghostsurfer @ghostsurfer69 #gs #capphi @cap_phi #element @elementstorelyon #bigwaves #surf #surfer #pictoftheday #photooftheday #lyon #onlylyon #handpainted #handpaint #collab #collage merci @cap_phi pour la collab et @elementstorelyon pour le spot !!", 
+                "authorid": "3432192446", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-24/1764703956922457293_3432192446.json", 
+                "instagramcode": "Bh9fOYmFtzN", 
+                "post_date": "2018-04-24 18:58:46", 
                 "validated": false
             }
         }, 
