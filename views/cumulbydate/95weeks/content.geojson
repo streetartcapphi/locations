@@ -2758,43 +2758,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834397435188294, 
-                    45.77518244197068
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BUvsSVnjHVy", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1526633572911052146", 
-                "timestamp": 1496208925, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.39.1080.1080/18811957_133746513852882_4692705998031290368_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1496208925, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18811957_133746513852882_4692705998031290368_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1526633572911052146"
-                }, 
-                "caption": "Et de 2 ! Merci @cap_phi pour tous ces cadeaux sur nos murs \u2764\u2764\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
-                "authorid": "2876693898", 
-                "instagramcode": "BUvsSVnjHVy", 
-                "post_date": "2017-05-31 07:35:25", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832804203033448, 
                     45.76854079437242
                 ]
@@ -3190,6 +3153,43 @@
                 "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521909070565798895_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834397435188294, 
+                    45.77518244197068
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BUvsSVnjHVy", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1526633572911052146", 
+                "timestamp": 1496208925, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.39.1080.1080/18811957_133746513852882_4692705998031290368_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1496208925, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18811957_133746513852882_4692705998031290368_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1526633572911052146"
+                }, 
+                "caption": "Et de 2 ! Merci @cap_phi pour tous ces cadeaux sur nos murs \u2764\u2764\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #dragongirl #capphi #@cap_phi #amazone #fantasy #artephemere", 
+                "authorid": "2876693898", 
+                "instagramcode": "BUvsSVnjHVy", 
+                "post_date": "2017-05-31 07:35:25", 
+                "validated": true
             }
         }, 
         {
