@@ -82,44 +82,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/eb2b9a395470e9897957c6d0b1b305ac/5C1023E1/t51.2885-15/e35/37645781_1068520079975678_5536637183017877504_n.jpg", 
-                "originally_localized": true, 
-                "author": "fellassari", 
-                "instagramid": "1836971556121476376", 
-                "timestamp": 1533204095, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/890c35c6508d99ef1d36cb494442161b/5C119D5B/t51.2885-15/sh0.08/e35/s640x640/37645781_1068520079975678_5536637183017877504_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "fellassari", 
-                    "timestamp": 1533204095, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/eb2b9a395470e9897957c6d0b1b305ac/5C1023E1/t51.2885-15/e35/37645781_1068520079975678_5536637183017877504_n.jpg", 
-                    "authorid": "6832502255", 
-                    "location": {
-                        "slug": "lyon-7e", 
-                        "has_public_page": true, 
-                        "name": "Lyon 7e", 
-                        "id": "481880730"
-                    }, 
-                    "id": "1836971556121476376"
-                }, 
-                "caption": "rue S\u00e9bastien Gryphe #streetart #streetartlyon #capphi #zorm #ruesebastiengryphe", 
-                "authorid": "6832502255", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-02/1836971556121476376_6832502255.json", 
-                "instagramcode": "Bl-O-XJHf0Y", 
-                "post_date": "2018-08-02 12:01:35", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1cf36039c29e9f9534ea80abecd1508e/5C11CA78/t51.2885-15/e35/37933168_1460282670784609_5150769165002342400_n.jpg", 
                 "originally_localized": true, 
                 "author": "streetart_lyon", 
@@ -315,6 +277,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-10/1820324545938898406_1730455071.json", 
                 "instagramcode": "BlDF4ewnL3m", 
                 "post_date": "2018-07-10 12:46:57", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/eb2b9a395470e9897957c6d0b1b305ac/5C1023E1/t51.2885-15/e35/37645781_1068520079975678_5536637183017877504_n.jpg", 
+                "originally_localized": true, 
+                "author": "fellassari", 
+                "instagramid": "1836971556121476376", 
+                "timestamp": 1533204095, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/890c35c6508d99ef1d36cb494442161b/5C119D5B/t51.2885-15/sh0.08/e35/s640x640/37645781_1068520079975678_5536637183017877504_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "fellassari", 
+                    "timestamp": 1533204095, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/eb2b9a395470e9897957c6d0b1b305ac/5C1023E1/t51.2885-15/e35/37645781_1068520079975678_5536637183017877504_n.jpg", 
+                    "authorid": "6832502255", 
+                    "location": {
+                        "slug": "lyon-7e", 
+                        "has_public_page": true, 
+                        "name": "Lyon 7e", 
+                        "id": "481880730"
+                    }, 
+                    "id": "1836971556121476376"
+                }, 
+                "caption": "rue S\u00e9bastien Gryphe #streetart #streetartlyon #capphi #zorm #ruesebastiengryphe", 
+                "authorid": "6832502255", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-02/1836971556121476376_6832502255.json", 
+                "instagramcode": "Bl-O-XJHf0Y", 
+                "post_date": "2018-08-02 12:01:35", 
                 "validated": false
             }
         }, 
@@ -1613,44 +1613,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-07/1796277466714988198_7001793922.json", 
                 "instagramcode": "BjtqNbBld6m", 
                 "post_date": "2018-06-07 08:29:42", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831892251968385, 
-                    45.7578058457884
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4ad99ef9dc7eccb174ad7b1a91e532db/5B8A3044/t51.2885-15/e35/31184304_171810600204269_6748779187055624192_n.jpg", 
-                "originally_localized": true, 
-                "author": "annirieix", 
-                "instagramid": "1776095407112186563", 
-                "timestamp": 1525947093, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2bd530e762bc4c3f5701602cadc086c5/5B975925/t51.2885-15/s640x640/sh0.08/e35/31184304_171810600204269_6748779187055624192_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "annirieix", 
-                    "timestamp": 1525947093, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/4ad99ef9dc7eccb174ad7b1a91e532db/5B8A3044/t51.2885-15/e35/31184304_171810600204269_6748779187055624192_n.jpg", 
-                    "authorid": "5488122204", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1776095407112186563"
-                }, 
-                "caption": "@cap_phi  Petit monstre Mont\u00e9e de la grande c\u00f4te, \u00e0 demi recouvert!\n#lyon #lyoncity #onlylyon #igerslyon #ilovelyon #monlyon #maville #jaimemaville #streetart #artderue #arturbainlyon #arturbain #urbanart #villedelyon #streetphotographie #streetphotographer #streetphotography #streetview #urbain #murs #grafitti #urban #monteedelagrandecote #monstre #capphi #orange #petitmonstre", 
-                "authorid": "5488122204", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-10/1776095407112186563_5488122204.json", 
-                "instagramcode": "Bil9VzUH-rD", 
-                "post_date": "2018-05-10 12:11:33", 
                 "validated": false
             }
         }, 
