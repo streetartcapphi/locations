@@ -2953,44 +2953,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.9092352, 
-                    45.7337532
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c899bf52cdfdf301230d7dc4559378fa/5B5D3D87/t51.2885-15/e35/28151945_199613190620844_3582488416945700864_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1720219902608746470", 
-                "timestamp": 1519286214, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6e2487e3d747db235ea7e790da7bfee9/5B634CE6/t51.2885-15/s640x640/sh0.08/e35/28151945_199613190620844_3582488416945700864_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1519286214, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c899bf52cdfdf301230d7dc4559378fa/5B5D3D87/t51.2885-15/e35/28151945_199613190620844_3582488416945700864_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "bron", 
-                        "has_public_page": true, 
-                        "name": "Bron", 
-                        "id": "1365037"
-                    }, 
-                    "id": "1720219902608746470"
-                }, 
-                "caption": "Hier soir, un superbe cadeau m'attendait dans la bo\u00eete aux lettres \u2764\ud83d\ude0d\nUn \u00c9NORME merci \u00e0 toi @elise_elisa1 pour ce beau cadeau \ud83d\ude1a tu connais mes go\u00fbts et mes convictions \ud83d\udc4d\nUn gros big up @ghostsurfer69, @ak.n.street.art, @swing_forain, @lasco_69, @cap_phi. Vous allez rejoindre @cal_dessins_and_co, @line.street.art et @a_r_d_i_f sur mon mur sympa.Votre talent n'a d'\u00e9gal que votre g\u00e9n\u00e9rosit\u00e9, et c'est super de l'avoir mis au service des plus d\u00e9munis via @streetart4actionfroid\ud83d\udc4f\ud83d\udc4d\u2764.\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #generosite #solidarite #lasco69 #swing #akene #ghostsurfer #capphi #streetart4actionfroid", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-22/1720219902608746470_2876693898.json", 
-                "instagramcode": "BffcuMmjSfm", 
-                "post_date": "2018-02-22 08:56:54", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.821646213531495, 
                     45.72345398583055
                 ]
@@ -3131,6 +3093,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-19/1718043794883229435_810473762.json", 
                 "instagramcode": "BfXt7qWlDb7", 
                 "post_date": "2018-02-19 08:53:21", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.9092352, 
+                    45.7337532
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c899bf52cdfdf301230d7dc4559378fa/5B5D3D87/t51.2885-15/e35/28151945_199613190620844_3582488416945700864_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1720219902608746470", 
+                "timestamp": 1519286214, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/6e2487e3d747db235ea7e790da7bfee9/5B634CE6/t51.2885-15/s640x640/sh0.08/e35/28151945_199613190620844_3582488416945700864_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1519286214, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c899bf52cdfdf301230d7dc4559378fa/5B5D3D87/t51.2885-15/e35/28151945_199613190620844_3582488416945700864_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "bron", 
+                        "has_public_page": true, 
+                        "name": "Bron", 
+                        "id": "1365037"
+                    }, 
+                    "id": "1720219902608746470"
+                }, 
+                "caption": "Hier soir, un superbe cadeau m'attendait dans la bo\u00eete aux lettres \u2764\ud83d\ude0d\nUn \u00c9NORME merci \u00e0 toi @elise_elisa1 pour ce beau cadeau \ud83d\ude1a tu connais mes go\u00fbts et mes convictions \ud83d\udc4d\nUn gros big up @ghostsurfer69, @ak.n.street.art, @swing_forain, @lasco_69, @cap_phi. Vous allez rejoindre @cal_dessins_and_co, @line.street.art et @a_r_d_i_f sur mon mur sympa.Votre talent n'a d'\u00e9gal que votre g\u00e9n\u00e9rosit\u00e9, et c'est super de l'avoir mis au service des plus d\u00e9munis via @streetart4actionfroid\ud83d\udc4f\ud83d\udc4d\u2764.\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #generosite #solidarite #lasco69 #swing #akene #ghostsurfer #capphi #streetart4actionfroid", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-02-22/1720219902608746470_2876693898.json", 
+                "instagramcode": "BffcuMmjSfm", 
+                "post_date": "2018-02-22 08:56:54", 
                 "validated": false
             }
         }
