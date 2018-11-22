@@ -399,44 +399,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/075c6bd5fc697401dac2d07c9d10c2b7/5BCC6993/t51.2885-15/e35/36136471_231085284373685_7225670236521889792_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9", 
-                "originally_localized": true, 
-                "author": "teresa.nota", 
-                "instagramid": "1816817734970217582", 
-                "timestamp": 1530801573, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/495b3bf1954e712ec8dfafb0be91c051/5BCC9876/t51.2885-15/sh0.08/e35/s640x640/36136471_231085284373685_7225670236521889792_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "teresa.nota", 
-                    "timestamp": 1530801573, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/075c6bd5fc697401dac2d07c9d10c2b7/5BCC6993/t51.2885-15/e35/36136471_231085284373685_7225670236521889792_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9", 
-                    "authorid": "4214272095", 
-                    "location": {
-                        "slug": "les-frigos", 
-                        "has_public_page": true, 
-                        "name": "Les Frigos", 
-                        "id": "1559191217709583"
-                    }, 
-                    "id": "1816817734970217582"
-                }, 
-                "caption": "#capphi #phicap", 
-                "authorid": "4214272095", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-05/1816817734970217582_4214272095.json", 
-                "instagramcode": "Bk2ohqih5Ru", 
-                "post_date": "2018-07-05 16:39:33", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/52a45c9a47ca27532ea4e012f266a486/5BD04AA5/t51.2885-15/e35/36790988_224051745111495_3419070469020581888_n.jpg", 
                 "originally_localized": true, 
                 "author": "fellassari", 
@@ -1291,6 +1253,44 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-08/1797030345574924427_7570439586.json", 
                 "instagramcode": "BjwVZQGl0CL", 
                 "post_date": "2018-06-08 09:25:32", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/075c6bd5fc697401dac2d07c9d10c2b7/5BCC6993/t51.2885-15/e35/36136471_231085284373685_7225670236521889792_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9", 
+                "originally_localized": true, 
+                "author": "teresa.nota", 
+                "instagramid": "1816817734970217582", 
+                "timestamp": 1530801573, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/495b3bf1954e712ec8dfafb0be91c051/5BCC9876/t51.2885-15/sh0.08/e35/s640x640/36136471_231085284373685_7225670236521889792_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "teresa.nota", 
+                    "timestamp": 1530801573, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/075c6bd5fc697401dac2d07c9d10c2b7/5BCC6993/t51.2885-15/e35/36136471_231085284373685_7225670236521889792_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9", 
+                    "authorid": "4214272095", 
+                    "location": {
+                        "slug": "les-frigos", 
+                        "has_public_page": true, 
+                        "name": "Les Frigos", 
+                        "id": "1559191217709583"
+                    }, 
+                    "id": "1816817734970217582"
+                }, 
+                "caption": "#capphi #phicap", 
+                "authorid": "4214272095", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-05/1816817734970217582_4214272095.json", 
+                "instagramcode": "Bk2ohqih5Ru", 
+                "post_date": "2018-07-05 16:39:33", 
                 "validated": false
             }
         }, 
