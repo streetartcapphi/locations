@@ -1167,27 +1167,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834553003311158, 
-                    45.76940518877118
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-09 12:35:20", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008022_383160695472164_2032404015098101760_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bce097WADz1/", 
-                "caption": "#belle ou #b\u00eate  une #dualit\u00e9 comme je les aime #collage #streetart #capphi #urbanart #hearts #flowers #skull", 
-                "validated": true, 
-                "id": "1666001866200202485_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833297729492188, 
                     45.77602054298497
                 ]
@@ -1203,6 +1182,27 @@
                 "caption": "Ma #derni\u00e8re #petite #amazone je retourne aux #monstres #capphi #streetart #urbanart #lyon #croixrousse", 
                 "validated": true, 
                 "id": "1668689046320397725_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834553003311158, 
+                    45.76940518877118
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-09 12:35:20", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008022_383160695472164_2032404015098101760_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bce097WADz1/", 
+                "caption": "#belle ou #b\u00eate  une #dualit\u00e9 comme je les aime #collage #streetart #capphi #urbanart #hearts #flowers #skull", 
+                "validated": true, 
+                "id": "1666001866200202485_29177514"
             }
         }, 
         {
