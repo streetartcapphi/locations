@@ -1831,27 +1831,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832203388214111, 
-                    45.77828784241779
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-12 11:13:24", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932975_1874732656122120_6421821610486923264_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BWccWjYAflw/", 
-                "caption": "#2 #deathqueen #amazone #capphi #urbanartist #arturbain #collage #spider #flowers #kawaiigirl #kawaii #art", 
-                "validated": true, 
-                "id": "1557244266277894512_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831709861755371, 
                     45.7696334465282
                 ]
