@@ -715,39 +715,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8188138008117685, 
-                    45.72650047623151
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ace747427f845aa8377b97cab3f1980/5BAC9524/t51.2885-15/e35/33740407_369948370194949_388977836330844160_n.jpg", 
-                "originally_localized": true, 
-                "author": "verophoto___", 
-                "instagramid": "1800657798642346452", 
-                "timestamp": 1528875158, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/01dfceb3df95d40d699886824a30be8c/5BB62CB9/t51.2885-15/s640x640/sh0.08/e35/c64.0.952.952/33740407_369948370194949_388977836330844160_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "verophoto___", 
-                    "timestamp": 1528875158, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ace747427f845aa8377b97cab3f1980/5BAC9524/t51.2885-15/e35/33740407_369948370194949_388977836330844160_n.jpg", 
-                    "authorid": "5801321109", 
-                    "location": null, 
-                    "id": "1800657798642346452"
-                }, 
-                "caption": "Attachment - Lyon - 2018\n\n@capphi @to_glass__________________\n\n#street #art #streetart #streetlife #urban #streetphotography #fish #capphi #fishing #jetaime #tongue #lyon #igerslyon #igerslyonnais #lyonnaise #igersfrance #igersphotography #photography #photophone #honor #honorview10 #blackandwhite #bnw #bnwphotography #attachment", 
-                "authorid": "5801321109", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-13/1800657798642346452_5801321109.json", 
-                "instagramcode": "Bj9OLpCHSnU", 
-                "post_date": "2018-06-13 09:32:38", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818800389766694, 
                     45.72669895109539
                 ]
@@ -1509,6 +1476,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-10/1798643776254422688_2876693898.json", 
                 "instagramcode": "Bj2EPwhHK6g", 
                 "post_date": "2018-06-10 14:51:08", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8188138008117685, 
+                    45.72650047623151
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ace747427f845aa8377b97cab3f1980/5BAC9524/t51.2885-15/e35/33740407_369948370194949_388977836330844160_n.jpg", 
+                "originally_localized": true, 
+                "author": "verophoto___", 
+                "instagramid": "1800657798642346452", 
+                "timestamp": 1528875158, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/01dfceb3df95d40d699886824a30be8c/5BB62CB9/t51.2885-15/s640x640/sh0.08/e35/c64.0.952.952/33740407_369948370194949_388977836330844160_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "verophoto___", 
+                    "timestamp": 1528875158, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/2ace747427f845aa8377b97cab3f1980/5BAC9524/t51.2885-15/e35/33740407_369948370194949_388977836330844160_n.jpg", 
+                    "authorid": "5801321109", 
+                    "location": null, 
+                    "id": "1800657798642346452"
+                }, 
+                "caption": "Attachment - Lyon - 2018\n\n@capphi @to_glass__________________\n\n#street #art #streetart #streetlife #urban #streetphotography #fish #capphi #fishing #jetaime #tongue #lyon #igerslyon #igerslyonnais #lyonnaise #igersfrance #igersphotography #photography #photophone #honor #honorview10 #blackandwhite #bnw #bnwphotography #attachment", 
+                "authorid": "5801321109", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-13/1800657798642346452_5801321109.json", 
+                "instagramcode": "Bj9OLpCHSnU", 
+                "post_date": "2018-06-13 09:32:38", 
                 "validated": false
             }
         }, 
