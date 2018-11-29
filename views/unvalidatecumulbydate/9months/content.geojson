@@ -1516,39 +1516,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8189640045166025, 
-                    45.726380642010014
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1781309237303314755", 
-                "timestamp": 1526568630, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0fdb0d7d989bf44850c30a960fe9c8af/5B7DE062/t51.2885-15/s640x640/sh0.08/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1526568630, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1781309237303314755"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Mont\u00e9e de la Grande C\u00f4te\n#capphi #Collage #france #StreetArtFrance #streetarteverywhere #streetartphotography #Lyon #Art #Streetart #streetphoto #streetartist #StreetArtlyon", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-17/1781309237303314755_5529011003.json", 
-                "instagramcode": "Bi4e1BElglD", 
-                "post_date": "2018-05-17 16:50:30", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -2612,6 +2579,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-22/1763179767920915116_5529011003.json", 
                 "instagramcode": "Bh4Eqg-FPKs", 
                 "post_date": "2018-04-22 16:30:29", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8189640045166025, 
+                    45.726380642010014
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1781309237303314755", 
+                "timestamp": 1526568630, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/0fdb0d7d989bf44850c30a960fe9c8af/5B7DE062/t51.2885-15/s640x640/sh0.08/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1526568630, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c200b67db6cca13796e10f84c7d74c/5B8B6C03/t51.2885-15/e35/31775361_203259727134163_8982570808459132928_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1781309237303314755"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Mont\u00e9e de la Grande C\u00f4te\n#capphi #Collage #france #StreetArtFrance #streetarteverywhere #streetartphotography #Lyon #Art #Streetart #streetphoto #streetartist #StreetArtlyon", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-17/1781309237303314755_5529011003.json", 
+                "instagramcode": "Bi4e1BElglD", 
+                "post_date": "2018-05-17 16:50:30", 
                 "validated": false
             }
         }, 
