@@ -2368,27 +2368,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.661644399166107, 
-                    45.76482299736626
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-23 11:05:18", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367183_290900298037742_8930228110742257664_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVrgUkPgp54/", 
-                "caption": "Plus que 2 #dimanche \ud83d\ude08", 
-                "validated": true, 
-                "id": "1543469448097341048_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83449935913086, 
                     45.77626373958218
                 ]
@@ -2420,6 +2399,27 @@
                 "instagramcode": "BVt6TXXhR7g", 
                 "post_date": "2017-06-24 11:30:48", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.661644399166107, 
+                    45.76482299736626
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-23 11:05:18", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19367183_290900298037742_8930228110742257664_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVrgUkPgp54/", 
+                "caption": "Plus que 2 #dimanche \ud83d\ude08", 
+                "validated": true, 
+                "id": "1543469448097341048_29177514"
             }
         }, 
         {
