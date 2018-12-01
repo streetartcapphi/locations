@@ -3471,39 +3471,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9ddc1a41bb27a03e12c03eb2984272b8/5B65CBF4/t51.2885-15/e35/25036859_168712120524393_7695901406619762688_n.jpg", 
-                "originally_localized": true, 
-                "author": "streetart_lyon", 
-                "instagramid": "1686162053540518951", 
-                "timestamp": 1515226202, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f989d121ab6a8daf44f2d121230a6a77/5B569D26/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25036859_168712120524393_7695901406619762688_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetart_lyon", 
-                    "timestamp": 1515226202, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9ddc1a41bb27a03e12c03eb2984272b8/5B65CBF4/t51.2885-15/e35/25036859_168712120524393_7695901406619762688_n.jpg", 
-                    "authorid": "1222751817", 
-                    "location": null, 
-                    "id": "1686162053540518951"
-                }, 
-                "caption": "Nouveau monstre de @cap_phi \nA l'entr\u00e9e d'un proth\u00e8siste dentaire !!! S'xuse l'humour \ud83d\ude02\ud83d\ude02\ud83d\ude02\n#Lyon #onlylyon #streetartlyon #lyonstreetart #streetart #urbanart #graff #graffiti #graffitilyon #lyongraffiti #rsa_graffiti #tv_streetart #muralsdaily #jj_urbanart #capphi", 
-                "authorid": "1222751817", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-01-06/1686162053540518951_1222751817.json", 
-                "instagramcode": "Bdmc3Q7Bpwn", 
-                "post_date": "2018-01-06 09:10:02", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/80c9a956abe19f61aa1b24d307ba1799/5B4F2AF7/t51.2885-15/e35/26404553_381155898978099_7510493900448989184_n.jpg", 
                 "originally_localized": true, 
                 "author": "duke9784", 
