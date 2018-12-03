@@ -11,39 +11,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5c11456d2b5b8fbc747ba6642d2029e3/5C079992/t51.2885-15/e35/37950017_233320530857037_5682045624401264640_n.jpg", 
-                "originally_localized": true, 
-                "author": "siliceinlyon", 
-                "instagramid": "1844830541553574211", 
-                "timestamp": 1534140959, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c08201fa15dcc065ec9813b1fc3d61b9/5C03FC77/t51.2885-15/sh0.08/e35/s640x640/37950017_233320530857037_5682045624401264640_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "siliceinlyon", 
-                    "timestamp": 1534140959, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5c11456d2b5b8fbc747ba6642d2029e3/5C079992/t51.2885-15/e35/37950017_233320530857037_5682045624401264640_n.jpg", 
-                    "authorid": "2280359084", 
-                    "location": null, 
-                    "id": "1844830541553574211"
-                }, 
-                "caption": "Let's start this new week with a @cap_phi monster! \n#lyon #streetart #cap_phi #capphi #urbanart #artwork #streetphotography #croixrousse #lacroixrousse #lespentes #lespentesdelacroixrousse #monster #monstre #beyourself #enjoylife #monday #lundi #photooftheday #picoftheday", 
-                "authorid": "2280359084", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-13/1844830541553574211_2280359084.json", 
-                "instagramcode": "BmaJ5psF6FD", 
-                "post_date": "2018-08-13 08:15:59", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/8dffa41dee3a744a92bbb3b853d2de1b/5BD446B3/t51.2885-15/e35/37132637_240733026545703_5218193666148925440_n.jpg", 
                 "originally_localized": true, 
                 "author": "mike_fouks", 
@@ -102,6 +69,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-07-23/1829758616455646301_4615015196.json", 
                 "instagramcode": "Blkm8RmjIxd", 
                 "post_date": "2018-07-23 13:10:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5c11456d2b5b8fbc747ba6642d2029e3/5C079992/t51.2885-15/e35/37950017_233320530857037_5682045624401264640_n.jpg", 
+                "originally_localized": true, 
+                "author": "siliceinlyon", 
+                "instagramid": "1844830541553574211", 
+                "timestamp": 1534140959, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c08201fa15dcc065ec9813b1fc3d61b9/5C03FC77/t51.2885-15/sh0.08/e35/s640x640/37950017_233320530857037_5682045624401264640_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "siliceinlyon", 
+                    "timestamp": 1534140959, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5c11456d2b5b8fbc747ba6642d2029e3/5C079992/t51.2885-15/e35/37950017_233320530857037_5682045624401264640_n.jpg", 
+                    "authorid": "2280359084", 
+                    "location": null, 
+                    "id": "1844830541553574211"
+                }, 
+                "caption": "Let's start this new week with a @cap_phi monster! \n#lyon #streetart #cap_phi #capphi #urbanart #artwork #streetphotography #croixrousse #lacroixrousse #lespentes #lespentesdelacroixrousse #monster #monstre #beyourself #enjoylife #monday #lundi #photooftheday #picoftheday", 
+                "authorid": "2280359084", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-13/1844830541553574211_2280359084.json", 
+                "instagramcode": "BmaJ5psF6FD", 
+                "post_date": "2018-08-13 08:15:59", 
                 "validated": false
             }
         }, 
