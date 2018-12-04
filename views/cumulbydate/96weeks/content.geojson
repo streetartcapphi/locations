@@ -2521,27 +2521,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831597208976746, 
-                    45.77119006468571
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-06 18:23:40", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950076_1693808864257719_1366811275379605504_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVAg-fShdi9/", 
-                "caption": "Plus que la moiti\u00e9 de la #dualit\u00e9 #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1531368904998639805_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831527471542359, 
                     45.776338569091
                 ]
@@ -2689,6 +2668,27 @@
                 "caption": "Envi de l'eau #streetart #urbanartist #capphi #kawaii #monster #bernardlhermite #t0 #map_phi", 
                 "validated": true, 
                 "id": "1526812892803167690_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831597208976746, 
+                    45.77119006468571
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-06 18:23:40", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18950076_1693808864257719_1366811275379605504_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVAg-fShdi9/", 
+                "caption": "Plus que la moiti\u00e9 de la #dualit\u00e9 #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
+                "validated": true, 
+                "id": "1531368904998639805_29177514"
             }
         }, 
         {
@@ -2904,26 +2904,6 @@
                 "caption": "Mon mange c\u0153ur est #dead mais toujours l\u00e0 #heart #urbanart #streetart #capphi  #kawaiiart #to#map_phi", 
                 "validated": true, 
                 "id": "1521250463881035839_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8332977294921875, 
-                    45.77129296459557
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-23 18:27:03", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645378_1916562125279688_980952251025588224_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUceO7cB4pN/", 
-                "caption": "Prout de licorne intact #pet #unicorn #cloud #confetti #streetart #urbanart #kawaiiart #to #map_phi #capphi", 
-                "validated": true, 
-                "id": "1521223741433416269_29177514"
             }
         }, 
         {
@@ -3230,6 +3210,26 @@
                 "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521909070565798895_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8332977294921875, 
+                    45.77129296459557
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-23 18:27:03", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645378_1916562125279688_980952251025588224_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUceO7cB4pN/", 
+                "caption": "Prout de licorne intact #pet #unicorn #cloud #confetti #streetart #urbanart #kawaiiart #to #map_phi #capphi", 
+                "validated": true, 
+                "id": "1521223741433416269_29177514"
             }
         }, 
         {
