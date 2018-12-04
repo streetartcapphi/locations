@@ -2463,26 +2463,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83399510383606, 
-                    45.769356543554686
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-23 19:20:08", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18644906_130978060787651_1418130473799909376_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUckTyqBwA_/", 
-                "caption": "Mon mange c\u0153ur est #dead mais toujours l\u00e0 #heart #urbanart #streetart #capphi  #kawaiiart #to#map_phi", 
-                "validated": true, 
-                "id": "1521250463881035839_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.827541708946228, 
                     45.77945887021172
                 ]
