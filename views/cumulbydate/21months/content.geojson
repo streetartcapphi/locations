@@ -2795,26 +2795,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833254814147949, 
-                    45.77150437654195
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-24 16:11:37", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645248_637786619759817_6505826214404423680_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUezh8GB18k/", 
-                "caption": "#quetzacoatl #arrow #plumes #urbanart #streetstyle #capphi #kawaii #t0 #map_phi", 
-                "validated": true, 
-                "id": "1521880356738260772_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834587872028351, 
                     45.76939583392515
                 ]
@@ -3270,6 +3250,26 @@
                 "caption": "Entre deux #mondes #dualit\u00e9 #heart #skull #monstre #human #streetart #urbanart #capphi #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521744739530366252_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.833254814147949, 
+                    45.77150437654195
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-24 16:11:37", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/18645248_637786619759817_6505826214404423680_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUezh8GB18k/", 
+                "caption": "#quetzacoatl #arrow #plumes #urbanart #streetstyle #capphi #kawaii #t0 #map_phi", 
+                "validated": true, 
+                "id": "1521880356738260772_29177514"
             }
         }, 
         {
