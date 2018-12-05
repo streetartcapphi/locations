@@ -1673,27 +1673,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    -9.129520654678347, 
-                    38.720382324865234
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-08-16 09:08:47", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20837536_1512452372150200_4836941135953788928_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BX2V6afgTjm/", 
-                "caption": "#5.0 #clindoeil #star #obeygiant #lisboa #gra\u00e7a #lisbonne #streetart #capphi", 
-                "validated": true, 
-                "id": "1582548692219541734_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     -9.12943482398987, 
                     38.720064236682305
                 ]
@@ -1730,6 +1709,27 @@
                 "caption": "#1 #processus #cr\u00e9atif #petitcadeau durant #balade #streetart #spacejunk #capphi #urbanart #collection #monstres", 
                 "validated": true, 
                 "id": "1567191969778800313_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -9.129520654678347, 
+                    38.720382324865234
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-08-16 09:08:47", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20837536_1512452372150200_4836941135953788928_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BX2V6afgTjm/", 
+                "caption": "#5.0 #clindoeil #star #obeygiant #lisboa #gra\u00e7a #lisbonne #streetart #capphi", 
+                "validated": true, 
+                "id": "1582548692219541734_29177514"
             }
         }, 
         {
