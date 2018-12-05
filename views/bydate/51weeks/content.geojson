@@ -89,6 +89,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.833297729492188, 
+                    45.77602054298497
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-13 05:34:17", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25005282_132178894142076_8345550716634398720_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BcoX9i2gz2d/", 
+                "caption": "Ma #derni\u00e8re #petite #amazone je retourne aux #monstres #capphi #streetart #urbanart #lyon #croixrousse", 
+                "validated": true, 
+                "id": "1668689046320397725_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.831712543964387, 
                     45.76805059073076
                 ]
