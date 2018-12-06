@@ -1625,44 +1625,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828963279724122, 
-                    45.77645829609627
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/bda30170afb4fadf3960d3a93e38d7f1/5B85686A/t51.2885-15/e35/33210189_1664247210349043_6874029225205039104_n.jpg", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1786461813737409821", 
-                "timestamp": 1527182865, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b4b8414520e1446b288e13d05211625f/5BC12A40/t51.2885-15/s640x640/sh0.08/e35/33210189_1664247210349043_6874029225205039104_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1527182865, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/bda30170afb4fadf3960d3a93e38d7f1/5B85686A/t51.2885-15/e35/33210189_1664247210349043_6874029225205039104_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1786461813737409821"
-                }, 
-                "caption": "Et de trois !\ud83d\ude0d\u2764\ud83d\udc4d\nMerci @cap_phi \u2764\ud83d\udc4c\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #murals #muralsdaily #streetartchat #arturbain #nofilter #capphi #poisson #fish #collage #pasteup #carnivore #piranha", 
-                "authorid": "2876693898", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-24/1786461813737409821_2876693898.json", 
-                "instagramcode": "BjKyY30nk0d", 
-                "post_date": "2018-05-24 19:27:45", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828898906707765, 
                     45.77654809118156
                 ]
