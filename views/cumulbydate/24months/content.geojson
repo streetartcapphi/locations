@@ -1562,43 +1562,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832023680210114, 
-                    45.773107713624945
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZDPrPhDCcE", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1604194834569766660", 
-                "timestamp": 1505454948, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690566_1448909818524831_3108338991133360128_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1505454948, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690566_1448909818524831_3108338991133360128_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1604194834569766660"
-                }, 
-                "caption": "Prem's !!!! Yess les amazones de @cap_phi sont de retour \ud83d\ude0d\u2764\ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #amazon #beautyqueen #fantasy #artephemere #beauty #commeunedingue", 
-                "authorid": "2876693898", 
-                "instagramcode": "BZDPrPhDCcE", 
-                "post_date": "2017-09-15 07:55:48", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831924438476563, 
                     45.770591370535584
                 ]
@@ -1666,6 +1629,43 @@
                 "authorid": "2876693898", 
                 "instagramcode": "BZD9vZYDQjt", 
                 "post_date": "2017-09-15 14:38:19", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.832023680210114, 
+                    45.773107713624945
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZDPrPhDCcE", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1604194834569766660", 
+                "timestamp": 1505454948, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21690566_1448909818524831_3108338991133360128_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1505454948, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21690566_1448909818524831_3108338991133360128_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "has_public_page": true, 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "id": "216569581"
+                    }, 
+                    "id": "1604194834569766660"
+                }, 
+                "caption": "Prem's !!!! Yess les amazones de @cap_phi sont de retour \ud83d\ude0d\u2764\ud83d\udc4d\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #amazon #beautyqueen #fantasy #artephemere #beauty #commeunedingue", 
+                "authorid": "2876693898", 
+                "instagramcode": "BZDPrPhDCcE", 
+                "post_date": "2017-09-15 07:55:48", 
                 "validated": true
             }
         }, 
