@@ -5,6 +5,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.818505346775056, 
+                    45.72663154461693
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1924203558577977813", 
+                "timestamp": 1543602960, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1543602960, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1924203558577977813"
+                }, 
+                "caption": "#lyon #StreetArt #CapPhi", 
+                "authorid": "5340332945", 
+                "instagramcode": "Bq0JPEQlTnV", 
+                "post_date": "2018-11-30 19:36:00", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -30,6 +62,102 @@
                 "authorid": "3694450611", 
                 "instagramcode": "Bo9s9JYgbHc", 
                 "post_date": "2018-10-15 20:38:31", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a47bca2f3b3c00c328fc70f7f4b1bd96/5CA9820B/t51.2885-15/e35/43914765_2020576521296962_7663293096642552436_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1903862367408503563", 
+                "timestamp": 1541178101, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0bf8a1b53fcb9cded8c504b8497edea3/5CAD3036/t51.2885-15/e35/c0.75.600.600/43914765_2020576521296962_7663293096642552436_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1541178101, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a47bca2f3b3c00c328fc70f7f4b1bd96/5CA9820B/t51.2885-15/e35/43914765_2020576521296962_7663293096642552436_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1903862367408503563"
+                }, 
+                "caption": "#StreetArt #lyon #maisonN\u00f4 #MiaEvolia #CapPhi", 
+                "authorid": "5340332945", 
+                "instagramcode": "Bpr4LxunjsL", 
+                "post_date": "2018-11-02 18:01:41", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/446811ea7a29fbbe40fbf66f847768e5/5CAAA0A7/t51.2885-15/e35/45490228_2129557930641052_1725749235843735307_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1906721103116569451", 
+                "timestamp": 1541518889, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/49c61073f5a50c9e3996e02508875d4d/5C9A5B80/t51.2885-15/sh0.08/e35/c0.112.900.900/s640x640/45490228_2129557930641052_1725749235843735307_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1541518889, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/446811ea7a29fbbe40fbf66f847768e5/5CAAA0A7/t51.2885-15/e35/45490228_2129557930641052_1725749235843735307_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1906721103116569451"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Rue de Cuire\n#capphi #picture #painting #lyon #mural #igers #artist #france #streetphotography #instaart #streetart  #streetarteverywhere #streetartist #streetartlyon #wallart #urban #paint #urbanart #art #artlovers #amazone #amazon #collageart #picoftheday #bestoftheday #photooftheday #pictureoftheday", 
+                "authorid": "5529011003", 
+                "instagramcode": "Bp2CL21AQtr", 
+                "post_date": "2018-11-06 16:41:29", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8187386989593515, 
+                    45.726816912236984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/548bf063e501a03cb19fdbff4ee258bd/5C958DD4/t51.2885-15/fr/e15/s1080x1080/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "miss.acacia.streetart", 
+                "instagramid": "1872364399721797163", 
+                "timestamp": 1537423251, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c2da34744a3260bf1912705c74aa6c4/5C9F3A1D/t51.2885-15/sh0.08/e35/s640x640/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "miss.acacia.streetart", 
+                    "timestamp": 1537423251, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/548bf063e501a03cb19fdbff4ee258bd/5C958DD4/t51.2885-15/fr/e15/s1080x1080/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "27141883", 
+                    "location": null, 
+                    "id": "1872364399721797163"
+                }, 
+                "caption": "Il est interdit d'interdire ! @cap_phi #capphi #monstre #panneaux #interdit #streetartlyon #streetart #Lyon #streetartcroixrousse #streetarteverywhere #streetartpics #streetartfrance #arturbain #urbanart #graffiti #streetartlovers #igersstreetart", 
+                "authorid": "27141883", 
+                "instagramcode": "Bn7-YBXgVYr", 
+                "post_date": "2018-09-20 08:00:51", 
                 "validated": true
             }
         }
