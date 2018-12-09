@@ -5,6 +5,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-12-08 16:20:56", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-08/1929933782570148465.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/171ca66d4c63b6826635b9908bcbcbe2/5C9DA5EF/t51.2885-15/e35/46165951_2325398454197330_6451317506255680160_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#amazigh #petite #amazone #berb\u00e8re #peuplelibre #imaginaire du #dragon #acrylique sur #bois #capphi", 
+                "validated": false, 
+                "id": "1929933782570148465"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8307475, 
                     45.7719149
                 ]
@@ -167,39 +189,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1924203558577977813", 
-                "timestamp": 1543602960, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1543602960, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1924203558577977813"
-                }, 
-                "caption": "#lyon #StreetArt #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-30/1924203558577977813_5340332945.json", 
-                "instagramcode": "Bq0JPEQlTnV", 
-                "post_date": "2018-11-30 19:36:00", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f39a5257839d289b4713aefecb56e36d/5CA74A0D/t51.2885-15/e35/45466543_1452024248261083_8863736119099298645_n.jpg", 
                 "originally_localized": true, 
                 "author": "rodaulph", 
@@ -221,6 +210,28 @@
                 "instagramcode": "Bq5OXvrnVgQ", 
                 "post_date": "2018-12-02 18:57:05", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-22 07:18:41", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-22/1918064448256264737.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d64b937848441746fa63f237cb2b229b/5C9A0DC5/t51.2885-15/e35/44865902_1121180494718566_8160027632104422667_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#streetartiste l\u2019essence m\u00eame de notre #art est dans la #rue \u2026 donc grand #respect \u00e0 \"ceux qui font le job\" \u2026", 
+                "validated": false, 
+                "id": "1918064448256264737"
             }
         }, 
         {
@@ -299,45 +310,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ece2f52a223f2e4de097267e2f2e1485/5C8BC7C2/t51.2885-15/e35/46197942_363133394456461_2842638417762055912_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "marion.paola", 
-                "instagramid": "1912762002460933748", 
-                "timestamp": 1542239021, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/3e6ed18287d112259523cba2b1819464/5C933127/t51.2885-15/sh0.08/e35/s640x640/46197942_363133394456461_2842638417762055912_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "marion.paola", 
-                    "timestamp": 1542239021, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ece2f52a223f2e4de097267e2f2e1485/5C8BC7C2/t51.2885-15/e35/46197942_363133394456461_2842638417762055912_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "305949513", 
-                    "location": {
-                        "id": "11082493", 
-                        "slug": "rue-des-capucins", 
-                        "address_json": "{\"street_address\": \"Rue des Capucins\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Rue des Capucins", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1912762002460933748"
-                }, 
-                "caption": "On m'a toujours reproch\u00e9 de ne jamais regarder o\u00f9 je vais mais sinon je passerais \u00e0 c\u00f4t\u00e9 de tous ces petites oeuvre cach\u00e9es dans le d\u00e9cors \ud83d\ude09\nMerci @cap_phi\n\n#streetart #urbanart #wallart #streetarteverywhere #streetartphoto #streetartphotography #artderue #arturbain #urbanstreet #streetartlyon #graffitiart #graffiti #instalyon #igerslyon #lyoncity #lyonmaville #lyon #onlylyon #lyon__only #monlyon #bloginlyon #blogolyon #lyonnaise #lyoncolors_official #ilovelyon #toplyonphoto #streetculture #muralart #instagraffiti #capphi", 
-                "authorid": "305949513", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-15/1912762002460933748_305949513.json", 
-                "instagramcode": "BqLfugwjH50", 
-                "post_date": "2018-11-15 00:43:41", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8287408, 
                     45.7766432
                 ]
@@ -404,6 +376,116 @@
                 "instagramcode": "BqTHGCdFhDU", 
                 "post_date": "2018-11-17 23:42:22", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-07 06:46:52", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-07/1907176792571832859.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c30af1fef28b2abc23f32851a253c764/5C9803D7/t51.2885-15/e35/44364828_2482495108447107_4398024238188709960_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#3 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
+                "validated": false, 
+                "id": "1907176792571832859"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-05 16:49:26", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-05/1906030523698703110.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/421204bf18e03edbaf36433b7f51ae07/5C9BBE4D/t51.2885-15/e35/44502836_340402493204516_2170403241143584074_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#1 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
+                "validated": false, 
+                "id": "1906030523698703110"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-08 05:36:20", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-08/1907866070297806258.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4793a21f76a872932ad22a5bb09c3e66/5C9BB5DF/t51.2885-15/e35/44831918_2489224554451679_7756165826424423348_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#\u00e2mes de la #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi", 
+                "validated": false, 
+                "id": "1907866070297806258"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-09 06:42:44", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-09/1908624266327078493.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2c1965af9745dc6ab588172c0beadb48/5C9946AC/t51.2885-15/e35/44297757_282580575931882_5630845022432182314_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#4 #5 et #6 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience #monde #morts", 
+                "validated": false, 
+                "id": "1908624266327078493"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-06 17:23:41", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-06/1906772537289498792.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/199a03f5a232d53b0bb8ca3380e1d911/5CB1A08D/t51.2885-15/e35/43985113_284747835478960_150730479965932367_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#2 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
+                "validated": false, 
+                "id": "1906772537289498792"
             }
         }, 
         {
@@ -599,27 +681,16 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/446811ea7a29fbbe40fbf66f847768e5/5CAAA0A7/t51.2885-15/e35/45490228_2129557930641052_1725749235843735307_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1906721103116569451", 
-                "timestamp": 1541518889, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/49c61073f5a50c9e3996e02508875d4d/5C9A5B80/t51.2885-15/sh0.08/e35/c0.112.900.900/s640x640/45490228_2129557930641052_1725749235843735307_n.jpg", 
+                "post_date": "2018-10-30 18:31:12", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-30/1901733093078155609.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e7e7011aa9bb1dcb03995587bce705e7/5C97596C/t51.2885-15/e35/43778576_2031793037112889_1826832531848693097_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1541518889, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/446811ea7a29fbbe40fbf66f847768e5/5CAAA0A7/t51.2885-15/e35/45490228_2129557930641052_1725749235843735307_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1906721103116569451"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Rue de Cuire\n#capphi #picture #painting #lyon #mural #igers #artist #france #streetphotography #instaart #streetart  #streetarteverywhere #streetartist #streetartlyon #wallart #urban #paint #urbanart #art #artlovers #amazone #amazon #collageart #picoftheday #bestoftheday #photooftheday #pictureoftheday", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-06/1906721103116569451_5529011003.json", 
-                "instagramcode": "Bp2CL21AQtr", 
-                "post_date": "2018-11-06 16:41:29", 
-                "validated": false
+                "originURL": "", 
+                "caption": "#juste \u00e0 #temps pour #halloween ... #r\u00e9union de #famille ... #monster #nightmare #capphi #inmyhead #artwork", 
+                "validated": false, 
+                "id": "1901733093078155609"
             }
         }, 
         {
@@ -823,39 +894,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903862755197149935_5340332945.json", 
                 "instagramcode": "Bpr4Ra4n2Lv", 
                 "post_date": "2018-11-02 18:02:28", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a47bca2f3b3c00c328fc70f7f4b1bd96/5CA9820B/t51.2885-15/e35/43914765_2020576521296962_7663293096642552436_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1903862367408503563", 
-                "timestamp": 1541178101, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0bf8a1b53fcb9cded8c504b8497edea3/5CAD3036/t51.2885-15/e35/c0.75.600.600/43914765_2020576521296962_7663293096642552436_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541178101, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a47bca2f3b3c00c328fc70f7f4b1bd96/5CA9820B/t51.2885-15/e35/43914765_2020576521296962_7663293096642552436_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1903862367408503563"
-                }, 
-                "caption": "#StreetArt #lyon #maisonN\u00f4 #MiaEvolia #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903862367408503563_5340332945.json", 
-                "instagramcode": "Bpr4LxunjsL", 
-                "post_date": "2018-11-02 18:01:41", 
                 "validated": false
             }
         }

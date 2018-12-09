@@ -11,27 +11,82 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fe9a2057ddd290f4d32dc310c87764ee/5CA2EAB6/t51.2885-15/e35/43914243_498195877332575_6496947082870326719_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "chachi.44", 
-                "instagramid": "1890865134574875100", 
-                "timestamp": 1539628711, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5d6c4bf96fd7cd0f6a13be55c898ea0d/5C91CCF5/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/43914243_498195877332575_6496947082870326719_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "post_date": "2018-10-17 11:19:41", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-17/1892093817890720631.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/30bddadc05824322088fa13fb5a334f4/5CA04F87/t51.2885-15/e35/42708985_1097003773791557_3605242605280579983_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "chachi.44", 
-                    "timestamp": 1539628711, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fe9a2057ddd290f4d32dc310c87764ee/5CA2EAB6/t51.2885-15/e35/43914243_498195877332575_6496947082870326719_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "3694450611", 
-                    "location": null, 
-                    "id": "1890865134574875100"
-                }, 
-                "caption": "#capphi #streetart #urbanart #streetartlyon #onlylyon #streetartfrance #muralart #graffiti #graffitilyon #graffitiart  #instagraffiti #urbanwall #arturbain #collage #collageart", 
-                "authorid": "3694450611", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-15/1890865134574875100_3694450611.json", 
-                "instagramcode": "Bo9s9JYgbHc", 
-                "post_date": "2018-10-15 20:38:31", 
-                "validated": false
+                "originURL": "", 
+                "caption": "Une #petite #rencontre #d\u00e9dicace  autour du #livre d\u2019Ad\u00e8le Alberge #rdv #samedi \u00e0 15h \u00e0 la #librairie #vivementdimanche \ud83d\ude09", 
+                "validated": false, 
+                "id": "1892093817890720631"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-10-16 16:27:06", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-16/1891523768524160141.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c941e18d794e7d0695fec0d0f583a564/5CAE8F0E/t51.2885-15/e35/42825089_310535092875793_714874906922078558_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "Venez d\u00e9couvrir un #petit #monstre #pure #caf\u00e9ine et les #\u0153uvres d\u2019autres #streetartists #rdv #vendredi 18h pour le #vernissage", 
+                "validated": false, 
+                "id": "1891523768524160141"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-10-19 18:11:34", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-19/1893750674371811566.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07179a79e5510490f8600474dbad2401/5CA005A0/t51.2885-15/e35/43740443_1994881047470966_8661340114462032186_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "\u00ab\u00a0Pure caf\u00e9ine\u00a0\u00bb \u00e0 #insted tous le #weekend pour le #salon #finebouffe avec 5 autres sacs de #cafe peints par des #Streetartistes ;)", 
+                "validated": false, 
+                "id": "1893750674371811566"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-10-20 06:30:10", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-20/1894122423982700197.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2952ef3bb7f5b79cc64427af61ccf73a/5C9CEA63/t51.2885-15/e35/44175727_2153968394858082_7300438196243673064_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#24 #petits #cadeaux pour La s\u00e9ance de #d\u00e9dicace cette #apr\u00e8s-midi \u00e0  la Librairie Vivement Dimanche \u00e0 l\u2019occasion de la sortie du #livre de Ad\u00e8le Alberge \u00ab Les cris des murs \u00bb", 
+                "validated": false, 
+                "id": "1894122423982700197"
             }
         }, 
         {
