@@ -3287,44 +3287,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f44cca0b234b1749341d8adb29124714/5BA1301D/t51.2885-15/e35/33528295_298859240651947_8146519106049277952_n.jpg", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1793647494460519549", 
-                "timestamp": 1528039465, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f01dce8e862dba76d89c48ba9218b8e6/5BACDD9F/t51.2885-15/s640x640/sh0.08/e35/c0.63.1080.1080/33528295_298859240651947_8146519106049277952_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1528039465, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f44cca0b234b1749341d8adb29124714/5BA1301D/t51.2885-15/e35/33528295_298859240651947_8146519106049277952_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1793647494460519549"
-                }, 
-                "caption": "#croixrousse #pentesdelacroixrousse #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793647494460519549_34904985.json", 
-                "instagramcode": "BjkUOSflrR9", 
-                "post_date": "2018-06-03 17:24:25", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a7a5d541289df78c232283bb3aec8343/5BB8E6D3/t51.2885-15/e35/33057486_174265733259062_8137004958919688192_n.jpg", 
                 "originally_localized": true, 
                 "author": "duke9784", 
@@ -3345,44 +3307,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793702018374114146_5529011003.json", 
                 "instagramcode": "Bjkgnt2Fxti", 
                 "post_date": "2018-06-03 19:12:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/50d5e5acadce3e43241d1cdb053afeb0/5BB13B81/t51.2885-15/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
-                "originally_localized": true, 
-                "author": "bbaabs", 
-                "instagramid": "1793646311733954976", 
-                "timestamp": 1528039324, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ccca476a2dd4aa7821e271fc9f7a2ab5/5BBA85AB/t51.2885-15/s640x640/sh0.08/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "bbaabs", 
-                    "timestamp": 1528039324, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/50d5e5acadce3e43241d1cdb053afeb0/5BB13B81/t51.2885-15/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
-                    "authorid": "34904985", 
-                    "location": {
-                        "slug": "montee-de-la-grande-cote", 
-                        "has_public_page": true, 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "id": "235465523"
-                    }, 
-                    "id": "1793646311733954976"
-                }, 
-                "caption": "#croixrousse #pentesdelacroixrousse #capphi", 
-                "authorid": "34904985", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793646311733954976_34904985.json", 
-                "instagramcode": "BjkT9E_l4mg", 
-                "post_date": "2018-06-03 17:22:04", 
                 "validated": false
             }
         }, 
@@ -3421,6 +3345,82 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-08/1797030345574924427_7570439586.json", 
                 "instagramcode": "BjwVZQGl0CL", 
                 "post_date": "2018-06-08 09:25:32", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f44cca0b234b1749341d8adb29124714/5BA1301D/t51.2885-15/e35/33528295_298859240651947_8146519106049277952_n.jpg", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1793647494460519549", 
+                "timestamp": 1528039465, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f01dce8e862dba76d89c48ba9218b8e6/5BACDD9F/t51.2885-15/s640x640/sh0.08/e35/c0.63.1080.1080/33528295_298859240651947_8146519106049277952_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1528039465, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f44cca0b234b1749341d8adb29124714/5BA1301D/t51.2885-15/e35/33528295_298859240651947_8146519106049277952_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "montee-de-la-grande-cote", 
+                        "has_public_page": true, 
+                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
+                        "id": "235465523"
+                    }, 
+                    "id": "1793647494460519549"
+                }, 
+                "caption": "#croixrousse #pentesdelacroixrousse #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793647494460519549_34904985.json", 
+                "instagramcode": "BjkUOSflrR9", 
+                "post_date": "2018-06-03 17:24:25", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/50d5e5acadce3e43241d1cdb053afeb0/5BB13B81/t51.2885-15/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
+                "originally_localized": true, 
+                "author": "bbaabs", 
+                "instagramid": "1793646311733954976", 
+                "timestamp": 1528039324, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ccca476a2dd4aa7821e271fc9f7a2ab5/5BBA85AB/t51.2885-15/s640x640/sh0.08/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "bbaabs", 
+                    "timestamp": 1528039324, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/50d5e5acadce3e43241d1cdb053afeb0/5BB13B81/t51.2885-15/e35/33060067_1955093694820638_2056470469204246528_n.jpg", 
+                    "authorid": "34904985", 
+                    "location": {
+                        "slug": "montee-de-la-grande-cote", 
+                        "has_public_page": true, 
+                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
+                        "id": "235465523"
+                    }, 
+                    "id": "1793646311733954976"
+                }, 
+                "caption": "#croixrousse #pentesdelacroixrousse #capphi", 
+                "authorid": "34904985", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-03/1793646311733954976_34904985.json", 
+                "instagramcode": "BjkT9E_l4mg", 
+                "post_date": "2018-06-03 17:22:04", 
                 "validated": false
             }
         }, 
@@ -3535,138 +3535,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-28/1789126303158741218_10561354.json", 
                 "instagramcode": "BjUQOS-Faji", 
                 "post_date": "2018-05-28 11:41:37", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5169293f1d55da04899dcc4d93be436f/5B8571CD/t51.2885-15/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788570608210303576", 
-                "timestamp": 1527434253, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/87772d9bfb10dc691016208de7f71e9e/5B855BAC/t51.2885-15/s640x640/sh0.08/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434253, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/5169293f1d55da04899dcc4d93be436f/5B8571CD/t51.2885-15/e35/32237918_607707359597410_4333226302032052224_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788570608210303576"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 6/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788570608210303576_10561354.json", 
-                "instagramcode": "BjSR33uFFpY", 
-                "post_date": "2018-05-27 17:17:33", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1e6cd5f633e35fc84461bb12831d53f2/5B85DBAE/t51.2885-15/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788569435650783760", 
-                "timestamp": 1527434113, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/86898f59fd7b21655757d7cfcf009d2b/5BC00CCF/t51.2885-15/s640x640/sh0.08/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434113, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/1e6cd5f633e35fc84461bb12831d53f2/5B85DBAE/t51.2885-15/e35/32597897_213400056130825_5912178149738676224_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788569435650783760"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 3/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788569435650783760_10561354.json", 
-                "instagramcode": "BjSRmzsFfoQ", 
-                "post_date": "2018-05-27 17:15:13", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a96ece04cf846b637b4589e132e25892/5B83A6D7/t51.2885-15/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788569585102308584", 
-                "timestamp": 1527434131, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/ff7d69eb39778a9deca042c701459c7a/5BA594FD/t51.2885-15/s640x640/sh0.08/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434131, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a96ece04cf846b637b4589e132e25892/5B83A6D7/t51.2885-15/e35/32807449_1927810230563541_3942583839456493568_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788569585102308584"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 4/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788569585102308584_10561354.json", 
-                "instagramcode": "BjSRo-4F0To", 
-                "post_date": "2018-05-27 17:15:31", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/76283314058bc8d4d524c49cbab0f8a0/5B864304/t51.2885-15/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
-                "originally_localized": true, 
-                "author": "flambidou", 
-                "instagramid": "1788570316915878485", 
-                "timestamp": 1527434218, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/857381f11c2083dafadb67f1268dceaa/5BC39C65/t51.2885-15/s640x640/sh0.08/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "flambidou", 
-                    "timestamp": 1527434218, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/76283314058bc8d4d524c49cbab0f8a0/5B864304/t51.2885-15/e35/32280129_167467100588650_7106607841791705088_n.jpg", 
-                    "authorid": "10561354", 
-                    "location": null, 
-                    "id": "1788570316915878485"
-                }, 
-                "caption": "Une grille Instagram avec un poisson de @cap_phi.\nGrille 5/6\n.\n.\n#streetart #street #artist #streetartist #artderue #urbanart #urbanartiste #urbanartist #streetarteverywhere #streetartlyon #igerslyon #ilovelyon #onlylyon #capphi #poisson #fish", 
-                "authorid": "10561354", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-27/1788570316915878485_10561354.json", 
-                "instagramcode": "BjSRzoblCpV", 
-                "post_date": "2018-05-27 17:16:58", 
                 "validated": false
             }
         }
