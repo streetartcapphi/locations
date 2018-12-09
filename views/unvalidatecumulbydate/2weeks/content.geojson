@@ -1,4 +1,266 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8307475, 
+                    45.7719149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6271a1ba2ea53af3b376ee7ee629f549/5CAB4AD6/t51.2885-15/e35/47031667_146312506349282_7115456667934200832_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1926058859224871537", 
+                "timestamp": 1543824129, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c83afde3191ce129c52f370f382509b7/5C92C833/t51.2885-15/sh0.08/e35/s640x640/47031667_146312506349282_7115456667934200832_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1543824129, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6271a1ba2ea53af3b376ee7ee629f549/5CAB4AD6/t51.2885-15/e35/47031667_146312506349282_7115456667934200832_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1926058859224871537"
+                }, 
+                "caption": "By @cap_phi #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-03/1926058859224871537_810473762.json", 
+                "instagramcode": "Bq6vFPol7Jx", 
+                "post_date": "2018-12-03 09:02:09", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8307475, 
+                    45.7719149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ba91dce3481aadfdd2a0e7899d27d517/5CA5F8CC/t51.2885-15/e35/46863564_1990177771282075_7790080985863670286_n.jpg", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1926398683488541369", 
+                "timestamp": 1543864640, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f208452644b85eeece4d87479191ef79/5C942576/t51.2885-15/sh0.08/e35/s640x640/46863564_1990177771282075_7790080985863670286_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1543864640, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ba91dce3481aadfdd2a0e7899d27d517/5CA5F8CC/t51.2885-15/e35/46863564_1990177771282075_7790080985863670286_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1926398683488541369"
+                }, 
+                "caption": "Se trouver en gal\u00e8re de m\u00e9tro C, monter \u00e0 pied et d\u00e9couvrir la troisi\u00e8me Porteuse d'\u00e2mes de @cap_phi \ud83d\ude0d\u2764\ud83d\udc4c, puis croiser son auteur sur son v\u00e9lo quelques minutes apr\u00e8s. Le monde est petit \ud83d\ude01\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #igersstreetart #ilovestreetart #onlylyon #mylyon #frenchstreetart #streetartlyon #streetarteverywhere #worldart #streetartoftheday #globalstreetart #streetartlyon #murals #muralsdaily #streetartchat #mycroixrousse #pentescroixrousse #collage #pasteup #capphi #porteusedames #lemondeestpetit", 
+                "authorid": "2876693898", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-03/1926398683488541369_2876693898.json", 
+                "instagramcode": "Bq78WVpHVq5", 
+                "post_date": "2018-12-03 20:17:20", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f39a5257839d289b4713aefecb56e36d/5CA74A0D/t51.2885-15/e35/45466543_1452024248261083_8863736119099298645_n.jpg", 
+                "originally_localized": true, 
+                "author": "rodaulph", 
+                "instagramid": "1925633520074315792", 
+                "timestamp": 1543773425, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fd4f87f588fd61f200d7da94dbcb67f2/5C98A295/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/45466543_1452024248261083_8863736119099298645_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "rodaulph", 
+                    "timestamp": 1543773425, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f39a5257839d289b4713aefecb56e36d/5CA74A0D/t51.2885-15/e35/45466543_1452024248261083_8863736119099298645_n.jpg", 
+                    "authorid": "9245082371", 
+                    "location": null, 
+                    "id": "1925633520074315792"
+                }, 
+                "caption": "T'as de beaux yeux tu sais\n.\n#lyon#lyonstreetart #streetartlyon #streetart#art#drawing#canvas#stencil#graff#graffiti#jj_urbanart #rsa_graffiti #streetarteverywhere #tv_streetart #spraypaint#urnanart#capphi  @cap_phi", 
+                "authorid": "9245082371", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-02/1925633520074315792_9245082371.json", 
+                "instagramcode": "Bq5OXvrnVgQ", 
+                "post_date": "2018-12-02 18:57:05", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8307475, 
+                    45.7719149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0c22f5fce6ee2b03faff4fd0dd645614/5C8EB427/t51.2885-15/e35/45335523_380299875872769_2636594044084944019_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1927505367979530166", 
+                "timestamp": 1543996567, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c40adf7995d64613c945b6d469b5cbfb/5C9824C2/t51.2885-15/sh0.08/e35/s640x640/45335523_380299875872769_2636594044084944019_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1543996567, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0c22f5fce6ee2b03faff4fd0dd645614/5C8EB427/t51.2885-15/e35/45335523_380299875872769_2636594044084944019_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1927505367979530166"
+                }, 
+                "caption": "By @alex_nihilo & @cap_phi #alexnihilo #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-05/1927505367979530166_810473762.json", 
+                "instagramcode": "Bq_3-t5FBe2", 
+                "post_date": "2018-12-05 08:56:07", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8307475, 
+                    45.7719149
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/42e670fb04606101e406eb9b6be3ecfe/5C94B29D/t51.2885-15/e35/46366856_495332677639129_6719699598812168119_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1927506128465738735", 
+                "timestamp": 1543996657, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c7320c37fe9e1e565db1f71b9a9d7f77/5C910678/t51.2885-15/sh0.08/e35/s640x640/46366856_495332677639129_6719699598812168119_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1543996657, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/42e670fb04606101e406eb9b6be3ecfe/5C94B29D/t51.2885-15/e35/46366856_495332677639129_6719699598812168119_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1927506128465738735"
+                }, 
+                "caption": "By @cap_phi #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-05/1927506128465738735_810473762.json", 
+                "instagramcode": "Bq_4JyJlrvv", 
+                "post_date": "2018-12-05 08:57:37", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1924203558577977813", 
+                "timestamp": 1543602960, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1543602960, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/74f051352aac635043301064775a1d5d/5CA633B6/t51.2885-15/e35/44880277_558071874652499_8508739595945985868_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1924203558577977813"
+                }, 
+                "caption": "#lyon #StreetArt #CapPhi", 
+                "authorid": "5340332945", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-30/1924203558577977813_5340332945.json", 
+                "instagramcode": "Bq0JPEQlTnV", 
+                "post_date": "2018-11-30 19:36:00", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
+                "originally_localized": true, 
+                "author": "anatholie", 
+                "instagramid": "1915648091970948826", 
+                "timestamp": 1542583069, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9b94b88be0add9e77c21dbae5aa26a73/5C954779/t51.2885-15/sh0.08/e35/s640x640/44605427_2106500452705394_1804735681107510000_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "anatholie", 
+                    "timestamp": 1542583069, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
+                    "authorid": "4536226737", 
+                    "location": {
+                        "id": "213168722", 
+                        "slug": "lyon-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Lyon, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1915648091970948826"
+                }, 
+                "caption": "Gnaw.\n#lyon #streetart #croixrousse #graffiti #graffittiart #graffittiartist #capphi #ilovelyon #streetphotography #travelphotography #streetartphotography #travel #explore #france #noentry #gnaw #sensinterdit #ig_lyon #lyoncity #igerslyon #mylyon #anatholie #getupandexplore #neverstopexploring #lensbible #visualcollective #artofvisuals #visualpage #stayandwander #welivetoexplore", 
+                "authorid": "4536226737", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-19/1915648091970948826_4536226737.json", 
+                "instagramcode": "BqVv8pElU7a", 
+                "post_date": "2018-11-19 00:17:49", 
+                "validated": false
+            }
+        }
+    ]
 }
