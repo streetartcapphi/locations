@@ -3779,39 +3779,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7742344f7d5351f12befc8e8499ccbca/5B9848DE/t51.2885-15/e35/32370011_413099179152032_6085454172889546752_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1783473938191655495", 
-                "timestamp": 1526826682, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a55fced0487d358c5aefb556a1b876e0/5B831FBF/t51.2885-15/s640x640/sh0.08/e35/32370011_413099179152032_6085454172889546752_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1526826682, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7742344f7d5351f12befc8e8499ccbca/5B9848DE/t51.2885-15/e35/32370011_413099179152032_6085454172889546752_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1783473938191655495"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Mont\u00e9e Pouteau\n#capphi #Collage #france #StreetArtFrance #streetarteverywhere #streetartphotography #Lyon #Art #Streetart #streetphoto #streetartist #StreetArtlyon", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-20/1783473938191655495_5529011003.json", 
-                "instagramcode": "BjALBj4FKJH", 
-                "post_date": "2018-05-20 16:31:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/b1a2a9f5a8476a82747455474854d5c6/5B7F8F48/t51.2885-15/e35/32343554_614552062213766_8486033066752475136_n.jpg", 
                 "originally_localized": true, 
                 "author": "chaquelegumesarecette", 
@@ -3979,6 +3946,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-20/1783365500333757105_37664964.json", 
                 "instagramcode": "Bi_yXlQFJKx", 
                 "post_date": "2018-05-20 12:55:56", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7742344f7d5351f12befc8e8499ccbca/5B9848DE/t51.2885-15/e35/32370011_413099179152032_6085454172889546752_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1783473938191655495", 
+                "timestamp": 1526826682, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a55fced0487d358c5aefb556a1b876e0/5B831FBF/t51.2885-15/s640x640/sh0.08/e35/32370011_413099179152032_6085454172889546752_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1526826682, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/7742344f7d5351f12befc8e8499ccbca/5B9848DE/t51.2885-15/e35/32370011_413099179152032_6085454172889546752_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1783473938191655495"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi \nLocalisation: Mont\u00e9e Pouteau\n#capphi #Collage #france #StreetArtFrance #streetarteverywhere #streetartphotography #Lyon #Art #Streetart #streetphoto #streetartist #StreetArtlyon", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-05-20/1783473938191655495_5529011003.json", 
+                "instagramcode": "BjALBj4FKJH", 
+                "post_date": "2018-05-20 16:31:22", 
                 "validated": false
             }
         }, 
@@ -4433,39 +4433,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1763179767920915116", 
-                "timestamp": 1524407429, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eac555989d75cf53a7bb12d6273a19bd/5B5D4D96/t51.2885-15/s640x640/sh0.08/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1524407429, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1763179767920915116"
-                }, 
-                "caption": "Artistes: Cap Phi et Ghostsurfer\n@cap_phi \n@ghostsurfer69 \nLocalisation: Rue Lanterne\n#ghostsurfer #collage #Lyon #streetarteverywhere #streetartphotography #Art #Streetart #streetphoto #streetartist #StreetArtlyon  #Capphi #france #StreetArtFrance", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-22/1763179767920915116_5529011003.json", 
-                "instagramcode": "Bh4Eqg-FPKs", 
-                "post_date": "2018-04-22 16:30:29", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/82d73c959620dc337e092ada4f70982b/5B7C31AD/t51.2885-15/e35/30604680_235078137048108_8407634627811868672_n.jpg", 
                 "originally_localized": true, 
                 "author": "moemoea987", 
@@ -4623,6 +4590,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-18/1760295206094964535_1014838066.json", 
                 "instagramcode": "Bht0ynbHQc3", 
                 "post_date": "2018-04-18 16:59:22", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1763179767920915116", 
+                "timestamp": 1524407429, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/eac555989d75cf53a7bb12d6273a19bd/5B5D4D96/t51.2885-15/s640x640/sh0.08/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1524407429, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/584b89a4474d4d438fa5a09456087bca/5B6B7EF7/t51.2885-15/e35/30890544_202405527212818_6278844434125684736_n.jpg", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1763179767920915116"
+                }, 
+                "caption": "Artistes: Cap Phi et Ghostsurfer\n@cap_phi \n@ghostsurfer69 \nLocalisation: Rue Lanterne\n#ghostsurfer #collage #Lyon #streetarteverywhere #streetartphotography #Art #Streetart #streetphoto #streetartist #StreetArtlyon  #Capphi #france #StreetArtFrance", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-04-22/1763179767920915116_5529011003.json", 
+                "instagramcode": "Bh4Eqg-FPKs", 
+                "post_date": "2018-04-22 16:30:29", 
                 "validated": false
             }
         }
