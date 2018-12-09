@@ -360,6 +360,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8324447870254525, 
+                    45.75795742558818
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/fd43c387275d7c4709327dd6e8bed2c1/5BBB0F84/t51.2885-15/e35/35484837_183822942461711_1499188790281895936_n.jpg", 
+                "originally_localized": true, 
+                "author": "an.niri.eix", 
+                "instagramid": "1808955515437147875", 
+                "timestamp": 1529864323, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/37e6ec516b3e7b689de3e6404290d7cb/5BE906E5/t51.2885-15/s640x640/sh0.08/e35/35484837_183822942461711_1499188790281895936_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "an.niri.eix", 
+                    "timestamp": 1529864323, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/fd43c387275d7c4709327dd6e8bed2c1/5BBB0F84/t51.2885-15/e35/35484837_183822942461711_1499188790281895936_n.jpg", 
+                    "authorid": "5488122204", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1808955515437147875"
+                }, 
+                "caption": "Streetart by @cap_phi Petite bestiole passionn\u00e9e par une fantastique lecture!\nChallenge \"livres\" #igf258 #igersfrance \n#lyon #lyoncity #onlylyon #igerslyon #ilovelyon #monlyon #graffiti #streetart #artderue #arturbainlyon #arturbain #urbanart #streetview #streetphotography #streetphotographer #streetphotographie #streetartlovers #streetartlyon #capphi #livre #bouquin #lecture #serienoire #suspens #horreur", 
+                "authorid": "5488122204", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-24/1808955515437147875_5488122204.json", 
+                "instagramcode": "Bkas3UAHWbj", 
+                "post_date": "2018-06-24 20:18:43", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8188138008117685, 
                     45.72650047623151
                 ]
