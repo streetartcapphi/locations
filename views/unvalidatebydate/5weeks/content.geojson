@@ -5,28 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-10-30 18:31:12", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-30/1901733093078155609.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e7e7011aa9bb1dcb03995587bce705e7/5C97596C/t51.2885-15/e35/43778576_2031793037112889_1826832531848693097_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#juste \u00e0 #temps pour #halloween ... #r\u00e9union de #famille ... #monster #nightmare #capphi #inmyhead #artwork", 
-                "validated": false, 
-                "id": "1901733093078155609"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -66,8 +44,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818694107234479, 
+                    45.726633182969806
                 ]
             }, 
             "type": "Feature", 
@@ -99,41 +77,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7a505010c8bab10c7bf3de1fd9e05b78/5C9A72EE/t51.2885-15/e35/43341553_563638330760675_3977441043620380747_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1904776195352273835", 
-                "timestamp": 1541287038, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d331c352c91a138d502bcc6dff296508/5C9FB1F1/t51.2885-15/e35/c0.75.600.600/43341553_563638330760675_3977441043620380747_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541287038, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7a505010c8bab10c7bf3de1fd9e05b78/5C9A72EE/t51.2885-15/e35/43341553_563638330760675_3977441043620380747_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1904776195352273835"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi trace d'un collage", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-04/1904776195352273835_5340332945.json", 
-                "instagramcode": "BpvH9uUl6Or", 
-                "post_date": "2018-11-04 00:17:18", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818657226860524, 
+                    45.72664043853193
                 ]
             }, 
             "type": "Feature", 
@@ -158,72 +103,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903861967414528193_5340332945.json", 
                 "instagramcode": "Bpr4F9NHojB", 
                 "post_date": "2018-11-02 18:00:54", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fd414b21364d32c7bf51979668c4ef9c/5CA234AC/t51.2885-15/e35/43915466_545658679216864_2187964070110843135_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1903862112520611501", 
-                "timestamp": 1541178071, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/cb4ad4de9e00f2a6511feec99465400b/5C930841/t51.2885-15/e35/c100.0.600.600a/43915466_545658679216864_2187964070110843135_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541178071, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fd414b21364d32c7bf51979668c4ef9c/5CA234AC/t51.2885-15/e35/43915466_545658679216864_2187964070110843135_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1903862112520611501"
-                }, 
-                "caption": "#StreetArt #lyon #maisonN\u00f4 #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903862112520611501_5340332945.json", 
-                "instagramcode": "Bpr4IEWHaat", 
-                "post_date": "2018-11-02 18:01:11", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df7ab1f478d0e0b003b29bab72718d49/5C9F4338/t51.2885-15/e35/42714645_920322038162147_854070044779909396_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1903862755197149935", 
-                "timestamp": 1541178148, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d2e839da5d2b71cfa7b670ed8060bc24/5CB1058C/t51.2885-15/e35/c100.0.600.600a/42714645_920322038162147_854070044779909396_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541178148, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df7ab1f478d0e0b003b29bab72718d49/5C9F4338/t51.2885-15/e35/42714645_920322038162147_854070044779909396_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1903862755197149935"
-                }, 
-                "caption": "#StreetArt #lyon #maisonN\u00f4 #SunnyJim #MiaEvolia #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903862755197149935_5340332945.json", 
-                "instagramcode": "Bpr4Ra4n2Lv", 
-                "post_date": "2018-11-02 18:02:28", 
                 "validated": false
             }
         }
