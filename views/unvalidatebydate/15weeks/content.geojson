@@ -1,4 +1,44 @@
 {
     "type": "FeatureCollection", 
-    "features": []
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0d3db459a6509465dc6d511040131225/5CB119D1/t51.2885-15/e35/39164771_289226565192304_2598832672985841664_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "lu_cille_", 
+                "instagramid": "1854984266448684909", 
+                "timestamp": 1535351378, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f99a7c56565e605ff4769612f5be0a01/5C969B34/t51.2885-15/sh0.08/e35/s640x640/39164771_289226565192304_2598832672985841664_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lu_cille_", 
+                    "timestamp": 1535351378, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0d3db459a6509465dc6d511040131225/5CB119D1/t51.2885-15/e35/39164771_289226565192304_2598832672985841664_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "50323743", 
+                    "location": {
+                        "id": "213168722", 
+                        "slug": "lyon-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Lyon, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1854984266448684909"
+                }, 
+                "caption": "Un air de vacances dans les rues de Lyon \ud83d\ude01\n\u27a1\ufe0f#capphi #ghostsurfer69\n#streetartlyon #lyon #arturbain #urbanart #streetart #collage", 
+                "authorid": "50323743", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-27/1854984266448684909_50323743.json", 
+                "instagramcode": "Bm-Oly5nMdt", 
+                "post_date": "2018-08-27 08:29:38", 
+                "validated": false
+            }
+        }
+    ]
 }
