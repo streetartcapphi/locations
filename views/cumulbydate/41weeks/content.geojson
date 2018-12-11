@@ -1860,43 +1860,6 @@
                 "post_date": "2018-02-21 14:34:35", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.835132360458375, 
-                    45.77558278643725
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1718774079967061510", 
-                "timestamp": 1519113858, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/f988cf28e87f9530799c3ad3e5f892ec/5B4FD48E/t51.2885-15/s640x640/sh0.08/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1519113858, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/06fc78e8c3b1a8f75b223530ae10905d/5B51C5EF/t51.2885-15/e35/27892498_156086915200295_6569198276468277248_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1718774079967061510"
-                }, 
-                "caption": "By @cap_phi monstre des dents 2/6 #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "instagramcode": "BfaT-tVleYG", 
-                "post_date": "2018-02-20 09:04:18", 
-                "validated": true
-            }
         }
     ]
 }
