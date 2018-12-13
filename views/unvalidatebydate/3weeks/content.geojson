@@ -5,6 +5,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.81867365539074, 
+                    45.72662733170934
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-22 07:18:41", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-22/1918064448256264737.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d64b937848441746fa63f237cb2b229b/5C9A0DC5/t51.2885-15/e35/44865902_1121180494718566_8160027632104422667_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#streetartiste l\u2019essence m\u00eame de notre #art est dans la #rue \u2026 donc grand #respect \u00e0 \"ceux qui font le job\" \u2026", 
+                "validated": false, 
+                "id": "1918064448256264737"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
