@@ -5,6 +5,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.818674996495248, 
+                    45.7265779470465
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-10-19 18:11:34", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07179a79e5510490f8600474dbad2401/5CA005A0/t51.2885-15/e35/43740443_1994881047470966_8661340114462032186_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "\u00ab\u00a0Pure caf\u00e9ine\u00a0\u00bb \u00e0 #insted tous le #weekend pour le #salon #finebouffe avec 5 autres sacs de #cafe peints par des #Streetartistes ;)", 
+                "validated": true, 
+                "id": "1893750674371811566"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818695783615113, 
                     45.726094162282365
                 ]
