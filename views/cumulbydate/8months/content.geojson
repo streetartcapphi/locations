@@ -753,38 +753,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818942546844483, 
-                    45.72694797987991
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
-                "originally_localized": true, 
-                "author": "etaineeire", 
-                "instagramid": "1893116293743970194", 
-                "timestamp": 1539897070, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6ac42dc283e7e5414a74c12307b51729/5CB0E0DD/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/42711538_184055582495736_7777746605567403333_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "etaineeire", 
-                    "timestamp": 1539897070, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
-                    "authorid": "8596995222", 
-                    "location": null, 
-                    "id": "1893116293743970194"
-                }, 
-                "caption": "Je me suis permise d'utiliser un dessin de @cap_phi pour coucher les lignes que voici, parce qu' Eva a aussi les yeux verts.\nEva voyageait,\nEntre la fille sage,\nL' espi\u00e8gle,\nEt la provocatrice,\nOn ne savait pas,\nQui elle \u00e9tait,\nOn ne savait pas,\nCe qu'elle voulait,\nVraiment,\nLe savait elle,\nElle m\u00eame.\n#streetart #streetartlyon #streetstyle #capphi #Lyon #mesphotos #mesecrits #auteuramateur #ecrivainamateur #ecrireunehistoire #romanceromantique #lecteur #lectrice #lecture", 
-                "authorid": "8596995222", 
-                "instagramcode": "BpFsz0vHQeS", 
-                "post_date": "2018-10-18 23:11:10", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818695783615113, 
                     45.726094162282365
                 ]
@@ -1078,6 +1046,38 @@
                 "authorid": "3694450611", 
                 "instagramcode": "BoFAmJLgHBB", 
                 "post_date": "2018-09-23 20:13:25", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818942546844483, 
+                    45.72694797987991
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
+                "originally_localized": true, 
+                "author": "etaineeire", 
+                "instagramid": "1893116293743970194", 
+                "timestamp": 1539897070, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6ac42dc283e7e5414a74c12307b51729/5CB0E0DD/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/42711538_184055582495736_7777746605567403333_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "etaineeire", 
+                    "timestamp": 1539897070, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
+                    "authorid": "8596995222", 
+                    "location": null, 
+                    "id": "1893116293743970194"
+                }, 
+                "caption": "Je me suis permise d'utiliser un dessin de @cap_phi pour coucher les lignes que voici, parce qu' Eva a aussi les yeux verts.\nEva voyageait,\nEntre la fille sage,\nL' espi\u00e8gle,\nEt la provocatrice,\nOn ne savait pas,\nQui elle \u00e9tait,\nOn ne savait pas,\nCe qu'elle voulait,\nVraiment,\nLe savait elle,\nElle m\u00eame.\n#streetart #streetartlyon #streetstyle #capphi #Lyon #mesphotos #mesecrits #auteuramateur #ecrivainamateur #ecrireunehistoire #romanceromantique #lecteur #lectrice #lecture", 
+                "authorid": "8596995222", 
+                "instagramcode": "BpFsz0vHQeS", 
+                "post_date": "2018-10-18 23:11:10", 
                 "validated": true
             }
         }, 
