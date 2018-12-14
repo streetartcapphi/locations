@@ -49,6 +49,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-12-14 20:48:33", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-14/1934417133456614784.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d54a82891c31cda33adce0a61ed3ce73/5CB06969/t51.2885-15/e35/46474450_2266678313611591_6070576886486088080_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d54a82891c31cda33adce0a61ed3ce73/5CB06969/t51.2885-15/e35/46474450_2266678313611591_6070576886486088080_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#ho un #petit #doigt que je connais ;)", 
+                "validated": false, 
+                "id": "1934417133456614784"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
