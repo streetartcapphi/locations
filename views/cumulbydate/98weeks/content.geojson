@@ -2809,43 +2809,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834960699081422, 
-                    45.775257272930475
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZGs9jOgnih", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1605168060963125409", 
-                "timestamp": 1505570965, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21689432_351345285317114_2642277139063242752_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1505570965, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21689432_351345285317114_2642277139063242752_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Croix-Rousse", 
-                        "id": "312586748819106"
-                    }, 
-                    "id": "1605168060963125409"
-                }, 
-                "caption": "Tr\u00e8s sympa ce @cap_phi... Bon comme tr\u00e8s souvent avec lui #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
-                "authorid": "37664964", 
-                "instagramcode": "BZGs9jOgnih", 
-                "post_date": "2017-09-16 16:09:25", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833855628967286, 
                     45.774856926127036
                 ]
@@ -2898,6 +2861,43 @@
                 "caption": "#eden #petite #amazone #vegetal #environmentallyfriendly #streetart #capphi #urbanartist #croixrousse", 
                 "validated": true, 
                 "id": "1604389365231066261_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.834960699081422, 
+                    45.775257272930475
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BZGs9jOgnih", 
+                "originally_localized": true, 
+                "author": "mikamike69", 
+                "instagramid": "1605168060963125409", 
+                "timestamp": 1505570965, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/21689432_351345285317114_2642277139063242752_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "mikamike69", 
+                    "timestamp": 1505570965, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21689432_351345285317114_2642277139063242752_n.jpg", 
+                    "authorid": "37664964", 
+                    "location": {
+                        "slug": "croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Croix-Rousse", 
+                        "id": "312586748819106"
+                    }, 
+                    "id": "1605168060963125409"
+                }, 
+                "caption": "Tr\u00e8s sympa ce @cap_phi... Bon comme tr\u00e8s souvent avec lui #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
+                "authorid": "37664964", 
+                "instagramcode": "BZGs9jOgnih", 
+                "post_date": "2017-09-16 16:09:25", 
+                "validated": true
             }
         }, 
         {
