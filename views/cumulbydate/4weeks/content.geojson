@@ -210,38 +210,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81859251856804, 
-                    45.726638098028126
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1914905467840499924", 
-                "timestamp": 1542494542, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df748aafc88eb79ef39e96e12f7e25c9/5C90F7A9/t51.2885-15/e35/c0.75.600.600/44436327_967860670090283_3196391386564968868_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1542494542, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1914905467840499924"
-                }, 
-                "caption": "#lyon #StreetArt #SpiraleART #Zorm #CapPhi #Prolo #Littlelilou01", 
-                "authorid": "5340332945", 
-                "instagramcode": "BqTHGCdFhDU", 
-                "post_date": "2018-11-17 23:42:22", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818687066435815, 
                     45.72665494965338
                 ]
@@ -305,6 +273,38 @@
                 "authorid": "305949513", 
                 "instagramcode": "BqLfugwjH50", 
                 "post_date": "2018-11-15 00:43:41", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81859251856804, 
+                    45.726638098028126
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1914905467840499924", 
+                "timestamp": 1542494542, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df748aafc88eb79ef39e96e12f7e25c9/5C90F7A9/t51.2885-15/e35/c0.75.600.600/44436327_967860670090283_3196391386564968868_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1542494542, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1914905467840499924"
+                }, 
+                "caption": "#lyon #StreetArt #SpiraleART #Zorm #CapPhi #Prolo #Littlelilou01", 
+                "authorid": "5340332945", 
+                "instagramcode": "BqTHGCdFhDU", 
+                "post_date": "2018-11-17 23:42:22", 
                 "validated": true
             }
         }
