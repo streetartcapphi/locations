@@ -2683,43 +2683,6 @@
                 "post_date": "2017-10-01 18:58:22", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.833769798278809, 
-                    45.769842993810634
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BZbU8p8Flq1", 
-                "originally_localized": true, 
-                "author": "silk_bl", 
-                "instagramid": "1610973420845423285", 
-                "timestamp": 1506263018, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.88.1080.1080/21911094_120306602007721_6525091462009323520_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "silk_bl", 
-                    "timestamp": 1506263018, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/21911094_120306602007721_6525091462009323520_n.jpg", 
-                    "authorid": "3644722472", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1610973420845423285"
-                }, 
-                "caption": "@cap_phi #lyon #streetartist #capphi #art #streetart #streetartlyon #wall #wallart #urbanartist #urbanart #instaart #instaartist #lyonstreetart #graff #lyongraffiti #colourful #collage #onlylyon #croixrousse #france", 
-                "authorid": "3644722472", 
-                "instagramcode": "BZbU8p8Flq1", 
-                "post_date": "2017-09-24 16:23:38", 
-                "validated": true
-            }
         }
     ]
 }
