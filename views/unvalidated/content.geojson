@@ -121,6 +121,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.818713553249837, 
+                    45.72660790552015
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6d5add2ec22bc476890d936ec7b34d51/5C9B1D50/t51.2885-15/e35/42698924_1530135583796726_3383788022728667513_n.jpg", 
+                "originally_localized": true, 
+                "author": "moemoea987", 
+                "instagramid": "1889370488457579465", 
+                "timestamp": 1539450535, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/96fce4f672abb2a23e85b277ad3fab93/5C9E0EC8/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/42698924_1530135583796726_3383788022728667513_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "moemoea987", 
+                    "timestamp": 1539450535, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6d5add2ec22bc476890d936ec7b34d51/5C9B1D50/t51.2885-15/e35/42698924_1530135583796726_3383788022728667513_n.jpg", 
+                    "authorid": "1014838066", 
+                    "location": null, 
+                    "id": "1889370488457579465"
+                }, 
+                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
+                "authorid": "1014838066", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-13/1889370488457579465_1014838066.json", 
+                "instagramcode": "Bo4ZHLtnsvJ", 
+                "post_date": "2018-10-13 19:08:55", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8287996649742135, 
                     45.7767894147567
                 ]
@@ -199,39 +232,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831763505935669, 
-                    45.757775904050845
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
-                "originally_localized": true, 
-                "author": "anatholie", 
-                "instagramid": "1915648091970948826", 
-                "timestamp": 1542583069, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9b94b88be0add9e77c21dbae5aa26a73/5C954779/t51.2885-15/sh0.08/e35/s640x640/44605427_2106500452705394_1804735681107510000_n.jpg", 
+                "post_date": "2018-12-17 05:45:48", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-17/1936137091790154139.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/3ed298e94b523a7c70dfcc3eb7156a4c/5C9ADAE9/t51.2885-15/e35/46252235_1927081880678496_4872441776299581619_n.jpg", 
                 "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "anatholie", 
-                    "timestamp": 1542583069, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
-                    "authorid": "4536226737", 
-                    "location": {
-                        "id": "213168722", 
-                        "slug": "lyon-france", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Lyon, France", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1915648091970948826"
-                }, 
-                "caption": "Gnaw.\n#lyon #streetart #croixrousse #graffiti #graffittiart #graffittiartist #capphi #ilovelyon #streetphotography #travelphotography #streetartphotography #travel #explore #france #noentry #gnaw #sensinterdit #ig_lyon #lyoncity #igerslyon #mylyon #anatholie #getupandexplore #neverstopexploring #lensbible #visualcollective #artofvisuals #visualpage #stayandwander #welivetoexplore", 
-                "authorid": "4536226737", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-19/1915648091970948826_4536226737.json", 
-                "instagramcode": "BqVv8pElU7a", 
-                "post_date": "2018-11-19 00:17:49", 
-                "validated": false
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/3ed298e94b523a7c70dfcc3eb7156a4c/5C9ADAE9/t51.2885-15/e35/46252235_1927081880678496_4872441776299581619_n.jpg", 
+                "caption": "#2 #amazigh ma #petiteamazone #berb\u00e8re #pastup #streetart #capphi  #urbanart #ethnique #croixrousse #lyon", 
+                "validated": false, 
+                "id": "1936137091790154139"
             }
         }, 
         {
@@ -720,32 +736,38 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818713553249837, 
-                    45.72660790552015
+                    4.831763505935669, 
+                    45.757775904050845
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6d5add2ec22bc476890d936ec7b34d51/5C9B1D50/t51.2885-15/e35/42698924_1530135583796726_3383788022728667513_n.jpg", 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
                 "originally_localized": true, 
-                "author": "moemoea987", 
-                "instagramid": "1889370488457579465", 
-                "timestamp": 1539450535, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/96fce4f672abb2a23e85b277ad3fab93/5C9E0EC8/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/42698924_1530135583796726_3383788022728667513_n.jpg", 
+                "author": "anatholie", 
+                "instagramid": "1915648091970948826", 
+                "timestamp": 1542583069, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9b94b88be0add9e77c21dbae5aa26a73/5C954779/t51.2885-15/sh0.08/e35/s640x640/44605427_2106500452705394_1804735681107510000_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
-                    "author": "moemoea987", 
-                    "timestamp": 1539450535, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6d5add2ec22bc476890d936ec7b34d51/5C9B1D50/t51.2885-15/e35/42698924_1530135583796726_3383788022728667513_n.jpg", 
-                    "authorid": "1014838066", 
-                    "location": null, 
-                    "id": "1889370488457579465"
+                    "author": "anatholie", 
+                    "timestamp": 1542583069, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
+                    "authorid": "4536226737", 
+                    "location": {
+                        "id": "213168722", 
+                        "slug": "lyon-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Lyon, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1915648091970948826"
                 }, 
-                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
-                "authorid": "1014838066", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-13/1889370488457579465_1014838066.json", 
-                "instagramcode": "Bo4ZHLtnsvJ", 
-                "post_date": "2018-10-13 19:08:55", 
+                "caption": "Gnaw.\n#lyon #streetart #croixrousse #graffiti #graffittiart #graffittiartist #capphi #ilovelyon #streetphotography #travelphotography #streetartphotography #travel #explore #france #noentry #gnaw #sensinterdit #ig_lyon #lyoncity #igerslyon #mylyon #anatholie #getupandexplore #neverstopexploring #lensbible #visualcollective #artofvisuals #visualpage #stayandwander #welivetoexplore", 
+                "authorid": "4536226737", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-19/1915648091970948826_4536226737.json", 
+                "instagramcode": "BqVv8pElU7a", 
+                "post_date": "2018-11-19 00:17:49", 
                 "validated": false
             }
         }, 
