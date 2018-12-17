@@ -1495,43 +1495,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831709861755372, 
-                    45.76967834958357
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a74c696727067dc9f4553f51256112d4/5B5D3C16/t51.2885-15/e35/30590950_1962353387110221_6107010480604184576_n.jpg", 
-                "originally_localized": true, 
-                "author": "gaby_boucher64", 
-                "instagramid": "1763996886984120662", 
-                "timestamp": 1524504837, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d327460f9d1053dd36828a33997f9d7c/5B62853C/t51.2885-15/s640x640/sh0.08/e35/30590950_1962353387110221_6107010480604184576_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "gaby_boucher64", 
-                    "timestamp": 1524504837, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a74c696727067dc9f4553f51256112d4/5B5D3C16/t51.2885-15/e35/30590950_1962353387110221_6107010480604184576_n.jpg", 
-                    "authorid": "4227301483", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1763996886984120662"
-                }, 
-                "caption": "Art by @cap_phi \u2764 #streetart #streetartist #urbanart #streetartphotography #streetarteverywhere #super_graffiti_channel #streetartphotographer #tv_streetart_ #rsa_graffiti #jj_urbanart #dsb_graff #lyonstreetart #capphi #instaphoto", 
-                "authorid": "4227301483", 
-                "instagramcode": "Bh6-dKZlVlW", 
-                "post_date": "2018-04-23 19:33:57", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831720590591431, 
                     45.767238564532704
                 ]
@@ -1594,6 +1557,43 @@
                 "authorid": "4227301483", 
                 "instagramcode": "Bh0s4Y_lPsL", 
                 "post_date": "2018-04-21 09:04:56", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831709861755372, 
+                    45.76967834958357
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a74c696727067dc9f4553f51256112d4/5B5D3C16/t51.2885-15/e35/30590950_1962353387110221_6107010480604184576_n.jpg", 
+                "originally_localized": true, 
+                "author": "gaby_boucher64", 
+                "instagramid": "1763996886984120662", 
+                "timestamp": 1524504837, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d327460f9d1053dd36828a33997f9d7c/5B62853C/t51.2885-15/s640x640/sh0.08/e35/30590950_1962353387110221_6107010480604184576_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "gaby_boucher64", 
+                    "timestamp": 1524504837, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/a74c696727067dc9f4553f51256112d4/5B5D3C16/t51.2885-15/e35/30590950_1962353387110221_6107010480604184576_n.jpg", 
+                    "authorid": "4227301483", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1763996886984120662"
+                }, 
+                "caption": "Art by @cap_phi \u2764 #streetart #streetartist #urbanart #streetartphotography #streetarteverywhere #super_graffiti_channel #streetartphotographer #tv_streetart_ #rsa_graffiti #jj_urbanart #dsb_graff #lyonstreetart #capphi #instaphoto", 
+                "authorid": "4227301483", 
+                "instagramcode": "Bh6-dKZlVlW", 
+                "post_date": "2018-04-23 19:33:57", 
                 "validated": true
             }
         }, 
@@ -4335,26 +4335,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835312068462372, 
-                    45.77434245755706
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-22 19:47:49", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579799_222410721587458_4499875143400554496_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUaCrpYhS6y/", 
-                "caption": "J'ai les crocs #urbanart #streetart #kawaiiart #panneau #signalisation #capphi #t0 #map_phi", 
-                "validated": true, 
-                "id": "1520539619656281778_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83548641204834, 
                     45.765277678340816
                 ]
@@ -4592,6 +4572,26 @@
                 "caption": "#duality #humanity #monster #streetart #urbanart #capphi #kawaii #t0 #map_phi", 
                 "validated": true, 
                 "id": "1521909070565798895_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835312068462372, 
+                    45.77434245755706
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-22 19:47:49", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579799_222410721587458_4499875143400554496_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUaCrpYhS6y/", 
+                "caption": "J'ai les crocs #urbanart #streetart #kawaiiart #panneau #signalisation #capphi #t0 #map_phi", 
+                "validated": true, 
+                "id": "1520539619656281778_29177514"
             }
         }, 
         {
