@@ -304,45 +304,6 @@
                 "validated": false, 
                 "id": "1918064448256264737"
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.831763505935669, 
-                    45.757775904050845
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
-                "originally_localized": true, 
-                "author": "anatholie", 
-                "instagramid": "1915648091970948826", 
-                "timestamp": 1542583069, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9b94b88be0add9e77c21dbae5aa26a73/5C954779/t51.2885-15/sh0.08/e35/s640x640/44605427_2106500452705394_1804735681107510000_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "anatholie", 
-                    "timestamp": 1542583069, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fc3c2384fccc6c39203965ea526ecfa0/5CA93FC3/t51.2885-15/e35/44605427_2106500452705394_1804735681107510000_n.jpg", 
-                    "authorid": "4536226737", 
-                    "location": {
-                        "id": "213168722", 
-                        "slug": "lyon-france", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Lyon, France", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1915648091970948826"
-                }, 
-                "caption": "Gnaw.\n#lyon #streetart #croixrousse #graffiti #graffittiart #graffittiartist #capphi #ilovelyon #streetphotography #travelphotography #streetartphotography #travel #explore #france #noentry #gnaw #sensinterdit #ig_lyon #lyoncity #igerslyon #mylyon #anatholie #getupandexplore #neverstopexploring #lensbible #visualcollective #artofvisuals #visualpage #stayandwander #welivetoexplore", 
-                "authorid": "4536226737", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-19/1915648091970948826_4536226737.json", 
-                "instagramcode": "BqVv8pElU7a", 
-                "post_date": "2018-11-19 00:17:49", 
-                "validated": false
-            }
         }
     ]
 }
