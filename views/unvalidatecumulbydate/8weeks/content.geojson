@@ -697,28 +697,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818675667047501, 
-                    45.72663973638082
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-10-16 16:27:06", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-16/1891523768524160141.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c941e18d794e7d0695fec0d0f583a564/5CAE8F0E/t51.2885-15/e35/42825089_310535092875793_714874906922078558_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "Venez d\u00e9couvrir un #petit #monstre #pure #caf\u00e9ine et les #\u0153uvres d\u2019autres #streetartists #rdv #vendredi 18h pour le #vernissage", 
-                "validated": false, 
-                "id": "1891523768524160141"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818579442799091, 
                     45.72661773564081
                 ]
