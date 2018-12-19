@@ -697,28 +697,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818754121661187, 
-                    45.72659947970104
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-10-17 11:19:41", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-17/1892093817890720631.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/30bddadc05824322088fa13fb5a334f4/5CA04F87/t51.2885-15/e35/42708985_1097003773791557_3605242605280579983_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "Une #petite #rencontre #d\u00e9dicace  autour du #livre d\u2019Ad\u00e8le Alberge #rdv #samedi \u00e0 15h \u00e0 la #librairie #vivementdimanche \ud83d\ude09", 
-                "validated": false, 
-                "id": "1892093817890720631"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818579442799091, 
                     45.72661773564081
                 ]
@@ -746,6 +724,28 @@
                 "instagramcode": "BpRhfG_AmmN", 
                 "post_date": "2018-10-23 13:23:06", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818754121661187, 
+                    45.72659947970104
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-10-17 11:19:41", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-10-17/1892093817890720631.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/30bddadc05824322088fa13fb5a334f4/5CA04F87/t51.2885-15/e35/42708985_1097003773791557_3605242605280579983_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "Une #petite #rencontre #d\u00e9dicace  autour du #livre d\u2019Ad\u00e8le Alberge #rdv #samedi \u00e0 15h \u00e0 la #librairie #vivementdimanche \ud83d\ude09", 
+                "validated": false, 
+                "id": "1892093817890720631"
             }
         }, 
         {
