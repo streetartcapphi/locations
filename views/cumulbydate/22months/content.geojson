@@ -2630,27 +2630,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831978082656861, 
-                    45.77304223401676
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-09-27 05:54:31", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22070820_740559469467729_6804456226798174208_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BZiJEUag7RI/", 
-                "caption": "#eden #arbredevie petite #amazone #rayon de #soleil #capphi #streetart #urbanart #croixrousse", 
-                "validated": true, 
-                "id": "1612891495768241224_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831538200378419, 
                     45.770606337967685
                 ]
@@ -2703,6 +2682,27 @@
                 "caption": "#eden quand la #vie l'emporte sur le #mort #suicide ...#streetart #urbanart #capphi #croixrousse #petite #amazone", 
                 "validated": true, 
                 "id": "1605719416836845926_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831978082656861, 
+                    45.77304223401676
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-09-27 05:54:31", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/22070820_740559469467729_6804456226798174208_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BZiJEUag7RI/", 
+                "caption": "#eden #arbredevie petite #amazone #rayon de #soleil #capphi #streetart #urbanart #croixrousse", 
+                "validated": true, 
+                "id": "1612891495768241224_29177514"
             }
         }, 
         {
@@ -3678,27 +3678,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.843350648880005, 
-                    45.75160194886312
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-06-07 05:57:23", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18889183_1886887944904030_5576686619181711360_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BVBwXVkBClH/", 
-                "caption": "#6 #petite #amazone #death #queen #t0 #map_phi #streetart #urbanartist #capphi #kawaii #monster", 
-                "validated": true, 
-                "id": "1531718058216008007_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.661644399166107, 
                     45.76482299736626
                 ]
@@ -4131,6 +4110,27 @@
                 "caption": "Envi de l'eau #streetart #urbanartist #capphi #kawaii #monster #bernardlhermite #t0 #map_phi", 
                 "validated": true, 
                 "id": "1526812892803167690_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.843350648880005, 
+                    45.75160194886312
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-06-07 05:57:23", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18889183_1886887944904030_5576686619181711360_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BVBwXVkBClH/", 
+                "caption": "#6 #petite #amazone #death #queen #t0 #map_phi #streetart #urbanartist #capphi #kawaii #monster", 
+                "validated": true, 
+                "id": "1531718058216008007_29177514"
             }
         }, 
         {
