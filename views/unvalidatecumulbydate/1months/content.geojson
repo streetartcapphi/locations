@@ -486,6 +486,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fb68f7ecece3e306355d64d82c890750/5CB27A6E/t51.2885-15/e35/46791596_379378782829898_4420051517503497608_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "verophoto___", 
+                "instagramid": "1939187120436173148", 
+                "timestamp": 1545389140, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/528c4fef70b15f3cd6e58c654e16df1f/5CD2720C/t51.2885-15/sh0.08/e35/c158.0.764.764/s640x640/46791596_379378782829898_4420051517503497608_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "verophoto___", 
+                    "timestamp": 1545389140, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fb68f7ecece3e306355d64d82c890750/5CB27A6E/t51.2885-15/e35/46791596_379378782829898_4420051517503497608_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5801321109", 
+                    "location": null, 
+                    "id": "1939187120436173148"
+                }, 
+                "caption": "Street Art's Backstage - Lyon - 2018\n\nArtist @cap_phi\n\n#streetart #street #streetphotography #streetartlyon #streetartfrance #blackandwhite #bnw #bnwphotography #olympus #myolympus #lyon #igerslyon #ingersfrance #igersphotography #night #light #croixrousse #art #artists #backstage #amazone #wallart #streetlife #capphi #berbere #amazigh #bigeyes", 
+                "authorid": "5801321109", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-21/1939187120436173148_5801321109.json", 
+                "instagramcode": "BrpYGlqnFlc", 
+                "post_date": "2018-12-21 11:45:40", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.81867365539074, 
                     45.72662733170934
                 ]
