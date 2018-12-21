@@ -725,6 +725,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/97535125b0d38a610f39c9aecbef86ef/5C98BFEA/t51.2885-15/e35/47048152_410027252871166_5213168291135140970_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "chat.soeur.2.graffs", 
+                "instagramid": "1939206444315610855", 
+                "timestamp": 1545391444, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e97ff57758f07532aa55cb173301faab/5CD5A4BF/t51.2885-15/sh0.08/e35/c124.0.832.832/s640x640/47048152_410027252871166_5213168291135140970_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "chat.soeur.2.graffs", 
+                    "timestamp": 1545391444, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/97535125b0d38a610f39c9aecbef86ef/5C98BFEA/t51.2885-15/e35/47048152_410027252871166_5213168291135140970_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "3597633196", 
+                    "location": null, 
+                    "id": "1939206444315610855"
+                }, 
+                "caption": "Il est interdit d'interdire ! \n@cap_phi\n#capphi #monlyon #mylyon #photograph #igersstreetart #igerslyonstreetart #igerslyon #igersfrance #francestreetart #france #streetart #street #art #igersart #instaart #instalyon #instastreetart #streetarteverywhere  #stickers #stickerart #stickerporn  #merveillesdelyon  #panneau #sensinterdit #forbidden #photography #collage", 
+                "authorid": "3597633196", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-21/1939206444315610855_3597633196.json", 
+                "instagramcode": "BrpcfyblI7n", 
+                "post_date": "2018-12-21 12:24:04", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2018-12-18 17:25:34", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
