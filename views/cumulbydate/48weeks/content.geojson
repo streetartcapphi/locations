@@ -333,38 +333,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81871858239174, 
-                    45.72662382095275
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/dcdd1d0f8a3c89a3cf47ada4caebeb98/5C999966/t51.2885-15/e35/44869495_2237875506445380_6942935161450176205_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1908422444362056831", 
-                "timestamp": 1541721705, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/84dd0da566697709b9df896a7fa179c9/5CA06F5B/t51.2885-15/e35/c0.75.600.600/44869495_2237875506445380_6942935161450176205_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541721705, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/dcdd1d0f8a3c89a3cf47ada4caebeb98/5C999966/t51.2885-15/e35/44869495_2237875506445380_6942935161450176205_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1908422444362056831"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi La porteuse d'\u00e2mes", 
-                "authorid": "5340332945", 
-                "instagramcode": "Bp8FBoVlUR_", 
-                "post_date": "2018-11-09 01:01:45", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.830682575702668, 
                     45.772011387767314
                 ]
@@ -396,38 +364,6 @@
                 "authorid": "1218180784", 
                 "instagramcode": "Bp82nErFek3", 
                 "post_date": "2018-11-09 08:15:02", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.81870885938406, 
-                    45.72664558763999
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b11a0fe9e06daf7568872342a9254cc0/5C8B2027/t51.2885-15/e35/44583685_181732676100318_7459682499080753970_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1908420724286542709", 
-                "timestamp": 1541721500, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c7bd9e64337e701fc2d8f8d6505be223/5C95A138/t51.2885-15/e35/c0.75.600.600/44583685_181732676100318_7459682499080753970_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541721500, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b11a0fe9e06daf7568872342a9254cc0/5C8B2027/t51.2885-15/e35/44583685_181732676100318_7459682499080753970_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1908420724286542709"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi La porteuse d'\u00e2mes", 
-                "authorid": "5340332945", 
-                "instagramcode": "Bp8EomZF9N1", 
-                "post_date": "2018-11-09 00:58:20", 
                 "validated": true
             }
         }, 
@@ -626,6 +562,70 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.81871858239174, 
+                    45.72662382095275
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/dcdd1d0f8a3c89a3cf47ada4caebeb98/5C999966/t51.2885-15/e35/44869495_2237875506445380_6942935161450176205_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1908422444362056831", 
+                "timestamp": 1541721705, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/84dd0da566697709b9df896a7fa179c9/5CA06F5B/t51.2885-15/e35/c0.75.600.600/44869495_2237875506445380_6942935161450176205_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1541721705, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/dcdd1d0f8a3c89a3cf47ada4caebeb98/5C999966/t51.2885-15/e35/44869495_2237875506445380_6942935161450176205_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1908422444362056831"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi La porteuse d'\u00e2mes", 
+                "authorid": "5340332945", 
+                "instagramcode": "Bp8FBoVlUR_", 
+                "post_date": "2018-11-09 01:01:45", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81870885938406, 
+                    45.72664558763999
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b11a0fe9e06daf7568872342a9254cc0/5C8B2027/t51.2885-15/e35/44583685_181732676100318_7459682499080753970_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1908420724286542709", 
+                "timestamp": 1541721500, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c7bd9e64337e701fc2d8f8d6505be223/5C95A138/t51.2885-15/e35/c0.75.600.600/44583685_181732676100318_7459682499080753970_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1541721500, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b11a0fe9e06daf7568872342a9254cc0/5C8B2027/t51.2885-15/e35/44583685_181732676100318_7459682499080753970_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1908420724286542709"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi La porteuse d'\u00e2mes", 
+                "authorid": "5340332945", 
+                "instagramcode": "Bp8EomZF9N1", 
+                "post_date": "2018-11-09 00:58:20", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -747,38 +747,6 @@
                 "caption": "#24 #petits #cadeaux pour La s\u00e9ance de #d\u00e9dicace cette #apr\u00e8s-midi \u00e0  la Librairie Vivement Dimanche \u00e0 l\u2019occasion de la sortie du #livre de Ad\u00e8le Alberge \u00ab Les cris des murs \u00bb", 
                 "validated": true, 
                 "id": "1894122423982700197"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818942546844483, 
-                    45.72694797987991
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
-                "originally_localized": true, 
-                "author": "etaineeire", 
-                "instagramid": "1893116293743970194", 
-                "timestamp": 1539897070, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6ac42dc283e7e5414a74c12307b51729/5CB0E0DD/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/42711538_184055582495736_7777746605567403333_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "etaineeire", 
-                    "timestamp": 1539897070, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
-                    "authorid": "8596995222", 
-                    "location": null, 
-                    "id": "1893116293743970194"
-                }, 
-                "caption": "Je me suis permise d'utiliser un dessin de @cap_phi pour coucher les lignes que voici, parce qu' Eva a aussi les yeux verts.\nEva voyageait,\nEntre la fille sage,\nL' espi\u00e8gle,\nEt la provocatrice,\nOn ne savait pas,\nQui elle \u00e9tait,\nOn ne savait pas,\nCe qu'elle voulait,\nVraiment,\nLe savait elle,\nElle m\u00eame.\n#streetart #streetartlyon #streetstyle #capphi #Lyon #mesphotos #mesecrits #auteuramateur #ecrivainamateur #ecrireunehistoire #romanceromantique #lecteur #lectrice #lecture", 
-                "authorid": "8596995222", 
-                "instagramcode": "BpFsz0vHQeS", 
-                "post_date": "2018-10-18 23:11:10", 
-                "validated": true
             }
         }, 
         {
@@ -938,6 +906,38 @@
                 "authorid": "1014838066", 
                 "instagramcode": "Bo4sPwUHRQA", 
                 "post_date": "2018-10-13 21:56:07", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818942546844483, 
+                    45.72694797987991
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
+                "originally_localized": true, 
+                "author": "etaineeire", 
+                "instagramid": "1893116293743970194", 
+                "timestamp": 1539897070, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6ac42dc283e7e5414a74c12307b51729/5CB0E0DD/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/42711538_184055582495736_7777746605567403333_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "etaineeire", 
+                    "timestamp": 1539897070, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1c57fe3603f071b49f0fdc13a811674c/5CA8B6D1/t51.2885-15/e35/42711538_184055582495736_7777746605567403333_n.jpg", 
+                    "authorid": "8596995222", 
+                    "location": null, 
+                    "id": "1893116293743970194"
+                }, 
+                "caption": "Je me suis permise d'utiliser un dessin de @cap_phi pour coucher les lignes que voici, parce qu' Eva a aussi les yeux verts.\nEva voyageait,\nEntre la fille sage,\nL' espi\u00e8gle,\nEt la provocatrice,\nOn ne savait pas,\nQui elle \u00e9tait,\nOn ne savait pas,\nCe qu'elle voulait,\nVraiment,\nLe savait elle,\nElle m\u00eame.\n#streetart #streetartlyon #streetstyle #capphi #Lyon #mesphotos #mesecrits #auteuramateur #ecrivainamateur #ecrireunehistoire #romanceromantique #lecteur #lectrice #lecture", 
+                "authorid": "8596995222", 
+                "instagramcode": "BpFsz0vHQeS", 
+                "post_date": "2018-10-18 23:11:10", 
                 "validated": true
             }
         }, 
@@ -2076,27 +2076,6 @@
                 "instagramcode": "BeQwOSLge1E", 
                 "post_date": "2018-01-22 19:27:18", 
                 "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8360657691955575, 
-                    45.769206865699346
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-01-12 05:32:36", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/cfe7095718cf9239ceb37965992fbeb4/5ADA93D7/t51.2885-15/s640x640/sh0.08/e35/26332778_389728531482066_335570003904430080_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bd1nnavgm8c/", 
-                "caption": "Ma #6 \u00e9me #f\u00e9e des #dents rien que pour le #plaisir de #trouver un #petit #tresor #capphi #streetart #croixrousse #urbanart", 
-                "validated": true, 
-                "id": "1690431467735379740_29177514"
             }
         }, 
         {
