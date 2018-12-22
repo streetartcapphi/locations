@@ -1733,27 +1733,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.828705787658692, 
-                    45.77731134356823
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-03-03 08:46:18", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/vp/48fe56f0d7bedbf4515f7ab7d804834e/5B487157/t51.2885-15/s640x640/sh0.08/e35/28153911_115586965890373_4430289689588531200_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bf2th30AmuO/", 
-                "caption": "#yessss s\u00e9lectionn\u00e9 pour l\u2019 #expo #ilestinterditdinterdire #sketch #monster #capphi #urbanart #streetart", 
-                "validated": true, 
-                "id": "1726767746907270030_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831430912017823, 
                     45.76802813855238
                 ]
@@ -1822,6 +1801,27 @@
                 "instagramcode": "Bf7xw4YFCGX", 
                 "post_date": "2018-03-05 08:59:30", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.828705787658692, 
+                    45.77731134356823
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-03-03 08:46:18", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/vp/48fe56f0d7bedbf4515f7ab7d804834e/5B487157/t51.2885-15/s640x640/sh0.08/e35/28153911_115586965890373_4430289689588531200_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bf2th30AmuO/", 
+                "caption": "#yessss s\u00e9lectionn\u00e9 pour l\u2019 #expo #ilestinterditdinterdire #sketch #monster #capphi #urbanart #streetart", 
+                "validated": true, 
+                "id": "1726767746907270030_29177514"
             }
         }, 
         {
@@ -3634,43 +3634,6 @@
                 "authorid": "1687942178", 
                 "instagramcode": "BWW05TBgBGt", 
                 "post_date": "2017-07-10 08:52:25", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832439422607422, 
-                    45.76901976781533
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWRp9lyAzsn", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1554207898782087975", 
-                "timestamp": 1499496041, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19932699_649417001920488_5706008050104532992_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1499496041, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19932699_649417001920488_5706008050104532992_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1554207898782087975"
-                }, 
-                "caption": "Une des si mignonne petite Amazone de @cap_phi rencontr\u00e9e sur les pentes\n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #amazone #montre", 
-                "authorid": "54122886", 
-                "instagramcode": "BWRp9lyAzsn", 
-                "post_date": "2017-07-08 08:40:41", 
                 "validated": true
             }
         }
