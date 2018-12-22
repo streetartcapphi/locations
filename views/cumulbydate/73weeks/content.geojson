@@ -785,102 +785,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818608611822129, 
-                    45.726640672582334
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b3811bc2de01b6af38ace834235e4d47/5C99F274/t51.2885-15/e35/43052081_526634681096718_119407217410884553_n.jpg", 
-                "originally_localized": true, 
-                "author": "moemoea987", 
-                "instagramid": "1889378317771849543", 
-                "timestamp": 1539451468, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/afa0f31a7c14ebf6c3b493c5c2994828/5CA54607/t51.2885-15/sh0.08/e35/s640x640/43052081_526634681096718_119407217410884553_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "moemoea987", 
-                    "timestamp": 1539451468, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b3811bc2de01b6af38ace834235e4d47/5C99F274/t51.2885-15/e35/43052081_526634681096718_119407217410884553_n.jpg", 
-                    "authorid": "1014838066", 
-                    "location": null, 
-                    "id": "1889378317771849543"
-                }, 
-                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
-                "authorid": "1014838066", 
-                "instagramcode": "Bo4a5HVHb9H", 
-                "post_date": "2018-10-13 19:24:28", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818605929613114, 
-                    45.72662007614548
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f322b5ad0062aafee9f2baa26636f61b/5CABA68B/t51.2885-15/e35/42461438_283288468954694_5874351401235217893_n.jpg", 
-                "originally_localized": true, 
-                "author": "moemoea987", 
-                "instagramid": "1889371408226365219", 
-                "timestamp": 1539450644, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07f18311d7d1e2f9098aad715d9c4664/5C92C56E/t51.2885-15/sh0.08/e35/s640x640/42461438_283288468954694_5874351401235217893_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "moemoea987", 
-                    "timestamp": 1539450644, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f322b5ad0062aafee9f2baa26636f61b/5CABA68B/t51.2885-15/e35/42461438_283288468954694_5874351401235217893_n.jpg", 
-                    "authorid": "1014838066", 
-                    "location": null, 
-                    "id": "1889371408226365219"
-                }, 
-                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
-                "authorid": "1014838066", 
-                "instagramcode": "Bo4ZUkUHK8j", 
-                "post_date": "2018-10-13 19:10:44", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818699471652509, 
-                    45.72659667109442
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ff2a7fd52ddfb4c38a65029112f835ce/5CA93A44/t51.2885-15/e35/43915241_393960974472958_6516567136429018330_n.jpg", 
-                "originally_localized": true, 
-                "author": "moemoea987", 
-                "instagramid": "1889373371940803052", 
-                "timestamp": 1539450879, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4be247b82be6ed51824e9403f6b929c0/5C985607/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/43915241_393960974472958_6516567136429018330_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "moemoea987", 
-                    "timestamp": 1539450879, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ff2a7fd52ddfb4c38a65029112f835ce/5CA93A44/t51.2885-15/e35/43915241_393960974472958_6516567136429018330_n.jpg", 
-                    "authorid": "1014838066", 
-                    "location": null, 
-                    "id": "1889373371940803052"
-                }, 
-                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
-                "authorid": "1014838066", 
-                "instagramcode": "Bo4ZxJKnRHs", 
-                "post_date": "2018-10-13 19:14:39", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818664267659188, 
                     45.7266235869023
                 ]
@@ -1008,6 +912,102 @@
                 "authorid": "6947759213", 
                 "instagramcode": "Bon9cIKHX6W", 
                 "post_date": "2018-10-07 09:59:15", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818608611822129, 
+                    45.726640672582334
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b3811bc2de01b6af38ace834235e4d47/5C99F274/t51.2885-15/e35/43052081_526634681096718_119407217410884553_n.jpg", 
+                "originally_localized": true, 
+                "author": "moemoea987", 
+                "instagramid": "1889378317771849543", 
+                "timestamp": 1539451468, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/afa0f31a7c14ebf6c3b493c5c2994828/5CA54607/t51.2885-15/sh0.08/e35/s640x640/43052081_526634681096718_119407217410884553_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "moemoea987", 
+                    "timestamp": 1539451468, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b3811bc2de01b6af38ace834235e4d47/5C99F274/t51.2885-15/e35/43052081_526634681096718_119407217410884553_n.jpg", 
+                    "authorid": "1014838066", 
+                    "location": null, 
+                    "id": "1889378317771849543"
+                }, 
+                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
+                "authorid": "1014838066", 
+                "instagramcode": "Bo4a5HVHb9H", 
+                "post_date": "2018-10-13 19:24:28", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818605929613114, 
+                    45.72662007614548
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f322b5ad0062aafee9f2baa26636f61b/5CABA68B/t51.2885-15/e35/42461438_283288468954694_5874351401235217893_n.jpg", 
+                "originally_localized": true, 
+                "author": "moemoea987", 
+                "instagramid": "1889371408226365219", 
+                "timestamp": 1539450644, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07f18311d7d1e2f9098aad715d9c4664/5C92C56E/t51.2885-15/sh0.08/e35/s640x640/42461438_283288468954694_5874351401235217893_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "moemoea987", 
+                    "timestamp": 1539450644, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f322b5ad0062aafee9f2baa26636f61b/5CABA68B/t51.2885-15/e35/42461438_283288468954694_5874351401235217893_n.jpg", 
+                    "authorid": "1014838066", 
+                    "location": null, 
+                    "id": "1889371408226365219"
+                }, 
+                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
+                "authorid": "1014838066", 
+                "instagramcode": "Bo4ZUkUHK8j", 
+                "post_date": "2018-10-13 19:10:44", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818699471652509, 
+                    45.72659667109442
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ff2a7fd52ddfb4c38a65029112f835ce/5CA93A44/t51.2885-15/e35/43915241_393960974472958_6516567136429018330_n.jpg", 
+                "originally_localized": true, 
+                "author": "moemoea987", 
+                "instagramid": "1889373371940803052", 
+                "timestamp": 1539450879, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4be247b82be6ed51824e9403f6b929c0/5C985607/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/43915241_393960974472958_6516567136429018330_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "moemoea987", 
+                    "timestamp": 1539450879, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ff2a7fd52ddfb4c38a65029112f835ce/5CA93A44/t51.2885-15/e35/43915241_393960974472958_6516567136429018330_n.jpg", 
+                    "authorid": "1014838066", 
+                    "location": null, 
+                    "id": "1889373371940803052"
+                }, 
+                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
+                "authorid": "1014838066", 
+                "instagramcode": "Bo4ZxJKnRHs", 
+                "post_date": "2018-10-13 19:14:39", 
                 "validated": true
             }
         }, 
