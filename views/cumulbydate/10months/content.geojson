@@ -1047,70 +1047,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818652868270875, 
-                    45.72661165032823
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/79e4329a35c748b9fe6e210e8dffb6a3/5CA440FC/t51.2885-15/e35/42068672_2282071535350017_2020377970121085502_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1880093078096126950", 
-                "timestamp": 1538344581, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/79e4329a35c748b9fe6e210e8dffb6a3/5CA440FC/t51.2885-15/e35/42068672_2282071535350017_2020377970121085502_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1538344581, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/79e4329a35c748b9fe6e210e8dffb6a3/5CA440FC/t51.2885-15/e35/42068672_2282071535350017_2020377970121085502_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1880093078096126950"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi", 
-                "authorid": "5340332945", 
-                "instagramcode": "BoXbrGAlyPm", 
-                "post_date": "2018-09-30 23:56:21", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.81859788298607, 
-                    45.726653077250845
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/278e7d79617ba474e3186e1a48b9ea81/5C95F398/t51.2885-15/e35/41656131_2154555968198030_4894744536326935136_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1880091174469216631", 
-                "timestamp": 1538344354, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/278e7d79617ba474e3186e1a48b9ea81/5C95F398/t51.2885-15/e35/41656131_2154555968198030_4894744536326935136_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1538344354, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/278e7d79617ba474e3186e1a48b9ea81/5C95F398/t51.2885-15/e35/41656131_2154555968198030_4894744536326935136_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1880091174469216631"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi", 
-                "authorid": "5340332945", 
-                "instagramcode": "BoXbPZHlal3", 
-                "post_date": "2018-09-30 23:52:34", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818422198295594, 
                     45.72628140410075
                 ]
@@ -1276,6 +1212,70 @@
                 "authorid": "810473762", 
                 "instagramcode": "BoI-7RjnLHD", 
                 "post_date": "2018-09-25 09:15:48", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818652868270875, 
+                    45.72661165032823
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/79e4329a35c748b9fe6e210e8dffb6a3/5CA440FC/t51.2885-15/e35/42068672_2282071535350017_2020377970121085502_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1880093078096126950", 
+                "timestamp": 1538344581, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/79e4329a35c748b9fe6e210e8dffb6a3/5CA440FC/t51.2885-15/e35/42068672_2282071535350017_2020377970121085502_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1538344581, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/79e4329a35c748b9fe6e210e8dffb6a3/5CA440FC/t51.2885-15/e35/42068672_2282071535350017_2020377970121085502_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1880093078096126950"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi", 
+                "authorid": "5340332945", 
+                "instagramcode": "BoXbrGAlyPm", 
+                "post_date": "2018-09-30 23:56:21", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81859788298607, 
+                    45.726653077250845
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/278e7d79617ba474e3186e1a48b9ea81/5C95F398/t51.2885-15/e35/41656131_2154555968198030_4894744536326935136_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1880091174469216631", 
+                "timestamp": 1538344354, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/278e7d79617ba474e3186e1a48b9ea81/5C95F398/t51.2885-15/e35/41656131_2154555968198030_4894744536326935136_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1538344354, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/278e7d79617ba474e3186e1a48b9ea81/5C95F398/t51.2885-15/e35/41656131_2154555968198030_4894744536326935136_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1880091174469216631"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi", 
+                "authorid": "5340332945", 
+                "instagramcode": "BoXbPZHlal3", 
+                "post_date": "2018-09-30 23:52:34", 
                 "validated": true
             }
         }, 
