@@ -2551,27 +2551,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.391677379608155, 
-                    45.439944268451235
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-11-28 17:32:19", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24126493_486548118405865_7171209037596327936_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BcDCNcXAgCW/", 
-                "caption": "Je suis \u00e0 l' #\u00e9cole Chappe \u00e0 #saintetienne #monstre #collage #streetart #cartable  #urbanart #capphi", 
-                "validated": true, 
-                "id": "1658178807699472534_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831712543964387, 
                     45.76805059073076
                 ]
@@ -2624,6 +2603,27 @@
                 "instagramcode": "Bccp_sajlFK", 
                 "post_date": "2017-12-08 17:20:59", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.391677379608155, 
+                    45.439944268451235
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-11-28 17:32:19", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/24126493_486548118405865_7171209037596327936_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BcDCNcXAgCW/", 
+                "caption": "Je suis \u00e0 l' #\u00e9cole Chappe \u00e0 #saintetienne #monstre #collage #streetart #cartable  #urbanart #capphi", 
+                "validated": true, 
+                "id": "1658178807699472534_29177514"
             }
         }, 
         {
@@ -3173,30 +3173,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.834306240081787, 
-                    45.770905685765726
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-07-11 17:57:57", 
-                "originally_localized": "false", 
-                "marker-color": "#7E7E7E", 
-                "marker-symbol": "", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/sh0.08/e35/p640x640/19932142_243494979490480_6345493672200503296_n.jpg", 
-                "mustbepublished": "true", 
-                "originURL": "https://www.instagram.com/p/BWal2v_AU5K/", 
-                "caption": "#1 #deathqueen #amazone #monster #streetart #urbanartist #capphi #croixrousse #kawaiiart #spider #flowers #collage", 
-                "validated": "true", 
-                "id": "1556723111305498186_29177514", 
-                "marker-size": "medium"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832203388214111, 
                     45.77828784241779
                 ]
@@ -3523,43 +3499,6 @@
                 "authorid": "2876693898", 
                 "instagramcode": "BW0QVAujgrF", 
                 "post_date": "2017-07-21 19:10:06", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832718372344972, 
-                    45.77638346674811
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWaXR9pjW5A", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1556659010706173504", 
-                "timestamp": 1499788236, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19765264_1734258496603233_9060179201050542080_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1499788236, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19765264_1734258496603233_9060179201050542080_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "la-croix-rousse-rhone-alpes-france", 
-                        "has_public_page": true, 
-                        "name": "La Croix Rousse, Rhone-Alpes, France", 
-                        "id": "216569581"
-                    }, 
-                    "id": "1556659010706173504"
-                }, 
-                "caption": "Qu'elle est belle, la derni\u00e8re amazone  de @cap_phi\ud83d\ude0a ! \u2764\u2764\u2764\nMoins rapide que @elise_elisa1\nEt @moustache6945 mais heureuse de l'avoir trouv\u00e9e \ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #amazone #fantasy #artephemere #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "BWaXR9pjW5A", 
-                "post_date": "2017-07-11 17:50:36", 
                 "validated": true
             }
         }, 
