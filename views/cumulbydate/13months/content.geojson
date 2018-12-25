@@ -231,27 +231,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.817660450935365, 
-                    45.72699478967789
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-10-30 18:31:12", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e7e7011aa9bb1dcb03995587bce705e7/5C97596C/t51.2885-15/e35/43778576_2031793037112889_1826832531848693097_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#juste \u00e0 #temps pour #halloween ... #r\u00e9union de #famille ... #monster #nightmare #capphi #inmyhead #artwork", 
-                "validated": true, 
-                "id": "1901733093078155609"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.81790989637375, 
                     45.726702695897366
                 ]
@@ -673,6 +652,27 @@
                 "instagramcode": "Bp2CL21AQtr", 
                 "post_date": "2018-11-06 16:41:29", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.817660450935365, 
+                    45.72699478967789
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-10-30 18:31:12", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e7e7011aa9bb1dcb03995587bce705e7/5C97596C/t51.2885-15/e35/43778576_2031793037112889_1826832531848693097_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#juste \u00e0 #temps pour #halloween ... #r\u00e9union de #famille ... #monster #nightmare #capphi #inmyhead #artwork", 
+                "validated": true, 
+                "id": "1901733093078155609"
             }
         }, 
         {
