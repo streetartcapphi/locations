@@ -115,6 +115,45 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e195f8f878926f6b9fc975477cdffff2/5C97FD03/t51.2885-15/fr/e15/s1080x1080/46791605_101802240840039_1072692424488467033_n.jpg", 
+                "originally_localized": true, 
+                "author": "contestagtion", 
+                "instagramid": "1936882824862791385", 
+                "timestamp": 1545114447, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7d3417a65fbc75def0d45f7faca31bdd/5CD7CDF9/t51.2885-15/e15/c135.0.810.810/s640x640/46791605_101802240840039_1072692424488467033_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "contestagtion", 
+                    "timestamp": 1545114447, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e195f8f878926f6b9fc975477cdffff2/5C97FD03/t51.2885-15/fr/e15/s1080x1080/46791605_101802240840039_1072692424488467033_n.jpg", 
+                    "authorid": "3259994157", 
+                    "location": {
+                        "id": "328302841283962", 
+                        "slug": "x-rousse-city", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "X-Rousse City", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1936882824862791385"
+                }, 
+                "caption": "@cap_phi #amazigh #petiteamazone #berb\u00e8re #pastup #streetart #capphi #urbanart #ethnique #xrousse #lyon", 
+                "authorid": "3259994157", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-18/1936882824862791385_3259994157.json", 
+                "instagramcode": "BrhMKrLgHbZ", 
+                "post_date": "2018-12-18 07:27:27", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
