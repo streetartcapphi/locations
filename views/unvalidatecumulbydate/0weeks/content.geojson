@@ -5,28 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-12-19 17:19:02", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-19/1937935557168346283.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e6f474d3882aa36112b0c30a65a4ef6d/5C98E86D/t51.2885-15/e35/46748455_292033531498999_6064954972154117155_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e6f474d3882aa36112b0c30a65a4ef6d/5C98E86D/t51.2885-15/e35/46748455_292033531498999_6064954972154117155_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "caption": "#5 #6 et #original #amazigh ma #petite #amazone #berb\u00e8re #streetart #capphi  #urbanart #ethnique #croixrousse #lyon1", 
-                "validated": false, 
-                "id": "1937935557168346283"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8307475, 
                     45.7719149
                 ]
