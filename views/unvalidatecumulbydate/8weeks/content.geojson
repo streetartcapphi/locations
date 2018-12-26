@@ -941,39 +941,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818694107234479, 
-                    45.726633182969806
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1902427429865517527", 
-                "timestamp": 1541007044, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541007044, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1902427429865517527"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-31/1902427429865517527_5340332945.json", 
-                "instagramcode": "Bpmx6sAF_HX", 
-                "post_date": "2018-10-31 18:30:44", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.828697741031648, 
                     45.776723939471324
                 ]
@@ -1039,6 +1006,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903861967414528193_5340332945.json", 
                 "instagramcode": "Bpr4F9NHojB", 
                 "post_date": "2018-11-02 18:00:54", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818694107234479, 
+                    45.726633182969806
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1902427429865517527", 
+                "timestamp": 1541007044, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1541007044, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1902427429865517527"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi", 
+                "authorid": "5340332945", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-31/1902427429865517527_5340332945.json", 
+                "instagramcode": "Bpmx6sAF_HX", 
+                "post_date": "2018-10-31 18:30:44", 
                 "validated": false
             }
         }
