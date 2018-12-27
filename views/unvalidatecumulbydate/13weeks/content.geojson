@@ -1173,45 +1173,6 @@
                 "post_date": "2018-10-13 19:08:55", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818626046180726, 
-                    45.7266057990655
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1baedfa0292124877b2f1646a6270d02/5CA3B6B5/t51.2885-15/e35/41120212_244529916231037_1090090918570513068_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1872395433806210934", 
-                "timestamp": 1537426951, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/3eab754a7aeb2c4ef1b09828291841e2/5C9E1D50/t51.2885-15/sh0.08/e35/s640x640/41120212_244529916231037_1090090918570513068_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1537426951, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1baedfa0292124877b2f1646a6270d02/5CA3B6B5/t51.2885-15/e35/41120212_244529916231037_1090090918570513068_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "id": "2101344853425138", 
-                        "slug": "epicerie-rue-pouteau", 
-                        "address_json": "{\"street_address\": \"23 rue Pouteau\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "\u00c9picerie Rue Pouteau", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1872395433806210934"
-                }, 
-                "caption": "By @cap_phi #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-09-20/1872395433806210934_810473762.json", 
-                "instagramcode": "Bn8FboHFSd2", 
-                "post_date": "2018-09-20 09:02:31", 
-                "validated": false
-            }
         }
     ]
 }
