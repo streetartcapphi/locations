@@ -963,39 +963,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818657226860524, 
-                    45.72664043853193
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e91db7b77a7c93fb9280bf89dbc59494/5C8B967A/t51.2885-15/e35/43779103_752353811775606_5903514252176001982_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1903861967414528193", 
-                "timestamp": 1541178054, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/59ff9a78db0c4eb4198db0ade4f1b3b9/5C934565/t51.2885-15/e35/c0.75.600.600/43779103_752353811775606_5903514252176001982_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541178054, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e91db7b77a7c93fb9280bf89dbc59494/5C8B967A/t51.2885-15/e35/43779103_752353811775606_5903514252176001982_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1903861967414528193"
-                }, 
-                "caption": "#StreetArt #lyon #maisonN\u00f4 #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903861967414528193_5340332945.json", 
-                "instagramcode": "Bpr4F9NHojB", 
-                "post_date": "2018-11-02 18:00:54", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832356274127961, 
                     45.757916255806755
                 ]
@@ -1061,6 +1028,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-31/1902427429865517527_5340332945.json", 
                 "instagramcode": "Bpmx6sAF_HX", 
                 "post_date": "2018-10-31 18:30:44", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818657226860524, 
+                    45.72664043853193
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e91db7b77a7c93fb9280bf89dbc59494/5C8B967A/t51.2885-15/e35/43779103_752353811775606_5903514252176001982_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1903861967414528193", 
+                "timestamp": 1541178054, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/59ff9a78db0c4eb4198db0ade4f1b3b9/5C934565/t51.2885-15/e35/c0.75.600.600/43779103_752353811775606_5903514252176001982_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1541178054, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e91db7b77a7c93fb9280bf89dbc59494/5C8B967A/t51.2885-15/e35/43779103_752353811775606_5903514252176001982_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1903861967414528193"
+                }, 
+                "caption": "#StreetArt #lyon #maisonN\u00f4 #CapPhi", 
+                "authorid": "5340332945", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-02/1903861967414528193_5340332945.json", 
+                "instagramcode": "Bpr4F9NHojB", 
+                "post_date": "2018-11-02 18:00:54", 
                 "validated": false
             }
         }
