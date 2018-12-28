@@ -4253,26 +4253,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.6611111111111, 
-                    45.764722222222
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-19 18:37:20", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18512625_1757299507914252_8856902483444760576_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUSMOvnhYOz/", 
-                "caption": "#rendezvous a #pollionnay le 10 juin pour le #vernissage de l' #expo #graffitiartist avec #kr\u00e9a #lacarotte #zen #cocodelapalma #capphi", 
-                "validated": true, 
-                "id": "1518329814137013171_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.833831489086151, 
                     45.769842993810606
                 ]
@@ -4652,6 +4632,26 @@
                 "instagramcode": "BU60YNTBq7n", 
                 "post_date": "2017-06-04 15:17:46", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.6611111111111, 
+                    45.764722222222
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-05-19 18:37:20", 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18512625_1757299507914252_8856902483444760576_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BUSMOvnhYOz/", 
+                "caption": "#rendezvous a #pollionnay le 10 juin pour le #vernissage de l' #expo #graffitiartist avec #kr\u00e9a #lacarotte #zen #cocodelapalma #capphi", 
+                "validated": true, 
+                "id": "1518329814137013171_29177514"
             }
         }
     ]
