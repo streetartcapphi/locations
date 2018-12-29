@@ -3710,43 +3710,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83449935913086, 
-                    45.77626373958218
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVt6TXXhR7g", 
-                "originally_localized": true, 
-                "author": "h.lna", 
-                "instagramid": "1544146664716312288", 
-                "timestamp": 1498296648, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19429229_1702745633072143_4642852577459830784_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "h.lna", 
-                    "timestamp": 1498296648, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19429229_1702745633072143_4642852577459830784_n.jpg", 
-                    "authorid": "1413198960", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1544146664716312288"
-                }, 
-                "caption": "#streetart by #capphi #streetartiseverywhere #unicorn #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
-                "authorid": "1413198960", 
-                "instagramcode": "BVt6TXXhR7g", 
-                "post_date": "2017-06-24 11:30:48", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.661644399166107, 
                     45.76482299736626
                 ]
@@ -3798,6 +3761,43 @@
                 "authorid": "2876693898", 
                 "instagramcode": "BVpm2fmj8Ty", 
                 "post_date": "2017-06-22 19:23:52", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83449935913086, 
+                    45.77626373958218
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BVt6TXXhR7g", 
+                "originally_localized": true, 
+                "author": "h.lna", 
+                "instagramid": "1544146664716312288", 
+                "timestamp": 1498296648, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19429229_1702745633072143_4642852577459830784_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "h.lna", 
+                    "timestamp": 1498296648, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19429229_1702745633072143_4642852577459830784_n.jpg", 
+                    "authorid": "1413198960", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1544146664716312288"
+                }, 
+                "caption": "#streetart by #capphi #streetartiseverywhere #unicorn #streetartistry #contemporaryart #photooftheday #streetphoto #instagraff #streetartporn #artwork #urbanart #modernart #bestoftheday #muralart #instaart #graffiti #pixelart #sprayart #graffitiigers #picoftheday #monlyon #art #wall #lyon #painting #sticking #collage #streetartlyon", 
+                "authorid": "1413198960", 
+                "instagramcode": "BVt6TXXhR7g", 
+                "post_date": "2017-06-24 11:30:48", 
                 "validated": true
             }
         }, 
