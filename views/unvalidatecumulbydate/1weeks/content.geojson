@@ -359,45 +359,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8307251557707795, 
-                    45.77192439170381
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/571f76e7f2e8945d533028fbc93d5a56/5CB03C21/t51.2885-15/e35/47340687_1274322686041684_2016291284789755960_n.jpg", 
-                "originally_localized": true, 
-                "author": "elod30", 
-                "instagramid": "1934484440618933683", 
-                "timestamp": 1544828537, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2636641a1da3cdec5021c6f9bcd92b03/5C94ABB9/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47340687_1274322686041684_2016291284789755960_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elod30", 
-                    "timestamp": 1544828537, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/571f76e7f2e8945d533028fbc93d5a56/5CB03C21/t51.2885-15/e35/47340687_1274322686041684_2016291284789755960_n.jpg", 
-                    "authorid": "13718599", 
-                    "location": {
-                        "id": "235077454", 
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1934484440618933683"
-                }, 
-                "caption": "By @cap_phi\n.\n.\n#lyonbynight #streetview #streetartview #streetart_addiction #streetart_addict #picoftheday #streetartist #urbanart #jj_urbanart #artderue #collageart #collage #capphi #croixrousse #streetarteverywhere", 
-                "authorid": "13718599", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-15/1934484440618933683_13718599.json", 
-                "instagramcode": "BrYq1lynJ2z", 
-                "post_date": "2018-12-15 00:02:17", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
