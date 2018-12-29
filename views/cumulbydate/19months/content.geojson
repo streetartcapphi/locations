@@ -3768,43 +3768,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833211898803712, 
-                    45.771130195559905
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BVc0C_VDY4-", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1539334076510342718", 
-                "timestamp": 1497722943, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/19228531_1299921656787143_397780079746220032_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1497722943, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19228531_1299921656787143_397780079746220032_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1539334076510342718"
-                }, 
-                "caption": "@cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon", 
-                "authorid": "37664964", 
-                "instagramcode": "BVc0C_VDY4-", 
-                "post_date": "2017-06-17 20:09:03", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832439422607422, 
                     45.76901976781533
                 ]
