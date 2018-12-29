@@ -248,6 +248,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e5d2d33a27526e44a68b68e6479d4cd7/5CD39A49/t51.2885-15/e35/49711685_1965042050283026_3150950279537830998_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1944885819476887192", 
+                "timestamp": 1546068478, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df90830a5a02660a7bbb95404c4bd6ef/5CD0B474/t51.2885-15/e35/c0.75.600.600/49711685_1965042050283026_3150950279537830998_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1546068478, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e5d2d33a27526e44a68b68e6479d4cd7/5CD39A49/t51.2885-15/e35/49711685_1965042050283026_3150950279537830998_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1944885819476887192"
+                }, 
+                "caption": "#lyon #StreetArt #CapPhi", 
+                "authorid": "5340332945", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-29/1944885819476887192_5340332945.json", 
+                "instagramcode": "Br9n1kunUaY", 
+                "post_date": "2018-12-29 08:27:58", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b54ee8546af15b4908e67998de0b5/5CD7763E/t51.2885-15/e35/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "originally_localized": true, 
                 "author": "instant_tanne", 
