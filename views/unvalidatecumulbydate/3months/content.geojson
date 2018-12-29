@@ -281,6 +281,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b2c237672b683666202c5007976c9/5CBF4849/t51.2885-15/e35/47403636_2213225112284307_3191586659316213659_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "jackysunny_wb", 
+                "instagramid": "1945116649071593000", 
+                "timestamp": 1546095995, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/8f5a22aae67b4feec693546724a27dac/5CD6BFF3/t51.2885-15/sh0.08/e35/s640x640/47403636_2213225112284307_3191586659316213659_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jackysunny_wb", 
+                    "timestamp": 1546095995, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b2c237672b683666202c5007976c9/5CBF4849/t51.2885-15/e35/47403636_2213225112284307_3191586659316213659_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5904498816", 
+                    "location": null, 
+                    "id": "1945116649071593000"
+                }, 
+                "caption": "Street art Lyon\n#capphi #lyon #france #city #europe #lights #colors #monlyon #onlylyon #citylyon #lyoncity #igersfrance #igerslyon #igerseurope #ilovelyon #villedelyon #urbanlyon #urbanstyle #instafrance #instaeurope #instalyon #lyonmaville #grandlyon #lyonnaise #lyonnaisedecoeur #lyonnaiseforever #streetart #streetartlyon #artist #graffitilyon", 
+                "authorid": "5904498816", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-29/1945116649071593000_5904498816.json", 
+                "instagramcode": "Br-cUlinEYo", 
+                "post_date": "2018-12-29 16:06:35", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b54ee8546af15b4908e67998de0b5/5CD7763E/t51.2885-15/e35/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "originally_localized": true, 
                 "author": "instant_tanne", 
