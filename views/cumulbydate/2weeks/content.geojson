@@ -1,26 +1,4 @@
 {
     "type": "FeatureCollection", 
-    "features": [
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.817912578582764, 
-                    45.72705657855111
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-12-08 16:20:56", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/171ca66d4c63b6826635b9908bcbcbe2/5C9DA5EF/t51.2885-15/e35/46165951_2325398454197330_6451317506255680160_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#amazigh #petite #amazone #berb\u00e8re #peuplelibre #imaginaire du #dragon #acrylique sur #bois #capphi", 
-                "validated": true, 
-                "id": "1929933782570148465"
-            }
-        }
-    ]
+    "features": []
 }
