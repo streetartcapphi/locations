@@ -226,6 +226,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c31f77eceb40e69b8f2c8b3d7014352/5CD08287/t51.2885-15/e35/47585014_289788568340434_7047766429425505670_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "chachi.44", 
+                "instagramid": "1945787074751571692", 
+                "timestamp": 1546175916, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a699e8ed33cf1c47bc8335aef81529cf/5CC082C4/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47585014_289788568340434_7047766429425505670_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "chachi.44", 
+                    "timestamp": 1546175916, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c31f77eceb40e69b8f2c8b3d7014352/5CD08287/t51.2885-15/e35/47585014_289788568340434_7047766429425505670_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "3694450611", 
+                    "location": null, 
+                    "id": "1945787074751571692"
+                }, 
+                "caption": "#capphi #streetart #urbanart #streetartlyon #onlylyon #streetartfrance #muralart #graffiti #graffitilyon #graffitiart  #instagraffiti #urbanwall #arturbain #collage #collageart", 
+                "authorid": "3694450611", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-30/1945787074751571692_3694450611.json", 
+                "instagramcode": "BsA0wkHHSbs", 
+                "post_date": "2018-12-30 14:18:36", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2018-12-18 17:25:34", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
