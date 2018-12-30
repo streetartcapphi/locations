@@ -3990,43 +3990,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835379123687745, 
-                    45.765352522590476
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BU60YNTBq7n", 
-                "originally_localized": true, 
-                "author": "lepelicanquisemarrait", 
-                "instagramid": "1529765385409572583", 
-                "timestamp": 1496582266, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18812837_1484786191544076_1413204120541593600_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lepelicanquisemarrait", 
-                    "timestamp": 1496582266, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18812837_1484786191544076_1413204120541593600_n.jpg", 
-                    "authorid": "5533275959", 
-                    "location": {
-                        "slug": "le-bal-des-ardents", 
-                        "has_public_page": true, 
-                        "name": "Le Bal des ardents", 
-                        "id": "6277994"
-                    }, 
-                    "id": "1529765385409572583"
-                }, 
-                "caption": "Princesse de la mort  de @cap_phi #collage #lyon #streetart #paste #muraldaily #streetartlyon #monlyon #map_phi", 
-                "authorid": "5533275959", 
-                "instagramcode": "BU60YNTBq7n", 
-                "post_date": "2017-06-04 15:17:46", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.65, 
                     45.7667
                 ]
@@ -4309,6 +4272,43 @@
                 "authorid": "2876693898", 
                 "instagramcode": "BUvsSVnjHVy", 
                 "post_date": "2017-05-31 07:35:25", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835379123687745, 
+                    45.765352522590476
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BU60YNTBq7n", 
+                "originally_localized": true, 
+                "author": "lepelicanquisemarrait", 
+                "instagramid": "1529765385409572583", 
+                "timestamp": 1496582266, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18812837_1484786191544076_1413204120541593600_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lepelicanquisemarrait", 
+                    "timestamp": 1496582266, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/18812837_1484786191544076_1413204120541593600_n.jpg", 
+                    "authorid": "5533275959", 
+                    "location": {
+                        "slug": "le-bal-des-ardents", 
+                        "has_public_page": true, 
+                        "name": "Le Bal des ardents", 
+                        "id": "6277994"
+                    }, 
+                    "id": "1529765385409572583"
+                }, 
+                "caption": "Princesse de la mort  de @cap_phi #collage #lyon #streetart #paste #muraldaily #streetartlyon #monlyon #map_phi", 
+                "authorid": "5533275959", 
+                "instagramcode": "BU60YNTBq7n", 
+                "post_date": "2017-06-04 15:17:46", 
                 "validated": true
             }
         }, 
