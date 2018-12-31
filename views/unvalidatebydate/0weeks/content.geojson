@@ -193,39 +193,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/22d6bff9f35e4c27cfd8adce53b9d1e0/5CD48D16/t51.2885-15/e35/46786582_205829147029150_1280505275341647654_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1941290651268138563", 
-                "timestamp": 1545639901, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2af9dbedda64454069c3cbdbd48de73e/5CD713F3/t51.2885-15/sh0.08/e35/s640x640/46786582_205829147029150_1280505275341647654_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1545639901, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/22d6bff9f35e4c27cfd8adce53b9d1e0/5CD48D16/t51.2885-15/e35/46786582_205829147029150_1280505275341647654_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "810473762", 
-                    "location": null, 
-                    "id": "1941290651268138563"
-                }, 
-                "caption": "By @cap_phi #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-24/1941290651268138563_810473762.json", 
-                "instagramcode": "Brw2Y_an8ZD", 
-                "post_date": "2018-12-24 09:25:01", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c31f77eceb40e69b8f2c8b3d7014352/5CD08287/t51.2885-15/e35/47585014_289788568340434_7047766429425505670_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "originally_localized": true, 
                 "author": "chachi.44", 
