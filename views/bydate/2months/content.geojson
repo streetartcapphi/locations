@@ -26,6 +26,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.81790989637375, 
+                    45.726702695897366
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-05 16:49:26", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/421204bf18e03edbaf36433b7f51ae07/5C9BBE4D/t51.2885-15/e35/44502836_340402493204516_2170403241143584074_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#1 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
+                "validated": true, 
+                "id": "1906030523698703110"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818674996495248, 
                     45.7265779470465
                 ]
