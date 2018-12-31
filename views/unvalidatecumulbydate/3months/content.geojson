@@ -1543,45 +1543,6 @@
                 "post_date": "2018-09-20 09:02:31", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832063913345338, 
-                    45.75797801046753
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/cda901d471990e4eed689713bf7f0049/5C9B434A/t51.2885-15/e35/41283665_671557109893863_4434753751422785708_n.jpg", 
-                "originally_localized": true, 
-                "author": "91shots", 
-                "instagramid": "1865482564748865893", 
-                "timestamp": 1536602872, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/cdada42760bf3c9e01c41708ca1c272b/5C968BAF/t51.2885-15/sh0.08/e35/s640x640/41283665_671557109893863_4434753751422785708_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "91shots", 
-                    "timestamp": 1536602872, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/cda901d471990e4eed689713bf7f0049/5C9B434A/t51.2885-15/e35/41283665_671557109893863_4434753751422785708_n.jpg", 
-                    "authorid": "1732572522", 
-                    "location": {
-                        "id": "213168722", 
-                        "slug": "lyon-france", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Lyon, France", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1865482564748865893"
-                }, 
-                "caption": "art by: @cap_phi\n\n#capphi #lyon #onlylyon #streetartLyon #pasteup #lyonstreetart #wild #animals #streetartlyonnais #streetculture #Lyongraffiti #graffitiLyonnais #contraculturaurbana #urbanstyle #streetshots #91shots", 
-                "authorid": "1732572522", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-09-10/1865482564748865893_1732572522.json", 
-                "instagramcode": "BnjhoJGinFl", 
-                "post_date": "2018-09-10 20:07:52", 
-                "validated": false
-            }
         }
     ]
 }
