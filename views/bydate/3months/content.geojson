@@ -5,38 +5,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818422198295594, 
-                    45.72628140410075
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d2bcd9d9d317d6740856baeee25adb08/5C8DC6EA/t51.2885-15/fr/e15/s1080x1080/41203427_697488980612875_8670335658204367991_n.jpg", 
-                "originally_localized": true, 
-                "author": "streetartpostal", 
-                "instagramid": "1866238429189927986", 
-                "timestamp": 1536692978, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a9e71b1de7c9e699b7a047b3520e4c1d/5C9DCDC5/t51.2885-15/e15/c77.0.925.925/s640x640/41203427_697488980612875_8670335658204367991_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "streetartpostal", 
-                    "timestamp": 1536692978, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d2bcd9d9d317d6740856baeee25adb08/5C8DC6EA/t51.2885-15/fr/e15/s1080x1080/41203427_697488980612875_8670335658204367991_n.jpg", 
-                    "authorid": "6179926796", 
-                    "location": null, 
-                    "id": "1866238429189927986"
-                }, 
-                "caption": "#artistaurbano171 #capphi #ttone", 
-                "authorid": "6179926796", 
-                "instagramcode": "BnmNfauDHQy", 
-                "post_date": "2018-09-11 21:09:38", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8187386989593515, 
                     45.726816912236984
                 ]
