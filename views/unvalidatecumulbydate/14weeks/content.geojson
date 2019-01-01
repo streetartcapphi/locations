@@ -1431,45 +1431,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818736352026463, 
-                    45.72661282058071
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0993b74c6a3b832b48416501a8b315a9/5C925868/t51.2885-15/e35/40634715_690062091368522_4299563196251473674_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1870953620423604865", 
-                "timestamp": 1537255073, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/e9275d3b90052399132cb4bd2ff2d0a0/5CB1138D/t51.2885-15/sh0.08/e35/s640x640/40634715_690062091368522_4299563196251473674_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1537255073, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0993b74c6a3b832b48416501a8b315a9/5C925868/t51.2885-15/e35/40634715_690062091368522_4299563196251473674_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "id": "235465523", 
-                        "slug": "montee-de-la-grande-cote", 
-                        "address_json": "{\"street_address\": \"Mont\\u00e9e de la Grande C\\u00f4te\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Mont\u00e9e de la Grande C\u00f4te", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1870953620423604865"
-                }, 
-                "caption": "By @cap_phi #capphi #dents #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-09-18/1870953620423604865_810473762.json", 
-                "instagramcode": "Bn29mewlHqB", 
-                "post_date": "2018-09-18 09:17:53", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186538740992555, 
                     45.72658286210968
                 ]
