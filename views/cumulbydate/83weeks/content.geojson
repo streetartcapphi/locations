@@ -312,27 +312,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8185713961720475, 
-                    45.726641140683064
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-11-07 06:46:52", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c30af1fef28b2abc23f32851a253c764/5C9803D7/t51.2885-15/e35/44364828_2482495108447107_4398024238188709960_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#3 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
-                "validated": true, 
-                "id": "1907176792571832859"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -450,6 +429,27 @@
                 "instagramcode": "Bp8EomZF9N1", 
                 "post_date": "2018-11-09 00:58:20", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8185713961720475, 
+                    45.726641140683064
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-07 06:46:52", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c30af1fef28b2abc23f32851a253c764/5C9803D7/t51.2885-15/e35/44364828_2482495108447107_4398024238188709960_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#3 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
+                "validated": true, 
+                "id": "1907176792571832859"
             }
         }, 
         {
