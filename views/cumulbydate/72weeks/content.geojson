@@ -1143,38 +1143,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8187386989593515, 
-                    45.726816912236984
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/548bf063e501a03cb19fdbff4ee258bd/5C958DD4/t51.2885-15/fr/e15/s1080x1080/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "miss.acacia.streetart", 
-                "instagramid": "1872364399721797163", 
-                "timestamp": 1537423251, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c2da34744a3260bf1912705c74aa6c4/5C9F3A1D/t51.2885-15/sh0.08/e35/s640x640/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "miss.acacia.streetart", 
-                    "timestamp": 1537423251, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/548bf063e501a03cb19fdbff4ee258bd/5C958DD4/t51.2885-15/fr/e15/s1080x1080/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "27141883", 
-                    "location": null, 
-                    "id": "1872364399721797163"
-                }, 
-                "caption": "Il est interdit d'interdire ! @cap_phi #capphi #monstre #panneaux #interdit #streetartlyon #streetart #Lyon #streetartcroixrousse #streetarteverywhere #streetartpics #streetartfrance #arturbain #urbanart #graffiti #streetartlovers #igersstreetart", 
-                "authorid": "27141883", 
-                "instagramcode": "Bn7-YBXgVYr", 
-                "post_date": "2018-09-20 08:00:51", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818626381456853, 
                     45.72663880017928
                 ]
@@ -1276,6 +1244,38 @@
                 "authorid": "810473762", 
                 "instagramcode": "BoI-7RjnLHD", 
                 "post_date": "2018-09-25 09:15:48", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8187386989593515, 
+                    45.726816912236984
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/548bf063e501a03cb19fdbff4ee258bd/5C958DD4/t51.2885-15/fr/e15/s1080x1080/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "miss.acacia.streetart", 
+                "instagramid": "1872364399721797163", 
+                "timestamp": 1537423251, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c2da34744a3260bf1912705c74aa6c4/5C9F3A1D/t51.2885-15/sh0.08/e35/s640x640/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "miss.acacia.streetart", 
+                    "timestamp": 1537423251, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/548bf063e501a03cb19fdbff4ee258bd/5C958DD4/t51.2885-15/fr/e15/s1080x1080/41332949_1990025117684378_1368971733595464435_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "27141883", 
+                    "location": null, 
+                    "id": "1872364399721797163"
+                }, 
+                "caption": "Il est interdit d'interdire ! @cap_phi #capphi #monstre #panneaux #interdit #streetartlyon #streetart #Lyon #streetartcroixrousse #streetarteverywhere #streetartpics #streetartfrance #arturbain #urbanart #graffiti #streetartlovers #igersstreetart", 
+                "authorid": "27141883", 
+                "instagramcode": "Bn7-YBXgVYr", 
+                "post_date": "2018-09-20 08:00:51", 
                 "validated": true
             }
         }, 
