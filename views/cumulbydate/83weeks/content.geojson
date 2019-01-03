@@ -3147,43 +3147,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.835652709007264, 
-                    45.77110026097291
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BXDbeGiD39I", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1568217911109058376", 
-                "timestamp": 1501166164, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20347078_490433884633829_2506547483790802944_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1501166164, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20347078_490433884633829_2506547483790802944_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "has_public_page": true, 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "id": "235077454"
-                    }, 
-                    "id": "1568217911109058376"
-                }, 
-                "caption": "Merci @cap_phi pour ce bouquet de monstres bien plus original que des fleurs \ud83d\ude01\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #monster #cutemonster #monstrerigolo #fantasy #artephemere #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "BXDbeGiD39I", 
-                "post_date": "2017-07-27 16:36:04", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.835636615753174, 
                     45.77104039175067
                 ]
@@ -3309,6 +3272,43 @@
                 "authorid": "3160895409", 
                 "instagramcode": "BW5jYFEAJ4V", 
                 "post_date": "2017-07-23 20:32:45", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.835652709007264, 
+                    45.77110026097291
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BXDbeGiD39I", 
+                "originally_localized": true, 
+                "author": "epices_fonds_de_placards", 
+                "instagramid": "1568217911109058376", 
+                "timestamp": 1501166164, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/20347078_490433884633829_2506547483790802944_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "epices_fonds_de_placards", 
+                    "timestamp": 1501166164, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20347078_490433884633829_2506547483790802944_n.jpg", 
+                    "authorid": "2876693898", 
+                    "location": {
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "has_public_page": true, 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "id": "235077454"
+                    }, 
+                    "id": "1568217911109058376"
+                }, 
+                "caption": "Merci @cap_phi pour ce bouquet de monstres bien plus original que des fleurs \ud83d\ude01\u2764\n#instaphoto #instapicture #streetart #urbanart #artderue#globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart #arturbain #collage #pasteup #capphi #@cap_phi #monster #cutemonster #monstrerigolo #fantasy #artephemere #beauty", 
+                "authorid": "2876693898", 
+                "instagramcode": "BXDbeGiD39I", 
+                "post_date": "2017-07-27 16:36:04", 
                 "validated": true
             }
         }, 
@@ -4272,26 +4272,6 @@
                 "caption": "Toujours 5.0 #bombe #fire #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
                 "validated": true, 
                 "id": "1522629675648915271_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8315489292144775, 
-                    45.77045105066453
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-25 16:57:43", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18646695_726022260903268_5975142477672218624_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUhdmb9BMIJ/", 
-                "caption": "Juste un #doigt #fuck #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
-                "validated": true, 
-                "id": "1522628333731627529_29177514"
             }
         }, 
         {
