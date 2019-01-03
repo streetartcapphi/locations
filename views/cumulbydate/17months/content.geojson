@@ -3010,27 +3010,6 @@
                 "post_date": "2017-09-15 14:38:19", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    -9.12943482398987, 
-                    38.720064236682305
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-08-17 09:38:14", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/20838459_346580152430441_8632991991329718272_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BX4-E_tA7Gj/", 
-                "caption": "#entre2mondes #monster #lisboa #lisbonnestreetart #gra\u00e7a #capphi #urbanartist", 
-                "validated": true, 
-                "id": "1583288291183276451_29177514"
-            }
         }
     ]
 }
