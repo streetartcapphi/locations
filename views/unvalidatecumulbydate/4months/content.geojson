@@ -1066,28 +1066,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818693101406098, 
-                    45.726578649198395
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-11-08 05:36:20", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-08/1907866070297806258.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4793a21f76a872932ad22a5bb09c3e66/5C9BB5DF/t51.2885-15/e35/44831918_2489224554451679_7756165826424423348_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#\u00e2mes de la #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi", 
-                "validated": false, 
-                "id": "1907866070297806258"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831763505935669, 
                     45.757775904050845
                 ]
@@ -1276,6 +1254,28 @@
                 "caption": "Venez d\u00e9couvrir un #petit #monstre #pure #caf\u00e9ine et les #\u0153uvres d\u2019autres #streetartists #rdv #vendredi 18h pour le #vernissage", 
                 "validated": false, 
                 "id": "1891523768524160141"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818693101406098, 
+                    45.726578649198395
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-08 05:36:20", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-08/1907866070297806258.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4793a21f76a872932ad22a5bb09c3e66/5C9BB5DF/t51.2885-15/e35/44831918_2489224554451679_7756165826424423348_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#\u00e2mes de la #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi", 
+                "validated": false, 
+                "id": "1907866070297806258"
             }
         }, 
         {
