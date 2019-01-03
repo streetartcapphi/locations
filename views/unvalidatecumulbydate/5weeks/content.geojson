@@ -413,45 +413,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8320114, 
-                    45.7578137
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ad4ea8ad8f6e166d4bc499e7c2cdb3ea/5CA158F3/t51.2885-15/e35/46308040_209087479974500_4389775397392050209_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "lulu_la_tortue", 
-                "instagramid": "1938332649382935273", 
-                "timestamp": 1545287279, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/912247864dcbbd13350bca21d786f8a4/5C9DDDB0/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/46308040_209087479974500_4389775397392050209_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "lulu_la_tortue", 
-                    "timestamp": 1545287279, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ad4ea8ad8f6e166d4bc499e7c2cdb3ea/5CA158F3/t51.2885-15/e35/46308040_209087479974500_4389775397392050209_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "3711608038", 
-                    "location": {
-                        "id": "213168722", 
-                        "slug": "lyon-france", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Lyon, France", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1938332649382935273"
-                }, 
-                "caption": "Collaboration de deux artistes Street Art Lyonnais Cap phi et Ghostsurfer \u00e0 Lyon\n@cap_phi @ghostsurfer69 \n#lyon#streetart#stencil#artwork#handpainted\n#vague#surfer#surf#alien#personnage #art#urbanart#wall#artistes#capphi\n#ghostsurfer#collaboration#jetaime\n#ecriture#message#love#street#picture\n#monlyon#onlylyon#lebonbonlyon\n#bloginlyon#igerslyon#lyoncity#igersfrance", 
-                "authorid": "3711608038", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-20/1938332649382935273_3711608038.json", 
-                "instagramcode": "BrmV0ZfAvrp", 
-                "post_date": "2018-12-20 07:27:59", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
@@ -950,6 +911,45 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ad4ea8ad8f6e166d4bc499e7c2cdb3ea/5CA158F3/t51.2885-15/e35/46308040_209087479974500_4389775397392050209_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "lulu_la_tortue", 
+                "instagramid": "1938332649382935273", 
+                "timestamp": 1545287279, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/912247864dcbbd13350bca21d786f8a4/5C9DDDB0/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/46308040_209087479974500_4389775397392050209_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "lulu_la_tortue", 
+                    "timestamp": 1545287279, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/ad4ea8ad8f6e166d4bc499e7c2cdb3ea/5CA158F3/t51.2885-15/e35/46308040_209087479974500_4389775397392050209_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "3711608038", 
+                    "location": {
+                        "id": "213168722", 
+                        "slug": "lyon-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Lyon, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1938332649382935273"
+                }, 
+                "caption": "Collaboration de deux artistes Street Art Lyonnais Cap phi et Ghostsurfer \u00e0 Lyon\n@cap_phi @ghostsurfer69 \n#lyon#streetart#stencil#artwork#handpainted\n#vague#surfer#surf#alien#personnage #art#urbanart#wall#artistes#capphi\n#ghostsurfer#collaboration#jetaime\n#ecriture#message#love#street#picture\n#monlyon#onlylyon#lebonbonlyon\n#bloginlyon#igerslyon#lyoncity#igersfrance", 
+                "authorid": "3711608038", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-20/1938332649382935273_3711608038.json", 
+                "instagramcode": "BrmV0ZfAvrp", 
+                "post_date": "2018-12-20 07:27:59", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8307475, 
                     45.7719149
                 ]
@@ -1071,28 +1071,6 @@
                 "instagramcode": "Bq5OXvrnVgQ", 
                 "post_date": "2018-12-02 18:57:05", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.81867365539074, 
-                    45.72662733170934
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-11-22 07:18:41", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-22/1918064448256264737.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d64b937848441746fa63f237cb2b229b/5C9A0DC5/t51.2885-15/e35/44865902_1121180494718566_8160027632104422667_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#streetartiste l\u2019essence m\u00eame de notre #art est dans la #rue \u2026 donc grand #respect \u00e0 \"ceux qui font le job\" \u2026", 
-                "validated": false, 
-                "id": "1918064448256264737"
             }
         }
     ]
