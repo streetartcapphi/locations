@@ -2172,27 +2172,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8315167427063, 
-                    45.769985186161065
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-01-05 17:15:04", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26072998_180777502668566_8252136526566129664_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bdk2cU4Ad7O/", 
-                "caption": "Ma #f\u00e9e des #dents est de #sortie sur la #croixrousse #monstre #petitesouris #capphi #streetart #urbanart #instagood #theeth #monster", 
-                "validated": true, 
-                "id": "1685711601614839502_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.834628105163575, 
                     45.77211802791805
                 ]
@@ -2446,6 +2425,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8315167427063, 
+                    45.769985186161065
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-01-05 17:15:04", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26072998_180777502668566_8252136526566129664_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bdk2cU4Ad7O/", 
+                "caption": "Ma #f\u00e9e des #dents est de #sortie sur la #croixrousse #monstre #petitesouris #capphi #streetart #urbanart #instagood #theeth #monster", 
+                "validated": true, 
+                "id": "1685711601614839502_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.827150106430055, 
                     45.77217789598351
                 ]
@@ -2545,43 +2545,6 @@
                 "caption": "Ma #derni\u00e8re #petite #amazone je retourne aux #monstres #capphi #streetart #urbanart #lyon #croixrousse", 
                 "validated": true, 
                 "id": "1668689046320397725_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8317688703537, 
-                    45.76801317042845
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/Bccp_sajlFK", 
-                "originally_localized": true, 
-                "author": "epices_fonds_de_placards", 
-                "instagramid": "1665390659144405322", 
-                "timestamp": 1512750059, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25008848_145259746125250_1236986787822305280_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "epices_fonds_de_placards", 
-                    "timestamp": 1512750059, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/25008848_145259746125250_1236986787822305280_n.jpg", 
-                    "authorid": "2876693898", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1665390659144405322"
-                }, 
-                "caption": "Merci @cap_phi 1/pour cette belle amazone \u2764et 2/ pour m'avoir dit o\u00f9 elle se trouvait. Je serais encore en train de chercher sinon \ud83d\ude0a\n#instaphoto #instapicture #streetart #urbanart #artderue #globalstreetart #mylyonphoto #mylyon #onlylyon #igersstreetart #ilovestreetart #lyon #lyonmonamour #onlylyonphoto #streetartlyon #frenchstreetart #streetarteverywhere #streetartlyon #worldart #streetartoftheday #globalstreetart  #murals #muralsdaily #streetartchat #collage #pasteup #amazone #capphi #warrior #beauty", 
-                "authorid": "2876693898", 
-                "instagramcode": "Bccp_sajlFK", 
-                "post_date": "2017-12-08 17:20:59", 
-                "validated": true
             }
         }
     ]
