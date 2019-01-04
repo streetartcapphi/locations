@@ -160,39 +160,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b54ee8546af15b4908e67998de0b5/5CD7763E/t51.2885-15/e35/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "instant_tanne", 
-                "instagramid": "1944376648275280226", 
-                "timestamp": 1546007780, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d18cc00edec12ed1fa9c61f395aaf62f/5CD96484/t51.2885-15/sh0.08/e35/s640x640/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "instant_tanne", 
-                    "timestamp": 1546007780, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b54ee8546af15b4908e67998de0b5/5CD7763E/t51.2885-15/e35/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "1567052753", 
-                    "location": null, 
-                    "id": "1944376648275280226"
-                }, 
-                "caption": "#lyon #streetart #capphi #amazone\nVu ce matin, pentes de la Cx Rousse", 
-                "authorid": "1567052753", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-28/1944376648275280226_1567052753.json", 
-                "instagramcode": "Br70EKGA0Fi", 
-                "post_date": "2018-12-28 15:36:20", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4c31f77eceb40e69b8f2c8b3d7014352/5CD08287/t51.2885-15/e35/47585014_289788568340434_7047766429425505670_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "originally_localized": true, 
                 "author": "chachi.44", 
@@ -335,6 +302,39 @@
                 "caption": "Oscar ta #board !!!! #skull #skate #customskateboard #custom #brokenboard by #capphi", 
                 "validated": false, 
                 "id": "1943381953203821009"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b54ee8546af15b4908e67998de0b5/5CD7763E/t51.2885-15/e35/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "instant_tanne", 
+                "instagramid": "1944376648275280226", 
+                "timestamp": 1546007780, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d18cc00edec12ed1fa9c61f395aaf62f/5CD96484/t51.2885-15/sh0.08/e35/s640x640/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "instant_tanne", 
+                    "timestamp": 1546007780, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b76b54ee8546af15b4908e67998de0b5/5CD7763E/t51.2885-15/e35/47457392_1107088542829032_2432014638085375677_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "1567052753", 
+                    "location": null, 
+                    "id": "1944376648275280226"
+                }, 
+                "caption": "#lyon #streetart #capphi #amazone\nVu ce matin, pentes de la Cx Rousse", 
+                "authorid": "1567052753", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-28/1944376648275280226_1567052753.json", 
+                "instagramcode": "Br70EKGA0Fi", 
+                "post_date": "2018-12-28 15:36:20", 
+                "validated": false
             }
         }, 
         {
