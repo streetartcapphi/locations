@@ -504,6 +504,44 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.830682575702668, 
+                    45.772011387767314
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b29a768ada705229fc8765ad713c8b0f/5CA7AD6A/t51.2885-15/e35/43984905_341639313062502_7416349847791593485_n.jpg", 
+                "originally_localized": true, 
+                "author": "my_urbanitudes", 
+                "instagramid": "1908640521687263543", 
+                "timestamp": 1541747702, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1f801d7b99d9d040ca3f7013012109af/5CA1FF8F/t51.2885-15/sh0.08/e35/s640x640/43984905_341639313062502_7416349847791593485_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "my_urbanitudes", 
+                    "timestamp": 1541747702, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b29a768ada705229fc8765ad713c8b0f/5CA7AD6A/t51.2885-15/e35/43984905_341639313062502_7416349847791593485_n.jpg", 
+                    "authorid": "1218180784", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1908640521687263543"
+                }, 
+                "caption": "Aux pays des \u00e2ges farouches, sur le territoire des ombres... \u2716\ufe0f La porteuse d\u2019\u00e2mes de @cap_phi #capphi \ud83d\udc80\u2716\ufe0f #amazone #collage #painting #drawing  #lyon #onlylyon #villedelyon  #streetart #urbanartistry #totalurbanart #sprayart #graffitiart #urbanexploration #artiseverywhere #jj_urbanart #aura_focus_on #france_focus_on #igers_opengallery #instagraff #mesurbanitudes \ud83c\udf3b", 
+                "authorid": "1218180784", 
+                "instagramcode": "Bp82nErFek3", 
+                "post_date": "2018-11-09 08:15:02", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.81870885938406, 
                     45.72664558763999
                 ]
