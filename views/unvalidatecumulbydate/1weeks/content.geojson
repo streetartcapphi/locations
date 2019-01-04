@@ -413,39 +413,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07d78445d492e82613a5666e76132d7c/5C95A5D0/t51.2885-15/e35/47139372_373166090116725_2305872372702225910_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1938828707982418705", 
-                "timestamp": 1545346414, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07d78445d492e82613a5666e76132d7c/5C95A5D0/t51.2885-15/e35/47139372_373166090116725_2305872372702225910_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1545346414, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/07d78445d492e82613a5666e76132d7c/5C95A5D0/t51.2885-15/e35/47139372_373166090116725_2305872372702225910_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1938828707982418705"
-                }, 
-                "caption": "#lyon #StreetArt #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-20/1938828707982418705_5340332945.json", 
-                "instagramcode": "BroGnADnyMR", 
-                "post_date": "2018-12-20 23:53:34", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8287408, 
                     45.7766432
                 ]
