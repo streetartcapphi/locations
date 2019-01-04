@@ -26,27 +26,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-11-09 06:42:44", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2c1965af9745dc6ab588172c0beadb48/5C9946AC/t51.2885-15/e35/44297757_282580575931882_5630845022432182314_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#4 #5 et #6 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience #monde #morts", 
-                "validated": true, 
-                "id": "1908624266327078493"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818687066435815, 
                     45.72665494965338
                 ]
@@ -470,6 +449,27 @@
                 "caption": "#24 #petits #cadeaux pour La s\u00e9ance de #d\u00e9dicace cette #apr\u00e8s-midi \u00e0  la Librairie Vivement Dimanche \u00e0 l\u2019occasion de la sortie du #livre de Ad\u00e8le Alberge \u00ab Les cris des murs \u00bb", 
                 "validated": true, 
                 "id": "1894122423982700197"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-11-09 06:42:44", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2c1965af9745dc6ab588172c0beadb48/5C9946AC/t51.2885-15/e35/44297757_282580575931882_5630845022432182314_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "", 
+                "caption": "#4 #5 et #6 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience #monde #morts", 
+                "validated": true, 
+                "id": "1908624266327078493"
             }
         }, 
         {
