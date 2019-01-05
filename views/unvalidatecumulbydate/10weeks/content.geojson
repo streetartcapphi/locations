@@ -662,39 +662,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fcc610177014becb657d26887581d025/5C9A4870/t51.2885-15/e35/47692699_2010959102357606_4189661385432369694_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "duke9784", 
-                "instagramid": "1934848349513679547", 
-                "timestamp": 1544871918, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6234b127169985e0ccfbfa18d7213e61/5C9C7847/t51.2885-15/sh0.08/e35/c135.0.810.810/s640x640/47692699_2010959102357606_4189661385432369694_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "duke9784", 
-                    "timestamp": 1544871918, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fcc610177014becb657d26887581d025/5C9A4870/t51.2885-15/e35/47692699_2010959102357606_4189661385432369694_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "5529011003", 
-                    "location": null, 
-                    "id": "1934848349513679547"
-                }, 
-                "caption": "Artiste: Cap Phi\n@cap_phi\n#capphi #wallart #urban #mural #igers #artist #france #streetphotography #instaart #picture #painting #lyon #paint #urbanart #art #artlovers #collage #streetartist #streetartlyon #streetarteverywhere #streetart #collageart", 
-                "authorid": "5529011003", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-15/1934848349513679547_5529011003.json", 
-                "instagramcode": "BrZ9lKXA4K7", 
-                "post_date": "2018-12-15 12:05:18", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -949,6 +916,39 @@
                 "caption": "#ho un #petit #doigt que je connais ;)", 
                 "validated": false, 
                 "id": "1934417133456614784"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fcc610177014becb657d26887581d025/5C9A4870/t51.2885-15/e35/47692699_2010959102357606_4189661385432369694_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "duke9784", 
+                "instagramid": "1934848349513679547", 
+                "timestamp": 1544871918, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6234b127169985e0ccfbfa18d7213e61/5C9C7847/t51.2885-15/sh0.08/e35/c135.0.810.810/s640x640/47692699_2010959102357606_4189661385432369694_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "duke9784", 
+                    "timestamp": 1544871918, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fcc610177014becb657d26887581d025/5C9A4870/t51.2885-15/e35/47692699_2010959102357606_4189661385432369694_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5529011003", 
+                    "location": null, 
+                    "id": "1934848349513679547"
+                }, 
+                "caption": "Artiste: Cap Phi\n@cap_phi\n#capphi #wallart #urban #mural #igers #artist #france #streetphotography #instaart #picture #painting #lyon #paint #urbanart #art #artlovers #collage #streetartist #streetartlyon #streetarteverywhere #streetart #collageart", 
+                "authorid": "5529011003", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-15/1934848349513679547_5529011003.json", 
+                "instagramcode": "BrZ9lKXA4K7", 
+                "post_date": "2018-12-15 12:05:18", 
+                "validated": false
             }
         }, 
         {
