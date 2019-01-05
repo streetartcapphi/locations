@@ -523,38 +523,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818664267659188, 
-                    45.7266235869023
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9530f306df0a8fbedaef5c85e5cf16c5/5CA2512D/t51.2885-15/e35/43075297_490555284792350_3665157734087755918_n.jpg", 
-                "originally_localized": true, 
-                "author": "moemoea987", 
-                "instagramid": "1889454640397620224", 
-                "timestamp": 1539460567, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1d8d1352d827b1bb99c3e7f4a9fd3e71/5CA631C8/t51.2885-15/sh0.08/e35/s640x640/43075297_490555284792350_3665157734087755918_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "moemoea987", 
-                    "timestamp": 1539460567, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9530f306df0a8fbedaef5c85e5cf16c5/5CA2512D/t51.2885-15/e35/43075297_490555284792350_3665157734087755918_n.jpg", 
-                    "authorid": "1014838066", 
-                    "location": null, 
-                    "id": "1889454640397620224"
-                }, 
-                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #wanted #golden #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
-                "authorid": "1014838066", 
-                "instagramcode": "Bo4sPwUHRQA", 
-                "post_date": "2018-10-13 21:56:07", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818761162459851, 
                     45.726638566128905
                 ]
@@ -1040,6 +1008,38 @@
                 "authorid": "1014838066", 
                 "instagramcode": "Bo4ZxJKnRHs", 
                 "post_date": "2018-10-13 19:14:39", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818664267659188, 
+                    45.7266235869023
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9530f306df0a8fbedaef5c85e5cf16c5/5CA2512D/t51.2885-15/e35/43075297_490555284792350_3665157734087755918_n.jpg", 
+                "originally_localized": true, 
+                "author": "moemoea987", 
+                "instagramid": "1889454640397620224", 
+                "timestamp": 1539460567, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1d8d1352d827b1bb99c3e7f4a9fd3e71/5CA631C8/t51.2885-15/sh0.08/e35/s640x640/43075297_490555284792350_3665157734087755918_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "moemoea987", 
+                    "timestamp": 1539460567, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/9530f306df0a8fbedaef5c85e5cf16c5/5CA2512D/t51.2885-15/e35/43075297_490555284792350_3665157734087755918_n.jpg", 
+                    "authorid": "1014838066", 
+                    "location": null, 
+                    "id": "1889454640397620224"
+                }, 
+                "caption": "#spotted #streetart #streetartist #streetartfrance #streetartlyon #streetartlovers #streetarteverywhere #urbanart #graffiti #graffitiart #graffitiworld #graffitiartist #capphi #wanted #golden #lyon #monlyon #onlylyon #lyonmaville #huaweishot", 
+                "authorid": "1014838066", 
+                "instagramcode": "Bo4sPwUHRQA", 
+                "post_date": "2018-10-13 21:56:07", 
                 "validated": true
             }
         }, 
