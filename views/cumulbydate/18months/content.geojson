@@ -3131,43 +3131,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.832611083984376, 
-                    45.759656588250984
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BW14GxNgIeS", 
-                "originally_localized": true, 
-                "author": "isa_belledixon", 
-                "instagramid": "1564403201342474130", 
-                "timestamp": 1500711415, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.57.1080.1080/20066839_323227061439009_1623339961048629248_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "isa_belledixon", 
-                    "timestamp": 1500711415, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/20066839_323227061439009_1623339961048629248_n.jpg", 
-                    "authorid": "54122886", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1564403201342474130"
-                }, 
-                "caption": "Monster de @cap_phi \n#capphi #art  #artiste #streetarteverywere #streetart  #urbanart #streetartist #streetartphotography#collage #streetartlyonnais#photography #honor8 #instapic  #igersfrance #igerslyon #aura_focus_on_lyon #toplyonphoto #croixrousse #pentesdelacroixrousse #kawai #monster", 
-                "authorid": "54122886", 
-                "instagramcode": "BW14GxNgIeS", 
-                "post_date": "2017-07-22 10:16:55", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832149073481561, 
                     45.778206000498386
                 ]
