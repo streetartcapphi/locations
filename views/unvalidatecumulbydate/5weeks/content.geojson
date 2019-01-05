@@ -27,6 +27,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2019-01-05 10:17:50", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2019-01-05/1950044745189218142.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a7bb67382865e42409bb380661e30934/5CB47EA8/t51.2885-15/e35/49643383_2027956693957152_9144638092662948683_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/a7bb67382865e42409bb380661e30934/5CB47EA8/t51.2885-15/e35/49643383_2027956693957152_9144638092662948683_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#wip #toile #acrylicpainting #blackandwhite #skull #amazone #capphi", 
+                "validated": false, 
+                "id": "1950044745189218142"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
