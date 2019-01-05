@@ -27,28 +27,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-12-29 05:29:18", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-29/1944826089861779360.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "caption": "#bestnine2018 #creation #phare #bilan #capphi #streetart #rue #lyon #urbancreatures #monster #amazon", 
-                "validated": false, 
-                "id": "1944826089861779360"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
@@ -302,6 +280,28 @@
                 "caption": "Oscar ta #board !!!! #skull #skate #customskateboard #custom #brokenboard by #capphi", 
                 "validated": false, 
                 "id": "1943381953203821009"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-12-29 05:29:18", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-29/1944826089861779360.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#bestnine2018 #creation #phare #bilan #capphi #streetart #rue #lyon #urbancreatures #monster #amazon", 
+                "validated": false, 
+                "id": "1944826089861779360"
             }
         }, 
         {

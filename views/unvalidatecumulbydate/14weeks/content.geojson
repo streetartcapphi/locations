@@ -27,28 +27,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-12-29 05:29:18", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-29/1944826089861779360.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "caption": "#bestnine2018 #creation #phare #bilan #capphi #streetart #rue #lyon #urbancreatures #monster #amazon", 
-                "validated": false, 
-                "id": "1944826089861779360"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
@@ -302,6 +280,28 @@
                 "caption": "Oscar ta #board !!!! #skull #skate #customskateboard #custom #brokenboard by #capphi", 
                 "validated": false, 
                 "id": "1943381953203821009"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-12-29 05:29:18", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-29/1944826089861779360.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/bcdeaf47e4c3f28cc986c418cfa91a02/5CB2BA92/t51.2885-15/e35/47491731_751008798590503_337470953026689161_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#bestnine2018 #creation #phare #bilan #capphi #streetart #rue #lyon #urbancreatures #monster #amazon", 
+                "validated": false, 
+                "id": "1944826089861779360"
             }
         }, 
         {
@@ -673,45 +673,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8307251557707795, 
-                    45.77192439170381
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/571f76e7f2e8945d533028fbc93d5a56/5CB03C21/t51.2885-15/e35/47340687_1274322686041684_2016291284789755960_n.jpg", 
-                "originally_localized": true, 
-                "author": "elod30", 
-                "instagramid": "1934484440618933683", 
-                "timestamp": 1544828537, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2636641a1da3cdec5021c6f9bcd92b03/5C94ABB9/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47340687_1274322686041684_2016291284789755960_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "elod30", 
-                    "timestamp": 1544828537, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/571f76e7f2e8945d533028fbc93d5a56/5CB03C21/t51.2885-15/e35/47340687_1274322686041684_2016291284789755960_n.jpg", 
-                    "authorid": "13718599", 
-                    "location": {
-                        "id": "235077454", 
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1934484440618933683"
-                }, 
-                "caption": "By @cap_phi\n.\n.\n#lyonbynight #streetview #streetartview #streetart_addiction #streetart_addict #picoftheday #streetartist #urbanart #jj_urbanart #artderue #collageart #collage #capphi #croixrousse #streetarteverywhere", 
-                "authorid": "13718599", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-15/1934484440618933683_13718599.json", 
-                "instagramcode": "BrYq1lynJ2z", 
-                "post_date": "2018-12-15 00:02:17", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8320114, 
                     45.7578137
                 ]
@@ -966,6 +927,45 @@
                 "caption": "#ho un #petit #doigt que je connais ;)", 
                 "validated": false, 
                 "id": "1934417133456614784"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8307251557707795, 
+                    45.77192439170381
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/571f76e7f2e8945d533028fbc93d5a56/5CB03C21/t51.2885-15/e35/47340687_1274322686041684_2016291284789755960_n.jpg", 
+                "originally_localized": true, 
+                "author": "elod30", 
+                "instagramid": "1934484440618933683", 
+                "timestamp": 1544828537, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2636641a1da3cdec5021c6f9bcd92b03/5C94ABB9/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47340687_1274322686041684_2016291284789755960_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "elod30", 
+                    "timestamp": 1544828537, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/571f76e7f2e8945d533028fbc93d5a56/5CB03C21/t51.2885-15/e35/47340687_1274322686041684_2016291284789755960_n.jpg", 
+                    "authorid": "13718599", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1934484440618933683"
+                }, 
+                "caption": "By @cap_phi\n.\n.\n#lyonbynight #streetview #streetartview #streetart_addiction #streetart_addict #picoftheday #streetartist #urbanart #jj_urbanart #artderue #collageart #collage #capphi #croixrousse #streetarteverywhere", 
+                "authorid": "13718599", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-15/1934484440618933683_13718599.json", 
+                "instagramcode": "BrYq1lynJ2z", 
+                "post_date": "2018-12-15 00:02:17", 
+                "validated": false
             }
         }, 
         {
