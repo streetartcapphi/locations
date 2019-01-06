@@ -210,38 +210,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.81859251856804, 
-                    45.726638098028126
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1914905467840499924", 
-                "timestamp": 1542494542, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df748aafc88eb79ef39e96e12f7e25c9/5C90F7A9/t51.2885-15/e35/c0.75.600.600/44436327_967860670090283_3196391386564968868_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1542494542, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1914905467840499924"
-                }, 
-                "caption": "#lyon #StreetArt #SpiraleART #Zorm #CapPhi #Prolo #Littlelilou01", 
-                "authorid": "5340332945", 
-                "instagramcode": "BqTHGCdFhDU", 
-                "post_date": "2018-11-17 23:42:22", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.818687066435815, 
                     45.72665494965338
                 ]
@@ -305,6 +273,38 @@
                 "authorid": "305949513", 
                 "instagramcode": "BqLfugwjH50", 
                 "post_date": "2018-11-15 00:43:41", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.81859251856804, 
+                    45.726638098028126
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1914905467840499924", 
+                "timestamp": 1542494542, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/df748aafc88eb79ef39e96e12f7e25c9/5C90F7A9/t51.2885-15/e35/c0.75.600.600/44436327_967860670090283_3196391386564968868_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1542494542, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6435890d52282b29e6af9301e4d23f4c/5CA6EEB6/t51.2885-15/e35/44436327_967860670090283_3196391386564968868_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1914905467840499924"
+                }, 
+                "caption": "#lyon #StreetArt #SpiraleART #Zorm #CapPhi #Prolo #Littlelilou01", 
+                "authorid": "5340332945", 
+                "instagramcode": "BqTHGCdFhDU", 
+                "post_date": "2018-11-17 23:42:22", 
                 "validated": true
             }
         }, 
@@ -390,38 +390,6 @@
                 "caption": "#2 #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi #streetart #collage #pastup #lyon #croixrousse #tourmente #demons #conscience", 
                 "validated": true, 
                 "id": "1906772537289498792"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7a505010c8bab10c7bf3de1fd9e05b78/5C9A72EE/t51.2885-15/e35/43341553_563638330760675_3977441043620380747_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1904776195352273835", 
-                "timestamp": 1541287038, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d331c352c91a138d502bcc6dff296508/5C9FB1F1/t51.2885-15/e35/c0.75.600.600/43341553_563638330760675_3977441043620380747_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541287038, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7a505010c8bab10c7bf3de1fd9e05b78/5C9A72EE/t51.2885-15/e35/43341553_563638330760675_3977441043620380747_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1904776195352273835"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi trace d'un collage", 
-                "authorid": "5340332945", 
-                "instagramcode": "BpvH9uUl6Or", 
-                "post_date": "2018-11-04 00:17:18", 
-                "validated": true
             }
         }, 
         {
@@ -583,31 +551,31 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818761162459851, 
-                    45.726638566128905
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/44e191d7f6e927a95e1ff5db564c7811/5C8ECF11/t51.2885-15/e35/43778908_585733405221124_4663552936537027218_n.jpg", 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7a505010c8bab10c7bf3de1fd9e05b78/5C9A72EE/t51.2885-15/e35/43341553_563638330760675_3977441043620380747_n.jpg", 
                 "originally_localized": true, 
                 "author": "jcastelbou", 
-                "instagramid": "1899729377354454848", 
-                "timestamp": 1540685411, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/38f9c29820014bdfe30b57381dcabff0/5CACFE0E/t51.2885-15/e35/c0.75.600.600/43778908_585733405221124_4663552936537027218_n.jpg", 
+                "instagramid": "1904776195352273835", 
+                "timestamp": 1541287038, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d331c352c91a138d502bcc6dff296508/5C9FB1F1/t51.2885-15/e35/c0.75.600.600/43341553_563638330760675_3977441043620380747_n.jpg", 
                 "mustbepublished": true, 
                 "insta_infos": {
                     "author": "jcastelbou", 
-                    "timestamp": 1540685411, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/44e191d7f6e927a95e1ff5db564c7811/5C8ECF11/t51.2885-15/e35/43778908_585733405221124_4663552936537027218_n.jpg", 
+                    "timestamp": 1541287038, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7a505010c8bab10c7bf3de1fd9e05b78/5C9A72EE/t51.2885-15/e35/43341553_563638330760675_3977441043620380747_n.jpg", 
                     "authorid": "5340332945", 
                     "location": null, 
-                    "id": "1899729377354454848"
+                    "id": "1904776195352273835"
                 }, 
-                "caption": "#StreetArt #lyon #CapPhi", 
+                "caption": "#StreetArt #lyon #CapPhi trace d'un collage", 
                 "authorid": "5340332945", 
-                "instagramcode": "BpdMc2ylhdA", 
-                "post_date": "2018-10-28 02:10:11", 
+                "instagramcode": "BpvH9uUl6Or", 
+                "post_date": "2018-11-04 00:17:18", 
                 "validated": true
             }
         }, 
@@ -704,6 +672,38 @@
                 "authorid": "5340332945", 
                 "instagramcode": "Bpr4LxunjsL", 
                 "post_date": "2018-11-02 18:01:41", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.818761162459851, 
+                    45.726638566128905
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/44e191d7f6e927a95e1ff5db564c7811/5C8ECF11/t51.2885-15/e35/43778908_585733405221124_4663552936537027218_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1899729377354454848", 
+                "timestamp": 1540685411, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/38f9c29820014bdfe30b57381dcabff0/5CACFE0E/t51.2885-15/e35/c0.75.600.600/43778908_585733405221124_4663552936537027218_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1540685411, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/44e191d7f6e927a95e1ff5db564c7811/5C8ECF11/t51.2885-15/e35/43778908_585733405221124_4663552936537027218_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1899729377354454848"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi", 
+                "authorid": "5340332945", 
+                "instagramcode": "BpdMc2ylhdA", 
+                "post_date": "2018-10-28 02:10:11", 
                 "validated": true
             }
         }, 
@@ -3641,38 +3641,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.83449935913086, 
-                    45.77542564222295
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
-                "originally_localized": true, 
-                "author": "nm_sophie_", 
-                "instagramid": "1549558984659148945", 
-                "timestamp": 1498941847, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "nm_sophie_", 
-                    "timestamp": 1498941847, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
-                    "authorid": "1801636017", 
-                    "location": null, 
-                    "id": "1549558984659148945"
-                }, 
-                "caption": "Arc en ciel. Prout de licorne..#capphi", 
-                "authorid": "1801636017", 
-                "instagramcode": "BWBI6_HH6CR", 
-                "post_date": "2017-07-01 22:44:07", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.832439422607422, 
                     45.76901976781533
                 ]
@@ -3703,6 +3671,38 @@
                 "authorid": "54122886", 
                 "instagramcode": "BWRp9lyAzsn", 
                 "post_date": "2017-07-08 08:40:41", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.83449935913086, 
+                    45.77542564222295
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://www.instagram.com/p/BWBI6_HH6CR", 
+                "originally_localized": true, 
+                "author": "nm_sophie_", 
+                "instagramid": "1549558984659148945", 
+                "timestamp": 1498941847, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/19535289_922472877903276_551341215165972480_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "nm_sophie_", 
+                    "timestamp": 1498941847, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/t51.2885-15/e35/19535289_922472877903276_551341215165972480_n.jpg", 
+                    "authorid": "1801636017", 
+                    "location": null, 
+                    "id": "1549558984659148945"
+                }, 
+                "caption": "Arc en ciel. Prout de licorne..#capphi", 
+                "authorid": "1801636017", 
+                "instagramcode": "BWBI6_HH6CR", 
+                "post_date": "2017-07-01 22:44:07", 
                 "validated": true
             }
         }
