@@ -657,6 +657,39 @@
             }, 
             "type": "Feature", 
             "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/08dec104f2af7a4c83f8d152128f8df2/5CC6B7D9/t51.2885-15/e35/42851031_2195852600703762_5486341900199620973_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "deb.debo.deborouf", 
+                "instagramid": "1891212976536897789", 
+                "timestamp": 1539670177, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b4a7c64f00ecc6cfc0ad09e50c07ae3b/5CBB03EE/t51.2885-15/sh0.08/e35/c135.0.810.810/s640x640/42851031_2195852600703762_5486341900199620973_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "deb.debo.deborouf", 
+                    "timestamp": 1539670177, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/08dec104f2af7a4c83f8d152128f8df2/5CC6B7D9/t51.2885-15/e35/42851031_2195852600703762_5486341900199620973_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "7699290351", 
+                    "location": null, 
+                    "id": "1891212976536897789"
+                }, 
+                "caption": "#surf#wave#streetart#streetartists#streetartlyon#streetartlovers#streetartporn#graffiti#graffitiart#graffitiporn#graffitilove#lyon#lyonmaville#onlylyon#capphi", 
+                "authorid": "7699290351", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-16/1891212976536897789_7699290351.json", 
+                "instagramcode": "Bo-8C6dF0j9", 
+                "post_date": "2018-10-16 08:09:37", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
                 "post_date": "2018-12-16 16:22:13", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
@@ -961,6 +994,45 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0e7a4ed36dc63460a73ba734738e36ee/5CBC47E5/t51.2885-15/e35/47690755_1819433048161416_1937280262179137890_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "deb.debo.deborouf", 
+                "instagramid": "1949608967455148446", 
+                "timestamp": 1546631521, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b0821be3a9443662c1281c946bb1a296/5CC9DE7D/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47690755_1819433048161416_1937280262179137890_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "deb.debo.deborouf", 
+                    "timestamp": 1546631521, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/0e7a4ed36dc63460a73ba734738e36ee/5CBC47E5/t51.2885-15/e35/47690755_1819433048161416_1937280262179137890_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "7699290351", 
+                    "location": {
+                        "id": "213168722", 
+                        "slug": "lyon-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Lyon, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1949608967455148446"
+                }, 
+                "caption": "#streetart#streetartlyon#streetartlover#lyon#onlylyon#lyonmaville#graffiti#graffitiart#graffitiporn#maisonn\u00f4#capphi", 
+                "authorid": "7699290351", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2019-01-04/1949608967455148446_7699290351.json", 
+                "instagramcode": "BsOZwbEFIme", 
+                "post_date": "2019-01-04 20:52:01", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
@@ -1181,6 +1253,45 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-08-27/1854984266448684909_50323743.json", 
                 "instagramcode": "Bm-Oly5nMdt", 
                 "post_date": "2018-08-27 08:29:38", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8320114, 
+                    45.7578137
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7ff0547b38b86efc57716b4efff2058b/5CB7988C/t51.2885-15/e35/47586397_286425025409729_6285009474160517745_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "deb.debo.deborouf", 
+                "instagramid": "1949582403476910797", 
+                "timestamp": 1546628354, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6e0e5b8e0a7583f64a2fbfeb95228dfe/5CBDA4CF/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/47586397_286425025409729_6285009474160517745_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "deb.debo.deborouf", 
+                    "timestamp": 1546628354, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7ff0547b38b86efc57716b4efff2058b/5CB7988C/t51.2885-15/e35/47586397_286425025409729_6285009474160517745_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "7699290351", 
+                    "location": {
+                        "id": "213168722", 
+                        "slug": "lyon-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Lyon, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1949582403476910797"
+                }, 
+                "caption": "#streetart#streetartists#streetartlover#graffiti#graffitiart#graffitiporn#lyon#onlylyon#lyonmaville#capphi", 
+                "authorid": "7699290351", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2019-01-04/1949582403476910797_7699290351.json", 
+                "instagramcode": "BsOTt3bl_LN", 
+                "post_date": "2019-01-04 19:59:14", 
                 "validated": false
             }
         }, 
@@ -1520,6 +1631,39 @@
                 "caption": "#bestnine2018 #creation #phare #bilan #capphi #streetart #rue #lyon #urbancreatures #monster #amazon", 
                 "validated": false, 
                 "id": "1944826089861779360"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/25aa44bad0839753c28b222c693eed77/5CB93AFA/t51.2885-15/e35/34768991_2078303089159758_2066579765657075712_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "deb.debo.deborouf", 
+                "instagramid": "1806102329905300915", 
+                "timestamp": 1529524197, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2e57a95385f3940ccbb61574d5d229cb/5CD29062/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/34768991_2078303089159758_2066579765657075712_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "deb.debo.deborouf", 
+                    "timestamp": 1529524197, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/25aa44bad0839753c28b222c693eed77/5CB93AFA/t51.2885-15/e35/34768991_2078303089159758_2066579765657075712_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "7699290351", 
+                    "location": null, 
+                    "id": "1806102329905300915"
+                }, 
+                "caption": "Streetart#onlylyon#lyonmaville#capphi", 
+                "authorid": "7699290351", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-20/1806102329905300915_7699290351.json", 
+                "instagramcode": "BkQkH_6AsWz", 
+                "post_date": "2018-06-20 21:49:57", 
+                "validated": false
             }
         }, 
         {
