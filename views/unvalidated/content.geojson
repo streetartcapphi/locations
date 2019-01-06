@@ -159,6 +159,39 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5df5e04823961c3df172ec7fb1545d71/5CBE40CC/t51.2885-15/e35/47582937_316766705602937_8663658448154520995_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1950424485209246211", 
+                "timestamp": 1546728738, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f30ecb227b47a91c700f20f54e97f742/5CB6B4D3/t51.2885-15/e35/c0.75.600.600/47582937_316766705602937_8663658448154520995_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1546728738, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5df5e04823961c3df172ec7fb1545d71/5CBE40CC/t51.2885-15/e35/47582937_316766705602937_8663658448154520995_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1950424485209246211"
+                }, 
+                "caption": "#lyon #StreetArt #CapPhi", 
+                "authorid": "5340332945", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2019-01-05/1950424485209246211_5340332945.json", 
+                "instagramcode": "BsRTLxKHwoD", 
+                "post_date": "2019-01-05 23:52:18", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.818754121661187, 
                     45.72659947970104
                 ]
