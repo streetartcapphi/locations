@@ -49,6 +49,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2019-01-06 18:19:47", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2019-01-06/1951012096185428951.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c05c3e50f30f33f2528b0a814eed0452/5CC1938B/t51.2885-15/e35/47691244_334821470440244_1613546236672534390_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c05c3e50f30f33f2528b0a814eed0452/5CC1938B/t51.2885-15/e35/47691244_334821470440244_1613546236672534390_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#2 #\u00e9volution #wip #toile #acrylicpainting #blackandwhite #skull #amazone #capphi", 
+                "validated": false, 
+                "id": "1951012096185428951"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8318881, 
                     45.7660263
                 ]
@@ -1170,39 +1192,6 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-10/1931139439566709578_810473762.json", 
                 "instagramcode": "BrMyRazHuNK", 
                 "post_date": "2018-12-10 09:16:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818627052009107, 
-                    45.72658426641337
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f39a5257839d289b4713aefecb56e36d/5CA74A0D/t51.2885-15/e35/45466543_1452024248261083_8863736119099298645_n.jpg", 
-                "originally_localized": true, 
-                "author": "rodaulph", 
-                "instagramid": "1925633520074315792", 
-                "timestamp": 1543773425, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fd4f87f588fd61f200d7da94dbcb67f2/5C98A295/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/45466543_1452024248261083_8863736119099298645_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "rodaulph", 
-                    "timestamp": 1543773425, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/f39a5257839d289b4713aefecb56e36d/5CA74A0D/t51.2885-15/e35/45466543_1452024248261083_8863736119099298645_n.jpg", 
-                    "authorid": "9245082371", 
-                    "location": null, 
-                    "id": "1925633520074315792"
-                }, 
-                "caption": "T'as de beaux yeux tu sais\n.\n#lyon#lyonstreetart #streetartlyon #streetart#art#drawing#canvas#stencil#graff#graffiti#jj_urbanart #rsa_graffiti #streetarteverywhere #tv_streetart #spraypaint#urnanart#capphi  @cap_phi", 
-                "authorid": "9245082371", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-02/1925633520074315792_9245082371.json", 
-                "instagramcode": "Bq5OXvrnVgQ", 
-                "post_date": "2018-12-02 18:57:05", 
                 "validated": false
             }
         }
