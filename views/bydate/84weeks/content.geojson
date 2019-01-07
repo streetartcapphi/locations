@@ -86,46 +86,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.833641052246094, 
-                    45.77592700554977
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-22 17:18:23", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18513981_102590440313871_4364548437664858112_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUZxlLkBOVp/", 
-                "caption": "Mon Ptit Poilu #noiraude #kawaiiart #streetart #urbanart #t0 #map_phi", 
-                "validated": true, 
-                "id": "1520464408529397097_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8335713148117065, 
-                    45.77595693754609
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-22 17:02:20", 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18579482_702629113243956_6598006980059594752_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUZvvmqBCiL/", 
-                "caption": "C'est quand la plage #plage #bernardlhermite #capphi #urbanart #streetart #kawaiiart #t0 #map_phi", 
-                "validated": true, 
-                "id": "1520456328722786443_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.83548641204834, 
                     45.765277678340816
                 ]
