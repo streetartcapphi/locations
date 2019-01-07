@@ -890,39 +890,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fe71405abf990b42cb5873a7335006a8/5CB0686A/t51.2885-15/e35/46105378_133334020995023_1517971458994392237_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1931139439566709578", 
-                "timestamp": 1544429782, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/16a4f553464c65c75d190a992f2649bc/5CA6A58F/t51.2885-15/sh0.08/e35/s640x640/46105378_133334020995023_1517971458994392237_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1544429782, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fe71405abf990b42cb5873a7335006a8/5CB0686A/t51.2885-15/e35/46105378_133334020995023_1517971458994392237_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "810473762", 
-                    "location": null, 
-                    "id": "1931139439566709578"
-                }, 
-                "caption": "By @cap_phi 4/6 #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
-                "authorid": "810473762", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-10/1931139439566709578_810473762.json", 
-                "instagramcode": "BrMyRazHuNK", 
-                "post_date": "2018-12-10 09:16:22", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/8757517391bf225a71652e39380f7613/5CBECE83/t51.2885-15/e35/47581409_151284549187262_1701006233798457119_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "originally_localized": true, 
                 "author": "chachi.44", 
@@ -1325,6 +1292,39 @@
                 "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-11-17/1914545290122090819_2876693898.json", 
                 "instagramcode": "BqR1Mw0H9lD", 
                 "post_date": "2018-11-17 11:46:45", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fe71405abf990b42cb5873a7335006a8/5CB0686A/t51.2885-15/e35/46105378_133334020995023_1517971458994392237_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1931139439566709578", 
+                "timestamp": 1544429782, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/16a4f553464c65c75d190a992f2649bc/5CA6A58F/t51.2885-15/sh0.08/e35/s640x640/46105378_133334020995023_1517971458994392237_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1544429782, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/fe71405abf990b42cb5873a7335006a8/5CB0686A/t51.2885-15/e35/46105378_133334020995023_1517971458994392237_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "810473762", 
+                    "location": null, 
+                    "id": "1931139439566709578"
+                }, 
+                "caption": "By @cap_phi 4/6 #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
+                "authorid": "810473762", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-10/1931139439566709578_810473762.json", 
+                "instagramcode": "BrMyRazHuNK", 
+                "post_date": "2018-12-10 09:16:22", 
                 "validated": false
             }
         }, 

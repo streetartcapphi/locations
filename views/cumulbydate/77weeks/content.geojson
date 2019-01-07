@@ -26,44 +26,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.830725491046906, 
-                    45.77209183561922
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6271a1ba2ea53af3b376ee7ee629f549/5CAB4AD6/t51.2885-15/e35/47031667_146312506349282_7115456667934200832_n.jpg", 
-                "originally_localized": true, 
-                "author": "garzaf69", 
-                "instagramid": "1926058859224871537", 
-                "timestamp": 1543824129, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c83afde3191ce129c52f370f382509b7/5C92C833/t51.2885-15/sh0.08/e35/s640x640/47031667_146312506349282_7115456667934200832_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "garzaf69", 
-                    "timestamp": 1543824129, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6271a1ba2ea53af3b376ee7ee629f549/5CAB4AD6/t51.2885-15/e35/47031667_146312506349282_7115456667934200832_n.jpg", 
-                    "authorid": "810473762", 
-                    "location": {
-                        "id": "235077454", 
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1926058859224871537"
-                }, 
-                "caption": "By @cap_phi #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
-                "authorid": "810473762", 
-                "instagramcode": "Bq6vFPol7Jx", 
-                "post_date": "2018-12-03 09:02:09", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8305001854896545, 
                     45.77188042589969
                 ]
@@ -203,6 +165,44 @@
                 "authorid": "5340332945", 
                 "instagramcode": "Bq0JPEQlTnV", 
                 "post_date": "2018-11-30 19:36:00", 
+                "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.830725491046906, 
+                    45.77209183561922
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6271a1ba2ea53af3b376ee7ee629f549/5CAB4AD6/t51.2885-15/e35/47031667_146312506349282_7115456667934200832_n.jpg", 
+                "originally_localized": true, 
+                "author": "garzaf69", 
+                "instagramid": "1926058859224871537", 
+                "timestamp": 1543824129, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c83afde3191ce129c52f370f382509b7/5C92C833/t51.2885-15/sh0.08/e35/s640x640/47031667_146312506349282_7115456667934200832_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "garzaf69", 
+                    "timestamp": 1543824129, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6271a1ba2ea53af3b376ee7ee629f549/5CAB4AD6/t51.2885-15/e35/47031667_146312506349282_7115456667934200832_n.jpg", 
+                    "authorid": "810473762", 
+                    "location": {
+                        "id": "235077454", 
+                        "slug": "pentes-de-la-croix-rousse", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "Pentes de la Croix-Rousse", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1926058859224871537"
+                }, 
+                "caption": "By @cap_phi #capphi  #map_phi #monstres #streetcollages #pochoir #collage #streetart #streetartist #streetartlyon #streearteverywhere #lyon #pentesdelacroixrousse #croixrousse #onlylyon  #urban #urbanart #urbanartist #graffiti #graff #graffitilyon #tag #streetcollages #collage #igerslyon #igers", 
+                "authorid": "810473762", 
+                "instagramcode": "Bq6vFPol7Jx", 
+                "post_date": "2018-12-03 09:02:09", 
                 "validated": true
             }
         }, 
