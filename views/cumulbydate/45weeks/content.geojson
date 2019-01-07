@@ -1865,43 +1865,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831495285034181, 
-                    45.76803188058275
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/edb0a026828f16179a8513935c37f65c/5B5F306A/t51.2885-15/e35/27891941_1633192166771012_2741300706743943168_n.jpg", 
-                "originally_localized": true, 
-                "author": "mikamike69", 
-                "instagramid": "1718196224471644288", 
-                "timestamp": 1519044972, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/49ac9e501876b3c25a37881200836557/5B50D140/t51.2885-15/s640x640/sh0.08/e35/27891941_1633192166771012_2741300706743943168_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "mikamike69", 
-                    "timestamp": 1519044972, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/edb0a026828f16179a8513935c37f65c/5B5F306A/t51.2885-15/e35/27891941_1633192166771012_2741300706743943168_n.jpg", 
-                    "authorid": "37664964", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1718196224471644288"
-                }, 
-                "caption": "@cap_phi #capphi #walldrawinglyon #walldrawing #streetart #streetarteverywhere #streetphoto #streetartwork #artwork #graffiti #graffityart #urbanart #onlylyon \ud83c\uddeb\ud83c\uddf7 #streetartlyon #lyon  #streetphotography #urbanart #artderue #graffiti #sprayart  #streetartistry #rsa_graffiti #streetarteverywhere #igersstreetart", 
-                "authorid": "37664964", 
-                "instagramcode": "BfYQlzeDLiA", 
-                "post_date": "2018-02-19 13:56:12", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.835132360458375, 
                     45.77558278643725
                 ]

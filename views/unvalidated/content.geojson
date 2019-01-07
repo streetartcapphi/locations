@@ -563,22 +563,33 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
+                    4.818694107234479, 
+                    45.726633182969806
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2019-01-06 18:19:47", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2019-01-06/1951012096185428951.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c05c3e50f30f33f2528b0a814eed0452/5CC1938B/t51.2885-15/e35/47691244_334821470440244_1613546236672534390_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
+                "originally_localized": true, 
+                "author": "jcastelbou", 
+                "instagramid": "1902427429865517527", 
+                "timestamp": 1541007044, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
                 "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c05c3e50f30f33f2528b0a814eed0452/5CC1938B/t51.2885-15/e35/47691244_334821470440244_1613546236672534390_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "caption": "#2 #\u00e9volution #wip #toile #acrylicpainting #blackandwhite #skull #amazone #capphi", 
-                "validated": false, 
-                "id": "1951012096185428951"
+                "insta_infos": {
+                    "author": "jcastelbou", 
+                    "timestamp": 1541007044, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
+                    "authorid": "5340332945", 
+                    "location": null, 
+                    "id": "1902427429865517527"
+                }, 
+                "caption": "#StreetArt #lyon #CapPhi", 
+                "authorid": "5340332945", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-31/1902427429865517527_5340332945.json", 
+                "instagramcode": "Bpmx6sAF_HX", 
+                "post_date": "2018-10-31 18:30:44", 
+                "validated": false
             }
         }, 
         {
@@ -1559,6 +1570,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2019-01-07 13:13:35", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2019-01-07/1951582758054489221.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6e71b0098d53ec02c8a814e5e4e56591/5CBBDDA9/t51.2885-15/e35/47694207_281373665907910_5424026668895999097_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/6e71b0098d53ec02c8a814e5e4e56591/5CBBDDA9/t51.2885-15/e35/47694207_281373665907910_5424026668895999097_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#sketch du jour : #How #many #of #you #know #that #burns #the #devil #up ?", 
+                "validated": false, 
+                "id": "1951582758054489221"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.831763505935669, 
                     45.757775904050845
                 ]
@@ -1692,33 +1725,22 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.818694107234479, 
-                    45.726633182969806
+                    4.8186741, 
+                    45.7266101
                 ]
             }, 
             "type": "Feature", 
             "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
-                "originally_localized": true, 
-                "author": "jcastelbou", 
-                "instagramid": "1902427429865517527", 
-                "timestamp": 1541007044, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
+                "post_date": "2019-01-06 18:19:47", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2019-01-06/1951012096185428951.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c05c3e50f30f33f2528b0a814eed0452/5CC1938B/t51.2885-15/e35/47691244_334821470440244_1613546236672534390_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
                 "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "jcastelbou", 
-                    "timestamp": 1541007044, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c0a870e4c4037afdf5ca3f9d881a690d/5CA5FAEA/t51.2885-15/e35/43984602_505097880007900_8766885152523950833_n.jpg", 
-                    "authorid": "5340332945", 
-                    "location": null, 
-                    "id": "1902427429865517527"
-                }, 
-                "caption": "#StreetArt #lyon #CapPhi", 
-                "authorid": "5340332945", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-31/1902427429865517527_5340332945.json", 
-                "instagramcode": "Bpmx6sAF_HX", 
-                "post_date": "2018-10-31 18:30:44", 
-                "validated": false
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c05c3e50f30f33f2528b0a814eed0452/5CC1938B/t51.2885-15/e35/47691244_334821470440244_1613546236672534390_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "#2 #\u00e9volution #wip #toile #acrylicpainting #blackandwhite #skull #amazone #capphi", 
+                "validated": false, 
+                "id": "1951012096185428951"
             }
         }, 
         {
