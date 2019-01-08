@@ -1622,43 +1622,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.831430912017823, 
-                    45.76802813855238
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c18700a9f5a5c3577459bde51baf4556/5B5063C5/t51.2885-15/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
-                "originally_localized": true, 
-                "author": "annirieix", 
-                "instagramid": "1728660321135256829", 
-                "timestamp": 1520292390, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/beb3170691677850ece5b10be04a1e43/5B717EA4/t51.2885-15/s640x640/sh0.08/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "annirieix", 
-                    "timestamp": 1520292390, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c18700a9f5a5c3577459bde51baf4556/5B5063C5/t51.2885-15/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
-                    "authorid": "5488122204", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1728660321135256829"
-                }, 
-                "caption": "@cap_phi \n#lyon #lyoncity #onlylyon #igerslyon #ilovelyon #monlyon #maville #jaimemaville #streetart #artderue #arturbainlyon #arturbain #streeview #streetphotographer #streetphotography #capphi #cap_phi", 
-                "authorid": "5488122204", 
-                "instagramcode": "Bf9b2c6lGT9", 
-                "post_date": "2018-03-06 00:26:30", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831613302230836, 
                     45.769738220267826
                 ]
@@ -1785,6 +1748,43 @@
                 "caption": "#yessss s\u00e9lectionn\u00e9 pour l\u2019 #expo #ilestinterditdinterdire #sketch #monster #capphi #urbanart #streetart", 
                 "validated": true, 
                 "id": "1726767746907270030_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.831430912017823, 
+                    45.76802813855238
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c18700a9f5a5c3577459bde51baf4556/5B5063C5/t51.2885-15/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
+                "originally_localized": true, 
+                "author": "annirieix", 
+                "instagramid": "1728660321135256829", 
+                "timestamp": 1520292390, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/beb3170691677850ece5b10be04a1e43/5B717EA4/t51.2885-15/s640x640/sh0.08/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "annirieix", 
+                    "timestamp": 1520292390, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/c18700a9f5a5c3577459bde51baf4556/5B5063C5/t51.2885-15/e35/28434905_346221382532892_3102283005641621504_n.jpg", 
+                    "authorid": "5488122204", 
+                    "location": {
+                        "slug": "lyon-france", 
+                        "has_public_page": true, 
+                        "name": "Lyon, France", 
+                        "id": "213168722"
+                    }, 
+                    "id": "1728660321135256829"
+                }, 
+                "caption": "@cap_phi \n#lyon #lyoncity #onlylyon #igerslyon #ilovelyon #monlyon #maville #jaimemaville #streetart #artderue #arturbainlyon #arturbain #streeview #streetphotographer #streetphotography #capphi #cap_phi", 
+                "authorid": "5488122204", 
+                "instagramcode": "Bf9b2c6lGT9", 
+                "post_date": "2018-03-06 00:26:30", 
+                "validated": true
             }
         }, 
         {
@@ -1991,27 +1991,6 @@
                 "caption": "Ma #6 \u00e9me #f\u00e9e des #dents rien que pour le #plaisir de #trouver un #petit #tresor #capphi #streetart #croixrousse #urbanart", 
                 "validated": true, 
                 "id": "1690431467735379740_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.833962917327882, 
-                    45.76973073643581
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-01-09 05:41:10", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26181032_1667828433283960_25222015057133568_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/Bdt6NklAwoa/", 
-                "caption": "Les #dents ont une #signification dans l' #univers #tatoo quelle est-elle ????\n#capphi #streetart #croixrousse #collage #instafun", 
-                "validated": true, 
-                "id": "1688261454660307482_29177514"
             }
         }, 
         {
@@ -2346,27 +2325,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.827150106430055, 
-                    45.77217789598351
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-12-12 05:38:07", 
-                "originally_localized": true, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25014553_331132650626025_4009187576647778304_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BclzmvkA8Z1/", 
-                "caption": "Au #d\u00e9tour d'une #rue  la #surprise peut #toujours #surgir #capphi #urbanartist #streetart #lyon #croixrousse", 
-                "validated": true, 
-                "id": "1667966199792911989_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8315167427063, 
                     45.769985186161065
                 ]
@@ -2430,6 +2388,27 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.833962917327882, 
+                    45.76973073643581
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-01-09 05:41:10", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/26181032_1667828433283960_25222015057133568_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/Bdt6NklAwoa/", 
+                "caption": "Les #dents ont une #signification dans l' #univers #tatoo quelle est-elle ????\n#capphi #streetart #croixrousse #collage #instafun", 
+                "validated": true, 
+                "id": "1688261454660307482_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.832192659378053, 
                     45.778358927873214
                 ]
@@ -2482,6 +2461,27 @@
                 "instagramcode": "BdsdZbgn9tA", 
                 "post_date": "2018-01-08 17:10:08", 
                 "validated": true
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.827150106430055, 
+                    45.77217789598351
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2017-12-12 05:38:07", 
+                "originally_localized": true, 
+                "author": "cap_phi", 
+                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/25014553_331132650626025_4009187576647778304_n.jpg", 
+                "mustbepublished": true, 
+                "originURL": "https://www.instagram.com/p/BclzmvkA8Z1/", 
+                "caption": "Au #d\u00e9tour d'une #rue  la #surprise peut #toujours #surgir #capphi #urbanartist #streetart #lyon #croixrousse", 
+                "validated": true, 
+                "id": "1667966199792911989_29177514"
             }
         }, 
         {
@@ -3851,27 +3851,6 @@
                 "caption": "Plus que la moiti\u00e9 de la #dualit\u00e9 #streetart #urbanartist #capphi #kawaii #monster #t0 #map_phi", 
                 "validated": true, 
                 "id": "1531368904998639805_29177514"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8317018151283255, 
-                    45.76962596268214
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2017-05-30 04:23:53", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "imageURL": "https://scontent.cdninstagram.com/t51.2885-15/s640x640/sh0.08/e35/18809572_1302971716465245_3759747562702110720_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://www.instagram.com/p/BUs_TiLhZ7H/", 
-                "caption": "#petite #amazone #love #heart #coeur #streetart #urbanartist #capphi #kawaii #monster #croixrousse", 
-                "validated": true, 
-                "id": "1525872793072541383_29177514"
             }
         }, 
         {
