@@ -11,28 +11,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2019-01-01 16:50:14", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2019-01-01/1947343143248433727.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1549fe11ee74b26edd6a4b10a8beed8e/5CB2D107/t51.2885-15/e35/47586202_519300768577096_1925898836020519587_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/1549fe11ee74b26edd6a4b10a8beed8e/5CB2D107/t51.2885-15/e35/47586202_519300768577096_1925898836020519587_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "caption": "#bonne #ann\u00e9e #2019 #happynewyear #bestwishes #meilleursvoeux #capphi", 
-                "validated": false, 
-                "id": "1947343143248433727"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2019-01-08 07:28:38", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
