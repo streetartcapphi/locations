@@ -44,39 +44,6 @@
                 "validated": false, 
                 "id": "1891523768524160141"
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/08dec104f2af7a4c83f8d152128f8df2/5CC6B7D9/t51.2885-15/e35/42851031_2195852600703762_5486341900199620973_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "deb.debo.deborouf", 
-                "instagramid": "1891212976536897789", 
-                "timestamp": 1539670177, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b4a7c64f00ecc6cfc0ad09e50c07ae3b/5CBB03EE/t51.2885-15/sh0.08/e35/c135.0.810.810/s640x640/42851031_2195852600703762_5486341900199620973_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "deb.debo.deborouf", 
-                    "timestamp": 1539670177, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/08dec104f2af7a4c83f8d152128f8df2/5CC6B7D9/t51.2885-15/e35/42851031_2195852600703762_5486341900199620973_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "7699290351", 
-                    "location": null, 
-                    "id": "1891212976536897789"
-                }, 
-                "caption": "#surf#wave#streetart#streetartists#streetartlyon#streetartlovers#streetartporn#graffiti#graffitiart#graffitiporn#graffitilove#lyon#lyonmaville#onlylyon#capphi", 
-                "authorid": "7699290351", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-16/1891212976536897789_7699290351.json", 
-                "instagramcode": "Bo-8C6dF0j9", 
-                "post_date": "2018-10-16 08:09:37", 
-                "validated": false
-            }
         }
     ]
 }
