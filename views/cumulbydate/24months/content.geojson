@@ -2150,43 +2150,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d90919f9420392b3b492e94debdee0aa/5B5D8579/t51.2885-15/e35/26153978_362768410800524_5486799804149268480_n.jpg", 
-                "originally_localized": true, 
-                "author": "street_a_tag", 
-                "instagramid": "1688298167302823941", 
-                "timestamp": 1515480846, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/32d2f3f43fd222760d8f09988b5d8ced/5B6D0DB1/t51.2885-15/s640x640/sh0.08/e35/c0.113.1080.1080/26153978_362768410800524_5486799804149268480_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "street_a_tag", 
-                    "timestamp": 1515480846, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d90919f9420392b3b492e94debdee0aa/5B5D8579/t51.2885-15/e35/26153978_362768410800524_5486799804149268480_n.jpg", 
-                    "authorid": "1387607353", 
-                    "location": {
-                        "slug": "graca", 
-                        "has_public_page": true, 
-                        "name": "Gra\u00e7a", 
-                        "id": "388022696"
-                    }, 
-                    "id": "1688298167302823941"
-                }, 
-                "caption": "Artist: Cap Phi @cap_phi\nLocation: Rua Josefa de Obidos, Lisbon 2017\n#capphi #capphigraffiti #capphigraff #capphiart #streetart #urbanart #graffiti #pasteup #pasteupart #wheatpaste #cutoutart #streetartlisbon #streetartlisboa #lisboastreetart #streetartportugal #portugalstreetart #streetartglobe #streetarteverywhere #total_urbanart #street_a_tag #street_a_tag", 
-                "authorid": "1387607353", 
-                "instagramcode": "BduCjz5ByAF", 
-                "post_date": "2018-01-09 07:54:06", 
-                "validated": true
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.831548929214478, 
                     45.769985186161065
                 ]
@@ -2424,6 +2387,43 @@
                 "caption": "A #chacun son #tresor il est s'ouvrant bien #cach\u00e9  #monstre #dent #sourire #streetart #urbanartist #capphi  #croixrousse", 
                 "validated": true, 
                 "id": "1687537885018024747_29177514"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d90919f9420392b3b492e94debdee0aa/5B5D8579/t51.2885-15/e35/26153978_362768410800524_5486799804149268480_n.jpg", 
+                "originally_localized": true, 
+                "author": "street_a_tag", 
+                "instagramid": "1688298167302823941", 
+                "timestamp": 1515480846, 
+                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/32d2f3f43fd222760d8f09988b5d8ced/5B6D0DB1/t51.2885-15/s640x640/sh0.08/e35/c0.113.1080.1080/26153978_362768410800524_5486799804149268480_n.jpg", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "street_a_tag", 
+                    "timestamp": 1515480846, 
+                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/d90919f9420392b3b492e94debdee0aa/5B5D8579/t51.2885-15/e35/26153978_362768410800524_5486799804149268480_n.jpg", 
+                    "authorid": "1387607353", 
+                    "location": {
+                        "slug": "graca", 
+                        "has_public_page": true, 
+                        "name": "Gra\u00e7a", 
+                        "id": "388022696"
+                    }, 
+                    "id": "1688298167302823941"
+                }, 
+                "caption": "Artist: Cap Phi @cap_phi\nLocation: Rua Josefa de Obidos, Lisbon 2017\n#capphi #capphigraffiti #capphigraff #capphiart #streetart #urbanart #graffiti #pasteup #pasteupart #wheatpaste #cutoutart #streetartlisbon #streetartlisboa #lisboastreetart #streetartportugal #portugalstreetart #streetartglobe #streetarteverywhere #total_urbanart #street_a_tag #street_a_tag", 
+                "authorid": "1387607353", 
+                "instagramcode": "BduCjz5ByAF", 
+                "post_date": "2018-01-09 07:54:06", 
+                "validated": true
             }
         }, 
         {
