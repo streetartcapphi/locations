@@ -1576,39 +1576,6 @@
                 "post_date": "2018-11-02 18:00:54", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818579442799091, 
-                    45.72661773564081
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/8bf79ba06e33d8b1b2cf86e584171bf2/5CAA2F3C/t51.2885-15/e35/43411535_301989987306841_4510046329171424901_n.jpg", 
-                "originally_localized": true, 
-                "author": "chachi.44", 
-                "instagramid": "1896444191437908365", 
-                "timestamp": 1540293786, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/d5f9e0740ddcc6d328f0f8cfc339efb8/5C96DF7F/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/43411535_301989987306841_4510046329171424901_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "chachi.44", 
-                    "timestamp": 1540293786, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/8bf79ba06e33d8b1b2cf86e584171bf2/5CAA2F3C/t51.2885-15/e35/43411535_301989987306841_4510046329171424901_n.jpg", 
-                    "authorid": "3694450611", 
-                    "location": null, 
-                    "id": "1896444191437908365"
-                }, 
-                "caption": "#capphi #streetart #urbanart #streetartlyon #onlylyon #streetartfrance #muralart #graffiti #graffitilyon #graffitiart  #instagraffiti #urbanwall #arturbain #collage #collageart", 
-                "authorid": "3694450611", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-10-23/1896444191437908365_3694450611.json", 
-                "instagramcode": "BpRhfG_AmmN", 
-                "post_date": "2018-10-23 13:23:06", 
-                "validated": false
-            }
         }
     ]
 }
