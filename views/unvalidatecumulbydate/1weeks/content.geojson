@@ -408,45 +408,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    4.8307475, 
-                    45.7719149
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c32f9940e17adc1b2f55564256feba15/5CCF0C58/t51.2885-15/e35/47582655_2166076016777273_2270053735094406107_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "xavipeti", 
-                "instagramid": "1942639643083947203", 
-                "timestamp": 1545800713, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/00468be0d45f783dfda6ec1276a76c68/5CB4A3E2/t51.2885-15/sh0.08/e35/s640x640/47582655_2166076016777273_2270053735094406107_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "xavipeti", 
-                    "timestamp": 1545800713, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/c32f9940e17adc1b2f55564256feba15/5CCF0C58/t51.2885-15/e35/47582655_2166076016777273_2270053735094406107_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "8623537467", 
-                    "location": {
-                        "id": "235077454", 
-                        "slug": "pentes-de-la-croix-rousse", 
-                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"69001\", \"city_name\": \"Lyon, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}", 
-                        "name": "Pentes de la Croix-Rousse", 
-                        "has_public_page": true
-                    }, 
-                    "id": "1942639643083947203"
-                }, 
-                "caption": "I'll eat you alive ! @cap_phi \nAnd merry christmas everyone !\n\nJe vais te d\u00e9vorer vivant ! \nEt un joyeux no\u00ebl \u00e0 tous !\n\n________________________________________________\n\n#lyon #igerslyon #igersfrance #igersparis #visualyon #mylyon #lyontofallinlove #croixrousse #instaart #artstagram #art #artcontemporain #contemporaryart #streetart #streetartlyon #streetartparis #streetartfrance #streetartist #streetarteverywhere #arturbain #urbanart #daemon #sensinterdit  #capphi #nightmare #eat #eatclean #picoftheday #urban #nofilter", 
-                "authorid": "8623537467", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-12-26/1942639643083947203_8623537467.json", 
-                "instagramcode": "Br1pHZ8nDzD", 
-                "post_date": "2018-12-26 06:05:13", 
-                "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     4.8186741, 
                     45.7266101
                 ]
