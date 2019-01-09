@@ -1953,39 +1953,6 @@
                 "post_date": "2018-08-27 08:29:38", 
                 "validated": false
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/25aa44bad0839753c28b222c693eed77/5CB93AFA/t51.2885-15/e35/34768991_2078303089159758_2066579765657075712_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "originally_localized": true, 
-                "author": "deb.debo.deborouf", 
-                "instagramid": "1806102329905300915", 
-                "timestamp": 1529524197, 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/2e57a95385f3940ccbb61574d5d229cb/5CD29062/t51.2885-15/sh0.08/e35/c0.135.1080.1080/s640x640/34768991_2078303089159758_2066579765657075712_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "deb.debo.deborouf", 
-                    "timestamp": 1529524197, 
-                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/25aa44bad0839753c28b222c693eed77/5CB93AFA/t51.2885-15/e35/34768991_2078303089159758_2066579765657075712_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                    "authorid": "7699290351", 
-                    "location": null, 
-                    "id": "1806102329905300915"
-                }, 
-                "caption": "Streetart#onlylyon#lyonmaville#capphi", 
-                "authorid": "7699290351", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2018-06-20/1806102329905300915_7699290351.json", 
-                "instagramcode": "BkQkH_6AsWz", 
-                "post_date": "2018-06-20 21:49:57", 
-                "validated": false
-            }
         }
     ]
 }
