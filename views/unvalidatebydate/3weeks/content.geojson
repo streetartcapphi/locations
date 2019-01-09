@@ -77,28 +77,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2018-12-12 14:56:44", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-12/1932788072049674794.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5f002278db38b46447e37633fbaeb4b8/5C131FDC/t51.2885-15/e15/47468570_2053620504724918_1737731598227552832_n.jpg", 
-                "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/5f002278db38b46447e37633fbaeb4b8/5C131FDC/t51.2885-15/e15/47468570_2053620504724918_1737731598227552832_n.jpg", 
-                "caption": "#wip #skate #skull #lyongerland #capphi #board", 
-                "validated": false, 
-                "id": "1932788072049674794"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2018-12-16 16:22:13", 
                 "originally_localized": false, 
                 "author": "cap_phi", 

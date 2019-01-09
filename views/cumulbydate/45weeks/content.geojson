@@ -1823,43 +1823,6 @@
                 "post_date": "2018-03-05 08:59:30", 
                 "validated": true
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.832643270492555, 
-                    45.77758072426925
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "originURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9a3c0525ddcdc725331037decb9acaeb/5B7430E8/t51.2885-15/e35/28152855_1806894766279283_7687796025943130112_n.jpg", 
-                "originally_localized": true, 
-                "author": "olivier_croixroussien", 
-                "instagramid": "1719665092724864357", 
-                "timestamp": 1519220075, 
-                "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/be2b78fbdee02bae36b518bc4a49b20f/5B75ABB6/t51.2885-15/s640x640/sh0.08/e35/c40.0.999.999/28152855_1806894766279283_7687796025943130112_n.jpg", 
-                "mustbepublished": true, 
-                "insta_infos": {
-                    "author": "olivier_croixroussien", 
-                    "timestamp": 1519220075, 
-                    "imageURL": "https://scontent-cdg2-1.cdninstagram.com/vp/9a3c0525ddcdc725331037decb9acaeb/5B7430E8/t51.2885-15/e35/28152855_1806894766279283_7687796025943130112_n.jpg", 
-                    "authorid": "6251084249", 
-                    "location": {
-                        "slug": "lyon-france", 
-                        "has_public_page": true, 
-                        "name": "Lyon, France", 
-                        "id": "213168722"
-                    }, 
-                    "id": "1719665092724864357"
-                }, 
-                "caption": "@cap_phi il est trop beau \ud83d\udc4d#lyon #lyon4 #lyon1 #lyongraffiti #lyongraff #mylyon #monlyon #streetartlyon #streetartlyonnais #capphi #monstregentil #collage #art #artiste #streetart #urbanart #streetartist #bombing #worldart #globalstreetart #frenchstreetart #graffart #street #urban #artderue #graffiticulture #streetphoto #frenchgraffiti #graffiti #rh\u00f4nealpesgraffiti", 
-                "authorid": "6251084249", 
-                "instagramcode": "BfdekpogTVl", 
-                "post_date": "2018-02-21 14:34:35", 
-                "validated": true
-            }
         }
     ]
 }
