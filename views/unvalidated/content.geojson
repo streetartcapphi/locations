@@ -1874,6 +1874,45 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    4.8287408, 
+                    45.7766432
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4ddbb7e70192da68ce4ee7eeba1422f5/5CBBB775/t51.2885-15/e35/47690199_2278400842442196_4280503834470256212_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "originally_localized": true, 
+                "author": "my_urbanitudes", 
+                "instagramid": "1953233722058707850", 
+                "timestamp": 1547063626, 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/b77e0fbdc939d468d17418c60559a144/5CD189CF/t51.2885-15/sh0.08/e35/s640x640/47690199_2278400842442196_4280503834470256212_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "insta_infos": {
+                    "author": "my_urbanitudes", 
+                    "timestamp": 1547063626, 
+                    "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4ddbb7e70192da68ce4ee7eeba1422f5/5CBBB775/t51.2885-15/e35/47690199_2278400842442196_4280503834470256212_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                    "authorid": "1218180784", 
+                    "location": {
+                        "id": "216569581", 
+                        "slug": "la-croix-rousse-rhone-alpes-france", 
+                        "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"La Croix Rousse, Rhone-Alpes, France\", \"region_name\": \"\", \"country_code\": \"FR\", \"exact_city_match\": true, \"exact_region_match\": false, \"exact_country_match\": false}", 
+                        "name": "La Croix Rousse, Rhone-Alpes, France", 
+                        "has_public_page": true
+                    }, 
+                    "id": "1953233722058707850"
+                }, 
+                "caption": "Amazigh, petite amazone berb\u00e8re\u2716\ufe0f by @cap_phi #capphi \u2716\ufe0f#drawing #painting #pasteup #collage #acrylique #lacroixroussienne #lyon #onlylyon #monlyon #igerslyon #igersfrance #France #streetartlyon #streetart #urbanart #totalurbanart #sprayart #graffitiart #be_one_urbanart #streetartaddiction #urbanexploration #artiseverywhere #dsb_graff  #jj_urbanart #aura_focus_on #france_focus_on #igers_opengallery #mesurbanitudes \ud83c\udf3b", 
+                "authorid": "1218180784", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/contrib/2019-01-09/1953233722058707850_1218180784.json", 
+                "instagramcode": "BsbR7i2n5OK", 
+                "post_date": "2019-01-09 20:53:46", 
+                "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     4.8307475, 
                     45.7719149
                 ]
