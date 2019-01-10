@@ -271,28 +271,6 @@
             }, 
             "type": "Feature", 
             "properties": {
-                "post_date": "2018-12-27 05:40:03", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-27/1943381953203821009.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7b4c58a0c123e2a186b8f7778b80a8b1/5CC9F6C7/t51.2885-15/e35/47236236_371875170242739_6223314213412853785_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7b4c58a0c123e2a186b8f7778b80a8b1/5CC9F6C7/t51.2885-15/e35/47236236_371875170242739_6223314213412853785_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "caption": "Oscar ta #board !!!! #skull #skate #customskateboard #custom #brokenboard by #capphi", 
-                "validated": false, 
-                "id": "1943381953203821009"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.8186741, 
-                    45.7266101
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
                 "post_date": "2018-12-29 05:29:18", 
                 "originally_localized": false, 
                 "author": "cap_phi", 
@@ -573,6 +551,28 @@
                 "instagramcode": "BsC3Y4MHGaV", 
                 "post_date": "2018-12-31 09:20:04", 
                 "validated": false
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    4.8186741, 
+                    45.7266101
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "post_date": "2018-12-27 05:40:03", 
+                "originally_localized": false, 
+                "author": "cap_phi", 
+                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-12-27/1943381953203821009.geojson", 
+                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7b4c58a0c123e2a186b8f7778b80a8b1/5CC9F6C7/t51.2885-15/e35/47236236_371875170242739_6223314213412853785_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "mustbepublished": true, 
+                "originURL": "https://scontent-cdt1-1.cdninstagram.com/vp/7b4c58a0c123e2a186b8f7778b80a8b1/5CC9F6C7/t51.2885-15/e35/47236236_371875170242739_6223314213412853785_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
+                "caption": "Oscar ta #board !!!! #skull #skate #customskateboard #custom #brokenboard by #capphi", 
+                "validated": false, 
+                "id": "1943381953203821009"
             }
         }, 
         {
@@ -1409,28 +1409,6 @@
                 "instagramcode": "BqR1Mw0H9lD", 
                 "post_date": "2018-11-17 11:46:45", 
                 "validated": false
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    4.818693101406098, 
-                    45.726578649198395
-                ]
-            }, 
-            "type": "Feature", 
-            "properties": {
-                "post_date": "2018-11-08 05:36:20", 
-                "originally_localized": false, 
-                "author": "cap_phi", 
-                "editURL": "http://geojson.io/#id=github:streetartcapphi/locations/blob/master/input/capphi/instagram/2018-11-08/1907866070297806258.geojson", 
-                "imageURL": "https://scontent-cdt1-1.cdninstagram.com/vp/4793a21f76a872932ad22a5bb09c3e66/5C9BB5DF/t51.2885-15/e35/44831918_2489224554451679_7756165826424423348_n.jpg?_nc_ht=scontent-cdt1-1.cdninstagram.com", 
-                "mustbepublished": true, 
-                "originURL": "", 
-                "caption": "#\u00e2mes de la #Porteuse d\u2019\u00e2mes #petite #amazone #by #urbanartiste #capphi", 
-                "validated": false, 
-                "id": "1907866070297806258"
             }
         }, 
         {
